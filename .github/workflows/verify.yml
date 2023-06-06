@@ -15,5 +15,4 @@ jobs:
           virtool ref repair -src src
           virtool ref isolate -src src
       - uses: stefanzweifel/git-auto-commit-action@v4
-        commit_message: "Automated corrections using virtool-cli's ref suite"
         branch: auto-doctor
