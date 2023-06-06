@@ -1,5 +1,5 @@
 name: verify
-
+on: workflow_dispatch
 jobs:
   doctor:
     runs-on: ubuntu-latest
