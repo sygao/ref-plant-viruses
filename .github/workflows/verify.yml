@@ -13,5 +13,4 @@ jobs:
           pip install virtool-cli
           virtool ref taxid -src src
           virtool ref repair -src src
-          virtool ref isolate -src src
       - uses: stefanzweifel/git-auto-commit-action@v4
