@@ -14,3 +14,7 @@ jobs:
           virtool ref taxid -src src
           virtool ref repair -src src
       - uses: stefanzweifel/git-auto-commit-action@v4
+        name: Commit to branch
+        with:
+          commit_message: Automated virtool-cli checks on the database
+          branch: autochecked
