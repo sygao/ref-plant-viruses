@@ -2,7 +2,7 @@ name: Add OTU
 description: File a bug report
 title: "[addition]: "
 labels: ["edit", "addition"]
-# projects: ["octo-org/1", "octo-org/44"]
+projects: #["octo-org/1", "octo-org/44"]
 assignees:
   # - octocat
 body:
