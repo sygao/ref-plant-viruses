@@ -1,5 +1,5 @@
 name: Add OTU
-description: File a bug report
+description: Suggest a new species for the database
 title: "[addition]: "
 labels: ["edit", "addition"]
 body:
