@@ -1,0 +1,52 @@
+name: Add OTU
+description: File a bug report
+title: "[addition]: "
+labels: ["edit", "addition"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  # - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please refer to the Virtool documentation first, thank you.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: input
+    id: name
+    attributes:
+      label: Proposed OTU name
+      description: What
+      placeholder: ex. 'Abaca bunchy top virus'
+    validations:
+      required: true
+  - type: input
+    id: taxid
+    attributes:
+      label: NCBI taxon ID
+      description: What numbered ID does this OTU go under in the NCBI Taxonomy database?
+      placeholder: ex. '438782, '
+    validations:
+      required: false
+  - type: input
+    id: accessions
+    attributes:
+      label: Accessions
+      description: What accessions should be included from the outset?
+      placeholder: ex. 'NC_010318.1, NC_010319.1'
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

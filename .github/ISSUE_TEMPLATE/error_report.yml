@@ -1,0 +1,52 @@
+name: Error Report
+description: File an erroneous data report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  # - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this error report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: input
+    id: file-path
+    attributes:
+      label: Bad File
+      description: Where is the file?
+      placeholder: src/[..]
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Nature of Error
+      description: What's the error?
+      placeholder: Tell us what you see!
+      value: "We have an error in the database!"
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Suggested Replacement
+      description: Please provide us with a suggested correction.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
