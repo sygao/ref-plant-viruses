@@ -1,0 +1,21 @@
+{
+  "_id": "702e0a09",
+  "accessions": {
+    "excluded": [
+      "DQ641701"
+    ],
+    "included": [
+      "NC_009550.1"
+    ]
+  },
+  "name": "Lindernia anagallis yellow vein virus",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 300411
+}

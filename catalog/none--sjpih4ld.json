@@ -1,0 +1,20 @@
+{
+  "_id": "sjpih4ld",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW080369.1",
+      "MW080370.1"
+    ]
+  },
+  "name": "Sporaea yellow leafspot virus",
+  "schema": [
+    {
+      "length": 8017,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

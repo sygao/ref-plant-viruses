@@ -1,0 +1,21 @@
+{
+  "_id": "7f92e2aa",
+  "accessions": {
+    "excluded": [
+      "AJ557804"
+    ],
+    "included": [
+      "NC_005287.1"
+    ]
+  },
+  "name": "Johnsongrass chlorotic stripe mosaic virus",
+  "schema": [
+    {
+      "length": 4421,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 229149
+}

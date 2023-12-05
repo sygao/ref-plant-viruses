@@ -1,0 +1,21 @@
+{
+  "_id": "b23e0404",
+  "accessions": {
+    "excluded": [
+      "FJ944023"
+    ],
+    "included": [
+      "NC_015487.1"
+    ]
+  },
+  "name": "Bean yellow mosaic Mexico virus",
+  "schema": [
+    {
+      "length": 2641,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 714310
+}

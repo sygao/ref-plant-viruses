@@ -1,0 +1,21 @@
+{
+  "_id": "3jrp5dak",
+  "accessions": {
+    "excluded": [
+      "FN675296"
+    ],
+    "included": [
+      "NC_038902.1"
+    ]
+  },
+  "name": "Tomato leaf curl Cameroon alphasatellite [CM:OMHD3:Ok:09]",
+  "schema": [
+    {
+      "length": 1398,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 743040
+}

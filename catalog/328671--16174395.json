@@ -1,0 +1,21 @@
+{
+  "_id": "16174395",
+  "accessions": {
+    "excluded": [
+      "AJ002234"
+    ],
+    "included": [
+      "NC_003381.1"
+    ]
+  },
+  "name": "Banana streak OL virus",
+  "schema": [
+    {
+      "length": 7389,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 328671
+}

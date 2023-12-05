@@ -1,0 +1,21 @@
+{
+  "_id": "0a817d24",
+  "accessions": {
+    "excluded": [
+      "FN658722"
+    ],
+    "included": [
+      "NC_013802.1"
+    ]
+  },
+  "name": "Cotton leaf curl Burewala betasatellite",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 713092
+}

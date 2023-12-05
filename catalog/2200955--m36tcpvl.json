@@ -1,0 +1,19 @@
+{
+  "_id": "m36tcpvl",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG208123.1"
+    ]
+  },
+  "name": "Lettuce chorovirus 1",
+  "schema": [
+    {
+      "length": 8536,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2200955
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "17d059d9",
+  "accessions": {
+    "excluded": [
+      "AF023848"
+    ],
+    "included": [
+      "AF023848.1",
+      "KF977830.1",
+      "KU708532.1",
+      "LC260649.1",
+      "NC_002600.1"
+    ]
+  },
+  "name": "Peanut mottle virus",
+  "schema": [
+    {
+      "length": 9714,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 33763
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "067ee43c",
+  "accessions": {
+    "excluded": [
+      "FN675297"
+    ],
+    "included": [
+      "NC_014907.1"
+    ]
+  },
+  "name": "Malvastrum yellow mosaic Cameroon alphasatellite",
+  "schema": [
+    {
+      "length": 1416,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 741733
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "wp5jyd07",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW365402.1"
+    ]
+  },
+  "name": "Citrus associated ampelovirus 2",
+  "schema": [
+    {
+      "length": 13488,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2813547
+}

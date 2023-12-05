@@ -1,0 +1,29 @@
+{
+  "_id": "0a3d5ee1",
+  "accessions": {
+    "excluded": [
+      "AY776334",
+      "AY776335"
+    ],
+    "included": [
+      "NC_006962.1",
+      "NC_006963.1"
+    ]
+  },
+  "name": "Blackberry yellow vein-associated virus",
+  "schema": [
+    {
+      "length": 7800,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 7916,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 404196
+}

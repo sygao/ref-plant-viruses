@@ -1,0 +1,21 @@
+{
+  "_id": "86a8a659",
+  "accessions": {
+    "excluded": [
+      "AM745758"
+    ],
+    "included": [
+      "NC_010832.1"
+    ]
+  },
+  "name": "Lettuce virus X",
+  "schema": [
+    {
+      "length": 7212,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 447171
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "723fa4b6",
+  "accessions": {
+    "excluded": [
+      "EU043335"
+    ],
+    "included": [
+      "NC_011803.1"
+    ]
+  },
+  "name": "Cactus mild mottle virus",
+  "schema": [
+    {
+      "length": 6449,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 229030
+}

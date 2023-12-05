@@ -1,0 +1,29 @@
+{
+  "_id": "e08018c7",
+  "accessions": {
+    "excluded": [
+      "FJ213931",
+      "HQ896204"
+    ],
+    "included": [
+      "NC_015627.1",
+      "NC_015628.1"
+    ]
+  },
+  "name": "Tobacco yellow crinkle virus",
+  "schema": [
+    {
+      "length": 2601,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2553,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 565052
+}

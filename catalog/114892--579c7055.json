@@ -1,0 +1,19 @@
+{
+  "_id": "579c7055",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF228516.1"
+    ]
+  },
+  "name": "Hibbertia virus Y",
+  "schema": [
+    {
+      "length": 1707,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 114892
+}

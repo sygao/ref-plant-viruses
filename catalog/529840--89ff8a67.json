@@ -1,0 +1,21 @@
+{
+  "_id": "89ff8a67",
+  "accessions": {
+    "excluded": [
+      "EU547491"
+    ],
+    "included": [
+      "NC_011362.1"
+    ]
+  },
+  "name": "Mulberry small circular viroid-like RNA 1",
+  "schema": [
+    {
+      "length": 356,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 529840
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "48ac2443",
+  "accessions": {
+    "excluded": [
+      "AB541985"
+    ],
+    "included": [
+      "MW080946.1",
+      "NC_014327.1"
+    ]
+  },
+  "name": "Pepper yellow mosaic virus",
+  "schema": [
+    {
+      "length": 9745,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 160358
+}

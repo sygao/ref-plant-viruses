@@ -1,0 +1,19 @@
+{
+  "_id": "ecd570b7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KF584011.1"
+    ]
+  },
+  "name": "Tomato leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1368,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1407057
+}

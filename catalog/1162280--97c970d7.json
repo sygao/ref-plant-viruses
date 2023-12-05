@@ -1,0 +1,29 @@
+{
+  "_id": "97c970d7",
+  "accessions": {
+    "excluded": [
+      "JN381819",
+      "JN381820"
+    ],
+    "included": [
+      "NC_020257.1",
+      "NC_020258.1"
+    ]
+  },
+  "name": "Tomato rugose yellow leaf curl virus",
+  "schema": [
+    {
+      "length": 2685,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2650,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1162280
+}

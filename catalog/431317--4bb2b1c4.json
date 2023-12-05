@@ -1,0 +1,33 @@
+{
+  "_id": "4bb2b1c4",
+  "accessions": {
+    "excluded": [
+      "FJ263671"
+    ],
+    "included": [
+      "FJ669487.1",
+      "MK318273.1",
+      "MK318274.1",
+      "MT762125.1",
+      "MW990194.1",
+      "MW990195.1",
+      "MW990196.1",
+      "MW990197.1",
+      "MW990198.1",
+      "MW990199.1",
+      "MW990200.1",
+      "MW990201.1",
+      "NC_012799.1"
+    ]
+  },
+  "name": "Triticum mosaic virus",
+  "schema": [
+    {
+      "length": 10138,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 431317
+}

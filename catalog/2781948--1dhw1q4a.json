@@ -1,0 +1,19 @@
+{
+  "_id": "1dhw1q4a",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT261366.1"
+    ]
+  },
+  "name": "Chestnut mosaic virus",
+  "schema": [
+    {
+      "length": 7161,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2781948
+}

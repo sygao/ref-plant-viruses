@@ -1,0 +1,29 @@
+{
+  "_id": "ab7b42d3",
+  "accessions": {
+    "excluded": [
+      "AY044135",
+      "AY044136"
+    ],
+    "included": [
+      "NC_004099.1",
+      "NC_004100.1"
+    ]
+  },
+  "name": "Macroptilium yellow mosaic Florida virus",
+  "schema": [
+    {
+      "length": 2642,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2605,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223284
+}

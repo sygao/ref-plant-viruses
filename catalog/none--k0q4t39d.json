@@ -1,0 +1,21 @@
+{
+  "_id": "k0q4t39d",
+  "accessions": {
+    "excluded": [
+      "DQ318937"
+    ],
+    "included": [
+      "NC_008304.1"
+    ]
+  },
+  "name": "Euphorbia mosaic virus - A [Mexico:Yucatan:2004]",
+  "schema": [
+    {
+      "length": 2613,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

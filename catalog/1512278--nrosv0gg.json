@@ -1,0 +1,21 @@
+{
+  "_id": "nrosv0gg",
+  "accessions": {
+    "excluded": [
+      "MH384837"
+    ],
+    "included": [
+      "NC_055236.1"
+    ]
+  },
+  "name": "Aglaonema bacilliform virus",
+  "schema": [
+    {
+      "length": 7178,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1512278
+}

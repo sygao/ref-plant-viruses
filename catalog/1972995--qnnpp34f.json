@@ -1,0 +1,21 @@
+{
+  "_id": "qnnpp34f",
+  "accessions": {
+    "excluded": [
+      "KY038943"
+    ],
+    "included": [
+      "NC_034265.1"
+    ]
+  },
+  "name": "Tobacco virus 2",
+  "schema": [
+    {
+      "length": 5979,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1972995
+}

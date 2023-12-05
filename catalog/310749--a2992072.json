@@ -1,0 +1,21 @@
+{
+  "_id": "a2992072",
+  "accessions": {
+    "excluded": [
+      "AJ000929"
+    ],
+    "included": [
+      "NC_007648.1"
+    ]
+  },
+  "name": "Vicia faba endornavirus",
+  "schema": [
+    {
+      "length": 17635,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 310749
+}

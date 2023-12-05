@@ -1,0 +1,21 @@
+{
+  "_id": "td8vrp69",
+  "accessions": {
+    "excluded": [
+      "FJ685621"
+    ],
+    "included": [
+      "NC_012206.1"
+    ]
+  },
+  "name": "Tomato leaf curl Nigeria virus-[Nigeria:2006]",
+  "schema": [
+    {
+      "length": 2784,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1513530
+}

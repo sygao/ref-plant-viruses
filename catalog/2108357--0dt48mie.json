@@ -1,0 +1,19 @@
+{
+  "_id": "0dt48mie",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC373513.1"
+    ]
+  },
+  "name": "Cherry virus B",
+  "schema": [
+    {
+      "length": 8806,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2108357
+}

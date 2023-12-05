@@ -1,0 +1,19 @@
+{
+  "_id": "9d77e98f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "HQ840786.1"
+    ]
+  },
+  "name": "Eggplant mild leaf mottle virus",
+  "schema": [
+    {
+      "length": 9280,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 981403
+}

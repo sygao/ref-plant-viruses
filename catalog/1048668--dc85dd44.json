@@ -1,0 +1,21 @@
+{
+  "_id": "dc85dd44",
+  "accessions": {
+    "excluded": [
+      "FR877532"
+    ],
+    "included": [
+      "NC_018082.1"
+    ]
+  },
+  "name": "Cotton leaf curl Multan alphasatellite",
+  "schema": [
+    {
+      "length": 1376,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1048668
+}

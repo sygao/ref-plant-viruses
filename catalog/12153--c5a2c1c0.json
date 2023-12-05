@@ -1,0 +1,21 @@
+{
+  "_id": "c5a2c1c0",
+  "accessions": {
+    "excluded": [
+      "J04375"
+    ],
+    "included": [
+      "NC_001513.1"
+    ]
+  },
+  "name": "Ononis yellow mosaic virus",
+  "schema": [
+    {
+      "length": 6211,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12153
+}

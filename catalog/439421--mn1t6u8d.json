@@ -1,0 +1,21 @@
+{
+  "_id": "mn1t6u8d",
+  "accessions": {
+    "excluded": [
+      "AM701764"
+    ],
+    "included": [
+      "NC_038899.1"
+    ]
+  },
+  "name": "Tomato leaf curl Namakely virus",
+  "schema": [
+    {
+      "length": 2769,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 439421
+}

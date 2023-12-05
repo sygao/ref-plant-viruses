@@ -1,0 +1,21 @@
+{
+  "_id": "260d704f",
+  "accessions": {
+    "excluded": [
+      "JX972141"
+    ],
+    "included": [
+      "NC_021202.1"
+    ]
+  },
+  "name": "Ageratum Yellow vein China virus - OX1",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1329380
+}

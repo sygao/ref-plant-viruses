@@ -1,0 +1,21 @@
+{
+  "_id": "e7de5b86",
+  "accessions": {
+    "excluded": [
+      "M17182"
+    ],
+    "included": [
+      "NC_003847.1"
+    ]
+  },
+  "name": "Panicum mosaic satellite virus",
+  "schema": [
+    {
+      "length": 826,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 154834
+}

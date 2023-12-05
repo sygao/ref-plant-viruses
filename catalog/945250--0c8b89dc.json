@@ -1,0 +1,21 @@
+{
+  "_id": "0c8b89dc",
+  "accessions": {
+    "excluded": [
+      "HQ631431"
+    ],
+    "included": [
+      "NC_015631.1"
+    ]
+  },
+  "name": "Verbesina encelioides leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1395,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 945250
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "izyxupso",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG596238.1",
+      "MG596239.1",
+      "MG596240.1",
+      "MG596241.1"
+    ]
+  },
+  "name": "Red clover carlavirus 1",
+  "schema": [
+    {
+      "length": 8436,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2301726
+}

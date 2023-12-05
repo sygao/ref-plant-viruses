@@ -1,0 +1,21 @@
+{
+  "_id": "ap0a0azk",
+  "accessions": {
+    "excluded": [
+      "KY366322"
+    ],
+    "included": [
+      "NC_055505.1"
+    ]
+  },
+  "name": "Yerba mate chlorosis-associated virus",
+  "schema": [
+    {
+      "length": 12595,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2487100
+}

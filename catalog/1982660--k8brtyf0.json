@@ -1,0 +1,21 @@
+{
+  "_id": "k8brtyf0",
+  "accessions": {
+    "excluded": [
+      "KY491536"
+    ],
+    "included": [
+      "NC_039002.1"
+    ]
+  },
+  "name": "Bellflower veinal mottle virus",
+  "schema": [
+    {
+      "length": 8259,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1982660
+}

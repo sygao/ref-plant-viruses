@@ -1,0 +1,26 @@
+{
+  "_id": "ff09c3a3",
+  "accessions": {
+    "excluded": [
+      "AF402620"
+    ],
+    "included": [
+      "FM242699.1",
+      "FM242700.1",
+      "FN256356.1",
+      "FN597051.1",
+      "KM067277.1",
+      "NC_004366.1"
+    ]
+  },
+  "name": "Tobacco bushy top virus",
+  "schema": [
+    {
+      "length": 4152,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 184020
+}

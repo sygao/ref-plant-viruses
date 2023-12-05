@@ -1,0 +1,21 @@
+{
+  "_id": "59z1gm1b",
+  "accessions": {
+    "excluded": [
+      "KY695011"
+    ],
+    "included": [
+      "NC_035070.1"
+    ]
+  },
+  "name": "Spinach amalgavirus 1",
+  "schema": [
+    {
+      "length": 3420,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985164
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "d16fafc9",
+  "accessions": {
+    "excluded": [
+      "EF585290",
+      "EF585291"
+    ],
+    "included": [
+      "NC_010647.1",
+      "NC_010648.1"
+    ]
+  },
+  "name": "Macroptilium yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2630,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2593,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 169865
+}

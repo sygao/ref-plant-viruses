@@ -1,0 +1,21 @@
+{
+  "_id": "e2xpkmgy",
+  "accessions": {
+    "excluded": [
+      "LC171345"
+    ],
+    "included": [
+      "NC_040794.1"
+    ]
+  },
+  "name": "Adonis mosaic virus",
+  "schema": [
+    {
+      "length": 3991,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1883104
+}

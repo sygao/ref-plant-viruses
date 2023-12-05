@@ -1,0 +1,21 @@
+{
+  "_id": "02aff711",
+  "accessions": {
+    "excluded": [
+      "EU527979"
+    ],
+    "included": [
+      "NC_010538.1"
+    ]
+  },
+  "name": "Hop mosaic virus",
+  "schema": [
+    {
+      "length": 8550,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 142843
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "7i6wk1in",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN520742.1",
+      "MN520743.1",
+      "MN520744.1"
+    ]
+  },
+  "name": "Grapevine associated ilarvirus",
+  "schema": [
+    {
+      "length": 3447,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2834,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2230,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2716180
+}

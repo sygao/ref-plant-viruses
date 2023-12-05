@@ -1,0 +1,19 @@
+{
+  "_id": "0174083f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ549960.1"
+    ]
+  },
+  "name": "Dicliptera yellow mottle Cuba virus",
+  "schema": [
+    {
+      "length": 2608,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 94700
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "53a851f3",
+  "accessions": {
+    "excluded": [
+      "J02057",
+      "J02058"
+    ],
+    "included": [
+      "FN668378.1",
+      "FN668379.1",
+      "NC_001467.1",
+      "NC_001468.1"
+    ]
+  },
+  "name": "African cassava mosaic virus",
+  "schema": [
+    {
+      "length": 2779,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2724,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10817
+}

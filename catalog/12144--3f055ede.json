@@ -1,0 +1,21 @@
+{
+  "_id": "3f055ede",
+  "accessions": {
+    "excluded": [
+      "X15511"
+    ],
+    "included": [
+      "NC_003532.1"
+    ]
+  },
+  "name": "Cymbidium ringspot virus",
+  "schema": [
+    {
+      "length": 4733,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12144
+}

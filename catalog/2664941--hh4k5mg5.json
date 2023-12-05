@@ -1,0 +1,21 @@
+{
+  "_id": "hh4k5mg5",
+  "accessions": {
+    "excluded": [
+      "MN313669"
+    ],
+    "included": [
+      "NC_055593.1"
+    ]
+  },
+  "name": "Ocimum mosaic virus",
+  "schema": [
+    {
+      "length": 2794,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2664941
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "904d02b1",
+  "accessions": {
+    "excluded": [
+      "AB194806",
+      "AB194807",
+      "AB194808"
+    ],
+    "included": [
+      "NC_006999.1",
+      "NC_007000.1",
+      "NC_007001.1"
+    ]
+  },
+  "name": "Cassia yellow blotch virus",
+  "schema": [
+    {
+      "length": 3176,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2721,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2091,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 300879
+}

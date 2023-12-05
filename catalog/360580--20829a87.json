@@ -1,0 +1,21 @@
+{
+  "_id": "20829a87",
+  "accessions": {
+    "excluded": [
+      "DQ298137"
+    ],
+    "included": [
+      "NC_009903.1"
+    ]
+  },
+  "name": "Mesta yellow vein mosaic virus-associated DNA beta",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 360580
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "52acjh72",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW328735.1"
+    ]
+  },
+  "name": "Rhododendron betaflexivirus 1",
+  "schema": [
+    {
+      "length": 7763,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794406
+}

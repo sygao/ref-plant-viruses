@@ -1,0 +1,22 @@
+{
+  "_id": "xob0zs9q",
+  "accessions": {
+    "excluded": [
+      "KX159470"
+    ],
+    "included": [
+      "KY686298.1",
+      "NC_031800.1"
+    ]
+  },
+  "name": "Cherry associated luteovirus",
+  "schema": [
+    {
+      "length": 5836,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1912598
+}

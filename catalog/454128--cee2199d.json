@@ -1,0 +1,21 @@
+{
+  "_id": "cee2199d",
+  "accessions": {
+    "excluded": [
+      "EU024121"
+    ],
+    "included": [
+      "NC_009731.1"
+    ]
+  },
+  "name": "Okra leaf curl Mali virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 454128
+}

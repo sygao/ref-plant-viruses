@@ -1,0 +1,29 @@
+{
+  "_id": "96d5ca0f",
+  "accessions": {
+    "excluded": [
+      "AB244417",
+      "AB244418"
+    ],
+    "included": [
+      "NC_009608.1",
+      "NC_009609.1"
+    ]
+  },
+  "name": "Orchid fleck virus",
+  "schema": [
+    {
+      "length": 6413,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6001,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 152177
+}

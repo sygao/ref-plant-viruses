@@ -1,0 +1,21 @@
+{
+  "_id": "qrgxzbb3",
+  "accessions": {
+    "excluded": [
+      "KC769819"
+    ],
+    "included": [
+      "NC_043517.1"
+    ]
+  },
+  "name": "Pepper leafroll virus",
+  "schema": [
+    {
+      "length": 2568,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1387160
+}

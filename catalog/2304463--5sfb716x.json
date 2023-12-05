@@ -1,0 +1,19 @@
+{
+  "_id": "5sfb716x",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH784952.1"
+    ]
+  },
+  "name": "Naranjilla mild mosaic virus",
+  "schema": [
+    {
+      "length": 6348,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2304463
+}

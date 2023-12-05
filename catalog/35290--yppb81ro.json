@@ -1,0 +1,21 @@
+{
+  "_id": "yppb81ro",
+  "accessions": {
+    "excluded": [
+      "U51931"
+    ],
+    "included": [
+      "NC_043106.1"
+    ]
+  },
+  "name": "Beet yellow stunt virus",
+  "schema": [
+    {
+      "length": 10545,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35290
+}

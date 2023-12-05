@@ -1,0 +1,21 @@
+{
+  "_id": "e44e6wdd",
+  "accessions": {
+    "excluded": [
+      "AY502936"
+    ],
+    "included": [
+      "NC_005348.1"
+    ]
+  },
+  "name": "Tomato leaf curl Mali virus",
+  "schema": [
+    {
+      "length": 2773,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 260379
+}

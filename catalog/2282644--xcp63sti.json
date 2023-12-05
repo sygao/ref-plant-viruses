@@ -1,0 +1,21 @@
+{
+  "_id": "xcp63sti",
+  "accessions": {
+    "excluded": [
+      "MH425572"
+    ],
+    "included": [
+      "NC_040721.1"
+    ]
+  },
+  "name": "Lolium perenne-associated virus",
+  "schema": [
+    {
+      "length": 2293,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2282644
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "mv0o02rn",
+  "accessions": {
+    "excluded": [
+      "KT390361"
+    ],
+    "included": [
+      "NC_028128.1"
+    ]
+  },
+  "name": "Malachra yellow vein mosaic betasatellite",
+  "schema": [
+    {
+      "length": 1353,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1705091
+}

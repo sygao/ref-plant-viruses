@@ -1,0 +1,21 @@
+{
+  "_id": "eccdd3o5",
+  "accessions": {
+    "excluded": [
+      "MK940528"
+    ],
+    "included": [
+      "NC_055579.1"
+    ]
+  },
+  "name": "Chickpea redleaf virus 2",
+  "schema": [
+    {
+      "length": 2588,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2588671
+}

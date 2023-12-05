@@ -1,0 +1,21 @@
+{
+  "_id": "m6tmhnat",
+  "accessions": {
+    "excluded": [
+      "KY605046"
+    ],
+    "included": [
+      "NC_040790.1"
+    ]
+  },
+  "name": "Sugar beet cyst nematode virus 1",
+  "schema": [
+    {
+      "length": 9503,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1965225
+}

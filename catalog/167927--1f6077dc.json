@@ -1,0 +1,21 @@
+{
+  "_id": "1f6077dc",
+  "accessions": {
+    "excluded": [
+      "AF315308"
+    ],
+    "included": [
+      "NC_003870.1"
+    ]
+  },
+  "name": "Sugarcane striate mosaic-associated virus",
+  "schema": [
+    {
+      "length": 8146,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167927
+}

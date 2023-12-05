@@ -1,0 +1,21 @@
+{
+  "_id": "ovg2qo4p",
+  "accessions": {
+    "excluded": [
+      "MF198462"
+    ],
+    "included": [
+      "NC_055482.1"
+    ]
+  },
+  "name": "Pistachio ampelovirus A",
+  "schema": [
+    {
+      "length": 17357,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2093224
+}

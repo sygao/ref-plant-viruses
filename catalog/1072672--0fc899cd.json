@@ -1,0 +1,22 @@
+{
+  "_id": "0fc899cd",
+  "accessions": {
+    "excluded": [
+      "JF905486"
+    ],
+    "included": [
+      "JQ948065.1",
+      "NC_018530.1"
+    ]
+  },
+  "name": "Paspalum striate mosaic virus",
+  "schema": [
+    {
+      "length": 2817,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1072672
+}

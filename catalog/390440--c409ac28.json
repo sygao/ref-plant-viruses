@@ -1,0 +1,21 @@
+{
+  "_id": "c409ac28",
+  "accessions": {
+    "excluded": [
+      "DQ641695"
+    ],
+    "included": [
+      "NC_009546.1"
+    ]
+  },
+  "name": "Mimosa yellow leaf curl virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 390440
+}

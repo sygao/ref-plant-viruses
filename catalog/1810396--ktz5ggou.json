@@ -1,0 +1,29 @@
+{
+  "_id": "ktz5ggou",
+  "accessions": {
+    "excluded": [
+      "KU052530",
+      "KU052531"
+    ],
+    "included": [
+      "NC_035215.1",
+      "NC_035221.1"
+    ]
+  },
+  "name": "Squash chlorotic leaf spot virus",
+  "schema": [
+    {
+      "length": 7045,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4730,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1810396
+}

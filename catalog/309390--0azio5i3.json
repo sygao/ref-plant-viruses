@@ -1,0 +1,21 @@
+{
+  "_id": "0azio5i3",
+  "accessions": {
+    "excluded": [
+      "AJ875159"
+    ],
+    "included": [
+      "NC_007723.1"
+    ]
+  },
+  "name": "Tomato leaf curl Joydebpur virus",
+  "schema": [
+    {
+      "length": 2761,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 309390
+}

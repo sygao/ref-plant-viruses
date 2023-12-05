@@ -1,0 +1,21 @@
+{
+  "_id": "ab0b3700",
+  "accessions": {
+    "excluded": [
+      "EU754720"
+    ],
+    "included": [
+      "NC_012869.1"
+    ]
+  },
+  "name": "Hydrangea chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 8433,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 375546
+}

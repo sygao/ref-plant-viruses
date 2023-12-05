@@ -1,0 +1,21 @@
+{
+  "_id": "hbd5py8h",
+  "accessions": {
+    "excluded": [
+      "LN811051"
+    ],
+    "included": [
+      "NC_034250.1"
+    ]
+  },
+  "name": "Tomato leaf curl Pakistan betasatellite",
+  "schema": [
+    {
+      "length": 1374,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1609290
+}

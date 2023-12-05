@@ -1,0 +1,29 @@
+{
+  "_id": "azlylbod",
+  "accessions": {
+    "excluded": [
+      "AM884015",
+      "AM992534"
+    ],
+    "included": [
+      "NC_010839.1",
+      "NC_010840.1"
+    ]
+  },
+  "name": "Tomato leaf curl Palampur virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2725,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 526476
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "59982f86",
+  "accessions": {
+    "excluded": [
+      "JF694484",
+      "JF694485"
+    ],
+    "included": [
+      "NC_016575.1",
+      "NC_016576.1"
+    ]
+  },
+  "name": "West African Asystasia virus 1",
+  "schema": [
+    {
+      "length": 2727,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2661,
+      "molecule": "dsDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1046573
+}

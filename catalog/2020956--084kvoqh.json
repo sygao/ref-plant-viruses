@@ -1,0 +1,21 @@
+{
+  "_id": "084kvoqh",
+  "accessions": {
+    "excluded": [
+      "KX852476"
+    ],
+    "included": [
+      "NC_035472.1"
+    ]
+  },
+  "name": "Jujube mosaic-associated virus",
+  "schema": [
+    {
+      "length": 7194,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2020956
+}

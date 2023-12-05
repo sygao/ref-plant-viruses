@@ -1,0 +1,21 @@
+{
+  "_id": "e6f0c295",
+  "accessions": {
+    "excluded": [
+      "DQ641711"
+    ],
+    "included": [
+      "NC_009557.1"
+    ]
+  },
+  "name": "Sida leaf curl virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1367,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 447601
+}

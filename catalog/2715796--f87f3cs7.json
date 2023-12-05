@@ -1,0 +1,19 @@
+{
+  "_id": "f87f3cs7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN180071.1"
+    ]
+  },
+  "name": "Actinidia yellowing virus 2",
+  "schema": [
+    {
+      "length": 3936,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2715796
+}

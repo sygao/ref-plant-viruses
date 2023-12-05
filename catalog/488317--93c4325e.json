@@ -1,0 +1,21 @@
+{
+  "_id": "93c4325e",
+  "accessions": {
+    "excluded": [
+      "KJ082087"
+    ],
+    "included": [
+      "NC_025389.1"
+    ]
+  },
+  "name": "Eggplant mottled dwarf virus",
+  "schema": [
+    {
+      "length": 13100,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 488317
+}

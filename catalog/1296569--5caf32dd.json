@@ -1,0 +1,21 @@
+{
+  "_id": "5caf32dd",
+  "accessions": {
+    "excluded": [
+      "JX508290"
+    ],
+    "included": [
+      "NC_020471.1"
+    ]
+  },
+  "name": "Andean potato mild mosaic virus",
+  "schema": [
+    {
+      "length": 6226,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1296569
+}

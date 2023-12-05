@@ -1,0 +1,21 @@
+{
+  "_id": "da71ab14",
+  "accessions": {
+    "excluded": [
+      "AM182569"
+    ],
+    "included": [
+      "NC_008552.1"
+    ]
+  },
+  "name": "Narcissus symptomless virus",
+  "schema": [
+    {
+      "length": 8281,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 367682
+}

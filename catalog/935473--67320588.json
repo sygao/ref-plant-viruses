@@ -1,0 +1,29 @@
+{
+  "_id": "67320588",
+  "accessions": {
+    "excluded": [
+      "HM777508",
+      "HM777510"
+    ],
+    "included": [
+      "NC_014902.1",
+      "NC_014903.1"
+    ]
+  },
+  "name": "Rhynchosia yellow mosaic India virus",
+  "schema": [
+    {
+      "length": 2727,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2679,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 935473
+}

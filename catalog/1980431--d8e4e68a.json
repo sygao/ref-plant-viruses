@@ -1,0 +1,75 @@
+{
+  "_id": "d8e4e68a",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FR823299.1",
+      "FR823300.1",
+      "FR823301.1",
+      "FR823302.1",
+      "FR823303.1",
+      "KP970121.1",
+      "KP970122.1",
+      "KP970123.1",
+      "KP970124.1"
+    ]
+  },
+  "name": "Raspberry leaf blotch virus",
+  "schema": [
+    {
+      "length": 7062,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2135,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1365,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1675,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1718,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1095,
+      "molecule": "ssRNA-",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1089,
+      "molecule": "ssRNA-",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1273,
+      "molecule": "ssRNA-",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1235,
+      "molecule": "ssRNA-",
+      "name": "RNA 8b",
+      "required": true
+    }
+  ],
+  "taxid": 1980431
+}

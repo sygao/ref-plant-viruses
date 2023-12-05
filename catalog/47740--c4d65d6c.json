@@ -1,0 +1,21 @@
+{
+  "_id": "c4d65d6c",
+  "accessions": {
+    "excluded": [
+      "Z69910"
+    ],
+    "included": [
+      "NC_003603.1"
+    ]
+  },
+  "name": "Groundnut rosette virus",
+  "schema": [
+    {
+      "length": 4019,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 47740
+}

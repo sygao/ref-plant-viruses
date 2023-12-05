@@ -1,0 +1,21 @@
+{
+  "_id": "84cfeb35",
+  "accessions": {
+    "excluded": [
+      "J02439"
+    ],
+    "included": [
+      "NC_003906.1"
+    ]
+  },
+  "name": "Velvet tobacco mottle virus Satellite RNA",
+  "schema": [
+    {
+      "length": 366,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 196095
+}

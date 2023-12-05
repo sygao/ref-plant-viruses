@@ -1,0 +1,32 @@
+{
+  "_id": "d399556a",
+  "accessions": {
+    "excluded": [
+      "X97304"
+    ],
+    "included": [
+      "HE681085.1",
+      "KP311681.1",
+      "KR080547.1",
+      "KT250632.1",
+      "KX249735.1",
+      "KX249736.1",
+      "KX249737.1",
+      "KX249738.1",
+      "KX787430.1",
+      "KX950836.1",
+      "MH894295.1",
+      "NC_001725.1"
+    ]
+  },
+  "name": "Strawberry vein banding virus",
+  "schema": [
+    {
+      "length": 7860,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 47903
+}

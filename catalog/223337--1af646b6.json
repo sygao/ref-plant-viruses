@@ -1,0 +1,21 @@
+{
+  "_id": "1af646b6",
+  "accessions": {
+    "excluded": [
+      "AF350330"
+    ],
+    "included": [
+      "NC_002817.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Zimbabwe virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 223337
+}

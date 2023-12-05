@@ -1,0 +1,21 @@
+{
+  "_id": "d08n1fd1",
+  "accessions": {
+    "excluded": [
+      "KX013584"
+    ],
+    "included": [
+      "NC_030794.1"
+    ]
+  },
+  "name": "Callistephus mottle virus",
+  "schema": [
+    {
+      "length": 9859,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1886606
+}

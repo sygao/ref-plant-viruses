@@ -1,0 +1,39 @@
+{
+  "_id": "0sali9ks",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "HQ728385.1",
+      "HQ728386.1",
+      "HQ728387.1",
+      "MT548003.1",
+      "MT548004.1",
+      "MT548005.1",
+      "MT548006.1",
+      "MT548007.1",
+      "MT548008.1"
+    ]
+  },
+  "name": "Soybean vein necrosis virus",
+  "schema": [
+    {
+      "length": 9027,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4952,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 1890,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 980895
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "abx6qfnc",
+  "accessions": {
+    "excluded": [
+      "MN850490"
+    ],
+    "included": [
+      "NC_055604.1"
+    ]
+  },
+  "name": "Ivy ringspot-associated virus",
+  "schema": [
+    {
+      "length": 8885,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2731270
+}

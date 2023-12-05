@@ -1,0 +1,37 @@
+{
+  "_id": "dd1f494b",
+  "accessions": {
+    "excluded": [
+      "EU770620",
+      "EU770621",
+      "EU770622"
+    ],
+    "included": [
+      "NC_011065.1",
+      "NC_011066.1",
+      "NC_011067.1"
+    ]
+  },
+  "name": "Epirus cherry virus",
+  "schema": [
+    {
+      "length": 2769,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1028,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 960,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 544686
+}

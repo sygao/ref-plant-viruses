@@ -1,0 +1,29 @@
+{
+  "_id": "j2rfu9ar",
+  "accessions": {
+    "excluded": [
+      "KX656670",
+      "KX656671"
+    ],
+    "included": [
+      "NC_043447.1",
+      "NC_043448.1"
+    ]
+  },
+  "name": "Potato virus B",
+  "schema": [
+    {
+      "length": 7148,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4527,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2340870
+}

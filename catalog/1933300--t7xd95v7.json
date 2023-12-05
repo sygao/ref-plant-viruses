@@ -1,0 +1,33 @@
+{
+  "_id": "t7xd95v7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW051788.1",
+      "MW051789.1",
+      "MW051790.1"
+    ]
+  },
+  "name": "Watermelon silver mottle orthotospovirus",
+  "schema": [
+    {
+      "length": 8916,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4872,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3533,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 1933300
+}

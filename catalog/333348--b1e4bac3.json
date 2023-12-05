@@ -1,0 +1,21 @@
+{
+  "_id": "b1e4bac3",
+  "accessions": {
+    "excluded": [
+      "AB219105"
+    ],
+    "included": [
+      "NC_007679.1"
+    ]
+  },
+  "name": "Nerine virus X",
+  "schema": [
+    {
+      "length": 6582,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 333348
+}

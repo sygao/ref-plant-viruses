@@ -1,0 +1,19 @@
+{
+  "_id": "vuiznvj3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MZ054240.1"
+    ]
+  },
+  "name": "Blueberry virus T",
+  "schema": [
+    {
+      "length": 663,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2858412
+}

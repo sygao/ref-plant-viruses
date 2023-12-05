@@ -1,0 +1,27 @@
+{
+  "_id": "bcfee324",
+  "accessions": {
+    "excluded": [
+      "M81103"
+    ],
+    "included": [
+      "JN989440.1",
+      "JN989441.1",
+      "JN989444.1",
+      "JN989445.1",
+      "KC172702.1",
+      "LC654690.1",
+      "NC_003822.1"
+    ]
+  },
+  "name": "Tobacco yellow dwarf virus",
+  "schema": [
+    {
+      "length": 2580,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10830
+}

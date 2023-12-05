@@ -1,0 +1,21 @@
+{
+  "_id": "f24f262d",
+  "accessions": {
+    "excluded": [
+      "JQ807999"
+    ],
+    "included": [
+      "NC_019415.1"
+    ]
+  },
+  "name": "Blue squill virus A",
+  "schema": [
+    {
+      "length": 9842,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1072517
+}

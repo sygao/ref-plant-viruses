@@ -1,0 +1,26 @@
+{
+  "_id": "aze1hyyy",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN915109.1",
+      "MN915110.1"
+    ]
+  },
+  "name": "Jasmin virus A-1",
+  "schema": [
+    {
+      "length": 8237,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 8003,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2787825
+}

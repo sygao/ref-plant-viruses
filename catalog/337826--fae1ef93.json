@@ -1,0 +1,21 @@
+{
+  "_id": "fae1ef93",
+  "accessions": {
+    "excluded": [
+      "AJ965540"
+    ],
+    "included": [
+      "NC_007211.1"
+    ]
+  },
+  "name": "Alternanthera yellow vein virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 337826
+}

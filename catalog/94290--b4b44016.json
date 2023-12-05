@@ -1,0 +1,29 @@
+{
+  "_id": "b4b44016",
+  "accessions": {
+    "excluded": [
+      "AF157029"
+    ],
+    "included": [
+      "JF925152.1",
+      "JF925153.1",
+      "JF925154.1",
+      "JF925155.1",
+      "KF477092.1",
+      "KF477093.1",
+      "KY052165.1",
+      "KY052166.1",
+      "NC_000874.1"
+    ]
+  },
+  "name": "Sugarcane yellow leaf virus",
+  "schema": [
+    {
+      "length": 5880,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 94290
+}

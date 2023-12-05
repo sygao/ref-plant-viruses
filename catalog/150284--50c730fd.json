@@ -1,0 +1,21 @@
+{
+  "_id": "50c730fd",
+  "accessions": {
+    "excluded": [
+      "U89243"
+    ],
+    "included": [
+      "NC_001800.1"
+    ]
+  },
+  "name": "Garlic virus X",
+  "schema": [
+    {
+      "length": 8106,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 150284
+}

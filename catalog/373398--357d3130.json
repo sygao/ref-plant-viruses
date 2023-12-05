@@ -1,0 +1,21 @@
+{
+  "_id": "357d3130",
+  "accessions": {
+    "excluded": [
+      "DQ821938"
+    ],
+    "included": [
+      "NC_009741.1"
+    ]
+  },
+  "name": "Basella rugose mosaic virus",
+  "schema": [
+    {
+      "length": 9804,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 373398
+}

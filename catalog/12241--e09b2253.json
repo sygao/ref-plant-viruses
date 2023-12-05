@@ -1,0 +1,23 @@
+{
+  "_id": "e09b2253",
+  "accessions": {
+    "excluded": [
+      "M34077"
+    ],
+    "included": [
+      "MH730970.1",
+      "MK648158.1",
+      "NC_001556.1"
+    ]
+  },
+  "name": "Tobacco mild green mosaic virus",
+  "schema": [
+    {
+      "length": 6423,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12241
+}

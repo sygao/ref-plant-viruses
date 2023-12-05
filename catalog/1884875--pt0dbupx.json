@@ -1,0 +1,21 @@
+{
+  "_id": "pt0dbupx",
+  "accessions": {
+    "excluded": [
+      "KX156611"
+    ],
+    "included": [
+      "NC_055544.1"
+    ]
+  },
+  "name": "Verbena mottle virus",
+  "schema": [
+    {
+      "length": 2626,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1884875
+}

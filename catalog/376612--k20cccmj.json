@@ -1,0 +1,29 @@
+{
+  "_id": "k20cccmj",
+  "accessions": {
+    "excluded": [
+      "FJ600484",
+      "FJ601917"
+    ],
+    "included": [
+      "NC_038798.1",
+      "NC_038799.1"
+    ]
+  },
+  "name": "Malvastrum yellow mosaic Jamaica virus",
+  "schema": [
+    {
+      "length": 2612,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2580,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 376612
+}

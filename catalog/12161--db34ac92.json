@@ -1,0 +1,21 @@
+{
+  "_id": "db34ac92",
+  "accessions": {
+    "excluded": [
+      "X73476"
+    ],
+    "included": [
+      "NC_001598.1"
+    ]
+  },
+  "name": "Beet yellows virus",
+  "schema": [
+    {
+      "length": 15480,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12161
+}

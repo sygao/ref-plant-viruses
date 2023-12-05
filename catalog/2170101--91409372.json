@@ -1,0 +1,21 @@
+{
+  "_id": "91409372",
+  "accessions": {
+    "excluded": [
+      "KC921392"
+    ],
+    "included": [
+      "NC_021484.1"
+    ]
+  },
+  "name": "Maize yellow dwarf virus-RMV",
+  "schema": [
+    {
+      "length": 5612,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170101
+}

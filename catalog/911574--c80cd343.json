@@ -1,0 +1,21 @@
+{
+  "_id": "c80cd343",
+  "accessions": {
+    "excluded": [
+      "FR715681"
+    ],
+    "included": [
+      "NC_014647.1"
+    ]
+  },
+  "name": "Malvastrum yellow vein Changa Manga virus",
+  "schema": [
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 911574
+}

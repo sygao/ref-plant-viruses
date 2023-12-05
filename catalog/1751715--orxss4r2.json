@@ -1,0 +1,21 @@
+{
+  "_id": "orxss4r2",
+  "accessions": {
+    "excluded": [
+      "KT148886"
+    ],
+    "included": [
+      "NC_028462.1"
+    ]
+  },
+  "name": "Blueberry fruit drop associated virus",
+  "schema": [
+    {
+      "length": 9850,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1751715
+}

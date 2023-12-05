@@ -1,0 +1,37 @@
+{
+  "_id": "2031cb7f",
+  "accessions": {
+    "excluded": [
+      "M74904",
+      "X66972",
+      "X93218"
+    ],
+    "included": [
+      "NC_003616.1",
+      "NC_003624.1",
+      "NC_003625.1"
+    ]
+  },
+  "name": "Impatiens necrotic spot virus",
+  "schema": [
+    {
+      "length": 8776,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4972,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 2992,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 11612
+}

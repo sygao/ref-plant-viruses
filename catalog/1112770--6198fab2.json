@@ -1,0 +1,21 @@
+{
+  "_id": "6198fab2",
+  "accessions": {
+    "excluded": [
+      "JN427015"
+    ],
+    "included": [
+      "NC_016404.1"
+    ]
+  },
+  "name": "Actinidia virus B",
+  "schema": [
+    {
+      "length": 7488,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1112770
+}

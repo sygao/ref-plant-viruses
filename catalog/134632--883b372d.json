@@ -1,0 +1,40 @@
+{
+  "_id": "883b372d",
+  "accessions": {
+    "excluded": [
+      "AF235033",
+      "AF235165",
+      "AF235166"
+    ],
+    "included": [
+      "AF235033.1",
+      "AF235165.1",
+      "AF235166.1",
+      "NC_003451.1",
+      "NC_003452.1",
+      "NC_003453.1"
+    ]
+  },
+  "name": "American plum line pattern virus",
+  "schema": [
+    {
+      "length": 3373,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2404,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2053,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 134632
+}

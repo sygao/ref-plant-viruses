@@ -1,0 +1,23 @@
+{
+  "_id": "qefbunac",
+  "accessions": {
+    "excluded": [
+      "AB597230",
+      "JN019858"
+    ],
+    "included": [
+      "KT149366.1",
+      "NC_015781.1"
+    ]
+  },
+  "name": "Bell pepper endornavirus",
+  "schema": [
+    {
+      "length": 14727,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 354328
+}

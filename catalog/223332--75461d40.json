@@ -1,0 +1,21 @@
+{
+  "_id": "75461d40",
+  "accessions": {
+    "excluded": [
+      "AB028604"
+    ],
+    "included": [
+      "NC_004654.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Japan virus",
+  "schema": [
+    {
+      "length": 2761,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 223332
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "33lnmepn",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK460433.1"
+    ]
+  },
+  "name": "Blueberry green mosaic associated virus",
+  "schema": [
+    {
+      "length": 7477,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2605718
+}

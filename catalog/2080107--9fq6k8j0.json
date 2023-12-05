@@ -1,0 +1,21 @@
+{
+  "_id": "9fq6k8j0",
+  "accessions": {
+    "excluded": [
+      "AJ438937"
+    ],
+    "included": [
+      "NC_038879.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein virus-[SOJ3]",
+  "schema": [
+    {
+      "length": 2778,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

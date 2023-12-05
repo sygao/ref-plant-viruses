@@ -1,0 +1,21 @@
+{
+  "_id": "k1kd54vk",
+  "accessions": {
+    "excluded": [
+      "X14638"
+    ],
+    "included": [
+      "NC_003539.1"
+    ]
+  },
+  "name": "Citrus bark cracking viroid",
+  "schema": [
+    {
+      "length": 284,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12898
+}

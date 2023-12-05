@@ -1,0 +1,21 @@
+{
+  "_id": "d9b83307",
+  "accessions": {
+    "excluded": [
+      "KC626021"
+    ],
+    "included": [
+      "NC_021579.1"
+    ]
+  },
+  "name": "Tomato golden leaf spot virus",
+  "schema": [
+    {
+      "length": 2669,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1336597
+}

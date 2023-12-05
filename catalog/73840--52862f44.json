@@ -1,0 +1,19 @@
+{
+  "_id": "52862f44",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB011404.1"
+    ]
+  },
+  "name": "Calanthe mild mosaic virus",
+  "schema": [
+    {
+      "length": 1306,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 73840
+}

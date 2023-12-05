@@ -1,0 +1,19 @@
+{
+  "_id": "ckuuwe80",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KR736334.1"
+    ]
+  },
+  "name": "Grapevine hammerhead viroid-like RNA",
+  "schema": [
+    {
+      "length": 375,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 1738445
+}

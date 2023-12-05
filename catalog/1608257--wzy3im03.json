@@ -1,0 +1,21 @@
+{
+  "_id": "wzy3im03",
+  "accessions": {
+    "excluded": [
+      "KM926624"
+    ],
+    "included": [
+      "NC_038963.1"
+    ]
+  },
+  "name": "Tomato latent virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1608257
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "f30637ad",
+  "accessions": {
+    "excluded": [
+      "AM236763"
+    ],
+    "included": [
+      "NC_008561.1"
+    ]
+  },
+  "name": "Malvastrum yellow mosaic alphasatellite",
+  "schema": [
+    {
+      "length": 1373,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 377461
+}

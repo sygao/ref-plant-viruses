@@ -1,0 +1,26 @@
+{
+  "_id": "b09e265f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JQ429791.1",
+      "KC740618.1"
+    ]
+  },
+  "name": "Leonurus mosaic virus",
+  "schema": [
+    {
+      "length": 2652,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 487,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 58177
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "evh9xz90",
+  "accessions": {
+    "excluded": [
+      "HQ694978"
+    ],
+    "included": [
+      "NC_015328.1"
+    ]
+  },
+  "name": "Sweet potato collusive virus",
+  "schema": [
+    {
+      "length": 7723,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 930168
+}

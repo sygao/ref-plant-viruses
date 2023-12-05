@@ -1,0 +1,21 @@
+{
+  "_id": "qg73fuq1",
+  "accessions": {
+    "excluded": [
+      "EF488741"
+    ],
+    "included": [
+      "NC_043138.1"
+    ]
+  },
+  "name": "Angelica virus Y",
+  "schema": [
+    {
+      "length": 1850,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 436007
+}

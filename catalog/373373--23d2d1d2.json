@@ -1,0 +1,26 @@
+{
+  "_id": "23d2d1d2",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EU099844.1",
+      "EU099845.1"
+    ]
+  },
+  "name": "Rice stripe necrosis virus",
+  "schema": [
+    {
+      "length": 6634,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4657,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 373373
+}

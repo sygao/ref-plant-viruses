@@ -1,0 +1,21 @@
+{
+  "_id": "535a7392",
+  "accessions": {
+    "excluded": [
+      "HQ180392"
+    ],
+    "included": [
+      "NC_014597.1"
+    ]
+  },
+  "name": "Tobacco leaf curl PUSA alphasatellite",
+  "schema": [
+    {
+      "length": 1379,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 905055
+}

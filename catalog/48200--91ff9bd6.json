@@ -1,0 +1,19 @@
+{
+  "_id": "91ff9bd6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "DQ450199.1"
+    ]
+  },
+  "name": "Narcissus latent virus",
+  "schema": [
+    {
+      "length": 1815,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 48200
+}

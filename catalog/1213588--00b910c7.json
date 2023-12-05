@@ -1,0 +1,21 @@
+{
+  "_id": "00b910c7",
+  "accessions": {
+    "excluded": [
+      "JX028536"
+    ],
+    "included": [
+      "NC_020999.1"
+    ]
+  },
+  "name": "Rose yellow vein virus",
+  "schema": [
+    {
+      "length": 9314,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1213588
+}

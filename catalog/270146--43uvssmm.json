@@ -1,0 +1,21 @@
+{
+  "_id": "43uvssmm",
+  "accessions": {
+    "excluded": [
+      "AY044137"
+    ],
+    "included": [
+      "NC_005855.1"
+    ]
+  },
+  "name": "Tomato leaf curl Sudan virus",
+  "schema": [
+    {
+      "length": 2779,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 270146
+}

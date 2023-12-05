@@ -1,0 +1,21 @@
+{
+  "_id": "cbaf5837",
+  "accessions": {
+    "excluded": [
+      "DQ641715"
+    ],
+    "included": [
+      "NC_009561.1"
+    ]
+  },
+  "name": "Lindernia anagallis yellow vein virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 447605
+}

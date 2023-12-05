@@ -1,0 +1,25 @@
+{
+  "_id": "69489e98",
+  "accessions": {
+    "excluded": [
+      "AJ495814"
+    ],
+    "included": [
+      "AJ564742.1",
+      "AJ564743.2",
+      "AJ810156.1",
+      "AJ810157.1",
+      "NC_004091.1"
+    ]
+  },
+  "name": "Stachytarpheta leaf curl virus",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 202568
+}

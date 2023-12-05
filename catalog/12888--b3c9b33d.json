@@ -1,0 +1,19 @@
+{
+  "_id": "b3c9b33d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "TPM.1"
+    ]
+  },
+  "name": "Tomato planta macho viroid",
+  "schema": [
+    {
+      "length": 360,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12888
+}

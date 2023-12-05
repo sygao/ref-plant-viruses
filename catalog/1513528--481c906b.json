@@ -1,0 +1,20 @@
+{
+  "_id": "481c906b",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FJ969831.1",
+      "MW574051.1"
+    ]
+  },
+  "name": "Sweet potato mosaic virus",
+  "schema": [
+    {
+      "length": 2806,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1513528
+}

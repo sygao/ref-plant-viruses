@@ -1,0 +1,21 @@
+{
+  "_id": "6f976d95",
+  "accessions": {
+    "excluded": [
+      "JX025358"
+    ],
+    "included": [
+      "NC_019034.1"
+    ]
+  },
+  "name": "Jatropha mosaic Nigerian virus",
+  "schema": [
+    {
+      "length": 2781,
+      "molecule": "ssRNA+",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1213406
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "eb47737c",
+  "accessions": {
+    "excluded": [
+      "M97264"
+    ],
+    "included": [
+      "JX310755.1",
+      "MH389250.1",
+      "MH389251.1",
+      "MH389252.1",
+      "NC_003795.1"
+    ]
+  },
+  "name": "Shallot virus X",
+  "schema": [
+    {
+      "length": 8887,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31770
+}

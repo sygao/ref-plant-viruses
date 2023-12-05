@@ -1,0 +1,21 @@
+{
+  "_id": "3a59b6f8",
+  "accessions": {
+    "excluded": [
+      "DQ641709"
+    ],
+    "included": [
+      "NC_009555.1"
+    ]
+  },
+  "name": "Papaya leaf curl China betasatellite",
+  "schema": [
+    {
+      "length": 1322,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 447599
+}

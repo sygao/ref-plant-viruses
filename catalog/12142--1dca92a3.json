@@ -1,0 +1,21 @@
+{
+  "_id": "1dca92a3",
+  "accessions": {
+    "excluded": [
+      "X62493"
+    ],
+    "included": [
+      "NC_001339.1"
+    ]
+  },
+  "name": "Artichoke mottled crinkle virus",
+  "schema": [
+    {
+      "length": 4789,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12142
+}

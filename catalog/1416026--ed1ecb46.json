@@ -1,0 +1,23 @@
+{
+  "_id": "ed1ecb46",
+  "accessions": {
+    "excluded": [
+      "KF495564"
+    ],
+    "included": [
+      "KF495565.1",
+      "KJ683937.1",
+      "NC_022801.1"
+    ]
+  },
+  "name": "Yellow tailflower mild mottle virus",
+  "schema": [
+    {
+      "length": 6368,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1416026
+}

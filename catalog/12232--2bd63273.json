@@ -1,0 +1,21 @@
+{
+  "_id": "2bd63273",
+  "accessions": {
+    "excluded": [
+      "AF127929"
+    ],
+    "included": [
+      "NC_003224.1"
+    ]
+  },
+  "name": "Zucchini yellow mosaic virus",
+  "schema": [
+    {
+      "length": 9591,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12232
+}

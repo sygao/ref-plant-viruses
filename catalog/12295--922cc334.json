@@ -1,0 +1,33 @@
+{
+  "_id": "922cc334",
+  "accessions": {
+    "excluded": [
+      "Z36974",
+      "AF166084"
+    ],
+    "included": [
+      "MW854258.1",
+      "MW854259.1",
+      "MW854287.1",
+      "MW854288.1",
+      "NC_003805.1",
+      "NC_003811.1"
+    ]
+  },
+  "name": "Tobacco rattle virus",
+  "schema": [
+    {
+      "length": 6859,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3303,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12295
+}

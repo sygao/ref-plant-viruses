@@ -1,0 +1,29 @@
+{
+  "_id": "54xmredt",
+  "accessions": {
+    "excluded": [
+      "HM236368",
+      "HM236369"
+    ],
+    "included": [
+      "NC_038800.1",
+      "NC_038801.1"
+    ]
+  },
+  "name": "Hynchosia golden mosaic Havana virus-[Cuba:Havana:28:2007]",
+  "schema": [
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2542,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

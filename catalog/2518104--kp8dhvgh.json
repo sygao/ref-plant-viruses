@@ -1,0 +1,21 @@
+{
+  "_id": "kp8dhvgh",
+  "accessions": {
+    "excluded": [
+      "MH922775"
+    ],
+    "included": [
+      "NC_055564.1"
+    ]
+  },
+  "name": "Patrinia mild mottle virus",
+  "schema": [
+    {
+      "length": 4214,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2518104
+}

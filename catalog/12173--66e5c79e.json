@@ -1,0 +1,21 @@
+{
+  "_id": "66e5c79e",
+  "accessions": {
+    "excluded": [
+      "AJ516059"
+    ],
+    "included": [
+      "NC_005138.1"
+    ]
+  },
+  "name": "Lily symptomless virus",
+  "schema": [
+    {
+      "length": 8394,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12173
+}

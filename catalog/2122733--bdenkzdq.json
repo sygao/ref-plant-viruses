@@ -1,0 +1,19 @@
+{
+  "_id": "bdenkzdq",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG452759.1"
+    ]
+  },
+  "name": "Camellia chlorotic dwarf-associated virus",
+  "schema": [
+    {
+      "length": 3687,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2122733
+}

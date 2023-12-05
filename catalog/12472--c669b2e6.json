@@ -1,0 +1,25 @@
+{
+  "_id": "c669b2e6",
+  "accessions": {
+    "excluded": [
+      "AF208001"
+    ],
+    "included": [
+      "AY376451.1",
+      "AY376452.1",
+      "AY376453.1",
+      "AY376454.1",
+      "NC_004346.1"
+    ]
+  },
+  "name": "Subterranean clover mottle virus",
+  "schema": [
+    {
+      "length": 4258,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12472
+}

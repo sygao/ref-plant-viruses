@@ -1,0 +1,29 @@
+{
+  "_id": "3e553583",
+  "accessions": {
+    "excluded": [
+      "JN418998",
+      "JN418999"
+    ],
+    "included": [
+      "NC_017001.1",
+      "NC_017002.1"
+    ]
+  },
+  "name": "Macroptilium yellow net virus",
+  "schema": [
+    {
+      "length": 2620,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2577,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1129033
+}

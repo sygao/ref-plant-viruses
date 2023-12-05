@@ -1,0 +1,21 @@
+{
+  "_id": "ad96a32c",
+  "accessions": {
+    "excluded": [
+      "EU564817"
+    ],
+    "included": [
+      "NC_010735.1"
+    ]
+  },
+  "name": "Verbena virus Y",
+  "schema": [
+    {
+      "length": 9742,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 515446
+}

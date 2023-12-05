@@ -1,0 +1,21 @@
+{
+  "_id": "d44ecd69",
+  "accessions": {
+    "excluded": [
+      "AF308158"
+    ],
+    "included": [
+      "NC_002815.1"
+    ]
+  },
+  "name": "Cactus virus X",
+  "schema": [
+    {
+      "length": 6614,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 112227
+}

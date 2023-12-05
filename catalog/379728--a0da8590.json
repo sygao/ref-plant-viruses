@@ -1,0 +1,21 @@
+{
+  "_id": "a0da8590",
+  "accessions": {
+    "excluded": [
+      "AM238692"
+    ],
+    "included": [
+      "NC_008317.1"
+    ]
+  },
+  "name": "Siegesbeckia yellow vein Guangxi virus",
+  "schema": [
+    {
+      "length": 2784,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 379728
+}

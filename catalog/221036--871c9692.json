@@ -1,0 +1,21 @@
+{
+  "_id": "871c9692",
+  "accessions": {
+    "excluded": [
+      "AJ421482"
+    ],
+    "included": [
+      "NC_004733.1"
+    ]
+  },
+  "name": "Malvastrum yellow vein betasatellite",
+  "schema": [
+    {
+      "length": 1348,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 221036
+}

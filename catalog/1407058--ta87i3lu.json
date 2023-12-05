@@ -1,0 +1,21 @@
+{
+  "_id": "ta87i3lu",
+  "accessions": {
+    "excluded": [
+      "KF785752"
+    ],
+    "included": [
+      "NC_023443.1"
+    ]
+  },
+  "name": "Ageratum yellow vein India alphasatellite",
+  "schema": [
+    {
+      "length": 1365,
+      "molecule": "ssDNA",
+      "name": "DNA 1",
+      "required": true
+    }
+  ],
+  "taxid": 1407058
+}

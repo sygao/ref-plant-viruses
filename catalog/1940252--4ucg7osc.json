@@ -1,0 +1,21 @@
+{
+  "_id": "4ucg7osc",
+  "accessions": {
+    "excluded": [
+      "KX276640"
+    ],
+    "included": [
+      "NC_033738.1"
+    ]
+  },
+  "name": "Cacao mild mosaic virus",
+  "schema": [
+    {
+      "length": 7533,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1940252
+}

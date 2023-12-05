@@ -1,0 +1,21 @@
+{
+  "_id": "rmcnr2hh",
+  "accessions": {
+    "excluded": [
+      "MF642736"
+    ],
+    "included": [
+      "NC_040809.1"
+    ]
+  },
+  "name": "Cacao Bacilliform SriLanka Virus",
+  "schema": [
+    {
+      "length": 7215,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2056878
+}

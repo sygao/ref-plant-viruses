@@ -1,0 +1,21 @@
+{
+  "_id": "25b3ea05",
+  "accessions": {
+    "excluded": [
+      "DQ641716"
+    ],
+    "included": [
+      "NC_009562.1"
+    ]
+  },
+  "name": "Alternanthera yellow vein betasatellite",
+  "schema": [
+    {
+      "length": 1344,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 447606
+}

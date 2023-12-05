@@ -1,0 +1,21 @@
+{
+  "_id": "b36a41fc",
+  "accessions": {
+    "excluded": [
+      "AJ252072"
+    ],
+    "included": [
+      "NC_003403.1"
+    ]
+  },
+  "name": "Ageratum yellow vein betasatellite",
+  "schema": [
+    {
+      "length": 1347,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 185750
+}

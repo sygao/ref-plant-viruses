@@ -1,0 +1,29 @@
+{
+  "_id": "96691bc6",
+  "accessions": {
+    "excluded": [
+      "AB030940",
+      "AB030941"
+    ],
+    "included": [
+      "NC_003787.1",
+      "NC_003788.1"
+    ]
+  },
+  "name": "Apple latent spherical virus",
+  "schema": [
+    {
+      "length": 6812,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3384,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 101688
+}

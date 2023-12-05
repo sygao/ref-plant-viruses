@@ -1,0 +1,20 @@
+{
+  "_id": "p0e0yzmj",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN548734.1",
+      "MN901923.1"
+    ]
+  },
+  "name": "Malus domestica virus A",
+  "schema": [
+    {
+      "length": 17003,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2664236
+}

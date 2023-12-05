@@ -1,0 +1,19 @@
+{
+  "_id": "d0aykdgu",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH077559.1"
+    ]
+  },
+  "name": "Turtle grass virus X",
+  "schema": [
+    {
+      "length": 6278,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2292642
+}

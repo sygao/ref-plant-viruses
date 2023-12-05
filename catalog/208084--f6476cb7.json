@@ -1,0 +1,21 @@
+{
+  "_id": "f6476cb7",
+  "accessions": {
+    "excluded": [
+      "AY830918"
+    ],
+    "included": [
+      "NC_011535.1"
+    ]
+  },
+  "name": "Grapevine Algerian latent virus",
+  "schema": [
+    {
+      "length": 4731,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 208084
+}

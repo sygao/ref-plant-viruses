@@ -1,0 +1,21 @@
+{
+  "_id": "m1j2kj3q",
+  "accessions": {
+    "excluded": [
+      "AM491778"
+    ],
+    "included": [
+      "NC_009031.1"
+    ]
+  },
+  "name": "Tomato leaf curl Seychelles virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 425303
+}

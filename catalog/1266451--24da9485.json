@@ -1,0 +1,37 @@
+{
+  "_id": "24da9485",
+  "accessions": {
+    "excluded": [
+      "KM819698",
+      "KM819699",
+      "KM819701"
+    ],
+    "included": [
+      "NC_026617.1",
+      "NC_026618.1",
+      "NC_026619.1"
+    ]
+  },
+  "name": "Mulberry vein banding virus",
+  "schema": [
+    {
+      "length": 8905,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4731,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3294,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 1266451
+}

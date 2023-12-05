@@ -1,0 +1,26 @@
+{
+  "_id": "44f7fkyy",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK492273.1",
+      "MK492274.1"
+    ]
+  },
+  "name": "Caraway yellows virus",
+  "schema": [
+    {
+      "length": 8048,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6427,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2530363
+}

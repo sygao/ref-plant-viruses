@@ -1,0 +1,38 @@
+{
+  "_id": "367baeab",
+  "accessions": {
+    "excluded": [
+      "V00099",
+      "X01678",
+      "J02042",
+      "X02380"
+    ],
+    "included": [
+      "NC_002026.1",
+      "NC_002027.1",
+      "NC_002028.1"
+    ]
+  },
+  "name": "Brome mosaic virus",
+  "schema": [
+    {
+      "length": 3234,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2865,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2111,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12302
+}

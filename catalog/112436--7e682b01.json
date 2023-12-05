@@ -1,0 +1,21 @@
+{
+  "_id": "7e682b01",
+  "accessions": {
+    "excluded": [
+      "HQ676607"
+    ],
+    "included": [
+      "NC_015393.1"
+    ]
+  },
+  "name": "Celery mosaic virus",
+  "schema": [
+    {
+      "length": 9999,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 112436
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "7c77d883",
+  "accessions": {
+    "excluded": [
+      "AF218798"
+    ],
+    "included": [
+      "NC_002160.1"
+    ]
+  },
+  "name": "Barley yellow dwarf virus-PAS",
+  "schema": [
+    {
+      "length": 5695,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169985
+}

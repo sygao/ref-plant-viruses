@@ -1,0 +1,21 @@
+{
+  "_id": "e736347a",
+  "accessions": {
+    "excluded": [
+      "EF207438"
+    ],
+    "included": [
+      "NC_009017.1"
+    ]
+  },
+  "name": "Nootka lupine vein clearing virus",
+  "schema": [
+    {
+      "length": 4172,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 283876
+}

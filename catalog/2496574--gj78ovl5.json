@@ -1,0 +1,21 @@
+{
+  "_id": "gj78ovl5",
+  "accessions": {
+    "excluded": [
+      "MH035671"
+    ],
+    "included": [
+      "NC_055560.1"
+    ]
+  },
+  "name": "Emilia yellow vein Fujian betasatellite",
+  "schema": [
+    {
+      "length": 1333,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2496574
+}

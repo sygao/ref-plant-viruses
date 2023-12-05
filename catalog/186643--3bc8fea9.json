@@ -1,0 +1,19 @@
+{
+  "_id": "3bc8fea9",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB079657.1"
+    ]
+  },
+  "name": "Ornithogalum virus 3",
+  "schema": [
+    {
+      "length": 1514,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 186643
+}

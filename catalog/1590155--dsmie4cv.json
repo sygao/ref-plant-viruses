@@ -1,0 +1,21 @@
+{
+  "_id": "dsmie4cv",
+  "accessions": {
+    "excluded": [
+      "KM510191"
+    ],
+    "included": [
+      "NC_026243.1"
+    ]
+  },
+  "name": "Bromus-associated circular DNA virus 2",
+  "schema": [
+    {
+      "length": 2542,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1590155
+}

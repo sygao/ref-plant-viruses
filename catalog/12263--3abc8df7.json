@@ -1,0 +1,33 @@
+{
+  "_id": "3abc8df7",
+  "accessions": {
+    "excluded": [
+      "AB054688",
+      "AB054689"
+    ],
+    "included": [
+      "EU421059.1",
+      "EU421060.1",
+      "MT709101.1",
+      "MT709102.1",
+      "NC_003799.1",
+      "NC_003800.1"
+    ]
+  },
+  "name": "Squash mosaic virus",
+  "schema": [
+    {
+      "length": 5829,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3340,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12263
+}

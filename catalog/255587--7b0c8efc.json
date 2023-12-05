@@ -1,0 +1,21 @@
+{
+  "_id": "7b0c8efc",
+  "accessions": {
+    "excluded": [
+      "AJ607402"
+    ],
+    "included": [
+      "NC_005285.1"
+    ]
+  },
+  "name": "Pelargonium necrotic spot virus",
+  "schema": [
+    {
+      "length": 4744,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 255587
+}

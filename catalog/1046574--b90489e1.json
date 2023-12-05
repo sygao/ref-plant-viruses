@@ -1,0 +1,19 @@
+{
+  "_id": "b90489e1",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JF694486.1"
+    ]
+  },
+  "name": "West African Asystasia virus 2",
+  "schema": [
+    {
+      "length": 2744,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1046574
+}

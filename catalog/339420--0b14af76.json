@@ -1,0 +1,37 @@
+{
+  "_id": "0b14af76",
+  "accessions": {
+    "excluded": [
+      "DQ091193",
+      "DQ091195",
+      "DQ091194"
+    ],
+    "included": [
+      "NC_011553.1",
+      "NC_011554.1",
+      "NC_011555.1"
+    ]
+  },
+  "name": "Blackberry chlorotic ringspot virus",
+  "schema": [
+    {
+      "length": 3478,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2879,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2290,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 339420
+}

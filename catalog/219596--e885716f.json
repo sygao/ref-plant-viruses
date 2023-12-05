@@ -1,0 +1,21 @@
+{
+  "_id": "e885716f",
+  "accessions": {
+    "excluded": [
+      "AJ421484"
+    ],
+    "included": [
+      "NC_004546.1"
+    ]
+  },
+  "name": "Tobacco curly shoot betasatellite",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 219596
+}

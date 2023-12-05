@@ -1,0 +1,21 @@
+{
+  "_id": "szspgwda",
+  "accessions": {
+    "excluded": [
+      "JN848772"
+    ],
+    "included": [
+      "NC_022005.1"
+    ]
+  },
+  "name": "Bean white chlorosis mosaic virus",
+  "schema": [
+    {
+      "length": 2597,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169732
+}

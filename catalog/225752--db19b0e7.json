@@ -1,0 +1,21 @@
+{
+  "_id": "db19b0e7",
+  "accessions": {
+    "excluded": [
+      "AF326775"
+    ],
+    "included": [
+      "NC_004640.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Georgia virus",
+  "schema": [
+    {
+      "length": 2773,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 225752
+}

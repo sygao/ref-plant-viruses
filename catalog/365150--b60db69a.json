@@ -1,0 +1,21 @@
+{
+  "_id": "b60db69a",
+  "accessions": {
+    "excluded": [
+      "EU489641"
+    ],
+    "included": [
+      "NC_010434.1"
+    ]
+  },
+  "name": "Lolium latent virus",
+  "schema": [
+    {
+      "length": 7674,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 365150
+}

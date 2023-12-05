@@ -1,0 +1,21 @@
+{
+  "_id": "092aa229",
+  "accessions": {
+    "excluded": [
+      "HQ128706"
+    ],
+    "included": [
+      "NC_014481.1"
+    ]
+  },
+  "name": "Rhododendron virus A",
+  "schema": [
+    {
+      "length": 3427,
+      "molecule": "dsRNA",
+      "name": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 878260
+}

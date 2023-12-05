@@ -1,0 +1,22 @@
+{
+  "_id": "8d755789",
+  "accessions": {
+    "excluded": [
+      "KM523548"
+    ],
+    "included": [
+      "KR181938.1",
+      "NC_026615.1"
+    ]
+  },
+  "name": "Tamarillo leaf malformation virus",
+  "schema": [
+    {
+      "length": 9718,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 945960
+}

@@ -1,0 +1,109 @@
+{
+  "_id": "a69b1127",
+  "accessions": {
+    "excluded": [
+      "U36402",
+      "U36562",
+      "U36563",
+      "U36564",
+      "U36565",
+      "U36566",
+      "U36567",
+      "U36568",
+      "U36569",
+      "U72757",
+      "U73201",
+      "U73202"
+    ],
+    "included": [
+      "NC_003760.1",
+      "NC_003761.1",
+      "NC_003762.1",
+      "NC_003763.1",
+      "NC_003764.1",
+      "NC_003765.1",
+      "NC_003766.1",
+      "NC_003767.1",
+      "NC_003768.1",
+      "NC_003772.1",
+      "NC_003773.1",
+      "NC_003774.1"
+    ]
+  },
+  "name": "Rice dwarf virus",
+  "schema": [
+    {
+      "length": 4422,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3512,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3195,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 2218,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 2449,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1579,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1578,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1397,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1224,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1163,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    },
+    {
+      "length": 1036,
+      "molecule": "dsRNA",
+      "name": "RNA 11",
+      "required": true
+    },
+    {
+      "length": 1066,
+      "molecule": "dsRNA",
+      "name": "RNA 12",
+      "required": true
+    }
+  ],
+  "taxid": 10991
+}

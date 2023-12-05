@@ -1,0 +1,21 @@
+{
+  "_id": "cf985fb9",
+  "accessions": {
+    "excluded": [
+      "AF397215"
+    ],
+    "included": [
+      "NC_004093.1"
+    ]
+  },
+  "name": "Okra leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1305,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 756759
+}

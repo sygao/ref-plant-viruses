@@ -1,0 +1,21 @@
+{
+  "_id": "0259i5q5",
+  "accessions": {
+    "excluded": [
+      "AB050597"
+    ],
+    "included": [
+      "NC_005032.1"
+    ]
+  },
+  "name": "Tomato leaf curl Philippines virus",
+  "schema": [
+    {
+      "length": 2755,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 96054
+}

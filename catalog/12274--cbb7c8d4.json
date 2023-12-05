@@ -1,0 +1,39 @@
+{
+  "_id": "cbb7c8d4",
+  "accessions": {
+    "excluded": [
+      "D00915",
+      "X16907"
+    ],
+    "included": [
+      "EF426852.1",
+      "JN391442.1",
+      "JX513889.1",
+      "JX513890.1",
+      "JX513894.1",
+      "JX513895.1",
+      "MH802027.1",
+      "MH802028.1",
+      "MH802030.1",
+      "MH802031.1",
+      "NC_003615.1",
+      "NC_003623.1"
+    ]
+  },
+  "name": "Grapevine fanleaf virus",
+  "schema": [
+    {
+      "length": 7335,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3768,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12274
+}

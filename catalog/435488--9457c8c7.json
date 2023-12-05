@@ -1,0 +1,21 @@
+{
+  "_id": "9457c8c7",
+  "accessions": {
+    "excluded": [
+      "AB236324"
+    ],
+    "included": [
+      "NC_009450.1"
+    ]
+  },
+  "name": "Honeysuckle yellow vein Japan betasatellite",
+  "schema": [
+    {
+      "length": 1350,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 435488
+}

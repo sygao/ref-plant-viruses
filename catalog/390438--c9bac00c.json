@@ -1,0 +1,29 @@
+{
+  "_id": "c9bac00c",
+  "accessions": {
+    "excluded": [
+      "DQ641692",
+      "DQ641693"
+    ],
+    "included": [
+      "NC_010713.1",
+      "NC_010714.1"
+    ]
+  },
+  "name": "Clerodendron golden mosaic virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 390438
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "3c4a077d",
+  "accessions": {
+    "excluded": [
+      "JN848773",
+      "JN848774"
+    ],
+    "included": [
+      "NC_018715.1",
+      "NC_018717.1"
+    ]
+  },
+  "name": "Datura leaf distortion virus",
+  "schema": [
+    {
+      "length": 2599,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2564,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1227357
+}

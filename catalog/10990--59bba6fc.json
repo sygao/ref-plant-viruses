@@ -1,0 +1,93 @@
+{
+  "_id": "59bba6fc",
+  "accessions": {
+    "excluded": [
+      "AJ293984",
+      "AJ294757",
+      "AJ297427",
+      "AJ297430",
+      "AJ297431",
+      "AJ297433",
+      "AJ409145",
+      "AJ409146",
+      "AJ409147",
+      "AJ409148"
+    ],
+    "included": [
+      "NC_003728.1",
+      "NC_003729.1",
+      "NC_003730.1",
+      "NC_003731.1",
+      "NC_003732.1",
+      "NC_003733.1",
+      "NC_003734.1",
+      "NC_003735.1",
+      "NC_003736.1",
+      "NC_003737.1"
+    ]
+  },
+  "name": "Rice black streaked dwarf virus",
+  "schema": [
+    {
+      "length": 4501,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3812,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3572,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3617,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 3164,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 2645,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 2193,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1936,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1900,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1801,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 10990
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "add930f0",
+  "accessions": {
+    "excluded": [
+      "D00322",
+      "AY157994",
+      "AY157993",
+      "X04062"
+    ],
+    "included": [
+      "HG939487.1",
+      "HG939488.1",
+      "NC_003693.1",
+      "NC_003694.1",
+      "NC_004439.1",
+      "NC_004440.1"
+    ]
+  },
+  "name": "Tomato black ring virus",
+  "schema": [
+    {
+      "length": 7362,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4645,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12275
+}

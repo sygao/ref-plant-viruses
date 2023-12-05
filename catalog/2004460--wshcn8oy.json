@@ -1,0 +1,21 @@
+{
+  "_id": "wshcn8oy",
+  "accessions": {
+    "excluded": [
+      "KX857725"
+    ],
+    "included": [
+      "NC_043524.1"
+    ]
+  },
+  "name": "Bean leaf crumple virus",
+  "schema": [
+    {
+      "length": 2598,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2004460
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "4ef6c23c",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF035633.1"
+    ]
+  },
+  "name": "Wild cucumber mosaic virus",
+  "schema": [
+    {
+      "length": 1379,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 70824
+}

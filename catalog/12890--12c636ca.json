@@ -1,0 +1,27 @@
+{
+  "_id": "12c636ca",
+  "accessions": {
+    "excluded": [
+      "J02053"
+    ],
+    "included": [
+      "AF428064.1",
+      "AF540962.1",
+      "AY372393.1",
+      "AY671955.1",
+      "DQ318790.1",
+      "HQ284018.1",
+      "NC_001464.1"
+    ]
+  },
+  "name": "Citrus excortis viroid",
+  "schema": [
+    {
+      "length": 381,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12890
+}

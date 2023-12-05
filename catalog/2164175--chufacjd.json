@@ -1,0 +1,21 @@
+{
+  "_id": "chufacjd",
+  "accessions": {
+    "excluded": [
+      "MF140456"
+    ],
+    "included": [
+      "NC_055547.1"
+    ]
+  },
+  "name": "Hibiscus vein enation betasatellite",
+  "schema": [
+    {
+      "length": 1355,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2164175
+}

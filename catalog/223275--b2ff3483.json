@@ -1,0 +1,29 @@
+{
+  "_id": "b2ff3483",
+  "accessions": {
+    "excluded": [
+      "AF422174",
+      "AF422175"
+    ],
+    "included": [
+      "NC_004655.1",
+      "NC_004656.1"
+    ]
+  },
+  "name": "East African cassava mosaic Zanzibar virus",
+  "schema": [
+    {
+      "length": 2785,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2763,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223275
+}

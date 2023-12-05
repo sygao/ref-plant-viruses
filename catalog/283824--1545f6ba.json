@@ -1,0 +1,77 @@
+{
+  "_id": "1545f6ba",
+  "accessions": {
+    "excluded": [
+      "GQ150778",
+      "GQ150779",
+      "GQ150780",
+      "GQ150781",
+      "GQ150782",
+      "GQ150783",
+      "GQ150784",
+      "GQ150785"
+    ],
+    "included": [
+      "NC_013094.1",
+      "NC_013095.1",
+      "NC_013096.1",
+      "NC_013097.1",
+      "NC_013098.1",
+      "NC_013099.1",
+      "NC_013100.1",
+      "NC_013101.1"
+    ]
+  },
+  "name": "Faba bean necrotic stunt virus",
+  "schema": [
+    {
+      "length": 994,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 980,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 981,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1003,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 986,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 984,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 987,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    },
+    {
+      "length": 992,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    }
+  ],
+  "taxid": 283824
+}

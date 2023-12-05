@@ -1,0 +1,20 @@
+{
+  "_id": "a0b2fvwd",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN905503.1",
+      "MN905505.1"
+    ]
+  },
+  "name": "Peach-associated virus 2",
+  "schema": [
+    {
+      "length": 4978,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2817034
+}

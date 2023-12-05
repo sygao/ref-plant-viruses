@@ -1,0 +1,29 @@
+{
+  "_id": "3b20e057",
+  "accessions": {
+    "excluded": [
+      "AF224760",
+      "AF224761"
+    ],
+    "included": [
+      "NC_002984.1",
+      "NC_002985.1"
+    ]
+  },
+  "name": "Cucurbit leaf crumple virus",
+  "schema": [
+    {
+      "length": 2632,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2600,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 134681
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "8f4c4be0",
+  "accessions": {
+    "excluded": [
+      "EF373060"
+    ],
+    "included": [
+      "NC_009088.1"
+    ]
+  },
+  "name": "Mesta yellow vein mosaic virus",
+  "schema": [
+    {
+      "length": 2728,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 360579
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "845b278f",
+  "accessions": {
+    "excluded": [
+      "L04281"
+    ],
+    "included": [
+      "NC_004045.1"
+    ]
+  },
+  "name": "Beet western yellows ST9 associated virus",
+  "schema": [
+    {
+      "length": 2843,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 198589
+}

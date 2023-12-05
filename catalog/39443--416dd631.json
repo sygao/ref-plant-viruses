@@ -1,0 +1,21 @@
+{
+  "_id": "416dd631",
+  "accessions": {
+    "excluded": [
+      "X85215"
+    ],
+    "included": [
+      "NC_003500.1"
+    ]
+  },
+  "name": "Carnation Italian ringspot virus",
+  "schema": [
+    {
+      "length": 4760,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 39443
+}

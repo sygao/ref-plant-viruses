@@ -1,0 +1,21 @@
+{
+  "_id": "e9a5161a",
+  "accessions": {
+    "excluded": [
+      "FJ670570"
+    ],
+    "included": [
+      "NC_012211.1"
+    ]
+  },
+  "name": "Allium virus X",
+  "schema": [
+    {
+      "length": 7118,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 317027
+}

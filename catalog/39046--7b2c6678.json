@@ -1,0 +1,21 @@
+{
+  "_id": "7b2c6678",
+  "accessions": {
+    "excluded": [
+      "U23414"
+    ],
+    "included": [
+      "NC_001658.1"
+    ]
+  },
+  "name": "Cassava common mosaic virus",
+  "schema": [
+    {
+      "length": 6376,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 39046
+}

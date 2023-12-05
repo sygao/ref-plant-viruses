@@ -1,0 +1,37 @@
+{
+  "_id": "2b2afefd",
+  "accessions": {
+    "excluded": [
+      "D86636",
+      "D86638",
+      "D86637"
+    ],
+    "included": [
+      "NC_004423.1",
+      "NC_004424.1",
+      "NC_004425.1"
+    ]
+  },
+  "name": "Broad bean necrosis virus",
+  "schema": [
+    {
+      "length": 5600,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2831,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2417,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 79918
+}

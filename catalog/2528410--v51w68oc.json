@@ -1,0 +1,21 @@
+{
+  "_id": "v51w68oc",
+  "accessions": {
+    "excluded": [
+      "MH475918"
+    ],
+    "included": [
+      "NC_055562.1"
+    ]
+  },
+  "name": "Polyscias mosaic virus",
+  "schema": [
+    {
+      "length": 7592,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2528410
+}

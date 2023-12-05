@@ -1,0 +1,23 @@
+{
+  "_id": "fcff42e8",
+  "accessions": {
+    "excluded": [
+      "EF529624"
+    ],
+    "included": [
+      "MW579560.1",
+      "MW579561.1",
+      "NC_010732.1"
+    ]
+  },
+  "name": "Tobacco vein distorting virus",
+  "schema": [
+    {
+      "length": 5920,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 192203
+}

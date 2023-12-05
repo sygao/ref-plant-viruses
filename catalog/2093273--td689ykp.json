@@ -1,0 +1,21 @@
+{
+  "_id": "td689ykp",
+  "accessions": {
+    "excluded": [
+      "MG001958"
+    ],
+    "included": [
+      "NC_037066.1"
+    ]
+  },
+  "name": "Juncus maritimus associated virus",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2093273
+}

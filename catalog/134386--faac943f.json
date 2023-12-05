@@ -1,0 +1,21 @@
+{
+  "_id": "faac943f",
+  "accessions": {
+    "excluded": [
+      "AJ292769"
+    ],
+    "included": [
+      "NC_003200.1"
+    ]
+  },
+  "name": "Cotton leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1351,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 134386
+}

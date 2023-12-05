@@ -1,0 +1,21 @@
+{
+  "_id": "0311b72a",
+  "accessions": {
+    "excluded": [
+      "AJ311031"
+    ],
+    "included": [
+      "NC_003326.1"
+    ]
+  },
+  "name": "Wheat dwarf virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10834
+}

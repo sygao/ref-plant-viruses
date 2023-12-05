@@ -1,0 +1,21 @@
+{
+  "_id": "mqj9xe04",
+  "accessions": {
+    "excluded": [
+      "MG748720"
+    ],
+    "included": [
+      "NC_040708.1"
+    ]
+  },
+  "name": "Yerba mate-associated circular DNA virus 1",
+  "schema": [
+    {
+      "length": 2707,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2219873
+}

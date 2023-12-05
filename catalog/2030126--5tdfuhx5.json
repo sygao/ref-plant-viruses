@@ -1,0 +1,21 @@
+{
+  "_id": "5tdfuhx5",
+  "accessions": {
+    "excluded": [
+      "KX938425"
+    ],
+    "included": [
+      "NC_055475.1"
+    ]
+  },
+  "name": "Eclipta yellow vein alphasatellite",
+  "schema": [
+    {
+      "length": 1342,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2030126
+}

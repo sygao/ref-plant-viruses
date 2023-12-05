@@ -1,0 +1,33 @@
+{
+  "_id": "ana8zxv8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC221824.1",
+      "LC221825.1",
+      "LC515194.1"
+    ]
+  },
+  "name": "Pyrus pyrifolia cryptic virus",
+  "schema": [
+    {
+      "length": 612,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1523,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1481,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1968822
+}

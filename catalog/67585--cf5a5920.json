@@ -1,0 +1,77 @@
+{
+  "_id": "cf5a5920",
+  "accessions": {
+    "excluded": [
+      "AB027511",
+      "AB000924",
+      "AB255373",
+      "AB000923",
+      "AB000926",
+      "AB009046",
+      "AB000925",
+      "AB000927"
+    ],
+    "included": [
+      "NC_003641.1",
+      "NC_003642.1",
+      "NC_003643.1",
+      "NC_003644.1",
+      "NC_003645.1",
+      "NC_003646.1",
+      "NC_003648.1",
+      "NC_023626.1"
+    ]
+  },
+  "name": "Milk vetch dwarf virus",
+  "schema": [
+    {
+      "length": 997,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 985,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 977,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1001,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 989,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 981,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 991,
+      "molecule": "",
+      "name": "DNA U4",
+      "required": true
+    },
+    {
+      "length": 990,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    }
+  ],
+  "taxid": 67585
+}

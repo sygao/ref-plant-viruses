@@ -1,0 +1,21 @@
+{
+  "_id": "b9ca7202",
+  "accessions": {
+    "excluded": [
+      "KF555653"
+    ],
+    "included": [
+      "NC_022961.1"
+    ]
+  },
+  "name": "Garlic virus D",
+  "schema": [
+    {
+      "length": 8424,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12430
+}

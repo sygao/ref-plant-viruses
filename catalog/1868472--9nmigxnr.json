@@ -1,0 +1,21 @@
+{
+  "_id": "9nmigxnr",
+  "accessions": {
+    "excluded": [
+      "KU375548"
+    ],
+    "included": [
+      "NC_030657.1"
+    ]
+  },
+  "name": "Yacon virus A",
+  "schema": [
+    {
+      "length": 6400,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1868472
+}

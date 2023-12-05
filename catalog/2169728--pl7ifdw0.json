@@ -1,0 +1,21 @@
+{
+  "_id": "pl7ifdw0",
+  "accessions": {
+    "excluded": [
+      "KX430257"
+    ],
+    "included": [
+      "NC_038995.1"
+    ]
+  },
+  "name": "Dioscorea bacilliform TR virus",
+  "schema": [
+    {
+      "length": 7333,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169728
+}

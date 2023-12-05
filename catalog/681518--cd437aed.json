@@ -1,0 +1,23 @@
+{
+  "_id": "cd437aed",
+  "accessions": {
+    "excluded": [
+      "GQ334472",
+      "JX501510"
+    ],
+    "included": [
+      "NC_014510.1",
+      "NC_019032.1"
+    ]
+  },
+  "name": "Tomato leaf deformation virus",
+  "schema": [
+    {
+      "length": 2591,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 681518
+}

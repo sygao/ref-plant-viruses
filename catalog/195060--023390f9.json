@@ -1,0 +1,22 @@
+{
+  "_id": "023390f9",
+  "accessions": {
+    "excluded": [
+      "GU734660"
+    ],
+    "included": [
+      "KY549567.1",
+      "NC_016136.1"
+    ]
+  },
+  "name": "Potato yellow dwarf virus",
+  "schema": [
+    {
+      "length": 12833,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 195060
+}

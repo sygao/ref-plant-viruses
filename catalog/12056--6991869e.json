@@ -1,0 +1,22 @@
+{
+  "_id": "6991869e",
+  "accessions": {
+    "excluded": [
+      "U62546"
+    ],
+    "included": [
+      "MW307263.1",
+      "NC_003487.1"
+    ]
+  },
+  "name": "Tobacco necrosis virus D",
+  "schema": [
+    {
+      "length": 3754,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12056
+}

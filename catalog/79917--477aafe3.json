@@ -1,0 +1,21 @@
+{
+  "_id": "477aafe3",
+  "accessions": {
+    "excluded": [
+      "AB027007"
+    ],
+    "included": [
+      "NC_000947.1"
+    ]
+  },
+  "name": "Japanese yam mosaic virus",
+  "schema": [
+    {
+      "length": 9760,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 79917
+}

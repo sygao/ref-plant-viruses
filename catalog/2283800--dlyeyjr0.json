@@ -1,0 +1,21 @@
+{
+  "_id": "dlyeyjr0",
+  "accessions": {
+    "excluded": [
+      "MH579716"
+    ],
+    "included": [
+      "NC_040842.1"
+    ]
+  },
+  "name": "Potexvirus sp.",
+  "schema": [
+    {
+      "length": 5839,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2283800
+}

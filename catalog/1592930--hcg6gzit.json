@@ -1,0 +1,21 @@
+{
+  "_id": "hcg6gzit",
+  "accessions": {
+    "excluded": [
+      "KJ789130"
+    ],
+    "included": [
+      "NC_026248.1"
+    ]
+  },
+  "name": "Yam latent virus",
+  "schema": [
+    {
+      "length": 8531,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1592930
+}

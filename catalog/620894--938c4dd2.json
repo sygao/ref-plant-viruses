@@ -1,0 +1,21 @@
+{
+  "_id": "938c4dd2",
+  "accessions": {
+    "excluded": [
+      "AM421522"
+    ],
+    "included": [
+      "NC_012137.1"
+    ]
+  },
+  "name": "Cotton leaf curl Burewala virus",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 620894
+}

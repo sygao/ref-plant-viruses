@@ -1,0 +1,21 @@
+{
+  "_id": "85zdtpq8",
+  "accessions": {
+    "excluded": [
+      "KC488316"
+    ],
+    "included": [
+      "NC_038465.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Sichuan virus 1",
+  "schema": [
+    {
+      "length": 2764,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2026196
+}

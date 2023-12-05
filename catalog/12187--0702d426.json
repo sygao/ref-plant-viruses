@@ -1,0 +1,28 @@
+{
+  "_id": "0702d426",
+  "accessions": {
+    "excluded": [
+      "D12517"
+    ],
+    "included": [
+      "AJ577359.1",
+      "KR350470.1",
+      "KR350471.1",
+      "KR559735.1",
+      "KR559736.1",
+      "KR707814.1",
+      "KX150372.1",
+      "NC_003794.1"
+    ]
+  },
+  "name": "Strawberry mild yellow edge virus",
+  "schema": [
+    {
+      "length": 5970,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12187
+}

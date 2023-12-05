@@ -1,0 +1,29 @@
+{
+  "_id": "momihqi9",
+  "accessions": {
+    "excluded": [
+      "KX826917",
+      "KX826918"
+    ],
+    "included": [
+      "NC_034513.1",
+      "NC_034523.1"
+    ]
+  },
+  "name": "Carnation cryptic virus 3",
+  "schema": [
+    {
+      "length": 1573,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1562,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1980625
+}

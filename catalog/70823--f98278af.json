@@ -1,0 +1,21 @@
+{
+  "_id": "f98278af",
+  "accessions": {
+    "excluded": [
+      "AY789137"
+    ],
+    "included": [
+      "NC_007609.1"
+    ]
+  },
+  "name": "Dulcamara mottle virus",
+  "schema": [
+    {
+      "length": 6181,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 70823
+}

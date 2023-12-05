@@ -1,0 +1,26 @@
+{
+  "_id": "l0xz6t0r",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF141079.1",
+      "MF141080.1"
+    ]
+  },
+  "name": "Beet ringspot virus",
+  "schema": [
+    {
+      "length": 7394,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4686,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 191547
+}

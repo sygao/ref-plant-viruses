@@ -1,0 +1,21 @@
+{
+  "_id": "5qcoaksw",
+  "accessions": {
+    "excluded": [
+      "AY754814"
+    ],
+    "included": [
+      "NC_008517.1"
+    ]
+  },
+  "name": "Tomato leaf curl Pune virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 407837
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "783f38b6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC604020.1"
+    ]
+  },
+  "name": "Ranunculus mild mosaic virus",
+  "schema": [
+    {
+      "length": 9537,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 341111
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "219f242f",
+  "accessions": {
+    "excluded": [
+      "AJ877914"
+    ],
+    "included": [
+      "NC_007069.1"
+    ]
+  },
+  "name": "Phytophthora endornavirus 1",
+  "schema": [
+    {
+      "length": 13883,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 310750
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "846a1e47",
+  "accessions": {
+    "excluded": [
+      "EU445699"
+    ],
+    "included": [
+      "NC_010797.1"
+    ]
+  },
+  "name": "Urochloa streak virus",
+  "schema": [
+    {
+      "length": 2736,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 520848
+}

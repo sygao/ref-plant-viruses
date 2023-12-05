@@ -1,0 +1,29 @@
+{
+  "_id": "9bfdaf97",
+  "accessions": {
+    "excluded": [
+      "DQ336350",
+      "DQ336351"
+    ],
+    "included": [
+      "NC_007726.1",
+      "NC_007727.1"
+    ]
+  },
+  "name": "Tomato yellow spot virus",
+  "schema": [
+    {
+      "length": 2674,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2626,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 365523
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "xaaagdib",
+  "accessions": {
+    "excluded": [
+      "KY657266"
+    ],
+    "included": [
+      "KY657267.1",
+      "NC_035134.1"
+    ]
+  },
+  "name": "Cucurbit vein banding virus",
+  "schema": [
+    {
+      "length": 9891,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2005044
+}

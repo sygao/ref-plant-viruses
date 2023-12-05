@@ -1,0 +1,19 @@
+{
+  "_id": "tvqb1b9r",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG637048.1"
+    ]
+  },
+  "name": "Grapevine virus J",
+  "schema": [
+    {
+      "length": 7390,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2093496
+}

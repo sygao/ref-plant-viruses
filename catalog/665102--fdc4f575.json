@@ -1,0 +1,29 @@
+{
+  "_id": "fdc4f575",
+  "accessions": {
+    "excluded": [
+      "FN434438",
+      "FN434439"
+    ],
+    "included": [
+      "NC_014138.1",
+      "NC_014139.1"
+    ]
+  },
+  "name": "Abutilon Brazil virus",
+  "schema": [
+    {
+      "length": 2653,
+      "molecule": "dsRNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2618,
+      "molecule": "dsRNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 665102
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "956fecd5",
+  "accessions": {
+    "excluded": [
+      "AM050730"
+    ],
+    "included": [
+      "NC_007638.1"
+    ]
+  },
+  "name": "Sida leaf curl virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 337823
+}

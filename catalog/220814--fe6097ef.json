@@ -1,0 +1,21 @@
+{
+  "_id": "fe6097ef",
+  "accessions": {
+    "excluded": [
+      "AJ542500"
+    ],
+    "included": [
+      "NC_005875.1"
+    ]
+  },
+  "name": "Cucurbita yellow vein virus-associated DNA beta",
+  "schema": [
+    {
+      "length": 667,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 220814
+}

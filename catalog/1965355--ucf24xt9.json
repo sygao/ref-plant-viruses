@@ -1,0 +1,21 @@
+{
+  "_id": "ucf24xt9",
+  "accessions": {
+    "excluded": [
+      "KY523072"
+    ],
+    "included": [
+      "NC_036803.1"
+    ]
+  },
+  "name": "Pepper vein yellows virus 5",
+  "schema": [
+    {
+      "length": 6125,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1965355
+}

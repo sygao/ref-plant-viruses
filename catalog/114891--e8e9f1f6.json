@@ -1,0 +1,19 @@
+{
+  "_id": "e8e9f1f6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF228515.1"
+    ]
+  },
+  "name": "Clitoria virus Y",
+  "schema": [
+    {
+      "length": 1720,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 114891
+}

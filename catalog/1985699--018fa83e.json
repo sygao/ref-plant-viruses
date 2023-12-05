@@ -1,0 +1,21 @@
+{
+  "_id": "018fa83e",
+  "accessions": {
+    "excluded": [
+      "KM213865"
+    ],
+    "included": [
+      "NC_028244.1"
+    ]
+  },
+  "name": "Barley yellow striate mosaic virus",
+  "schema": [
+    {
+      "length": 12706,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985699
+}

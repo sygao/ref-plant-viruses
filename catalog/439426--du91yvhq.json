@@ -1,0 +1,21 @@
+{
+  "_id": "du91yvhq",
+  "accessions": {
+    "excluded": [
+      "AM701765"
+    ],
+    "included": [
+      "NC_038896.1"
+    ]
+  },
+  "name": "Tomato leaf curl Diana virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 439426
+}

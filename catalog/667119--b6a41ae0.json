@@ -1,0 +1,29 @@
+{
+  "_id": "b6a41ae0",
+  "accessions": {
+    "excluded": [
+      "FN543425",
+      "FN543426"
+    ],
+    "included": [
+      "NC_013414.1",
+      "NC_013415.1"
+    ]
+  },
+  "name": "Velvet bean severe mosaic virus",
+  "schema": [
+    {
+      "length": 2733,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2657,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 667119
+}

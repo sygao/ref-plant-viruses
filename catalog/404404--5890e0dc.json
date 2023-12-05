@@ -1,0 +1,21 @@
+{
+  "_id": "5890e0dc",
+  "accessions": {
+    "excluded": [
+      "EF527260"
+    ],
+    "included": [
+      "NC_009764.1"
+    ]
+  },
+  "name": "Coleus vein necrosis virus",
+  "schema": [
+    {
+      "length": 8727,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 404404
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "c2dab328",
+  "accessions": {
+    "excluded": [
+      "D14066"
+    ],
+    "included": [
+      "NC_003628.1"
+    ]
+  },
+  "name": "Parsnip yellow fleck virus",
+  "schema": [
+    {
+      "length": 9871,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12777
+}

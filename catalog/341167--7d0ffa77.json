@@ -1,0 +1,21 @@
+{
+  "_id": "7d0ffa77",
+  "accessions": {
+    "excluded": [
+      "AB246773"
+    ],
+    "included": [
+      "NC_007728.1"
+    ]
+  },
+  "name": "East Asian Passiflora virus",
+  "schema": [
+    {
+      "length": 10046,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 341167
+}

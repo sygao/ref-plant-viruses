@@ -1,0 +1,21 @@
+{
+  "_id": "kai3wfym",
+  "accessions": {
+    "excluded": [
+      "KT099125"
+    ],
+    "included": [
+      "NC_038968.1"
+    ]
+  },
+  "name": "Whitefly-associated begomovirus 2",
+  "schema": [
+    {
+      "length": 2590,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169740
+}

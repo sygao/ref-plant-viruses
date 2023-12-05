@@ -1,0 +1,21 @@
+{
+  "_id": "wkovl6qv",
+  "accessions": {
+    "excluded": [
+      "JX262390"
+    ],
+    "included": [
+      "NC_018614.1"
+    ]
+  },
+  "name": "Tomato leaf curl Hajipur betasatellite",
+  "schema": [
+    {
+      "length": 1362,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1231334
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "182424e7",
+  "accessions": {
+    "excluded": [
+      "KC978957"
+    ],
+    "included": [
+      "NC_023875.1"
+    ]
+  },
+  "name": "Black medic leafroll alphasatellite 1",
+  "schema": [
+    {
+      "length": 1030,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1441796
+}

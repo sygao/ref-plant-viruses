@@ -1,0 +1,24 @@
+{
+  "_id": "feaadf8c",
+  "accessions": {
+    "excluded": [
+      "EF091714",
+      "AB040446"
+    ],
+    "included": [
+      "MW411579.1",
+      "NC_003747.1",
+      "OK424596.1"
+    ]
+  },
+  "name": "Ryegrass mottle virus",
+  "schema": [
+    {
+      "length": 4211,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 119910
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "5znlllmy",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF197380.1"
+    ]
+  },
+  "name": "Rubber dandelion latent virus 1",
+  "schema": [
+    {
+      "length": 3409,
+      "molecule": "dsRNA",
+      "name": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 2175279
+}

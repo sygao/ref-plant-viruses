@@ -1,0 +1,39 @@
+{
+  "_id": "aa86c402",
+  "accessions": {
+    "excluded": [
+      "FR851461",
+      "FR851462"
+    ],
+    "included": [
+      "JN104385.1",
+      "JN104386.1",
+      "KC937020.1",
+      "KC937021.1",
+      "KC937022.1",
+      "KC937024.1",
+      "KC937026.1",
+      "KC937027.1",
+      "KC937028.1",
+      "KC937030.1",
+      "NC_015414.1",
+      "NC_015415.1"
+    ]
+  },
+  "name": "Cherry leaf roll virus",
+  "schema": [
+    {
+      "length": 7934,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6404,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12615
+}

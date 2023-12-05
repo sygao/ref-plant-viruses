@@ -1,0 +1,27 @@
+{
+  "_id": "a9d4b58c",
+  "accessions": {
+    "excluded": [
+      "S73580"
+    ],
+    "included": [
+      "MG356505.1",
+      "MG356506.1",
+      "MG356507.1",
+      "MH379106.1",
+      "MT193475.1",
+      "MT193476.1",
+      "NC_003632.1"
+    ]
+  },
+  "name": "Potato aucuba mosaic virus",
+  "schema": [
+    {
+      "length": 7106,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12182
+}

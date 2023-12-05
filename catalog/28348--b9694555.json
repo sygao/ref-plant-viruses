@@ -1,0 +1,29 @@
+{
+  "_id": "b9694555",
+  "accessions": {
+    "excluded": [
+      "L07884",
+      "S46028"
+    ],
+    "included": [
+      "NC_003806.1",
+      "NC_003807.1"
+    ]
+  },
+  "name": "Sweet clover necrotic mosaic virus",
+  "schema": [
+    {
+      "length": 3876,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1449,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 28348
+}

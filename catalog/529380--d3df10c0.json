@@ -1,0 +1,26 @@
+{
+  "_id": "d3df10c0",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AM999771.1",
+      "AM999772.1"
+    ]
+  },
+  "name": "Chondrostereum purpureum cryptic virus 1",
+  "schema": [
+    {
+      "length": 1920,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1757,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 529380
+}

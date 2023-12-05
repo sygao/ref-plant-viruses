@@ -1,0 +1,21 @@
+{
+  "_id": "c9e60f57",
+  "accessions": {
+    "excluded": [
+      "AJ316084"
+    ],
+    "included": [
+      "NC_003399.1"
+    ]
+  },
+  "name": "Scallion mosaic virus",
+  "schema": [
+    {
+      "length": 9324,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 157018
+}

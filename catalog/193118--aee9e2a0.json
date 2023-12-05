@@ -1,0 +1,21 @@
+{
+  "_id": "aee9e2a0",
+  "accessions": {
+    "excluded": [
+      "X01984"
+    ],
+    "included": [
+      "NC_003798.1"
+    ]
+  },
+  "name": "Lucerne transient streak virus satellite RNA",
+  "schema": [
+    {
+      "length": 324,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 193118
+}

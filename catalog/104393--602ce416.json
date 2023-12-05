@@ -1,0 +1,19 @@
+{
+  "_id": "602ce416",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF185957.1"
+    ]
+  },
+  "name": "Sarcochilus virus Y",
+  "schema": [
+    {
+      "length": 1685,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104393
+}

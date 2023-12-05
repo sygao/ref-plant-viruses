@@ -1,0 +1,21 @@
+{
+  "_id": "69yqwyqx",
+  "accessions": {
+    "excluded": [
+      "KT454832"
+    ],
+    "included": [
+      "NC_030403.1"
+    ]
+  },
+  "name": "Telfairia golden mosaic virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169737
+}

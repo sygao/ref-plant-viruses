@@ -1,0 +1,21 @@
+{
+  "_id": "298aeedc",
+  "accessions": {
+    "excluded": [
+      "KF533710"
+    ],
+    "included": [
+      "NC_025468.1"
+    ]
+  },
+  "name": "Carrot betaflexivirus 2",
+  "schema": [
+    {
+      "length": 8047,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1425362
+}

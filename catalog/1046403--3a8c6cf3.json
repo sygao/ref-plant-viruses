@@ -1,0 +1,21 @@
+{
+  "_id": "3a8c6cf3",
+  "accessions": {
+    "excluded": [
+      "HQ388348"
+    ],
+    "included": [
+      "NC_016038.1"
+    ]
+  },
+  "name": "Brassica yellows virus",
+  "schema": [
+    {
+      "length": 5666,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1046403
+}

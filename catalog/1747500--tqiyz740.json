@@ -1,0 +1,29 @@
+{
+  "_id": "tqiyz740",
+  "accessions": {
+    "excluded": [
+      "KT966771",
+      "KT966772"
+    ],
+    "included": [
+      "NC_038982.1",
+      "NC_040184.1"
+    ]
+  },
+  "name": "Cnidoscolus mosaic leaf deformation virus",
+  "schema": [
+    {
+      "length": 2641,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2613,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1747500
+}

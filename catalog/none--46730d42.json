@@ -1,0 +1,19 @@
+{
+  "_id": "46730d42",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB366022.1"
+    ]
+  },
+  "name": "Persimmon viroid 1",
+  "schema": [
+    {
+      "length": 396,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

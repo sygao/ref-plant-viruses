@@ -1,0 +1,21 @@
+{
+  "_id": "dbcc236f",
+  "accessions": {
+    "excluded": [
+      "AJ965539"
+    ],
+    "included": [
+      "NC_007210.1"
+    ]
+  },
+  "name": "Ludwigia yellow vein virus",
+  "schema": [
+    {
+      "length": 2758,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 325111
+}

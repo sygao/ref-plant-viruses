@@ -1,0 +1,21 @@
+{
+  "_id": "igzq5kdq",
+  "accessions": {
+    "excluded": [
+      "MN013786"
+    ],
+    "included": [
+      "NC_055582.1"
+    ]
+  },
+  "name": "Cucumber chlorotic leaf virus",
+  "schema": [
+    {
+      "length": 2627,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2593922
+}

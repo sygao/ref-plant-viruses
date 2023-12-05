@@ -1,0 +1,77 @@
+{
+  "_id": "nltqhzvi",
+  "accessions": {
+    "excluded": [
+      "MF535447",
+      "MF535448",
+      "MF535449",
+      "MF535450",
+      "MF535451",
+      "MF535452",
+      "MF535453",
+      "MF535454"
+    ],
+    "included": [
+      "NC_040744.1",
+      "NC_040745.1",
+      "NC_040746.1",
+      "NC_040747.1",
+      "NC_040748.1",
+      "NC_040749.1",
+      "NC_040750.1",
+      "NC_040751.1"
+    ]
+  },
+  "name": "Cow vetch latent virus",
+  "schema": [
+    {
+      "length": 988,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 980,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    },
+    {
+      "length": 992,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 984,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 986,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 1010,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 971,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 985,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    }
+  ],
+  "taxid": 2056780
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "ae86751e",
+  "accessions": {
+    "excluded": [
+      "JX678977"
+    ],
+    "included": [
+      "NC_019493.1"
+    ]
+  },
+  "name": "Grapevine endophyte endornavirus",
+  "schema": [
+    {
+      "length": 12154,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1249676
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "5a7cc7af",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "DQ641511.1"
+    ]
+  },
+  "name": "Zucchini yellow fleck virus",
+  "schema": [
+    {
+      "length": 1699,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 390849
+}

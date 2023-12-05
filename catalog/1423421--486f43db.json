@@ -1,0 +1,21 @@
+{
+  "_id": "486f43db",
+  "accessions": {
+    "excluded": [
+      "KF516923"
+    ],
+    "included": [
+      "NC_022893.1"
+    ]
+  },
+  "name": "Cherry leaf scorch small circular viroid-like RNA",
+  "schema": [
+    {
+      "length": 412,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 1423421
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "tfhb6u3l",
+  "accessions": {
+    "excluded": [
+      "LC091538"
+    ],
+    "included": [
+      "NC_031466.1"
+    ]
+  },
+  "name": "Lisianthus enation leaf curl virus DNA",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1740165
+}

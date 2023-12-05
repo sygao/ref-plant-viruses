@@ -1,0 +1,29 @@
+{
+  "_id": "4b207c46",
+  "accessions": {
+    "excluded": [
+      "AJ557451",
+      "AJ557453"
+    ],
+    "included": [
+      "NC_005330.1",
+      "NC_005331.1"
+    ]
+  },
+  "name": "Sida micrantha mosaic virus",
+  "schema": [
+    {
+      "length": 2675,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2656,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 228897
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "xkywmdrr",
+  "accessions": {
+    "excluded": [
+      "KX348228"
+    ],
+    "included": [
+      "NC_038993.1"
+    ]
+  },
+  "name": "Tomato yellow spot alphasatellite",
+  "schema": [
+    {
+      "length": 1367,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169827
+}

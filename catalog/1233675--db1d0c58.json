@@ -1,0 +1,21 @@
+{
+  "_id": "db1d0c58",
+  "accessions": {
+    "excluded": [
+      "AB178949"
+    ],
+    "included": [
+      "NC_008793.1"
+    ]
+  },
+  "name": "Honeysuckle yellow vein Kagoshima virus",
+  "schema": [
+    {
+      "length": 2762,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1233675
+}

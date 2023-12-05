@@ -1,0 +1,29 @@
+{
+  "_id": "abbbb0ea",
+  "accessions": {
+    "excluded": [
+      "AF039031",
+      "AF039032"
+    ],
+    "included": [
+      "NC_004638.1",
+      "NC_004644.1"
+    ]
+  },
+  "name": "Potato yellow mosaic Trinidad virus",
+  "schema": [
+    {
+      "length": 2582,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2535,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223308
+}

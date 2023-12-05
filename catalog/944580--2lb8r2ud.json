@@ -1,0 +1,21 @@
+{
+  "_id": "2lb8r2ud",
+  "accessions": {
+    "excluded": [
+      "HM640935"
+    ],
+    "included": [
+      "NC_015227.2"
+    ]
+  },
+  "name": "Trailing lespedeza virus 1",
+  "schema": [
+    {
+      "length": 3929,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 944580
+}

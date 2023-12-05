@@ -1,0 +1,21 @@
+{
+  "_id": "730cd24e",
+  "accessions": {
+    "excluded": [
+      "AJ558122"
+    ],
+    "included": [
+      "NC_005844.1"
+    ]
+  },
+  "name": "Papaya leaf curl Guandong virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 271479
+}

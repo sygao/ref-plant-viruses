@@ -1,0 +1,21 @@
+{
+  "_id": "8fcuilyp",
+  "accessions": {
+    "excluded": [
+      "AM701763"
+    ],
+    "included": [
+      "NC_038897.1"
+    ]
+  },
+  "name": "Tomato leaf curl Moheli virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 439425
+}

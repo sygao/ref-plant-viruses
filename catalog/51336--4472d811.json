@@ -1,0 +1,29 @@
+{
+  "_id": "4472d811",
+  "accessions": {
+    "excluded": [
+      "U65529",
+      "U65530"
+    ],
+    "included": [
+      "NC_003866.1",
+      "NC_003887.1"
+    ]
+  },
+  "name": "Cabbage leaf curl virus",
+  "schema": [
+    {
+      "length": 2583,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2513,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 51336
+}

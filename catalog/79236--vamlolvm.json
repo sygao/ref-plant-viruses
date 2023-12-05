@@ -1,0 +1,29 @@
+{
+  "_id": "vamlolvm",
+  "accessions": {
+    "excluded": [
+      "KT454834",
+      "KT454835"
+    ],
+    "included": [
+      "NC_030310.1",
+      "NC_030311.1"
+    ]
+  },
+  "name": "Cotton yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2766,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2716,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 79236
+}

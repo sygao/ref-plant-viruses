@@ -1,0 +1,14 @@
+{
+  "_id": "43wlajno",
+  "accessions": {
+    "excluded": [
+      "EU377539"
+    ],
+    "included": [
+      "NC_010307.1"
+    ]
+  },
+  "name": "Emilia yellow vein virus-[Fz1]",
+  "schema": [],
+  "taxid": 498803
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "a08c7e80",
+  "accessions": {
+    "excluded": [
+      "AJ437618"
+    ],
+    "included": [
+      "GQ268327.1",
+      "HE861940.1",
+      "JX436473.1",
+      "KC795968.1",
+      "KC818421.1",
+      "KM066975.1",
+      "KM262822.1",
+      "KM262823.1",
+      "KP725057.1",
+      "NC_003434.1"
+    ]
+  },
+  "name": "Ageratum enation virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 188333
+}

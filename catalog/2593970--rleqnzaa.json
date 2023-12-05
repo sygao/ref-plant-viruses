@@ -1,0 +1,19 @@
+{
+  "_id": "rleqnzaa",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH898491.1"
+    ]
+  },
+  "name": "Ficus tepovirus A",
+  "schema": [
+    {
+      "length": 6849,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2593970
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "wovp01qx",
+  "accessions": {
+    "excluded": [
+      "KC904083",
+      "KC904084"
+    ],
+    "included": [
+      "NC_038767.1",
+      "NC_038768.1"
+    ]
+  },
+  "name": "Mulberry mosaic leaf roll-associated virus",
+  "schema": [
+    {
+      "length": 7183,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3742,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1527441
+}

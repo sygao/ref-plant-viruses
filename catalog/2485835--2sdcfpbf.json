@@ -1,0 +1,24 @@
+{
+  "_id": "2sdcfpbf",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH837097.1",
+      "MK070867.1",
+      "MN971594.1",
+      "MT184945.1",
+      "MT184946.1",
+      "MT184947.1"
+    ]
+  },
+  "name": "Watermelon green mottle mosaic virus",
+  "schema": [
+    {
+      "length": 6482,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2485835
+}

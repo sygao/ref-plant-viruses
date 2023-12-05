@@ -1,0 +1,21 @@
+{
+  "_id": "9tt0tzsb",
+  "accessions": {
+    "excluded": [
+      "KT454828"
+    ],
+    "included": [
+      "NC_030309.1"
+    ]
+  },
+  "name": "Chayote yellow mosaic Benin betasatellite",
+  "schema": [
+    {
+      "length": 1367,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1736759
+}

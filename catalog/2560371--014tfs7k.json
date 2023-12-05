@@ -1,0 +1,21 @@
+{
+  "_id": "014tfs7k",
+  "accessions": {
+    "excluded": [
+      "KX066020"
+    ],
+    "included": [
+      "NC_030462.1"
+    ]
+  },
+  "name": "Canna yellow mottle-associated virus",
+  "schema": [
+    {
+      "length": 6966,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560371
+}

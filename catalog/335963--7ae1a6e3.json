@@ -1,0 +1,21 @@
+{
+  "_id": "7ae1a6e3",
+  "accessions": {
+    "excluded": [
+      "DQ098905"
+    ],
+    "included": [
+      "NC_011540.1"
+    ]
+  },
+  "name": "Hippeastrum latent virus",
+  "schema": [
+    {
+      "length": 8500,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 335963
+}

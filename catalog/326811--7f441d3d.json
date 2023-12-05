@@ -1,0 +1,21 @@
+{
+  "_id": "7f441d3d",
+  "accessions": {
+    "excluded": [
+      "EF408037"
+    ],
+    "included": [
+      "NC_009451.1"
+    ]
+  },
+  "name": "Clerodendron yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2760,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 326811
+}

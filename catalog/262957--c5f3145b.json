@@ -1,0 +1,27 @@
+{
+  "_id": "c5f3145b",
+  "accessions": {
+    "excluded": [
+      "KC808712"
+    ],
+    "included": [
+      "KJ873041.1",
+      "KJ873042.1",
+      "KJ873043.1",
+      "MF996373.1",
+      "MF996374.1",
+      "MW116777.1",
+      "NC_022365.1"
+    ]
+  },
+  "name": "Piper yellow mottle virus",
+  "schema": [
+    {
+      "length": 7572,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 262957
+}

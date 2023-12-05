@@ -1,0 +1,77 @@
+{
+  "_id": "2eb6aeaa",
+  "accessions": {
+    "excluded": [
+      "AJ132184",
+      "AJ132183",
+      "AJ132179",
+      "AJ132181",
+      "AJ132186",
+      "AJ132180",
+      "AJ749902",
+      "AJ132182"
+    ],
+    "included": [
+      "NC_003559.1",
+      "NC_003560.1",
+      "NC_003561.1",
+      "NC_003562.1",
+      "NC_003563.1",
+      "NC_003564.1",
+      "NC_003566.1",
+      "NC_024457.1"
+    ]
+  },
+  "name": "Faba bean necrotic yellows virus",
+  "schema": [
+    {
+      "length": 992,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 986,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1006,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 1003,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 996,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 1020,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 991,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    },
+    {
+      "length": 999,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    }
+  ],
+  "taxid": 59817
+}

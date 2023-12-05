@@ -1,0 +1,39 @@
+{
+  "_id": "1042e8f8",
+  "accessions": {
+    "excluded": [
+      "FJ712026",
+      "FJ712027"
+    ],
+    "included": [
+      "FJ516745.1",
+      "FJ516746.1",
+      "GQ222381.1",
+      "GQ222382.1",
+      "GU968732.1",
+      "GU968733.2",
+      "MW274715.1",
+      "MW274717.1",
+      "MW720558.1",
+      "MW720559.1",
+      "NC_013218.1",
+      "NC_013219.1"
+    ]
+  },
+  "name": "Turnip ringspot virus",
+  "schema": [
+    {
+      "length": 6071,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3968,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 392504
+}

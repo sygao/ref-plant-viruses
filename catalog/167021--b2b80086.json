@@ -1,0 +1,21 @@
+{
+  "_id": "b2b80086",
+  "accessions": {
+    "excluded": [
+      "AY038069"
+    ],
+    "included": [
+      "NC_005985.1"
+    ]
+  },
+  "name": "Pelargonium chlorotic ring pattern virus",
+  "schema": [
+    {
+      "length": 3904,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167021
+}

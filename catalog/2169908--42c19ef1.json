@@ -1,0 +1,21 @@
+{
+  "_id": "42c19ef1",
+  "accessions": {
+    "excluded": [
+      "JF733780"
+    ],
+    "included": [
+      "NC_015929.1"
+    ]
+  },
+  "name": "Vernonia yellow vein Fujian virus alphasatellite",
+  "schema": [
+    {
+      "length": 1343,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169908
+}

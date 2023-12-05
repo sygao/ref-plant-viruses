@@ -1,0 +1,29 @@
+{
+  "_id": "b944669b",
+  "accessions": {
+    "excluded": [
+      "HM585435",
+      "HM585436"
+    ],
+    "included": [
+      "NC_024304.1",
+      "NC_024305.1"
+    ]
+  },
+  "name": "Solanum mosaic Bolivia virus",
+  "schema": [
+    {
+      "length": 2602,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2594,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 932073
+}

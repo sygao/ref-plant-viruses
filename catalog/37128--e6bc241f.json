@@ -1,0 +1,49 @@
+{
+  "_id": "e6bc241f",
+  "accessions": {
+    "excluded": [
+      "AJ238607",
+      "AJ243719",
+      "AJ277556"
+    ],
+    "included": [
+      "KM822695.1",
+      "KM822696.1",
+      "KM822697.1",
+      "KM822699.1",
+      "KM822700.1",
+      "KM822702.1",
+      "KM822704.2",
+      "KM822705.1",
+      "KM822707.1",
+      "KP420026.1",
+      "KP420027.1",
+      "KP420028.1",
+      "NC_003723.1",
+      "NC_003724.1",
+      "NC_003725.1"
+    ]
+  },
+  "name": "Potato mop-top virus",
+  "schema": [
+    {
+      "length": 6042,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3100,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2991,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 37128
+}

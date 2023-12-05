@@ -1,0 +1,21 @@
+{
+  "_id": "uzbv7is8",
+  "accessions": {
+    "excluded": [
+      "KU365408"
+    ],
+    "included": [
+      "NC_030205.1"
+    ]
+  },
+  "name": "Water chestnut soymovirus 1",
+  "schema": [
+    {
+      "length": 7535,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1848040
+}

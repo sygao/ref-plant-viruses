@@ -1,0 +1,19 @@
+{
+  "_id": "67f584c6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KC706605.1"
+    ]
+  },
+  "name": "Tomato leaf distortion virus",
+  "schema": [
+    {
+      "length": 2644,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 536085
+}

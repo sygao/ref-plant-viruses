@@ -1,0 +1,21 @@
+{
+  "_id": "arvovo4o",
+  "accessions": {
+    "excluded": [
+      "KT253577"
+    ],
+    "included": [
+      "NC_027820.1"
+    ]
+  },
+  "name": "Poaceae associated gemycircularvirus 1",
+  "schema": [
+    {
+      "length": 2253,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985392
+}

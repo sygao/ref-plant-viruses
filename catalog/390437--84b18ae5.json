@@ -1,0 +1,29 @@
+{
+  "_id": "84b18ae5",
+  "accessions": {
+    "excluded": [
+      "DQ641690",
+      "DQ641691"
+    ],
+    "included": [
+      "NC_009645.1",
+      "NC_009647.1"
+    ]
+  },
+  "name": "Kudzu mosaic virus",
+  "schema": [
+    {
+      "length": 2731,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2672,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 390437
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "b891077f",
+  "accessions": {
+    "excluded": [
+      "AY751780"
+    ],
+    "included": [
+      "NC_011559.1"
+    ]
+  },
+  "name": "Anagyris vein yellowing virus",
+  "schema": [
+    {
+      "length": 6151,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312275
+}

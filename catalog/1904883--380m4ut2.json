@@ -1,0 +1,29 @@
+{
+  "_id": "380m4ut2",
+  "accessions": {
+    "excluded": [
+      "KX691402",
+      "KX691413"
+    ],
+    "included": [
+      "NC_031454.1",
+      "NC_031455.1"
+    ]
+  },
+  "name": "Sida chlorotic vein virus",
+  "schema": [
+    {
+      "length": 2654,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2491,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1904883
+}

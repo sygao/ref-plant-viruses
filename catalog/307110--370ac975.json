@@ -1,0 +1,21 @@
+{
+  "_id": "370ac975",
+  "accessions": {
+    "excluded": [
+      "AY705380"
+    ],
+    "included": [
+      "NC_007290.1"
+    ]
+  },
+  "name": "Cotton leaf curl Bangalore virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 307110
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "dc61ac8b",
+  "accessions": {
+    "excluded": [
+      "FJ493469"
+    ],
+    "included": [
+      "NC_011920.1"
+    ]
+  },
+  "name": "Rudbeckia flower distortion virus",
+  "schema": [
+    {
+      "length": 8222,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 587370
+}

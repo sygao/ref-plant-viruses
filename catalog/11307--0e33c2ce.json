@@ -1,0 +1,22 @@
+{
+  "_id": "0e33c2ce",
+  "accessions": {
+    "excluded": [
+      "L32603"
+    ],
+    "included": [
+      "MT613317.1",
+      "NC_001615.1"
+    ]
+  },
+  "name": "Sonchus yellow net virus",
+  "schema": [
+    {
+      "length": 13722,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 11307
+}

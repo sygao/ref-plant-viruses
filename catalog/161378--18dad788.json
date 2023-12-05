@@ -1,0 +1,29 @@
+{
+  "_id": "18dad788",
+  "accessions": {
+    "excluded": [
+      "AJ314737",
+      "AJ314738"
+    ],
+    "included": [
+      "NC_003861.1",
+      "NC_003862.1"
+    ]
+  },
+  "name": "Sri Lankan cassava mosaic virus",
+  "schema": [
+    {
+      "length": 2755,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2711,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 161378
+}

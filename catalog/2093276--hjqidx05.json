@@ -1,0 +1,21 @@
+{
+  "_id": "hjqidx05",
+  "accessions": {
+    "excluded": [
+      "MG001961"
+    ],
+    "included": [
+      "NC_037063.1"
+    ]
+  },
+  "name": "Limeum africanum associated virus",
+  "schema": [
+    {
+      "length": 2963,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2093276
+}

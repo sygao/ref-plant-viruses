@@ -1,0 +1,21 @@
+{
+  "_id": "4269fa54",
+  "accessions": {
+    "excluded": [
+      "U16735"
+    ],
+    "included": [
+      "NC_003818.1"
+    ]
+  },
+  "name": "Subterranean clover stunt C6 alphasatellite",
+  "schema": [
+    {
+      "length": 1017,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1458459
+}

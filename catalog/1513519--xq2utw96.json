@@ -1,0 +1,29 @@
+{
+  "_id": "xq2utw96",
+  "accessions": {
+    "excluded": [
+      "DQ406672",
+      "DQ406673"
+    ],
+    "included": [
+      "NC_038802.1",
+      "NC_038803.1"
+    ]
+  },
+  "name": "Rhynchosia golden mosaic Sinaloa virus",
+  "schema": [
+    {
+      "length": 2578,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2525,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1513519
+}

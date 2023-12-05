@@ -1,0 +1,29 @@
+{
+  "_id": "f6d8784b",
+  "accessions": {
+    "excluded": [
+      "FJ380118",
+      "FJ380119"
+    ],
+    "included": [
+      "NC_012909.1",
+      "NC_012910.1"
+    ]
+  },
+  "name": "Lettuce chlorosis virus",
+  "schema": [
+    {
+      "length": 8591,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 8556,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 642478
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "740e476c",
+  "accessions": {
+    "excluded": [
+      "KC577540"
+    ],
+    "included": [
+      "NC_021245.1"
+    ]
+  },
+  "name": "Malvastrum leaf curl Philippines virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1333313
+}

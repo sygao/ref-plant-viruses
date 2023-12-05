@@ -1,0 +1,29 @@
+{
+  "_id": "91f8479c",
+  "accessions": {
+    "excluded": [
+      "DQ356428",
+      "DQ520944"
+    ],
+    "included": [
+      "NC_008056.1",
+      "NC_008059.1"
+    ]
+  },
+  "name": "Sida mosaic Sinaloa virus",
+  "schema": [
+    {
+      "length": 2605,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2577,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 367850
+}

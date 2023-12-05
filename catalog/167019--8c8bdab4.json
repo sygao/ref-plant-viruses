@@ -1,0 +1,23 @@
+{
+  "_id": "8c8bdab4",
+  "accessions": {
+    "excluded": [
+      "AY613852"
+    ],
+    "included": [
+      "AY038067.2",
+      "EU849616.1",
+      "NC_007017.1"
+    ]
+  },
+  "name": "Pelargonium line pattern virus",
+  "schema": [
+    {
+      "length": 3882,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167019
+}

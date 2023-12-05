@@ -1,0 +1,21 @@
+{
+  "_id": "5830493e",
+  "accessions": {
+    "excluded": [
+      "HQ668024"
+    ],
+    "included": [
+      "NC_023292.1"
+    ]
+  },
+  "name": "Papaya leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1364,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1112202
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "b8797558",
+  "accessions": {
+    "excluded": [
+      "AM072289"
+    ],
+    "included": [
+      "NC_007711.1"
+    ]
+  },
+  "name": "Malvastrum leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 339965
+}

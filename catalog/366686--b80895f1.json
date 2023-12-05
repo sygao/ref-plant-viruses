@@ -1,0 +1,21 @@
+{
+  "_id": "b80895f1",
+  "accessions": {
+    "excluded": [
+      "AM181684"
+    ],
+    "included": [
+      "NC_007735.1"
+    ]
+  },
+  "name": "TYLCCNV-[Y322] satellite DNA beta",
+  "schema": [
+    {
+      "length": 1331,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 366686
+}

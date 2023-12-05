@@ -1,0 +1,75 @@
+{
+  "_id": "dchfse32",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KJ939623.1",
+      "KJ939624.1",
+      "KJ939625.1",
+      "KJ939626.1",
+      "KJ939627.1",
+      "KJ939628.1",
+      "KJ939629.1",
+      "KJ939630.1",
+      "KJ939631.1"
+    ]
+  },
+  "name": "High Plains wheat mosaic virus",
+  "schema": [
+    {
+      "length": 6981,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2211,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1439,
+      "molecule": "ssRNA-",
+      "name": "RNA 3a",
+      "required": true
+    },
+    {
+      "length": 1682,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1715,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1752,
+      "molecule": "ssRNA-",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1434,
+      "molecule": "ssRNA-",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1441,
+      "molecule": "ssRNA-",
+      "name": "RNA 3b",
+      "required": true
+    },
+    {
+      "length": 1339,
+      "molecule": "ssRNA-",
+      "name": "RNA 8",
+      "required": true
+    }
+  ],
+  "taxid": 1980428
+}

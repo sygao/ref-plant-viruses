@@ -1,0 +1,21 @@
+{
+  "_id": "d4a26c33",
+  "accessions": {
+    "excluded": [
+      "HM037921"
+    ],
+    "included": [
+      "NC_017829.1"
+    ]
+  },
+  "name": "Cotton leaf curl virus betasatellite",
+  "schema": [
+    {
+      "length": 1436,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 134386
+}

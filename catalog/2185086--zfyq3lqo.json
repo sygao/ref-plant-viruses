@@ -1,0 +1,19 @@
+{
+  "_id": "zfyq3lqo",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG254193.1"
+    ]
+  },
+  "name": "Blackberry virus A",
+  "schema": [
+    {
+      "length": 7285,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2185086
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "028b7cda",
+  "accessions": {
+    "excluded": [
+      "AY792620"
+    ],
+    "included": [
+      "NC_006944.1"
+    ]
+  },
+  "name": "Mint virus 1",
+  "schema": [
+    {
+      "length": 15450,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 300740
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "sfm71u0y",
+  "accessions": {
+    "excluded": [
+      "EU487042"
+    ],
+    "included": [
+      "NC_010439.1"
+    ]
+  },
+  "name": "Tomato leaf curl Cebu virus",
+  "schema": [
+    {
+      "length": 2723,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 507474
+}

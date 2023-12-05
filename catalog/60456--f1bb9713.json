@@ -1,0 +1,37 @@
+{
+  "_id": "f1bb9713",
+  "accessions": {
+    "excluded": [
+      "AF001387",
+      "FJ361359",
+      "FJ623474"
+    ],
+    "included": [
+      "NC_029798.1",
+      "NC_029799.1",
+      "NC_029800.1"
+    ]
+  },
+  "name": "Iris yellow spot virus",
+  "schema": [
+    {
+      "length": 8880,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4821,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3105,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 60456
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "jowo14x6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX838923.1",
+      "KX838924.1"
+    ]
+  },
+  "name": "Black currant leaf chlorosis associated virus",
+  "schema": [
+    {
+      "length": 5349,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2280,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1937789
+}

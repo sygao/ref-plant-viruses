@@ -1,0 +1,21 @@
+{
+  "_id": "fde446f1",
+  "accessions": {
+    "excluded": [
+      "L25299"
+    ],
+    "included": [
+      "NC_004751.1"
+    ]
+  },
+  "name": "Cereal yellow dwarf virus-RPV",
+  "schema": [
+    {
+      "length": 5723,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170100
+}

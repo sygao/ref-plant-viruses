@@ -1,0 +1,21 @@
+{
+  "_id": "328fc4c4",
+  "accessions": {
+    "excluded": [
+      "AB218287"
+    ],
+    "included": [
+      "NC_013447.1"
+    ]
+  },
+  "name": "Helicobasidium mompa endornavirus 1",
+  "schema": [
+    {
+      "length": 16614,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 675833
+}

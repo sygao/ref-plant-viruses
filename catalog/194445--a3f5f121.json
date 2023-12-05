@@ -1,0 +1,21 @@
+{
+  "_id": "a3f5f121",
+  "accessions": {
+    "excluded": [
+      "AF454635"
+    ],
+    "included": [
+      "NC_004036.1"
+    ]
+  },
+  "name": "Mirabilis mosaic virus",
+  "schema": [
+    {
+      "length": 7857,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 194445
+}

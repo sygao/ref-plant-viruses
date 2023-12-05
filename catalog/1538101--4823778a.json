@@ -1,0 +1,21 @@
+{
+  "_id": "4823778a",
+  "accessions": {
+    "excluded": [
+      "KJ859134"
+    ],
+    "included": [
+      "NC_024777.1"
+    ]
+  },
+  "name": "Small begomovirus-associated satellite",
+  "schema": [
+    {
+      "length": 687,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1538101
+}

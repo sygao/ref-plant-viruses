@@ -1,0 +1,21 @@
+{
+  "_id": "4zo1rooj",
+  "accessions": {
+    "excluded": [
+      "KY696677"
+    ],
+    "included": [
+      "NC_035452.1"
+    ]
+  },
+  "name": "Rice virus A",
+  "schema": [
+    {
+      "length": 4832,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2021212
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "b2dd7007",
+  "accessions": {
+    "excluded": [
+      "AF237816"
+    ],
+    "included": [
+      "EU188439.1",
+      "NC_002468.1"
+    ]
+  },
+  "name": "Cherry necrotic rusty mottle virus",
+  "schema": [
+    {
+      "length": 8430,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 129143
+}

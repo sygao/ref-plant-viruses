@@ -1,0 +1,21 @@
+{
+  "_id": "1d365dc4",
+  "accessions": {
+    "excluded": [
+      "AB010302"
+    ],
+    "included": [
+      "NC_003376.1"
+    ]
+  },
+  "name": "Garlic virus C",
+  "schema": [
+    {
+      "length": 8405,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12431
+}

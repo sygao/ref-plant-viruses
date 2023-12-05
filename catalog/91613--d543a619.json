@@ -1,0 +1,21 @@
+{
+  "_id": "d543a619",
+  "accessions": {
+    "excluded": [
+      "JQ801448"
+    ],
+    "included": [
+      "NC_020072.1"
+    ]
+  },
+  "name": "Colombian datura virus",
+  "schema": [
+    {
+      "length": 9621,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 91613
+}

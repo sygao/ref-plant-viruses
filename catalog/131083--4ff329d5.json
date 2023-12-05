@@ -1,0 +1,21 @@
+{
+  "_id": "4ff329d5",
+  "accessions": {
+    "excluded": [
+      "X13063"
+    ],
+    "included": [
+      "NC_003743.1"
+    ]
+  },
+  "name": "Turnip yellows virus",
+  "schema": [
+    {
+      "length": 5641,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 131083
+}

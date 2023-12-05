@@ -1,0 +1,23 @@
+{
+  "_id": "17a3e087",
+  "accessions": {
+    "excluded": [
+      "EU127904",
+      "DQ227315"
+    ],
+    "included": [
+      "DQ227315.1",
+      "NC_007816.1"
+    ]
+  },
+  "name": "Cucumber leaf spot virus",
+  "schema": [
+    {
+      "length": 4432,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 165432
+}

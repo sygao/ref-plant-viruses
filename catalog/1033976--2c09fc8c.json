@@ -1,0 +1,37 @@
+{
+  "_id": "2c09fc8c",
+  "accessions": {
+    "excluded": [
+      "JF417980",
+      "JN587268",
+      "JN587269"
+    ],
+    "included": [
+      "NC_018070.1",
+      "NC_018071.1",
+      "NC_018072.1"
+    ]
+  },
+  "name": "Bean necrotic mosaic virus",
+  "schema": [
+    {
+      "length": 9040,
+      "molecule": "ssRNA-",
+      "name": "L",
+      "required": true
+    },
+    {
+      "length": 4886,
+      "molecule": "ssRNA-",
+      "name": "M",
+      "required": true
+    },
+    {
+      "length": 2584,
+      "molecule": "ssRNA-",
+      "name": "S",
+      "required": true
+    }
+  ],
+  "taxid": 1033976
+}

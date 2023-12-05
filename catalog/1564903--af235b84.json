@@ -1,0 +1,27 @@
+{
+  "_id": "af235b84",
+  "accessions": {
+    "excluded": [
+      "KM233705"
+    ],
+    "included": [
+      "KM233706.1",
+      "MZ328110.1",
+      "MZ328111.1",
+      "MZ351169.1",
+      "MZ351170.1",
+      "MZ351173.1",
+      "NC_025435.1"
+    ]
+  },
+  "name": "Strawberry polerovirus 1",
+  "schema": [
+    {
+      "length": 5971,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1564903
+}

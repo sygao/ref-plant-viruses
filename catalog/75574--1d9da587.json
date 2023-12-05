@@ -1,0 +1,29 @@
+{
+  "_id": "1d9da587",
+  "accessions": {
+    "excluded": [
+      "KF723258",
+      "KF723261"
+    ],
+    "included": [
+      "NC_024012.1",
+      "NC_024013.1"
+    ]
+  },
+  "name": "Jatropha mosaic virus",
+  "schema": [
+    {
+      "length": 2610,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2588,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 75574
+}

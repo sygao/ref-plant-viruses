@@ -1,0 +1,21 @@
+{
+  "_id": "022b343a",
+  "accessions": {
+    "excluded": [
+      "AB353071"
+    ],
+    "included": [
+      "NC_010295.1"
+    ]
+  },
+  "name": "Phaius virus X",
+  "schema": [
+    {
+      "length": 5816,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 457382
+}

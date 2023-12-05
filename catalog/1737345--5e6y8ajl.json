@@ -1,0 +1,21 @@
+{
+  "_id": "5e6y8ajl",
+  "accessions": {
+    "excluded": [
+      "KR605505"
+    ],
+    "included": [
+      "NC_028131.1"
+    ]
+  },
+  "name": "Grapevine latent viroid",
+  "schema": [
+    {
+      "length": 328,
+      "molecule": "",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 1737345
+}

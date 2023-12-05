@@ -1,0 +1,21 @@
+{
+  "_id": "b4sfdu6x",
+  "accessions": {
+    "excluded": [
+      "MG001959"
+    ],
+    "included": [
+      "NC_037068.1"
+    ]
+  },
+  "name": "Polygala garcinii associated virus",
+  "schema": [
+    {
+      "length": 2798,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2093274
+}

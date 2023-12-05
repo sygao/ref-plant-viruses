@@ -1,0 +1,29 @@
+{
+  "_id": "qbbge9fz",
+  "accessions": {
+    "excluded": [
+      "KX691396",
+      "KX691412"
+    ],
+    "included": [
+      "NC_031448.1",
+      "NC_031453.1"
+    ]
+  },
+  "name": "Macroptilium common mosaic virus",
+  "schema": [
+    {
+      "length": 2632,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2598,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1904881
+}

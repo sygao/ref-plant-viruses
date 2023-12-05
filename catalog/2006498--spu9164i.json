@@ -1,0 +1,23 @@
+{
+  "_id": "spu9164i",
+  "accessions": {
+    "excluded": [
+      "KY635988"
+    ],
+    "included": [
+      "KY635989.1",
+      "MH345723.1",
+      "NC_034970.1"
+    ]
+  },
+  "name": "Peach associated luteovirus",
+  "schema": [
+    {
+      "length": 5814,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2006498
+}

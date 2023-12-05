@@ -1,0 +1,23 @@
+{
+  "_id": "c911b48b",
+  "accessions": {
+    "excluded": [
+      "DQ455582"
+    ],
+    "included": [
+      "MH379331.1",
+      "MT723990.1",
+      "NC_008292.1"
+    ]
+  },
+  "name": "Passiflora latent carlavirus",
+  "schema": [
+    {
+      "length": 8374,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 379892
+}

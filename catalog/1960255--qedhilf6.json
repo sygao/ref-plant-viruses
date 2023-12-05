@@ -1,0 +1,21 @@
+{
+  "_id": "qedhilf6",
+  "accessions": {
+    "excluded": [
+      "JN606110"
+    ],
+    "included": [
+      "NC_038378.1"
+    ]
+  },
+  "name": "Cacao swollen shoot CD virus",
+  "schema": [
+    {
+      "length": 7203,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1960255
+}

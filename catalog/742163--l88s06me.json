@@ -1,0 +1,21 @@
+{
+  "_id": "l88s06me",
+  "accessions": {
+    "excluded": [
+      "KT948069"
+    ],
+    "included": [
+      "NC_038980.1"
+    ]
+  },
+  "name": "Duranta leaf curl virus",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 742163
+}

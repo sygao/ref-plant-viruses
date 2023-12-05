@@ -1,0 +1,21 @@
+{
+  "_id": "qog4aww0",
+  "accessions": {
+    "excluded": [
+      "MG764084"
+    ],
+    "included": [
+      "NC_040825.1"
+    ]
+  },
+  "name": "Cluster bean endornavirus 1",
+  "schema": [
+    {
+      "length": 12895,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2340808
+}

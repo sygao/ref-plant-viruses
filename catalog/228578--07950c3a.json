@@ -1,0 +1,30 @@
+{
+  "_id": "07950c3a",
+  "accessions": {
+    "excluded": [
+      "U30944"
+    ],
+    "included": [
+      "AB261175.1",
+      "AF254924.1",
+      "AY318866.1",
+      "D38444.1",
+      "DQ223770.1",
+      "EU571218.1",
+      "JN634066.1",
+      "JX422022.1",
+      "KF137561.1",
+      "NC_004422.1"
+    ]
+  },
+  "name": "Youcai mosaic virus",
+  "schema": [
+    {
+      "length": 6302,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 228578
+}

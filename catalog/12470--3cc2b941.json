@@ -1,0 +1,22 @@
+{
+  "_id": "3cc2b941",
+  "accessions": {
+    "excluded": [
+      "U31286",
+      "JQ782213"
+    ],
+    "included": [
+      "NC_001696.1"
+    ]
+  },
+  "name": "Lucerne transient streak virus",
+  "schema": [
+    {
+      "length": 4279,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12470
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "66q0uc55",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK050795.1"
+    ]
+  },
+  "name": "Camellia ringspot associated virus 3",
+  "schema": [
+    {
+      "length": 7414,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2606571
+}

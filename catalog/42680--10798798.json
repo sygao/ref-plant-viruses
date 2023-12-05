@@ -1,0 +1,37 @@
+{
+  "_id": "10798798",
+  "accessions": {
+    "excluded": [
+      "U93192",
+      "U93193",
+      "U93194"
+    ],
+    "included": [
+      "NC_003808.1",
+      "NC_003809.1",
+      "NC_003810.1"
+    ]
+  },
+  "name": "Spinach latent virus",
+  "schema": [
+    {
+      "length": 3439,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2939,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2310,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 42680
+}

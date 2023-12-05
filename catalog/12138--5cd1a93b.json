@@ -1,0 +1,14 @@
+{
+  "_id": "5cd1a93b",
+  "accessions": {
+    "excluded": [
+      "X14736"
+    ],
+    "included": [
+      "NC_003627.1"
+    ]
+  },
+  "name": "Maize chlorotic mottle virus",
+  "schema": [],
+  "taxid": 12138
+}

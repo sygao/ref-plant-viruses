@@ -1,0 +1,19 @@
+{
+  "_id": "ea78d52f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EU919669.1"
+    ]
+  },
+  "name": "Lilac ring mottle virus",
+  "schema": [
+    {
+      "length": 2821,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 37125
+}

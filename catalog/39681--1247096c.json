@@ -1,0 +1,37 @@
+{
+  "_id": "1247096c",
+  "accessions": {
+    "excluded": [
+      "EU919666",
+      "EU919667",
+      "X86352"
+    ],
+    "included": [
+      "NC_011807.1",
+      "NC_011808.1",
+      "NC_011809.1"
+    ]
+  },
+  "name": "Asparagus virus 2",
+  "schema": [
+    {
+      "length": 3431,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2916,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2307,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 39681
+}

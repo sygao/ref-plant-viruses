@@ -1,0 +1,26 @@
+{
+  "_id": "d421655d",
+  "accessions": {
+    "excluded": [
+      "X12456"
+    ],
+    "included": [
+      "MT585815.1",
+      "MT663313.1",
+      "MW582808.1",
+      "MW854290.1",
+      "MZ202342.1",
+      "NC_001616.1"
+    ]
+  },
+  "name": "Potato virus Y",
+  "schema": [
+    {
+      "length": 9710,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12216
+}

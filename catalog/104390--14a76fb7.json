@@ -1,0 +1,19 @@
+{
+  "_id": "14a76fb7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF185958.1"
+    ]
+  },
+  "name": "Pleione virus Y",
+  "schema": [
+    {
+      "length": 1645,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104390
+}

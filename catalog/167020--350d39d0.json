@@ -1,0 +1,21 @@
+{
+  "_id": "350d39d0",
+  "accessions": {
+    "excluded": [
+      "AY038068"
+    ],
+    "included": [
+      "NC_026240.1"
+    ]
+  },
+  "name": "Pelargonium ringspot virus",
+  "schema": [
+    {
+      "length": 3865,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167020
+}

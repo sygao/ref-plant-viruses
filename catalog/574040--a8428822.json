@@ -1,0 +1,27 @@
+{
+  "_id": "a8428822",
+  "accessions": {
+    "excluded": [
+      "FJ409044"
+    ],
+    "included": [
+      "JF446886.1",
+      "JF446891.1",
+      "JF446894.1",
+      "JF742637.1",
+      "KC143303.1",
+      "KM214227.1",
+      "NC_011590.1"
+    ]
+  },
+  "name": "Pepper chat fruit viroid",
+  "schema": [
+    {
+      "length": 348,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 574040
+}

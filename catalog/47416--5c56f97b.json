@@ -1,0 +1,29 @@
+{
+  "_id": "5c56f97b",
+  "accessions": {
+    "excluded": [
+      "AB009958",
+      "AB009959"
+    ],
+    "included": [
+      "NC_003785.1",
+      "NC_003786.1"
+    ]
+  },
+  "name": "Satsuma dwarf virus",
+  "schema": [
+    {
+      "length": 6794,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 5344,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 47416
+}

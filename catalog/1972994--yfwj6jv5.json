@@ -1,0 +1,19 @@
+{
+  "_id": "yfwj6jv5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC228573.1"
+    ]
+  },
+  "name": "Gomphocarpus mosaic virus",
+  "schema": [
+    {
+      "length": 9998,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1972994
+}

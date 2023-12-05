@@ -1,0 +1,14 @@
+{
+  "_id": "2de8989e",
+  "accessions": {
+    "excluded": [
+      "X06166"
+    ],
+    "included": [
+      "NC_003554.1"
+    ]
+  },
+  "name": "Figwort mosaic virus",
+  "schema": [],
+  "taxid": 10649
+}

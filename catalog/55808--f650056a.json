@@ -1,0 +1,33 @@
+{
+  "_id": "f650056a",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "U82446.1",
+      "U82447.1",
+      "U82448.1"
+    ]
+  },
+  "name": "Urochloa hoja blanca virus",
+  "schema": [
+    {
+      "length": 1730,
+      "molecule": "ssRNA-",
+      "name": "RNA pc1",
+      "required": true
+    },
+    {
+      "length": 2271,
+      "molecule": "ssRNA-",
+      "name": "RNA pv3",
+      "required": true
+    },
+    {
+      "length": 1860,
+      "molecule": "ssRNA-",
+      "name": "RNA pv4",
+      "required": true
+    }
+  ],
+  "taxid": 55808
+}

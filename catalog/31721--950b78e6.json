@@ -1,0 +1,53 @@
+{
+  "_id": "950b78e6",
+  "accessions": {
+    "excluded": [
+      "D63936",
+      "D84410",
+      "D84411",
+      "D84412",
+      "D84413"
+    ],
+    "included": [
+      "NC_003513.1",
+      "NC_003514.1",
+      "NC_003515.1",
+      "NC_003516.1",
+      "NC_003517.1"
+    ]
+  },
+  "name": "Beet necrotic yellow vein virus",
+  "schema": [
+    {
+      "length": 6746,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4609,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1774,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1465,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1320,
+      "molecule": "ssRNA+",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 31721
+}

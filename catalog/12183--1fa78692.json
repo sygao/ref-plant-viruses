@@ -1,0 +1,27 @@
+{
+  "_id": "1fa78692",
+  "accessions": {
+    "excluded": [
+      "D00344"
+    ],
+    "included": [
+      "MT374179.1",
+      "MT613318.1",
+      "MT613319.1",
+      "MW051786.1",
+      "MW582803.1",
+      "MW961143.1",
+      "NC_011620.1"
+    ]
+  },
+  "name": "Potato virus X",
+  "schema": [
+    {
+      "length": 6439,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12183
+}

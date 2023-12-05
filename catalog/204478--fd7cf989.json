@@ -1,0 +1,21 @@
+{
+  "_id": "fd7cf989",
+  "accessions": {
+    "excluded": [
+      "JQ692088"
+    ],
+    "included": [
+      "NC_018833.1"
+    ]
+  },
+  "name": "Iranian johnsongrass mosaic virus",
+  "schema": [
+    {
+      "length": 9544,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 204478
+}

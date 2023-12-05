@@ -1,0 +1,21 @@
+{
+  "_id": "bd3bb471",
+  "accessions": {
+    "excluded": [
+      "AY751779"
+    ],
+    "included": [
+      "NC_011539.1"
+    ]
+  },
+  "name": "Plantago mottle virus",
+  "schema": [
+    {
+      "length": 6154,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312274
+}

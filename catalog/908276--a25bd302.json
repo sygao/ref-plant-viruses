@@ -1,0 +1,21 @@
+{
+  "_id": "a25bd302",
+  "accessions": {
+    "excluded": [
+      "GU111961"
+    ],
+    "included": [
+      "NC_014896.1"
+    ]
+  },
+  "name": "Okra enation leaf curl betasatellite [India:Sonipat:EL10:2006]",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 908276
+}

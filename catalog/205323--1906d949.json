@@ -1,0 +1,21 @@
+{
+  "_id": "1906d949",
+  "accessions": {
+    "excluded": [
+      "FM955608"
+    ],
+    "included": [
+      "NC_013800.1"
+    ]
+  },
+  "name": "Tobacco leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1344,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 205323
+}

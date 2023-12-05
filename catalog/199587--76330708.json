@@ -1,0 +1,21 @@
+{
+  "_id": "76330708",
+  "accessions": {
+    "excluded": [
+      "AY036009"
+    ],
+    "included": [
+      "NC_004071.1"
+    ]
+  },
+  "name": "Hollyhock leaf crumple virus",
+  "schema": [
+    {
+      "length": 2755,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 199587
+}

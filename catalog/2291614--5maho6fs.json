@@ -1,0 +1,21 @@
+{
+  "_id": "5maho6fs",
+  "accessions": {
+    "excluded": [
+      "MH047858"
+    ],
+    "included": [
+      "NC_040339.1"
+    ]
+  },
+  "name": "Euphorbia heterophylla associated gemycircularvirus",
+  "schema": [
+    {
+      "length": 2125,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2291614
+}

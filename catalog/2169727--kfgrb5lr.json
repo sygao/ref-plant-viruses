@@ -1,0 +1,21 @@
+{
+  "_id": "kfgrb5lr",
+  "accessions": {
+    "excluded": [
+      "KX008574"
+    ],
+    "included": [
+      "NC_038986.1"
+    ]
+  },
+  "name": "Dioscorea bacilliform RT virus 1",
+  "schema": [
+    {
+      "length": 7702,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169727
+}

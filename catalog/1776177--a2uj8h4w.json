@@ -1,0 +1,21 @@
+{
+  "_id": "a2uj8h4w",
+  "accessions": {
+    "excluded": [
+      "KT727022"
+    ],
+    "included": [
+      "NC_029064.1"
+    ]
+  },
+  "name": "Cucumis melo endornavirus",
+  "schema": [
+    {
+      "length": 15078,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1776177
+}

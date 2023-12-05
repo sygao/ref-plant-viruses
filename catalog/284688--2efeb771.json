@@ -1,0 +1,26 @@
+{
+  "_id": "2efeb771",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ781401.1",
+      "AJ781402.1"
+    ]
+  },
+  "name": "Cherry chlorotic rusty spot associated partitivirus",
+  "schema": [
+    {
+      "length": 2021,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1841,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 284688
+}

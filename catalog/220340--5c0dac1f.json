@@ -1,0 +1,29 @@
+{
+  "_id": "5c0dac1f",
+  "accessions": {
+    "excluded": [
+      "D00200",
+      "D00201"
+    ],
+    "included": [
+      "NC_001438.1",
+      "NC_001439.1"
+    ]
+  },
+  "name": "Bean golden yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2647,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2585,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 220340
+}

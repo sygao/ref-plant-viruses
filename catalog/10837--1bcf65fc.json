@@ -1,0 +1,21 @@
+{
+  "_id": "1bcf65fc",
+  "accessions": {
+    "excluded": [
+      "M23022"
+    ],
+    "included": [
+      "NC_001478.1"
+    ]
+  },
+  "name": "Digitaria streak virus",
+  "schema": [
+    {
+      "length": 2701,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10837
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "b8ab1fa9",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FJ196838.1"
+    ]
+  },
+  "name": "Helleborus mosaic virus",
+  "schema": [
+    {
+      "length": 3030,
+      "molecule": "ssRNA+",
+      "name": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 592207
+}

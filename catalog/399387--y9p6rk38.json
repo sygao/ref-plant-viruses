@@ -1,0 +1,21 @@
+{
+  "_id": "y9p6rk38",
+  "accessions": {
+    "excluded": [
+      "DQ866131"
+    ],
+    "included": [
+      "NC_008727.1"
+    ]
+  },
+  "name": "Tomato leaf curl Hsinchu virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 399387
+}

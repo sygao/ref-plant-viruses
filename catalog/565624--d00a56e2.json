@@ -1,0 +1,19 @@
+{
+  "_id": "d00a56e2",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FJ561293.1"
+    ]
+  },
+  "name": "Malva vein clearing virus",
+  "schema": [
+    {
+      "length": 2078,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 565624
+}

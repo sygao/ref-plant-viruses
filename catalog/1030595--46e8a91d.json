@@ -1,0 +1,21 @@
+{
+  "_id": "46e8a91d",
+  "accessions": {
+    "excluded": [
+      "JF508490"
+    ],
+    "included": [
+      "NC_015553.1"
+    ]
+  },
+  "name": "Eragrostis minor streak virus",
+  "schema": [
+    {
+      "length": 2689,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1030595
+}

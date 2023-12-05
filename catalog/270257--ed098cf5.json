@@ -1,0 +1,19 @@
+{
+  "_id": "ed098cf5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY500882.1"
+    ]
+  },
+  "name": "Limonium flower distortion virus",
+  "schema": [
+    {
+      "length": 1231,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 270257
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "3kbeaf0c",
+  "accessions": {
+    "excluded": [
+      "KX857665"
+    ],
+    "included": [
+      "NC_035453.1"
+    ]
+  },
+  "name": "Actinidia virus 1",
+  "schema": [
+    {
+      "length": 18848,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2024724
+}

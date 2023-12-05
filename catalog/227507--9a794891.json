@@ -1,0 +1,36 @@
+{
+  "_id": "9a794891",
+  "accessions": {
+    "excluded": [
+      "AY488137",
+      "AY488138"
+    ],
+    "included": [
+      "MN747001.1",
+      "MN747002.1",
+      "MZ328105.1",
+      "MZ328106.1",
+      "MZ328107.1",
+      "MZ328108.1",
+      "MZ328109.1",
+      "NC_005895.1",
+      "NC_005896.1"
+    ]
+  },
+  "name": "Strawberry pallidosis-associated virus",
+  "schema": [
+    {
+      "length": 8049,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 7983,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 227507
+}

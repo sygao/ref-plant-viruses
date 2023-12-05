@@ -1,0 +1,21 @@
+{
+  "_id": "27xsokge",
+  "accessions": {
+    "excluded": [
+      "AM886131"
+    ],
+    "included": [
+      "NC_039082.1"
+    ]
+  },
+  "name": "Euphorbia mosaic Peru virus",
+  "schema": [
+    {
+      "length": 2600,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169733
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "un2gcmh8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "OK558713.1"
+    ]
+  },
+  "name": "Daphne virus X",
+  "schema": [
+    {
+      "length": 5849,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2995438
+}

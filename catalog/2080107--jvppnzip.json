@@ -1,0 +1,21 @@
+{
+  "_id": "jvppnzip",
+  "accessions": {
+    "excluded": [
+      "AB079766"
+    ],
+    "included": [
+      "NC_043119.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein virus - [Yamaguchi]",
+  "schema": [
+    {
+      "length": 2765,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

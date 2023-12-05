@@ -1,0 +1,29 @@
+{
+  "_id": "chdbzzxz",
+  "accessions": {
+    "excluded": [
+      "HM236370",
+      "HM236371"
+    ],
+    "included": [
+      "NC_038804.1",
+      "NC_038805.1"
+    ]
+  },
+  "name": "Rhynchosia rugose golden mosaic virus-[Cuba:Camaguey:171:2009]",
+  "schema": [
+    {
+      "length": 2631,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2555,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1513520
+}

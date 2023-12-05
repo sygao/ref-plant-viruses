@@ -1,0 +1,19 @@
+{
+  "_id": "hsexq4ql",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH899178.1"
+    ]
+  },
+  "name": "Salvia divinorum RNA virus 1",
+  "schema": [
+    {
+      "length": 9214,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2419804
+}

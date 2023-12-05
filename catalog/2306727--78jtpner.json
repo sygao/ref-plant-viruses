@@ -1,0 +1,21 @@
+{
+  "_id": "78jtpner",
+  "accessions": {
+    "excluded": [
+      "MH395371"
+    ],
+    "included": [
+      "NC_055501.1"
+    ]
+  },
+  "name": "Areca palm necrotic ringspot virus",
+  "schema": [
+    {
+      "length": 9434,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2306727
+}

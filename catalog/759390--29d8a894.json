@@ -1,0 +1,29 @@
+{
+  "_id": "29d8a894",
+  "accessions": {
+    "excluded": [
+      "GU997691",
+      "GU997692"
+    ],
+    "included": [
+      "NC_014128.1",
+      "NC_014130.1"
+    ]
+  },
+  "name": "Sida golden mottle virus",
+  "schema": [
+    {
+      "length": 2611,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2573,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 759390
+}

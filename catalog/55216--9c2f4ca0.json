@@ -1,0 +1,29 @@
+{
+  "_id": "9c2f4ca0",
+  "accessions": {
+    "excluded": [
+      "EF417915",
+      "EF417916"
+    ],
+    "included": [
+      "NC_010949.1",
+      "NC_010950.1"
+    ]
+  },
+  "name": "Tomato yellow vein streak virus",
+  "schema": [
+    {
+      "length": 2561,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2569,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 55216
+}

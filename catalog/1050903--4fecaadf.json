@@ -1,0 +1,26 @@
+{
+  "_id": "4fecaadf",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JN117278.1",
+      "JN117279.1"
+    ]
+  },
+  "name": "Pepper cryptic virus 2",
+  "schema": [
+    {
+      "length": 1609,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1525,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1050903
+}

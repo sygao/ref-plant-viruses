@@ -1,0 +1,21 @@
+{
+  "_id": "9zv4r3x6",
+  "accessions": {
+    "excluded": [
+      "AY602165"
+    ],
+    "included": [
+      "NC_008373.1"
+    ]
+  },
+  "name": "Tomato leaf curl Guangdong virus",
+  "schema": [
+    {
+      "length": 2744,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 400835
+}

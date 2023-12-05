@@ -1,0 +1,21 @@
+{
+  "_id": "c85f32cb",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JQ899443.1",
+      "MN059185.1",
+      "MN059188.1"
+    ]
+  },
+  "name": "Shallot latent virus",
+  "schema": [
+    {
+      "length": 8527,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12172
+}

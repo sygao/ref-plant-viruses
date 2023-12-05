@@ -1,0 +1,37 @@
+{
+  "_id": "vucxlwkk",
+  "accessions": {
+    "excluded": [
+      "KX213531",
+      "KX213532",
+      "KX213533"
+    ],
+    "included": [
+      "NC_030378.1",
+      "NC_030379.1",
+      "NC_030380.1"
+    ]
+  },
+  "name": "Tospovirus kiwifruit/YXW/2014",
+  "schema": [
+    {
+      "length": 8908,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4772,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 2991,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 1857323
+}

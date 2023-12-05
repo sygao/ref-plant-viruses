@@ -1,0 +1,21 @@
+{
+  "_id": "9727cf12",
+  "accessions": {
+    "excluded": [
+      "KF482072"
+    ],
+    "included": [
+      "NC_022895.1"
+    ]
+  },
+  "name": "Yam spherical virus",
+  "schema": [
+    {
+      "length": 4464,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1421055
+}

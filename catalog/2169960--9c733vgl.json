@@ -1,0 +1,37 @@
+{
+  "_id": "9c733vgl",
+  "accessions": {
+    "excluded": [
+      "KT290039",
+      "KT290040",
+      "KT290041"
+    ],
+    "included": [
+      "NC_027928.1",
+      "NC_027929.1",
+      "NC_027930.1"
+    ]
+  },
+  "name": "Privet ringspot virus",
+  "schema": [
+    {
+      "length": 3415,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2863,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2140,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2169960
+}

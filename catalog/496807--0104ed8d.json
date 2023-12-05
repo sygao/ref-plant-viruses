@@ -1,0 +1,21 @@
+{
+  "_id": "0104ed8d",
+  "accessions": {
+    "excluded": [
+      "EU244915"
+    ],
+    "included": [
+      "NC_010352.1"
+    ]
+  },
+  "name": "Eragrostis streak virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 496807
+}

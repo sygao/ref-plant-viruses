@@ -1,0 +1,21 @@
+{
+  "_id": "af862c24",
+  "accessions": {
+    "excluded": [
+      "FJ444852"
+    ],
+    "included": [
+      "NC_013920.1"
+    ]
+  },
+  "name": "Olive latent virus 3",
+  "schema": [
+    {
+      "length": 7148,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 626962
+}

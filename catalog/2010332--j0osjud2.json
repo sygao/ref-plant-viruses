@@ -1,0 +1,21 @@
+{
+  "_id": "j0osjud2",
+  "accessions": {
+    "excluded": [
+      "AB307732"
+    ],
+    "included": [
+      "NC_038685.1"
+    ]
+  },
+  "name": "Tomato leaf curl Laguna betasatellite",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2010332
+}

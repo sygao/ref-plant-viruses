@@ -1,0 +1,23 @@
+{
+  "_id": "fb38921d",
+  "accessions": {
+    "excluded": [
+      "M96425"
+    ],
+    "included": [
+      "AF501591.1",
+      "MW582791.1",
+      "NC_001517.1"
+    ]
+  },
+  "name": "Pepper mottle virus",
+  "schema": [
+    {
+      "length": 9691,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12209
+}

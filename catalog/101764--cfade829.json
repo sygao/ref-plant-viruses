@@ -1,0 +1,21 @@
+{
+  "_id": "cfade829",
+  "accessions": {
+    "excluded": [
+      "AB051848"
+    ],
+    "included": [
+      "NC_002795.1"
+    ]
+  },
+  "name": "Aconitum latent virus",
+  "schema": [
+    {
+      "length": 8657,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 101764
+}

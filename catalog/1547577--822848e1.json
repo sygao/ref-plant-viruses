@@ -1,0 +1,21 @@
+{
+  "_id": "822848e1",
+  "accessions": {
+    "excluded": [
+      "KM023146"
+    ],
+    "included": [
+      "NC_025725.1"
+    ]
+  },
+  "name": "Jatropha leaf crumple virus",
+  "schema": [
+    {
+      "length": 2735,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1547577
+}

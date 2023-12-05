@@ -1,0 +1,22 @@
+{
+  "_id": "858e90ea",
+  "accessions": {
+    "excluded": [
+      "HQ161080",
+      "HQ161081"
+    ],
+    "included": [
+      "NC_015394.1"
+    ]
+  },
+  "name": "Hardenbergia mosaic virus",
+  "schema": [
+    {
+      "length": 9682,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 409486
+}

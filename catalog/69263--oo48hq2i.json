@@ -1,0 +1,21 @@
+{
+  "_id": "oo48hq2i",
+  "accessions": {
+    "excluded": [
+      "AF029217"
+    ],
+    "included": [
+      "NC_038445.1"
+    ]
+  },
+  "name": "Cowpea golden mosaic virus-[Nigeria]",
+  "schema": [
+    {
+      "length": 2728,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 69263
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "yru3yo0v",
+  "accessions": {
+    "excluded": [
+      "KX011471",
+      "KX011472"
+    ],
+    "included": [
+      "NC_035887.1",
+      "NC_035888.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Cuba virus",
+  "schema": [
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2567,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 336987
+}

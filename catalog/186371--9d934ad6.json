@@ -1,0 +1,21 @@
+{
+  "_id": "9d934ad6",
+  "accessions": {
+    "excluded": [
+      "AJ308425"
+    ],
+    "included": [
+      "NC_003405.1"
+    ]
+  },
+  "name": "Bhendi yellow vein betasatellite",
+  "schema": [
+    {
+      "length": 1353,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 186371
+}

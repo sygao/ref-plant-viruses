@@ -1,0 +1,21 @@
+{
+  "_id": "lliyqfxq",
+  "accessions": {
+    "excluded": [
+      "KF413620"
+    ],
+    "included": [
+      "NC_038479.1"
+    ]
+  },
+  "name": "Hypericum japonicum associated circular DNA",
+  "schema": [
+    {
+      "length": 2200,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

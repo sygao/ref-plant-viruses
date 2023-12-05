@@ -1,0 +1,27 @@
+{
+  "_id": "l7nw6x0h",
+  "accessions": {
+    "excluded": [
+      "MN158325"
+    ],
+    "included": [
+      "NC_055589.1"
+    ]
+  },
+  "name": "Bean latent virus",
+  "schema": [
+    {
+      "length": 2613,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2703869
+}

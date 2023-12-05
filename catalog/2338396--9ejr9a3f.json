@@ -1,0 +1,19 @@
+{
+  "_id": "9ejr9a3f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH383239.1"
+    ]
+  },
+  "name": "Grapevine associated tymo-like virus",
+  "schema": [
+    {
+      "length": 6060,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2338396
+}

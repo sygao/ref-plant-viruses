@@ -1,0 +1,21 @@
+{
+  "_id": "8dgi7hax",
+  "accessions": {
+    "excluded": [
+      "MH410152"
+    ],
+    "included": [
+      "NC_055498.1"
+    ]
+  },
+  "name": "Tomato leaf curl Mahe virus",
+  "schema": [
+    {
+      "length": 2790,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2303151
+}

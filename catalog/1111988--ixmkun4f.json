@@ -1,0 +1,19 @@
+{
+  "_id": "ixmkun4f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JQ001816.1"
+    ]
+  },
+  "name": "Watercress white vein virus",
+  "schema": [
+    {
+      "length": 6129,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1111988
+}

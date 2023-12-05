@@ -1,0 +1,21 @@
+{
+  "_id": "c260c211",
+  "accessions": {
+    "excluded": [
+      "AJ536612"
+    ],
+    "included": [
+      "NC_004728.1"
+    ]
+  },
+  "name": "Eggplant latent viroid",
+  "schema": [
+    {
+      "length": 335,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 219174
+}

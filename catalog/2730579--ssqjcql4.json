@@ -1,0 +1,21 @@
+{
+  "_id": "ssqjcql4",
+  "accessions": {
+    "excluded": [
+      "MN549985"
+    ],
+    "included": [
+      "NC_055600.1"
+    ]
+  },
+  "name": "Paris virus 1",
+  "schema": [
+    {
+      "length": 10066,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2730579
+}

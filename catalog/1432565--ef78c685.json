@@ -1,0 +1,21 @@
+{
+  "_id": "ef78c685",
+  "accessions": {
+    "excluded": [
+      "KF660223"
+    ],
+    "included": [
+      "NC_023023.1"
+    ]
+  },
+  "name": "Spinach yellow vein Sikar virus",
+  "schema": [
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1432565
+}

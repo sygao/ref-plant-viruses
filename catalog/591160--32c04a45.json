@@ -1,0 +1,21 @@
+{
+  "_id": "32c04a45",
+  "accessions": {
+    "excluded": [
+      "FJ589571"
+    ],
+    "included": [
+      "NC_012041.1"
+    ]
+  },
+  "name": "Bhendi yellow vein Bhubhaneswar virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 591160
+}

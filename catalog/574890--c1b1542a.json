@@ -1,0 +1,21 @@
+{
+  "_id": "c1b1542a",
+  "accessions": {
+    "excluded": [
+      "EU839579"
+    ],
+    "included": [
+      "NC_013467.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Lanzarote virus",
+  "schema": [
+    {
+      "length": 2814,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 574890
+}

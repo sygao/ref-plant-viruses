@@ -1,0 +1,21 @@
+{
+  "_id": "98fbb20e",
+  "accessions": {
+    "excluded": [
+      "AM050734"
+    ],
+    "included": [
+      "NC_007640.1"
+    ]
+  },
+  "name": "Sida leaf curl virus-associated DNA 1",
+  "schema": [
+    {
+      "length": 1384,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169843
+}

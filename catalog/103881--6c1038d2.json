@@ -1,0 +1,46 @@
+{
+  "_id": "6c1038d2",
+  "accessions": {
+    "excluded": [
+      "AJ508757",
+      "AJ557128",
+      "AJ557129"
+    ],
+    "included": [
+      "KR998193.1",
+      "KR998194.1",
+      "KR998195.1",
+      "MK024942.1",
+      "MK024943.1",
+      "MK024944.1",
+      "MT319730.1",
+      "MT319731.1",
+      "MT319732.1",
+      "NC_006061.1",
+      "NC_006062.1",
+      "NC_006063.1"
+    ]
+  },
+  "name": "Potato yellow vein virus",
+  "schema": [
+    {
+      "length": 8027,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 5318,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3880,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 103881
+}

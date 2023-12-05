@@ -1,0 +1,24 @@
+{
+  "_id": "238ed56d",
+  "accessions": {
+    "excluded": [
+      "EU585781"
+    ],
+    "included": [
+      "KU975395.1",
+      "MN187408.1",
+      "MN187413.1",
+      "NC_010618.1"
+    ]
+  },
+  "name": "Pepper leaf curl Yunnan virus-[YN323]",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1003836
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "c472ca4c",
+  "accessions": {
+    "excluded": [
+      "HQ389540"
+    ],
+    "included": [
+      "JF807914.1",
+      "NC_015552.1"
+    ]
+  },
+  "name": "Passion fruit mosaic virus",
+  "schema": [
+    {
+      "length": 6732,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1032457
+}

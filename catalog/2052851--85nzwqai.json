@@ -1,0 +1,33 @@
+{
+  "_id": "85nzwqai",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF688613.1",
+      "MF688614.1",
+      "MF688615.1"
+    ]
+  },
+  "name": "Sambucus virus S",
+  "schema": [
+    {
+      "length": 3241,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2810,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2244,
+      "molecule": "",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2052851
+}

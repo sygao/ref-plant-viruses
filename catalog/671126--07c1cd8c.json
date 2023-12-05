@@ -1,0 +1,21 @@
+{
+  "_id": "07c1cd8c",
+  "accessions": {
+    "excluded": [
+      "GQ428155"
+    ],
+    "included": [
+      "NC_013262.1"
+    ]
+  },
+  "name": "Pelargonium vein banding virus",
+  "schema": [
+    {
+      "length": 7586,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 671126
+}

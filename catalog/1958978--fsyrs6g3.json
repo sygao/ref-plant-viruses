@@ -1,0 +1,20 @@
+{
+  "_id": "fsyrs6g3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY348614.1",
+      "KY348615.1"
+    ]
+  },
+  "name": "Peach virus T",
+  "schema": [
+    {
+      "length": 6609,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1958978
+}

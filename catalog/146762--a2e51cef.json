@@ -1,0 +1,21 @@
+{
+  "_id": "a2e51cef",
+  "accessions": {
+    "excluded": [
+      "X83964"
+    ],
+    "included": [
+      "NC_003633.1"
+    ]
+  },
+  "name": "Oat chlorotic stunt virus",
+  "schema": [
+    {
+      "length": 4114,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 146762
+}

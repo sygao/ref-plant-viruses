@@ -1,0 +1,19 @@
+{
+  "_id": "2xccdrxj",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF415880.1"
+    ]
+  },
+  "name": "Ethiopia maize-associated virus",
+  "schema": [
+    {
+      "length": 2985,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2201471
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "0acd7dbf",
+  "accessions": {
+    "excluded": [
+      "JX393885"
+    ],
+    "included": [
+      "NC_018671.1"
+    ]
+  },
+  "name": "Sauropus leaf curl disease associated DNA beta",
+  "schema": [
+    {
+      "length": 692,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1234171
+}

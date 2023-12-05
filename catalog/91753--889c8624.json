@@ -1,0 +1,27 @@
+{
+  "_id": "889c8624",
+  "accessions": {
+    "excluded": [
+      "X76931"
+    ],
+    "included": [
+      "KR231944.1",
+      "KR231945.1",
+      "KR231948.1",
+      "KR231951.1",
+      "KR231954.1",
+      "KR231959.1",
+      "NC_003688.1"
+    ]
+  },
+  "name": "Cucurbit aphid-borne yellows virus",
+  "schema": [
+    {
+      "length": 5681,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 91753
+}

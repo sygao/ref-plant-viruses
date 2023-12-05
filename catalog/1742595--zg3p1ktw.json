@@ -1,0 +1,29 @@
+{
+  "_id": "zg3p1ktw",
+  "accessions": {
+    "excluded": [
+      "KT201153",
+      "KT201154"
+    ],
+    "included": [
+      "NC_028142.1",
+      "NC_028143.1"
+    ]
+  },
+  "name": "Melochia yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2668,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2620,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1742595
+}

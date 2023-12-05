@@ -1,0 +1,32 @@
+{
+  "_id": "8b6764a7",
+  "accessions": {
+    "excluded": [
+      "X07397"
+    ],
+    "included": [
+      "EF613182.1",
+      "EF613183.1",
+      "EF613184.1",
+      "EF613185.1",
+      "EF613186.1",
+      "EF613187.1",
+      "EF613188.1",
+      "EF613189.1",
+      "EF613190.1",
+      "EF613191.1",
+      "EF613192.1",
+      "NC_003611.1"
+    ]
+  },
+  "name": "Hop latent viroid",
+  "schema": [
+    {
+      "length": 256,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12907
+}

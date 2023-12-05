@@ -1,0 +1,21 @@
+{
+  "_id": "88a2f9c0",
+  "accessions": {
+    "excluded": [
+      "Z98198"
+    ],
+    "included": [
+      "NC_003855.1"
+    ]
+  },
+  "name": "Peanut stunt virus satellite RNA",
+  "schema": [
+    {
+      "length": 393,
+      "molecule": "ssRNA-",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 193122
+}

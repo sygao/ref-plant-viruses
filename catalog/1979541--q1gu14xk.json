@@ -1,0 +1,21 @@
+{
+  "_id": "q1gu14xk",
+  "accessions": {
+    "excluded": [
+      "KX434725"
+    ],
+    "included": [
+      "NC_034509.1"
+    ]
+  },
+  "name": "Hoya chlorotic spot virus",
+  "schema": [
+    {
+      "length": 6386,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1979541
+}

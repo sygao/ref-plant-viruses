@@ -1,0 +1,21 @@
+{
+  "_id": "8276704b",
+  "accessions": {
+    "excluded": [
+      "KC978990"
+    ],
+    "included": [
+      "NC_023880.1"
+    ]
+  },
+  "name": "Faba bean necrotic stunt alphasatellite 2",
+  "schema": [
+    {
+      "length": 995,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1441800
+}

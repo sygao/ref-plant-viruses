@@ -1,0 +1,29 @@
+{
+  "_id": "69cead8d",
+  "accessions": {
+    "excluded": [
+      "AY044133",
+      "AY044134"
+    ],
+    "included": [
+      "NC_004097.1",
+      "NC_004098.1"
+    ]
+  },
+  "name": "Macroptilium mosaic Puerto Rico virus",
+  "schema": [
+    {
+      "length": 2615,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2571,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223282
+}

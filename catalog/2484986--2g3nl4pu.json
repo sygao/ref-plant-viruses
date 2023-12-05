@@ -1,0 +1,28 @@
+{
+  "_id": "2g3nl4pu",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG764565.1",
+      "MG764566.1",
+      "MZ220967.1",
+      "MZ220968.1"
+    ]
+  },
+  "name": "Citrus virus A",
+  "schema": [
+    {
+      "length": 5373,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2732,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2484986
+}

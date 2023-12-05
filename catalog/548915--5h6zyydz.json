@@ -1,0 +1,21 @@
+{
+  "_id": "5h6zyydz",
+  "accessions": {
+    "excluded": [
+      "EU847739"
+    ],
+    "included": [
+      "NC_011096.1"
+    ]
+  },
+  "name": "Tomato leaf curl Kumasi virus",
+  "schema": [
+    {
+      "length": 2794,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 548915
+}

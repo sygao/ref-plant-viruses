@@ -1,0 +1,29 @@
+{
+  "_id": "1syo3vm5",
+  "accessions": {
+    "excluded": [
+      "KU058856",
+      "KU058860"
+    ],
+    "included": [
+      "NC_031458.1",
+      "NC_031459.1"
+    ]
+  },
+  "name": "Malvastrum bright yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2604,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1906668
+}

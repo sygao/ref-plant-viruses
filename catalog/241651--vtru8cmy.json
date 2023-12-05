@@ -1,0 +1,21 @@
+{
+  "_id": "vtru8cmy",
+  "accessions": {
+    "excluded": [
+      "AJ580095"
+    ],
+    "included": [
+      "NC_043420.1"
+    ]
+  },
+  "name": "Amaranthus leaf mottle virus",
+  "schema": [
+    {
+      "length": 1777,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 241651
+}

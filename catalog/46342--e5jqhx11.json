@@ -1,0 +1,21 @@
+{
+  "_id": "e5jqhx11",
+  "accessions": {
+    "excluded": [
+      "J04348"
+    ],
+    "included": [
+      "NC_003612.1"
+    ]
+  },
+  "name": "Grapevine yellow speckle viroid 2",
+  "schema": [
+    {
+      "length": 363,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 46342
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "55f7c604",
+  "accessions": {
+    "excluded": [
+      "M95497"
+    ],
+    "included": [
+      "NC_001632.1"
+    ]
+  },
+  "name": "Rice tungro spherical virus",
+  "schema": [
+    {
+      "length": 12226,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35287
+}

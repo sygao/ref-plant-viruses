@@ -1,0 +1,21 @@
+{
+  "_id": "e0d4e487",
+  "accessions": {
+    "excluded": [
+      "EF456741"
+    ],
+    "included": [
+      "NC_011052.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Spain virus",
+  "schema": [
+    {
+      "length": 2780,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 652717
+}

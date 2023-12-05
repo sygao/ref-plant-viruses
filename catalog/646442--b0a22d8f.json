@@ -1,0 +1,21 @@
+{
+  "_id": "b0a22d8f",
+  "accessions": {
+    "excluded": [
+      "FJ560943"
+    ],
+    "included": [
+      "NC_015655.1"
+    ]
+  },
+  "name": "Sweet potato badnavirus A",
+  "schema": [
+    {
+      "length": 8082,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 646442
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "511b6d8e",
+  "accessions": {
+    "excluded": [
+      "EU021216",
+      "FJ792608"
+    ],
+    "included": [
+      "NC_012481.1",
+      "NC_012482.1"
+    ]
+  },
+  "name": "Rhynchosia golden mosaic Yucatan virus",
+  "schema": [
+    {
+      "length": 2597,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2542,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 457286
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "10cpqrm7",
+  "accessions": {
+    "excluded": [
+      "AJ557441"
+    ],
+    "included": [
+      "NC_043428.1"
+    ]
+  },
+  "name": "Ageratum yellow vein India betasatellite",
+  "schema": [
+    {
+      "length": 1353,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2010316
+}

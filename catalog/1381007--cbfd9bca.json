@@ -1,0 +1,24 @@
+{
+  "_id": "cbfd9bca",
+  "accessions": {
+    "excluded": [
+      "KC896623"
+    ],
+    "included": [
+      "KC896624.1",
+      "KX234090.1",
+      "KY316024.1",
+      "NC_022002.1"
+    ]
+  },
+  "name": "Grapevine red-blotch associated virus",
+  "schema": [
+    {
+      "length": 3207,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1381007
+}

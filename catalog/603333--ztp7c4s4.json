@@ -1,0 +1,21 @@
+{
+  "_id": "ztp7c4s4",
+  "accessions": {
+    "excluded": [
+      "KY565237"
+    ],
+    "included": [
+      "NC_034630.1"
+    ]
+  },
+  "name": "Sweet potato symptomless virus 1",
+  "schema": [
+    {
+      "length": 2886,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 603333
+}

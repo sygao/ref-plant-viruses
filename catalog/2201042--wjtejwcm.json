@@ -1,0 +1,19 @@
+{
+  "_id": "wjtejwcm",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG919988.1"
+    ]
+  },
+  "name": "Arracacha virus 1",
+  "schema": [
+    {
+      "length": 15763,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2201042
+}

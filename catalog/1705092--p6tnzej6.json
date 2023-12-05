@@ -1,0 +1,21 @@
+{
+  "_id": "p6tnzej6",
+  "accessions": {
+    "excluded": [
+      "KT390508"
+    ],
+    "included": [
+      "NC_028116.1"
+    ]
+  },
+  "name": "Ageratum conyzoides symptomless alphasatellite",
+  "schema": [
+    {
+      "length": 1381,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1705092
+}

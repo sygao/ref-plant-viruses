@@ -1,0 +1,24 @@
+{
+  "_id": "e2a1d19a",
+  "accessions": {
+    "excluded": [
+      "U03387"
+    ],
+    "included": [
+      "JN205073.1",
+      "JN205074.1",
+      "MH370485.1",
+      "NC_001873.1"
+    ]
+  },
+  "name": "Turnip vein-clearing virus",
+  "schema": [
+    {
+      "length": 6311,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 29272
+}

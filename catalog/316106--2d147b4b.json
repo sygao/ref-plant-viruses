@@ -1,0 +1,21 @@
+{
+  "_id": "2d147b4b",
+  "accessions": {
+    "excluded": [
+      "AY817151"
+    ],
+    "included": [
+      "NC_007655.1"
+    ]
+  },
+  "name": "Bitter gourd leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 316106
+}

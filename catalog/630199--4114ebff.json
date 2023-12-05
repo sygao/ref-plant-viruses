@@ -1,0 +1,33 @@
+{
+  "_id": "4114ebff",
+  "accessions": {
+    "excluded": [
+      "FJ436028"
+    ],
+    "included": [
+      "JX513896.1",
+      "KP221255.1",
+      "KP221256.1",
+      "KP221257.1",
+      "KR153306.1",
+      "KT037017.1",
+      "KX130754.1",
+      "MZ344579.1",
+      "MZ440702.1",
+      "MZ440703.1",
+      "MZ440706.1",
+      "MZ440709.1",
+      "NC_012484.1"
+    ]
+  },
+  "name": "Grapevine syrah virus 1",
+  "schema": [
+    {
+      "length": 6475,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 630199
+}

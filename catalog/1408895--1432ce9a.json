@@ -1,0 +1,29 @@
+{
+  "_id": "1432ce9a",
+  "accessions": {
+    "excluded": [
+      "KF484726",
+      "KF484727"
+    ],
+    "included": [
+      "NC_022614.1",
+      "NC_022615.1"
+    ]
+  },
+  "name": "Dill cryptic virus 1",
+  "schema": [
+    {
+      "length": 2013,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1837,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1408895
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "3d5aba1c",
+  "accessions": {
+    "excluded": [
+      "EF579955"
+    ],
+    "included": [
+      "MG800832.1",
+      "MN688647.1",
+      "MT497462.1",
+      "MW161172.1",
+      "NC_009995.1"
+    ]
+  },
+  "name": "Moroccan watermelon mosaic virus",
+  "schema": [
+    {
+      "length": 9744,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167129
+}

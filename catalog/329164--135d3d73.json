@@ -1,0 +1,23 @@
+{
+  "_id": "135d3d73",
+  "accessions": {
+    "excluded": [
+      "EU020009"
+    ],
+    "included": [
+      "EU338239.1",
+      "LC480818.1",
+      "NC_009759.1"
+    ]
+  },
+  "name": "Potato Virus P",
+  "schema": [
+    {
+      "length": 8396,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 329164
+}

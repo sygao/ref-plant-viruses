@@ -1,0 +1,29 @@
+{
+  "_id": "97p4k82s",
+  "accessions": {
+    "excluded": [
+      "KU215538",
+      "KU215539"
+    ],
+    "included": [
+      "NC_031763.1",
+      "NC_031766.1"
+    ]
+  },
+  "name": "Dioscorea mosaic-associated virus",
+  "schema": [
+    {
+      "length": 5979,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3810,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2170181
+}

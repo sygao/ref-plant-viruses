@@ -1,0 +1,29 @@
+{
+  "_id": "5cac3d8f",
+  "accessions": {
+    "excluded": [
+      "AF139168",
+      "AF170101"
+    ],
+    "included": [
+      "NC_003856.1",
+      "NC_003857.1"
+    ]
+  },
+  "name": "Dicliptera yellow mottle virus",
+  "schema": [
+    {
+      "length": 2607,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2597,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 94700
+}

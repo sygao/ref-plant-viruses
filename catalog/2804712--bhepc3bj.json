@@ -1,0 +1,19 @@
+{
+  "_id": "bhepc3bj",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT113180.1"
+    ]
+  },
+  "name": "Papaya virus Q",
+  "schema": [
+    {
+      "length": 4387,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2804712
+}

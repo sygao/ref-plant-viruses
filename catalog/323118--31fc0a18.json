@@ -1,0 +1,21 @@
+{
+  "_id": "31fc0a18",
+  "accessions": {
+    "excluded": [
+      "AY994084"
+    ],
+    "included": [
+      "NC_008558.1"
+    ]
+  },
+  "name": "Blackberry virus Y",
+  "schema": [
+    {
+      "length": 10851,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 323118
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "z6nsnm42",
+  "accessions": {
+    "excluded": [
+      "LK028574"
+    ],
+    "included": [
+      "NC_033276.1"
+    ]
+  },
+  "name": "Papaya leaf curl Faisalabad virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1504733
+}

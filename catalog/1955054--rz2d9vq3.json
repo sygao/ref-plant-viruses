@@ -1,0 +1,21 @@
+{
+  "_id": "rz2d9vq3",
+  "accessions": {
+    "excluded": [
+      "KX853168"
+    ],
+    "included": [
+      "NC_033779.1"
+    ]
+  },
+  "name": "Tomato leaf curl Burkina Faso virus",
+  "schema": [
+    {
+      "length": 2784,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1955054
+}

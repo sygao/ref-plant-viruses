@@ -1,0 +1,26 @@
+{
+  "_id": "8zgt9xww",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "BK014310.1",
+      "BK014311.1"
+    ]
+  },
+  "name": "Brassica rapa virus 1",
+  "schema": [
+    {
+      "length": 5206,
+      "molecule": "ssRNA",
+      "name": "N",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA",
+      "name": "L",
+      "required": true
+    }
+  ],
+  "taxid": 2793725
+}

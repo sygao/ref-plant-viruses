@@ -1,0 +1,21 @@
+{
+  "_id": "8afbda8a",
+  "accessions": {
+    "excluded": [
+      "AF266518"
+    ],
+    "included": [
+      "NC_007729.1"
+    ]
+  },
+  "name": "Maize necrotic streak virus",
+  "schema": [
+    {
+      "length": 4094,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 137556
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "zxca4num",
+  "accessions": {
+    "excluded": [
+      "JX857691",
+      "JX857692"
+    ],
+    "included": [
+      "NC_038456.1",
+      "NC_049200.1"
+    ]
+  },
+  "name": "Sida ciliaris golden mosaic virus",
+  "schema": [
+    {
+      "length": 2638,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2607,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1264880
+}

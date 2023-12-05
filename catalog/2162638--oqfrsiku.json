@@ -1,0 +1,19 @@
+{
+  "_id": "oqfrsiku",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG696802.1"
+    ]
+  },
+  "name": "Passion fruit chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 3743,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2162638
+}

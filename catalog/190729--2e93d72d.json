@@ -1,0 +1,21 @@
+{
+  "_id": "2e93d72d",
+  "accessions": {
+    "excluded": [
+      "KC684927"
+    ],
+    "included": [
+      "NC_021345.1"
+    ]
+  },
+  "name": "Chilli leaf curl Bhatinda betasatellite",
+  "schema": [
+    {
+      "length": 1224,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 190729
+}

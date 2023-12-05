@@ -1,0 +1,21 @@
+{
+  "_id": "b1e0921b",
+  "accessions": {
+    "excluded": [
+      "FR751068"
+    ],
+    "included": [
+      "NC_014968.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008]",
+  "schema": [
+    {
+      "length": 2799,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1513527
+}

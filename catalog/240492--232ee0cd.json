@@ -1,0 +1,21 @@
+{
+  "_id": "232ee0cd",
+  "accessions": {
+    "excluded": [
+      "AY339618"
+    ],
+    "included": [
+      "NC_005843.1"
+    ]
+  },
+  "name": "Tomato chino La Paz virus",
+  "schema": [
+    {
+      "length": 2606,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 240492
+}

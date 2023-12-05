@@ -1,0 +1,14 @@
+{
+  "_id": "70737db6",
+  "accessions": {
+    "excluded": [
+      "M62730"
+    ],
+    "included": [
+      "NC_001483.1"
+    ]
+  },
+  "name": "Foxtail mosaic virus",
+  "schema": [],
+  "taxid": 12179
+}

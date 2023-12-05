@@ -1,0 +1,21 @@
+{
+  "_id": "b6397432",
+  "accessions": {
+    "excluded": [
+      "AJ316026"
+    ],
+    "included": [
+      "NC_005046.1"
+    ]
+  },
+  "name": "Ageratum yellow leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1351,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 169687
+}

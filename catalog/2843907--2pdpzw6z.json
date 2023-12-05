@@ -1,0 +1,81 @@
+{
+  "_id": "2pdpzw6z",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN385573.1",
+      "MN385574.1",
+      "MN385575.1",
+      "MN385576.1",
+      "MN557024.1",
+      "MN557025.1",
+      "MN557026.1",
+      "MN557027.1",
+      "MN557028.1"
+    ]
+  },
+  "name": "Camellia japonica associated emaravirus 1",
+  "schema": [
+    {
+      "length": 7109,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1360,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1349,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1246,
+      "molecule": "ssRNA+",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1474,
+      "molecule": "ssRNA+",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1297,
+      "molecule": "ssRNA+",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1155,
+      "molecule": "ssRNA+",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA+",
+      "name": "RNA 10",
+      "required": true
+    },
+    {
+      "length": 2054,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1335,
+      "molecule": "ssRNA+",
+      "name": "RNA 8",
+      "required": true
+    }
+  ],
+  "taxid": 2843907
+}

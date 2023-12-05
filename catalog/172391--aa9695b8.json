@@ -1,0 +1,29 @@
+{
+  "_id": "aa9695b8",
+  "accessions": {
+    "excluded": [
+      "AF490004",
+      "AF491306"
+    ],
+    "included": [
+      "NC_003664.1",
+      "NC_003665.1"
+    ]
+  },
+  "name": "Tomato chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 2622,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2573,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 172391
+}

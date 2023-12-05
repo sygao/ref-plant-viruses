@@ -1,0 +1,93 @@
+{
+  "_id": "606eb2f5",
+  "accessions": {
+    "excluded": [
+      "HQ012653",
+      "HQ012654",
+      "HQ012655",
+      "HQ012656",
+      "HQ012657",
+      "HQ012658",
+      "HQ012659",
+      "HQ012660",
+      "HQ012661",
+      "HQ012662"
+    ],
+    "included": [
+      "NC_014598.1",
+      "NC_014599.1",
+      "NC_014600.1",
+      "NC_014601.1",
+      "NC_014602.1",
+      "NC_014603.1",
+      "NC_014604.1",
+      "NC_014605.1",
+      "NC_014606.1",
+      "NC_014607.1"
+    ]
+  },
+  "name": "Raspberry latent virus",
+  "schema": [
+    {
+      "length": 3948,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3914,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3818,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3650,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 2563,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1996,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1957,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1936,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1205,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1141,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 907191
+}

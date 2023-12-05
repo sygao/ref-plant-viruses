@@ -1,0 +1,27 @@
+{
+  "_id": "e07eca19",
+  "accessions": {
+    "excluded": [
+      "JX183732"
+    ],
+    "included": [
+      "JX183733.1",
+      "KF927128.2",
+      "KU358527.1",
+      "KU358528.1",
+      "KU358529.1",
+      "MN210342.1",
+      "NC_023849.1"
+    ]
+  },
+  "name": "Pouzolzia golden mosaic virus",
+  "schema": [
+    {
+      "length": 2724,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1225069
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "yf5h3eou",
+  "accessions": {
+    "excluded": [
+      "MF642722"
+    ],
+    "included": [
+      "NC_040808.1"
+    ]
+  },
+  "name": "Cacao swollen shoot Ghana K virus",
+  "schema": [
+    {
+      "length": 7119,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2056881
+}

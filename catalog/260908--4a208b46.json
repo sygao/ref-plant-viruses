@@ -1,0 +1,29 @@
+{
+  "_id": "4a208b46",
+  "accessions": {
+    "excluded": [
+      "AY508991",
+      "AY508992"
+    ],
+    "included": [
+      "NC_005850.1",
+      "NC_005851.1"
+    ]
+  },
+  "name": "Tomato mosaic leaf curl virus",
+  "schema": [
+    {
+      "length": 2560,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2525,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 260908
+}

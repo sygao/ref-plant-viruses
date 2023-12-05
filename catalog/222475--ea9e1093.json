@@ -1,0 +1,21 @@
+{
+  "_id": "ea9e1093",
+  "accessions": {
+    "excluded": [
+      "AJ457824"
+    ],
+    "included": [
+      "NC_004634.1"
+    ]
+  },
+  "name": "Malvastrum yellow vein virus",
+  "schema": [
+    {
+      "length": 2731,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 222475
+}

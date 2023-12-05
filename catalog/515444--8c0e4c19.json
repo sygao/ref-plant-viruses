@@ -1,0 +1,21 @@
+{
+  "_id": "8c0e4c19",
+  "accessions": {
+    "excluded": [
+      "EU569831"
+    ],
+    "included": [
+      "NC_010738.1"
+    ]
+  },
+  "name": "Eupatorium vein clearing virus",
+  "schema": [
+    {
+      "length": 8463,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 515444
+}

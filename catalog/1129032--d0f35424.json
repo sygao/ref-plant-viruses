@@ -1,0 +1,21 @@
+{
+  "_id": "d0f35424",
+  "accessions": {
+    "excluded": [
+      "JN419002"
+    ],
+    "included": [
+      "NC_016998.1"
+    ]
+  },
+  "name": "Centrosema yellow spot virus",
+  "schema": [
+    {
+      "length": 2675,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1129032
+}

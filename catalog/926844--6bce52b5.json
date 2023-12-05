@@ -1,0 +1,21 @@
+{
+  "_id": "6bce52b5",
+  "accessions": {
+    "excluded": [
+      "AJ579345"
+    ],
+    "included": [
+      "NC_005057.1"
+    ]
+  },
+  "name": "Tobacco curly shoot alphasatellite",
+  "schema": [
+    {
+      "length": 1367,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 926844
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "2c013ffa",
+  "accessions": {
+    "excluded": [
+      "AB923924"
+    ],
+    "included": [
+      "AB923925.1",
+      "NC_025967.1"
+    ]
+  },
+  "name": "Persimmon virus B",
+  "schema": [
+    {
+      "length": 18299,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1493829
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "184898d4",
+  "accessions": {
+    "excluded": [
+      "FJ439817"
+    ],
+    "included": [
+      "JN377533.1",
+      "NC_013455.1"
+    ]
+  },
+  "name": "Sugarcane bacilliform Guadeloupe D virus",
+  "schema": [
+    {
+      "length": 7571,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1960253
+}

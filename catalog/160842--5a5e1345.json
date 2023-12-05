@@ -1,0 +1,21 @@
+{
+  "_id": "5a5e1345",
+  "accessions": {
+    "excluded": [
+      "KC691259"
+    ],
+    "included": [
+      "NC_023628.1"
+    ]
+  },
+  "name": "Narcissus late season yellows virus",
+  "schema": [
+    {
+      "length": 9687,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 160842
+}

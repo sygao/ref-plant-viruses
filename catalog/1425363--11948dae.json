@@ -1,0 +1,21 @@
+{
+  "_id": "11948dae",
+  "accessions": {
+    "excluded": [
+      "KF533711"
+    ],
+    "included": [
+      "NC_025469.1"
+    ]
+  },
+  "name": "Carrot betaflexivirus 1",
+  "schema": [
+    {
+      "length": 8155,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1425363
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "e507a0ba",
+  "accessions": {
+    "excluded": [
+      "AB038343",
+      "AB061773",
+      "AB061774"
+    ],
+    "included": [
+      "NC_008300.1",
+      "NC_008306.1",
+      "NC_008307.1"
+    ]
+  },
+  "name": "Melon yellow spot virus",
+  "schema": [
+    {
+      "length": 8918,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4815,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3232,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 89471
+}

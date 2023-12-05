@@ -1,0 +1,21 @@
+{
+  "_id": "c2b19766",
+  "accessions": {
+    "excluded": [
+      "AY493509"
+    ],
+    "included": [
+      "NC_007002.1"
+    ]
+  },
+  "name": "Banana streak GF virus",
+  "schema": [
+    {
+      "length": 7263,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 328670
+}

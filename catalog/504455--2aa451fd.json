@@ -1,0 +1,19 @@
+{
+  "_id": "2aa451fd",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EU371896.1"
+    ]
+  },
+  "name": "Vicia cryptic virus M",
+  "schema": [
+    {
+      "length": 3434,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 504455
+}

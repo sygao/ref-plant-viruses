@@ -1,0 +1,21 @@
+{
+  "_id": "6832cb7d",
+  "accessions": {
+    "excluded": [
+      "KC967282"
+    ],
+    "included": [
+      "NC_023876.1"
+    ]
+  },
+  "name": "Andrographis yellow vein leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1379,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1476485
+}

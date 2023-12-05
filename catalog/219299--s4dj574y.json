@@ -1,0 +1,29 @@
+{
+  "_id": "s4dj574y",
+  "accessions": {
+    "excluded": [
+      "AY190290",
+      "AY190291"
+    ],
+    "included": [
+      "NC_004558.1",
+      "NC_004559.1"
+    ]
+  },
+  "name": "Tomato leaf curl Gujarat virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2688,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 219299
+}

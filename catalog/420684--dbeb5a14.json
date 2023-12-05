@@ -1,0 +1,21 @@
+{
+  "_id": "dbeb5a14",
+  "accessions": {
+    "excluded": [
+      "EF197941"
+    ],
+    "included": [
+      "NC_010946.1"
+    ]
+  },
+  "name": "Pumpkin yellow mosaic Malaysia virus",
+  "schema": [
+    {
+      "length": 2724,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 420684
+}

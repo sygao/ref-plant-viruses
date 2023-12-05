@@ -1,0 +1,21 @@
+{
+  "_id": "9djcjp54",
+  "accessions": {
+    "excluded": [
+      "KY363796"
+    ],
+    "included": [
+      "NC_034377.1"
+    ]
+  },
+  "name": "Watermelon virus A",
+  "schema": [
+    {
+      "length": 8372,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1978413
+}

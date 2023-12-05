@@ -1,0 +1,21 @@
+{
+  "_id": "6ac9932e",
+  "accessions": {
+    "excluded": [
+      "EU557374"
+    ],
+    "included": [
+      "NC_010569.1"
+    ]
+  },
+  "name": "Ludwigia leaf distortion betasatellite [India:Amadalavalasa:Hibiscus:2007]",
+  "schema": [
+    {
+      "length": 1362,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 562747
+}

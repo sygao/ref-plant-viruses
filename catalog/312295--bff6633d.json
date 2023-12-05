@@ -1,0 +1,21 @@
+{
+  "_id": "bff6633d",
+  "accessions": {
+    "excluded": [
+      "GU167940"
+    ],
+    "included": [
+      "NC_014545.1"
+    ]
+  },
+  "name": "Cotton leafroll dwarf virus",
+  "schema": [
+    {
+      "length": 5866,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312295
+}

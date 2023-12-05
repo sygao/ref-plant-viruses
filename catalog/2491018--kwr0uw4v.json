@@ -1,0 +1,21 @@
+{
+  "_id": "kwr0uw4v",
+  "accessions": {
+    "excluded": [
+      "MH206615"
+    ],
+    "included": [
+      "NC_055177.1"
+    ]
+  },
+  "name": "Air potato virus 1",
+  "schema": [
+    {
+      "length": 13398,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2491018
+}

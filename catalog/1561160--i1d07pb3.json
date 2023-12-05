@@ -1,0 +1,29 @@
+{
+  "_id": "i1d07pb3",
+  "accessions": {
+    "excluded": [
+      "KM229700",
+      "KM229701"
+    ],
+    "included": [
+      "NC_035218.1",
+      "NC_035220.1"
+    ]
+  },
+  "name": "Motherwort yellow mottle virus",
+  "schema": [
+    {
+      "length": 7068,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4963,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1561160
+}

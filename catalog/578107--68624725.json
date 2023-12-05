@@ -1,0 +1,21 @@
+{
+  "_id": "68624725",
+  "accessions": {
+    "excluded": [
+      "DQ299908"
+    ],
+    "included": [
+      "NC_008028.1"
+    ]
+  },
+  "name": "Daphne mosaic virus",
+  "schema": [
+    {
+      "length": 9548,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 578107
+}

@@ -1,0 +1,97 @@
+{
+  "_id": "1v6jmd57",
+  "accessions": {
+    "excluded": [
+      "HQ637550",
+      "HQ637551",
+      "HQ637552",
+      "HQ637553",
+      "HQ637555",
+      "HQ637556",
+      "HQ637557",
+      "HQ637558",
+      "HQ637559"
+    ],
+    "included": [
+      "NC_037570.1",
+      "NC_037571.1",
+      "NC_037572.1",
+      "NC_037573.1",
+      "NC_037574.1",
+      "NC_037575.1",
+      "NC_037576.1",
+      "NC_037577.1",
+      "NC_037578.1"
+    ]
+  },
+  "name": "Maize rough dwarf fijivirus",
+  "schema": [
+    {
+      "length": 4501,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3813,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3573,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3617,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 2645,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 2193,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1936,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1900,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1802,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 11",
+      "required": true
+    }
+  ],
+  "taxid": 10989
+}

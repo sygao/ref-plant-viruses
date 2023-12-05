@@ -1,0 +1,21 @@
+{
+  "_id": "9a179b05",
+  "accessions": {
+    "excluded": [
+      "AF098523"
+    ],
+    "included": [
+      "NC_001977.1"
+    ]
+  },
+  "name": "Erysimum latent virus",
+  "schema": [
+    {
+      "length": 6035,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12152
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "4cd4a420",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX354202.1"
+    ]
+  },
+  "name": "Grapevine asteroid mosaic associated virus",
+  "schema": [
+    {
+      "length": 6719,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169998
+}

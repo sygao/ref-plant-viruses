@@ -1,0 +1,31 @@
+{
+  "_id": "cfc5c0d9",
+  "accessions": {
+    "excluded": [
+      "AF316321",
+      "X52960",
+      "X95365",
+      "X97202",
+      "FJ151370",
+      "FJ615418"
+    ],
+    "included": [
+      "NC_002683.1",
+      "NC_003681.1",
+      "NC_003682.1",
+      "NC_003882.1",
+      "NC_012127.1",
+      "NC_012805.1"
+    ]
+  },
+  "name": "Coleus blumei viroid",
+  "schema": [
+    {
+      "length": 304,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12899
+}

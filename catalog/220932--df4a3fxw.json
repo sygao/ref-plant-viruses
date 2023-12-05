@@ -1,0 +1,21 @@
+{
+  "_id": "df4a3fxw",
+  "accessions": {
+    "excluded": [
+      "U38239"
+    ],
+    "included": [
+      "NC_003897.1"
+    ]
+  },
+  "name": "Tomato leaf curl Karnataka virus",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 220932
+}

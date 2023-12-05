@@ -1,0 +1,22 @@
+{
+  "_id": "b3a69c33",
+  "accessions": {
+    "excluded": [
+      "AJ243370",
+      "X87115"
+    ],
+    "included": [
+      "NC_000939.1"
+    ]
+  },
+  "name": "Pothos latent virus",
+  "schema": [
+    {
+      "length": 4415,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 44562
+}

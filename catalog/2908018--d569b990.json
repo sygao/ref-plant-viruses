@@ -1,0 +1,21 @@
+{
+  "_id": "d569b990",
+  "accessions": {
+    "excluded": [
+      "AY674964"
+    ],
+    "included": [
+      "NC_006942.1"
+    ]
+  },
+  "name": "Taro vein chlorosis virus",
+  "schema": [
+    {
+      "length": 12020,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2908018
+}

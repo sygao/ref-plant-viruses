@@ -1,0 +1,21 @@
+{
+  "_id": "f8c56915",
+  "accessions": {
+    "excluded": [
+      "AY728263"
+    ],
+    "included": [
+      "NC_006952.1"
+    ]
+  },
+  "name": "Cowpea severe leaf curl-associated DNA beta",
+  "schema": [
+    {
+      "length": 1379,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 292627
+}

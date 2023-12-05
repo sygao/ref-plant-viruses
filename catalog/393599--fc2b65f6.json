@@ -1,0 +1,29 @@
+{
+  "_id": "fc2b65f6",
+  "accessions": {
+    "excluded": [
+      "AJ704971",
+      "AJ717572"
+    ],
+    "included": [
+      "NC_011583.1",
+      "NC_011584.1"
+    ]
+  },
+  "name": "East African cassava mosaic Kenya virus",
+  "schema": [
+    {
+      "length": 2797,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2776,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 393599
+}

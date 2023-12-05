@@ -1,0 +1,25 @@
+{
+  "_id": "7a988b5f",
+  "accessions": {
+    "excluded": [
+      "L78454"
+    ],
+    "included": [
+      "FJ824844.1",
+      "GQ131573.1",
+      "HG739081.1",
+      "KF683198.1",
+      "NC_003637.1"
+    ]
+  },
+  "name": "Mexicana papita viroid",
+  "schema": [
+    {
+      "length": 360,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 79450
+}

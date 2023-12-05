@@ -1,0 +1,29 @@
+{
+  "_id": "w1woqu3k",
+  "accessions": {
+    "excluded": [
+      "MN518737",
+      "MN518739"
+    ],
+    "included": [
+      "NC_055596.1",
+      "NC_060096.1"
+    ]
+  },
+  "name": "Pepper blistering leaf virus",
+  "schema": [
+    {
+      "length": 2651,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2614,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2651594
+}

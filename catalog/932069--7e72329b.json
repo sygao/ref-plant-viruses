@@ -1,0 +1,29 @@
+{
+  "_id": "7e72329b",
+  "accessions": {
+    "excluded": [
+      "HM585441",
+      "HM585442"
+    ],
+    "included": [
+      "NC_015044.1",
+      "NC_015046.1"
+    ]
+  },
+  "name": "Sida mosaic Bolivia virus 1",
+  "schema": [
+    {
+      "length": 2680,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2668,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 932069
+}

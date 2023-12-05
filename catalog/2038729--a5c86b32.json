@@ -1,0 +1,77 @@
+{
+  "_id": "a5c86b32",
+  "accessions": {
+    "excluded": [
+      "KC978958",
+      "KC978959",
+      "KC978960",
+      "KC978961",
+      "KC978962",
+      "KC978963",
+      "KC978964",
+      "KC978965"
+    ],
+    "included": [
+      "NC_023299.1",
+      "NC_023300.1",
+      "NC_023301.1",
+      "NC_023302.1",
+      "NC_023304.1",
+      "NC_023305.1",
+      "NC_023306.1",
+      "NC_023307.1"
+    ]
+  },
+  "name": "Black medic leafroll virus",
+  "schema": [
+    {
+      "length": 1008,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 1017,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 1021,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1001,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 1006,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    },
+    {
+      "length": 1017,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 1010,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 1011,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    }
+  ],
+  "taxid": 2038729
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "5c11e7fb",
+  "accessions": {
+    "excluded": [
+      "X15163",
+      "X15346"
+    ],
+    "included": [
+      "NC_003621.1",
+      "NC_003622.1"
+    ]
+  },
+  "name": "Grapevine chrome mosaic virus",
+  "schema": [
+    {
+      "length": 7212,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4441,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12273
+}

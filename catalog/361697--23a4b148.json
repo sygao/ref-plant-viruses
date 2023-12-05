@@ -1,0 +1,19 @@
+{
+  "_id": "23a4b148",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EF121755.1"
+    ]
+  },
+  "name": "Boerhavia yellow spot virus",
+  "schema": [
+    {
+      "length": 2621,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 361697
+}

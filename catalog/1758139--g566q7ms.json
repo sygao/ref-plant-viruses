@@ -1,0 +1,37 @@
+{
+  "_id": "g566q7ms",
+  "accessions": {
+    "excluded": [
+      "KT225271",
+      "KT225272",
+      "KT225273"
+    ],
+    "included": [
+      "NC_029034.1",
+      "NC_029035.1",
+      "NC_029037.1"
+    ]
+  },
+  "name": "Colombian potato soil-borne virus",
+  "schema": [
+    {
+      "length": 6170,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3164,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3028,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1758139
+}

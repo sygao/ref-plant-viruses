@@ -1,0 +1,28 @@
+{
+  "_id": "roixnggx",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY700685.1",
+      "KY700686.1",
+      "MG717931.1",
+      "MG717932.1"
+    ]
+  },
+  "name": "Citrus chlorotic spot virus",
+  "schema": [
+    {
+      "length": 6300,
+      "molecule": "ssRNA-",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 5831,
+      "molecule": "ssRNA-",
+      "name": "RNA2",
+      "required": true
+    }
+  ],
+  "taxid": 1980624
+}

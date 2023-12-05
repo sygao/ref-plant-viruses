@@ -1,0 +1,29 @@
+{
+  "_id": "e87553c1",
+  "accessions": {
+    "excluded": [
+      "JX827487",
+      "JX827488"
+    ],
+    "included": [
+      "NC_019035.1",
+      "NC_019036.1"
+    ]
+  },
+  "name": "Blechum interveinal chlorosis virus",
+  "schema": [
+    {
+      "length": 2645,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2640,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1246650
+}

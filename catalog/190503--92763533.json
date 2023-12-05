@@ -1,0 +1,21 @@
+{
+  "_id": "92763533",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN788417.1",
+      "MW314142.1",
+      "MW314143.1"
+    ]
+  },
+  "name": "Spartina mottle virus",
+  "schema": [
+    {
+      "length": 9356,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 190503
+}

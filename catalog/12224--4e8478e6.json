@@ -1,0 +1,26 @@
+{
+  "_id": "4e8478e6",
+  "accessions": {
+    "excluded": [
+      "AJ297628"
+    ],
+    "included": [
+      "GU474635.1",
+      "KP860936.1",
+      "KY006657.1",
+      "MH093731.1",
+      "MH093733.1",
+      "NC_003398.1"
+    ]
+  },
+  "name": "Sugarcane mosaic virus",
+  "schema": [
+    {
+      "length": 9624,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12224
+}

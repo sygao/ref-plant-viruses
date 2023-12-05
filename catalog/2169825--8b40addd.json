@@ -1,0 +1,21 @@
+{
+  "_id": "8b40addd",
+  "accessions": {
+    "excluded": [
+      "HM163578"
+    ],
+    "included": [
+      "NC_014379.1"
+    ]
+  },
+  "name": "Melon chlorotic mosaic virus-associated alphasatellite",
+  "schema": [
+    {
+      "length": 1334,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169825
+}

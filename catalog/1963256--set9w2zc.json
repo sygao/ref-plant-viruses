@@ -1,0 +1,21 @@
+{
+  "_id": "set9w2zc",
+  "accessions": {
+    "excluded": [
+      "KX856972"
+    ],
+    "included": [
+      "NC_034207.1"
+    ]
+  },
+  "name": "African eggplant yellowing virus",
+  "schema": [
+    {
+      "length": 5953,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1963256
+}

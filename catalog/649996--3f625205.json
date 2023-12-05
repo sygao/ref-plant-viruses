@@ -1,0 +1,29 @@
+{
+  "_id": "3f625205",
+  "accessions": {
+    "excluded": [
+      "FJ174698",
+      "FJ999999"
+    ],
+    "included": [
+      "NC_011348.1",
+      "NC_017913.1"
+    ]
+  },
+  "name": "Tomato yellow leaf distortion virus",
+  "schema": [
+    {
+      "length": 2630,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2589,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 649996
+}

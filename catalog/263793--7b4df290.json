@@ -1,0 +1,29 @@
+{
+  "_id": "7b4df290",
+  "accessions": {
+    "excluded": [
+      "AJ627904",
+      "AJ627905"
+    ],
+    "included": [
+      "NC_005635.1",
+      "NC_005636.1"
+    ]
+  },
+  "name": "Horsegram yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2728,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2677,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 263793
+}

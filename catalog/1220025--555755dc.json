@@ -1,0 +1,26 @@
+{
+  "_id": "555755dc",
+  "accessions": {
+    "excluded": [
+      "JQ609095",
+      "JX291161"
+    ],
+    "included": [
+      "JQ609096.1",
+      "JX291161.1",
+      "KU133475.1",
+      "MG189944.1",
+      "NC_018872.1"
+    ]
+  },
+  "name": "Pokeweed mosaic virus",
+  "schema": [
+    {
+      "length": 9516,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1220025
+}

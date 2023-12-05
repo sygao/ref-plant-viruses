@@ -1,0 +1,21 @@
+{
+  "_id": "074fbcf6",
+  "accessions": {
+    "excluded": [
+      "FJ914390"
+    ],
+    "included": [
+      "NC_016536.1"
+    ]
+  },
+  "name": "Ipomoea begomovirus satellite DNA beta",
+  "schema": [
+    {
+      "length": 662,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 706122
+}

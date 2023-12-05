@@ -1,0 +1,21 @@
+{
+  "_id": "r7p00rks",
+  "accessions": {
+    "excluded": [
+      "EU710751"
+    ],
+    "included": [
+      "NC_038457.1"
+    ]
+  },
+  "name": "Sida common mosaic virus",
+  "schema": [
+    {
+      "length": 2687,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 536082
+}

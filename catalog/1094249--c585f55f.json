@@ -1,0 +1,45 @@
+{
+  "_id": "c585f55f",
+  "accessions": {
+    "excluded": [
+      "JN651148",
+      "JN651149",
+      "JN651150",
+      "JN651151"
+    ],
+    "included": [
+      "NC_016084.1",
+      "NC_016085.1",
+      "NC_016086.1",
+      "NC_016087.1"
+    ]
+  },
+  "name": "Blueberry necrotic ring blotch virus",
+  "schema": [
+    {
+      "length": 5906,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3935,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2588,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1724,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 1094249
+}

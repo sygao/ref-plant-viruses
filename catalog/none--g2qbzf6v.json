@@ -1,0 +1,37 @@
+{
+  "_id": "g2qbzf6v",
+  "accessions": {
+    "excluded": [
+      "HG797710",
+      "HG967638",
+      "HG967639"
+    ],
+    "included": [
+      "NC_024010.1",
+      "NC_024011.1",
+      "NC_024014.1"
+    ]
+  },
+  "name": "Arhar cryptic virus 1",
+  "schema": [
+    {
+      "length": 1714,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1491,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1433,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

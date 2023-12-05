@@ -1,0 +1,20 @@
+{
+  "_id": "73785f1e",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KT273413.1",
+      "MZ291915.1"
+    ]
+  },
+  "name": "Nectarine Virus M",
+  "schema": [
+    {
+      "length": 6475,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1778580
+}

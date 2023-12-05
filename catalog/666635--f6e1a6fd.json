@@ -1,0 +1,21 @@
+{
+  "_id": "f6e1a6fd",
+  "accessions": {
+    "excluded": [
+      "FN435836"
+    ],
+    "included": [
+      "NC_013423.1"
+    ]
+  },
+  "name": "Vernonia yellow vein betasatellite",
+  "schema": [
+    {
+      "length": 1364,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 666635
+}

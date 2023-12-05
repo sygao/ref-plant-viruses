@@ -1,0 +1,21 @@
+{
+  "_id": "85f43ukk",
+  "accessions": {
+    "excluded": [
+      "KT203917"
+    ],
+    "included": [
+      "NC_027712.1"
+    ]
+  },
+  "name": "Tobacco virus 1",
+  "schema": [
+    {
+      "length": 15395,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1692045
+}

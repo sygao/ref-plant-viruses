@@ -1,0 +1,21 @@
+{
+  "_id": "tfamu0m3",
+  "accessions": {
+    "excluded": [
+      "AB433979"
+    ],
+    "included": [
+      "NC_043121.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein virus-[Japan:Kagawa:Tomato:1997]",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

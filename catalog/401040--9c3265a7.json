@@ -1,0 +1,21 @@
+{
+  "_id": "9c3265a7",
+  "accessions": {
+    "excluded": [
+      "DQ875879"
+    ],
+    "included": [
+      "NC_008377.1"
+    ]
+  },
+  "name": "Okra yellow crinkle virus",
+  "schema": [
+    {
+      "length": 2792,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 401040
+}

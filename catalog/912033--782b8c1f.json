@@ -1,0 +1,21 @@
+{
+  "_id": "782b8c1f",
+  "accessions": {
+    "excluded": [
+      "FR717144"
+    ],
+    "included": [
+      "NC_014645.1"
+    ]
+  },
+  "name": "Ageratum leaf curl Cameroon virus",
+  "schema": [
+    {
+      "length": 2792,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 912033
+}

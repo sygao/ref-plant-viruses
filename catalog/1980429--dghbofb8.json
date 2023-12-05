@@ -1,0 +1,53 @@
+{
+  "_id": "dghbofb8",
+  "accessions": {
+    "excluded": [
+      "HF568801",
+      "HF568802",
+      "HF568803",
+      "HF568804",
+      "HF945448"
+    ],
+    "included": [
+      "NC_029556.1",
+      "NC_029557.1",
+      "NC_029569.1",
+      "NC_029574.1",
+      "NC_029575.1"
+    ]
+  },
+  "name": "Pigeonpea sterility mosaic emaravirus 1",
+  "schema": [
+    {
+      "length": 7022,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2223,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1442,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1563,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1801,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 1980429
+}

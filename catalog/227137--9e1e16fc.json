@@ -1,0 +1,21 @@
+{
+  "_id": "9e1e16fc",
+  "accessions": {
+    "excluded": [
+      "AJ002451"
+    ],
+    "included": [
+      "NC_004673.1"
+    ]
+  },
+  "name": "Okra yellow vein mosaic virus",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 227137
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "d8b36704",
+  "accessions": {
+    "excluded": [
+      "HM140367"
+    ],
+    "included": [
+      "NC_014707.1"
+    ]
+  },
+  "name": "Papaya leaf crumple virus-Panipat 8 [India:Panipat:Papaya:2008]",
+  "schema": [
+    {
+      "length": 2736,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

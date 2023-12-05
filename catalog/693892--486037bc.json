@@ -1,0 +1,21 @@
+{
+  "_id": "486037bc",
+  "accessions": {
+    "excluded": [
+      "FN432356"
+    ],
+    "included": [
+      "NC_013640.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Bengal virus",
+  "schema": [
+    {
+      "length": 2823,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 693892
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "d0718a75",
+  "accessions": {
+    "excluded": [
+      "KY828925"
+    ],
+    "included": [
+      "NC_037051.1"
+    ]
+  },
+  "name": "Hyacinth mosaic virus",
+  "schema": [
+    {
+      "length": 9500,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 421013
+}

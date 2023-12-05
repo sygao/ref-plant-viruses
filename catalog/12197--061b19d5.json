@@ -1,0 +1,21 @@
+{
+  "_id": "061b19d5",
+  "accessions": {
+    "excluded": [
+      "D83749"
+    ],
+    "included": [
+      "NC_003492.1"
+    ]
+  },
+  "name": "Bean yellow mosaic virus",
+  "schema": [
+    {
+      "length": 9532,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12197
+}

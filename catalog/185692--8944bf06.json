@@ -1,0 +1,20 @@
+{
+  "_id": "8944bf06",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF467107.1",
+      "KY823429.1"
+    ]
+  },
+  "name": "Passion fruit yellow mosaic virus",
+  "schema": [
+    {
+      "length": 3601,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 185692
+}

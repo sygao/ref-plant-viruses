@@ -1,0 +1,21 @@
+{
+  "_id": "80b80309",
+  "accessions": {
+    "excluded": [
+      "EU365613"
+    ],
+    "included": [
+      "NC_011804.1"
+    ]
+  },
+  "name": "Gossypium darwinii symptomless virus",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 509531
+}

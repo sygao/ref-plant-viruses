@@ -1,0 +1,22 @@
+{
+  "_id": "6a145d19",
+  "accessions": {
+    "excluded": [
+      "HQ122652"
+    ],
+    "included": [
+      "KX577780.1",
+      "NC_014790.1"
+    ]
+  },
+  "name": "Passion fruit woodiness virus",
+  "schema": [
+    {
+      "length": 9685,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31732
+}

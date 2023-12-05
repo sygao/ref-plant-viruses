@@ -1,0 +1,21 @@
+{
+  "_id": "bee817dc",
+  "accessions": {
+    "excluded": [
+      "EF494181"
+    ],
+    "included": [
+      "NC_009568.1"
+    ]
+  },
+  "name": "Lucky bamboo bacilliform virus",
+  "schema": [
+    {
+      "length": 7522,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 446549
+}

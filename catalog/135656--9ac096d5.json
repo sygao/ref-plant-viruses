@@ -1,0 +1,19 @@
+{
+  "_id": "9ac096d5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MZ326668.1"
+    ]
+  },
+  "name": "Strawberry crinkle virus",
+  "schema": [
+    {
+      "length": 7152,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 135656
+}

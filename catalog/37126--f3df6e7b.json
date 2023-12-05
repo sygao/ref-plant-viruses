@@ -1,0 +1,37 @@
+{
+  "_id": "f3df6e7b",
+  "accessions": {
+    "excluded": [
+      "U17390",
+      "U17726",
+      "U23715"
+    ],
+    "included": [
+      "NC_003546.1",
+      "NC_003547.1",
+      "NC_003548.1"
+    ]
+  },
+  "name": "Citrus leaf rugose virus",
+  "schema": [
+    {
+      "length": 3404,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2990,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2289,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 37126
+}

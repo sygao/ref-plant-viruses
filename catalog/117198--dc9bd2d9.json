@@ -1,0 +1,29 @@
+{
+  "_id": "dc9bd2d9",
+  "accessions": {
+    "excluded": [
+      "DQ356429",
+      "EU339936"
+    ],
+    "included": [
+      "NC_010293.1",
+      "NC_010294.1"
+    ]
+  },
+  "name": "Rhynchosia golden mosaic virus",
+  "schema": [
+    {
+      "length": 2604,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2551,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 117198
+}

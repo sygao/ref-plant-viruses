@@ -1,0 +1,21 @@
+{
+  "_id": "f8a56910",
+  "accessions": {
+    "excluded": [
+      "KJ415259"
+    ],
+    "included": [
+      "NC_023892.1"
+    ]
+  },
+  "name": "Gaillardia latent virus",
+  "schema": [
+    {
+      "length": 8659,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1468172
+}

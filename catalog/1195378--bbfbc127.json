@@ -1,0 +1,29 @@
+{
+  "_id": "bbfbc127",
+  "accessions": {
+    "excluded": [
+      "JN564749",
+      "JN564750"
+    ],
+    "included": [
+      "NC_016580.1",
+      "NC_016581.1"
+    ]
+  },
+  "name": "Tomato dwarf leaf virus",
+  "schema": [
+    {
+      "length": 2540,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2494,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1195378
+}

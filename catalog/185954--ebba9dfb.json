@@ -1,0 +1,93 @@
+{
+  "_id": "ebba9dfb",
+  "accessions": {
+    "excluded": [
+      "AY923115",
+      "AF395872",
+      "AF499926",
+      "AY607586",
+      "AF499927",
+      "AF499928",
+      "AF499925",
+      "DQ023312",
+      "AF395873",
+      "AY607587"
+    ],
+    "included": [
+      "NC_008728.1",
+      "NC_008729.1",
+      "NC_008730.1",
+      "NC_008731.1",
+      "NC_008732.1",
+      "NC_008733.1",
+      "NC_008734.1",
+      "NC_008735.1",
+      "NC_008736.1",
+      "NC_008737.1"
+    ]
+  },
+  "name": "Mal de Rio Cuarto virus",
+  "schema": [
+    {
+      "length": 4501,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3617,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3826,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3566,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 3162,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 2639,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 2186,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1931,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1870,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1798,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 185954
+}

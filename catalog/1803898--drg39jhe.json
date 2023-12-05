@@ -1,0 +1,23 @@
+{
+  "_id": "drg39jhe",
+  "accessions": {
+    "excluded": [
+      "KU726694"
+    ],
+    "included": [
+      "KU923763.1",
+      "MH725809.1",
+      "NC_034376.1"
+    ]
+  },
+  "name": "Pepper virus A",
+  "schema": [
+    {
+      "length": 8687,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1803898
+}

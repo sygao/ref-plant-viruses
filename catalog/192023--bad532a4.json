@@ -1,0 +1,22 @@
+{
+  "_id": "bad532a4",
+  "accessions": {
+    "excluded": [
+      "AY303787",
+      "D00720"
+    ],
+    "included": [
+      "NC_004009.1"
+    ]
+  },
+  "name": "Cymbidium ringspot virus satellite RNA",
+  "schema": [
+    {
+      "length": 618,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 192023
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "6e7af412",
+  "accessions": {
+    "excluded": [
+      "AY508993",
+      "AY508994"
+    ],
+    "included": [
+      "NC_005852.1",
+      "NC_005853.1"
+    ]
+  },
+  "name": "Tomato yellow margin leaf curl virus",
+  "schema": [
+    {
+      "length": 2575,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2543,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 260909
+}

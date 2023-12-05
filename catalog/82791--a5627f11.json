@@ -1,0 +1,19 @@
+{
+  "_id": "a5627f11",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ440010.1"
+    ]
+  },
+  "name": "Olive leaf yellowing-associated virus",
+  "schema": [
+    {
+      "length": 4605,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 82791
+}

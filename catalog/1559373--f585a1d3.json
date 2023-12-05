@@ -1,0 +1,21 @@
+{
+  "_id": "f585a1d3",
+  "accessions": {
+    "excluded": [
+      "KM189818"
+    ],
+    "included": [
+      "NC_025258.1"
+    ]
+  },
+  "name": "Jatropha leaf crumple India virus [J. curcas: Jodhpur]",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1559373
+}

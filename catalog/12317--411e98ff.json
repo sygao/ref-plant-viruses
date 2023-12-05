@@ -1,0 +1,43 @@
+{
+  "_id": "411e98ff",
+  "accessions": {
+    "excluded": [
+      "U75538",
+      "U80934",
+      "X00435"
+    ],
+    "included": [
+      "FJ561302.1",
+      "FJ561303.1",
+      "FJ561304.1",
+      "MT682306.1",
+      "MT682307.1",
+      "MT682308.1",
+      "NC_003842.1",
+      "NC_003844.1",
+      "NC_003845.1"
+    ]
+  },
+  "name": "Tobacco streak virus",
+  "schema": [
+    {
+      "length": 3513,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2909,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2209,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12317
+}

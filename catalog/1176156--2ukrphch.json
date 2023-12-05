@@ -1,0 +1,21 @@
+{
+  "_id": "2ukrphch",
+  "accessions": {
+    "excluded": [
+      "JF919717"
+    ],
+    "included": [
+      "NC_018864.1"
+    ]
+  },
+  "name": "Tomato leaf curl Yemen betasatellite",
+  "schema": [
+    {
+      "length": 1352,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1176156
+}

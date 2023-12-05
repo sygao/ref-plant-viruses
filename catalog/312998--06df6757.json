@@ -1,0 +1,19 @@
+{
+  "_id": "06df6757",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY913795.1"
+    ]
+  },
+  "name": "Mint virus 2",
+  "schema": [
+    {
+      "length": 3897,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312998
+}

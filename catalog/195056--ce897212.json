@@ -1,0 +1,21 @@
+{
+  "_id": "ce897212",
+  "accessions": {
+    "excluded": [
+      "AF039909"
+    ],
+    "included": [
+      "NC_003380.1"
+    ]
+  },
+  "name": "Rice yellow mottle virus satellite",
+  "schema": [
+    {
+      "length": 220,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 195056
+}

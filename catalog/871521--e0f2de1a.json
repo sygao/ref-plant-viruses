@@ -1,0 +1,29 @@
+{
+  "_id": "e0f2de1a",
+  "accessions": {
+    "excluded": [
+      "HM003778",
+      "HM003779"
+    ],
+    "included": [
+      "NC_014446.1",
+      "NC_014447.1"
+    ]
+  },
+  "name": "Sida golden mosaic Florida virus-Malvastrum",
+  "schema": [
+    {
+      "length": 2608,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2578,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 871521
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "b98016ed",
+  "accessions": {
+    "excluded": [
+      "AF280540",
+      "AF280539",
+      "AF280541",
+      "AF061869"
+    ],
+    "included": [
+      "NC_003503.1",
+      "NC_003506.1",
+      "NC_003507.1",
+      "NC_003508.1"
+    ]
+  },
+  "name": "Beet soil-borne mosaic virus",
+  "schema": [
+    {
+      "length": 6683,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4616,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1720,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1203,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 76343
+}

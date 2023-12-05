@@ -1,0 +1,21 @@
+{
+  "_id": "xcl20vqt",
+  "accessions": {
+    "excluded": [
+      "MF978248"
+    ],
+    "included": [
+      "NC_036587.1"
+    ]
+  },
+  "name": "Babaco mosaic virus",
+  "schema": [
+    {
+      "length": 6692,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2060511
+}

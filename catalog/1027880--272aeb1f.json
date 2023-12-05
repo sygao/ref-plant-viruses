@@ -1,0 +1,21 @@
+{
+  "_id": "272aeb1f",
+  "accessions": {
+    "excluded": [
+      "HQ425778"
+    ],
+    "included": [
+      "NC_015523.1"
+    ]
+  },
+  "name": "Asclepias asymptomatic virus",
+  "schema": [
+    {
+      "length": 6175,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1027880
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "e9d25d87",
+  "accessions": {
+    "excluded": [
+      "KJ711908"
+    ],
+    "included": [
+      "KJ789131.1",
+      "KJ789132.1",
+      "KJ789133.1",
+      "KJ789134.1",
+      "KM009120.1",
+      "NC_025252.1"
+    ]
+  },
+  "name": "Yam virus X",
+  "schema": [
+    {
+      "length": 6126,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1503864
+}

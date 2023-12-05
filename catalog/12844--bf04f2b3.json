@@ -1,0 +1,27 @@
+{
+  "_id": "bf04f2b3",
+  "accessions": {
+    "excluded": [
+      "D86371"
+    ],
+    "included": [
+      "FJ155666.1",
+      "MF572055.1",
+      "MT270326.1",
+      "MT270329.1",
+      "MT270331.1",
+      "MT270337.1",
+      "NC_001841.1"
+    ]
+  },
+  "name": "Sweet potato feathery mottle virus",
+  "schema": [
+    {
+      "length": 10957,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12844
+}

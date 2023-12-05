@@ -1,0 +1,21 @@
+{
+  "_id": "1xl65gnh",
+  "accessions": {
+    "excluded": [
+      "AJ438936"
+    ],
+    "included": [
+      "NC_043418.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein virus-[MNS2]",
+  "schema": [
+    {
+      "length": 2765,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

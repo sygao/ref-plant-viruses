@@ -1,0 +1,37 @@
+{
+  "_id": "3a3b7fe7",
+  "accessions": {
+    "excluded": [
+      "AJ223596",
+      "AJ223597",
+      "AJ223598"
+    ],
+    "included": [
+      "NC_003510.1",
+      "NC_003511.1",
+      "NC_003512.1"
+    ]
+  },
+  "name": "Beet virus Q",
+  "schema": [
+    {
+      "length": 6003,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2913,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2529,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 71972
+}

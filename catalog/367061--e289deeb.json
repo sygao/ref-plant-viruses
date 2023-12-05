@@ -1,0 +1,21 @@
+{
+  "_id": "e289deeb",
+  "accessions": {
+    "excluded": [
+      "AM182232"
+    ],
+    "included": [
+      "NC_007730.1"
+    ]
+  },
+  "name": "Vernonia yellow vein virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 367061
+}

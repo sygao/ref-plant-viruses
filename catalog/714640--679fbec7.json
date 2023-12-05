@@ -1,0 +1,21 @@
+{
+  "_id": "679fbec7",
+  "accessions": {
+    "excluded": [
+      "AY244706"
+    ],
+    "included": [
+      "NC_004706.1"
+    ]
+  },
+  "name": "Papaya leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1372,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 714640
+}

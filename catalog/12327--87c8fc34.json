@@ -1,0 +1,37 @@
+{
+  "_id": "87c8fc34",
+  "accessions": {
+    "excluded": [
+      "J04342",
+      "M16576",
+      "X03854"
+    ],
+    "included": [
+      "NC_003469.1",
+      "NC_003478.1",
+      "NC_003481.1"
+    ]
+  },
+  "name": "Barley stripe mosaic virus",
+  "schema": [
+    {
+      "length": 3768,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3289,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3164,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12327
+}

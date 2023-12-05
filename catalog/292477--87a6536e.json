@@ -1,0 +1,29 @@
+{
+  "_id": "87a6536e",
+  "accessions": {
+    "excluded": [
+      "AB267834",
+      "AB267835"
+    ],
+    "included": [
+      "NC_008283.1",
+      "NC_008284.1"
+    ]
+  },
+  "name": "Pepper yellow leaf curl Indonesia virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2726,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 292477
+}

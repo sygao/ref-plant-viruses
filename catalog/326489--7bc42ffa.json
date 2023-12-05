@@ -1,0 +1,21 @@
+{
+  "_id": "7bc42ffa",
+  "accessions": {
+    "excluded": [
+      "AJ967003"
+    ],
+    "included": [
+      "NC_007213.1"
+    ]
+  },
+  "name": "Sida yellow vein virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1355,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 326489
+}

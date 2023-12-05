@@ -1,0 +1,21 @@
+{
+  "_id": "c0138bd6",
+  "accessions": {
+    "excluded": [
+      "EU366903"
+    ],
+    "included": [
+      "NC_010435.1"
+    ]
+  },
+  "name": "Kenaf leaf curl virus-[India:Bahraich:2007]",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 449400
+}

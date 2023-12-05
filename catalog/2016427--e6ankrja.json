@@ -1,0 +1,21 @@
+{
+  "_id": "e6ankrja",
+  "accessions": {
+    "excluded": [
+      "MF150240"
+    ],
+    "included": [
+      "NC_035205.1"
+    ]
+  },
+  "name": "Vanilla virus X",
+  "schema": [
+    {
+      "length": 6295,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2016427
+}

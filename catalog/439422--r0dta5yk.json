@@ -1,0 +1,21 @@
+{
+  "_id": "r0dta5yk",
+  "accessions": {
+    "excluded": [
+      "AM701758"
+    ],
+    "included": [
+      "NC_038894.1"
+    ]
+  },
+  "name": "Tomato leaf curl Anjouan virus",
+  "schema": [
+    {
+      "length": 2781,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 439422
+}

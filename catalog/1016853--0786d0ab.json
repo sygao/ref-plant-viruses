@@ -1,0 +1,21 @@
+{
+  "_id": "0786d0ab",
+  "accessions": {
+    "excluded": [
+      "HQ593112"
+    ],
+    "included": [
+      "NC_015507.1"
+    ]
+  },
+  "name": "Banana streak IM virus",
+  "schema": [
+    {
+      "length": 7769,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1016853
+}

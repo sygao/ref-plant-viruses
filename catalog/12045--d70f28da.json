@@ -1,0 +1,33 @@
+{
+  "_id": "d70f28da",
+  "accessions": {
+    "excluded": [
+      "D00530"
+    ],
+    "included": [
+      "D13953.1",
+      "MN125059.1",
+      "MN125065.1",
+      "MN689366.1",
+      "MN689368.1",
+      "MN689369.1",
+      "MN689372.1",
+      "MN689373.1",
+      "MN689382.1",
+      "MN689387.1",
+      "MN689393.1",
+      "MT537598.1",
+      "NC_001747.1"
+    ]
+  },
+  "name": "Potato leafroll virus",
+  "schema": [
+    {
+      "length": 5962,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12045
+}

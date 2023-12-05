@@ -1,0 +1,21 @@
+{
+  "_id": "8324e203",
+  "accessions": {
+    "excluded": [
+      "KC223600"
+    ],
+    "included": [
+      "NC_020473.1"
+    ]
+  },
+  "name": "Corchorus yellow vein mosaic virus",
+  "schema": [
+    {
+      "length": 2743,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1297645
+}

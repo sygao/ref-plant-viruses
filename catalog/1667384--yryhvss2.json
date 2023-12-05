@@ -1,0 +1,21 @@
+{
+  "_id": "yryhvss2",
+  "accessions": {
+    "excluded": [
+      "KR677387"
+    ],
+    "included": [
+      "NC_027432.1"
+    ]
+  },
+  "name": "Portulaca latent viroid",
+  "schema": [
+    {
+      "length": 351,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 1667384
+}

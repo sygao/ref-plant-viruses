@@ -1,0 +1,37 @@
+{
+  "_id": "5a480bbd",
+  "accessions": {
+    "excluded": [
+      "DQ256123",
+      "DQ256124",
+      "DQ256125"
+    ],
+    "included": [
+      "NC_008301.1",
+      "NC_008302.1",
+      "NC_008303.1"
+    ]
+  },
+  "name": "Capsicum chlorosis virus",
+  "schema": [
+    {
+      "length": 8912,
+      "molecule": "ssRNA-",
+      "name": "L",
+      "required": true
+    },
+    {
+      "length": 4823,
+      "molecule": "ssRNA-",
+      "name": "M",
+      "required": true
+    },
+    {
+      "length": 3477,
+      "molecule": "ssRNA-",
+      "name": "S",
+      "required": true
+    }
+  ],
+  "taxid": 163325
+}

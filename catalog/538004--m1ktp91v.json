@@ -1,0 +1,21 @@
+{
+  "_id": "m1ktp91v",
+  "accessions": {
+    "excluded": [
+      "FM164939"
+    ],
+    "included": [
+      "NC_012789.1"
+    ]
+  },
+  "name": "Tomato leaf curl Pakistan alphasatellite",
+  "schema": [
+    {
+      "length": 1384,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 538004
+}

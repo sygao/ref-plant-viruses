@@ -1,0 +1,21 @@
+{
+  "_id": "57f70784",
+  "accessions": {
+    "excluded": [
+      "AJ566749"
+    ],
+    "included": [
+      "NC_004904.1"
+    ]
+  },
+  "name": "Tomato begomovirus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1342,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 234829
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "0fbe1ec5",
+  "accessions": {
+    "excluded": [
+      "Y11023"
+    ],
+    "included": [
+      "NC_003493.1"
+    ]
+  },
+  "name": "Bean yellow dwarf virus",
+  "schema": [
+    {
+      "length": 2561,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 57119
+}

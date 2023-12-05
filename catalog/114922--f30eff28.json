@@ -1,0 +1,21 @@
+{
+  "_id": "f30eff28",
+  "accessions": {
+    "excluded": [
+      "JX156434"
+    ],
+    "included": [
+      "NC_025254.1"
+    ]
+  },
+  "name": "Carrot thin leaf virus",
+  "schema": [
+    {
+      "length": 9491,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 114922
+}

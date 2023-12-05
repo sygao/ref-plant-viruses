@@ -1,0 +1,21 @@
+{
+  "_id": "22c75acf",
+  "accessions": {
+    "excluded": [
+      "D11028"
+    ],
+    "included": [
+      "NC_003680.1"
+    ]
+  },
+  "name": "Barley yellow dwarf virus-MAV",
+  "schema": [
+    {
+      "length": 5273,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169984
+}

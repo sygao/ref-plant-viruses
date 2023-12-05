@@ -1,0 +1,21 @@
+{
+  "_id": "857bbe1f",
+  "accessions": {
+    "excluded": [
+      "D29630"
+    ],
+    "included": [
+      "NC_001753.1"
+    ]
+  },
+  "name": "Clover yellow mosaic virus",
+  "schema": [
+    {
+      "length": 7015,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12177
+}

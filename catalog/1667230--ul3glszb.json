@@ -1,0 +1,21 @@
+{
+  "_id": "ul3glszb",
+  "accessions": {
+    "excluded": [
+      "KM507061"
+    ],
+    "included": [
+      "NC_038325.1"
+    ]
+  },
+  "name": "Caucasus prunus virus",
+  "schema": [
+    {
+      "length": 8255,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1667230
+}

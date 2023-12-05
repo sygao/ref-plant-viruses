@@ -1,0 +1,21 @@
+{
+  "_id": "20603017",
+  "accessions": {
+    "excluded": [
+      "DQ092436"
+    ],
+    "included": [
+      "NC_008018.1"
+    ]
+  },
+  "name": "Banana streak virus",
+  "schema": [
+    {
+      "length": 7722,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 69577
+}

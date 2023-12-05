@@ -1,0 +1,29 @@
+{
+  "_id": "dca3981a",
+  "accessions": {
+    "excluded": [
+      "KC176780",
+      "KC176781"
+    ],
+    "included": [
+      "NC_019946.1",
+      "NC_019947.1"
+    ]
+  },
+  "name": "Tomato yellow mottle virus",
+  "schema": [
+    {
+      "length": 2574,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2547,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 86502
+}

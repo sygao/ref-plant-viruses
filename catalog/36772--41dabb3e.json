@@ -1,0 +1,68 @@
+{
+  "_id": "41dabb3e",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK035728.1",
+      "MK035729.1",
+      "MK035730.1",
+      "MK035731.1",
+      "MK035732.1",
+      "MK035733.1",
+      "MK035734.1",
+      "MK035735.1"
+    ]
+  },
+  "name": "Subterranean clover stunt virus",
+  "schema": [
+    {
+      "length": 994,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 1002,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1005,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 1000,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 1005,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 985,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 995,
+      "molecule": "ssDNA",
+      "name": "RNA U2",
+      "required": true
+    },
+    {
+      "length": 1003,
+      "molecule": "ssDNA",
+      "name": "RNA U4",
+      "required": true
+    }
+  ],
+  "taxid": 36772
+}

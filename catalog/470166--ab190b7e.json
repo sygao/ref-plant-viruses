@@ -1,0 +1,35 @@
+{
+  "_id": "ab190b7e",
+  "accessions": {
+    "excluded": [
+      "EF681764",
+      "EF681765"
+    ],
+    "included": [
+      "EF681764.1",
+      "EF681765.1",
+      "KT756874.1",
+      "KT756875.1",
+      "KT756876.1",
+      "KT756877.1",
+      "NC_010987.1",
+      "NC_010988.1"
+    ]
+  },
+  "name": "Tomato marchitez virus",
+  "schema": [
+    {
+      "length": 7238,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4912,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 470166
+}

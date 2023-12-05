@@ -1,0 +1,22 @@
+{
+  "_id": "c45e2e8b",
+  "accessions": {
+    "excluded": [
+      "AF265566"
+    ],
+    "included": [
+      "KM523134.1",
+      "NC_002786.2"
+    ]
+  },
+  "name": "Maize rayado fino virus",
+  "schema": [
+    {
+      "length": 6351,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 59749
+}

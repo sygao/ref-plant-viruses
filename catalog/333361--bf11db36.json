@@ -1,0 +1,29 @@
+{
+  "_id": "bf11db36",
+  "accessions": {
+    "excluded": [
+      "AY727903",
+      "AY727904"
+    ],
+    "included": [
+      "NC_006358.1",
+      "NC_006359.1"
+    ]
+  },
+  "name": "Corchorus yellow vein virus - [Hoa Binh]",
+  "schema": [
+    {
+      "length": 2724,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2691,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 333361
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "e0cd82ac",
+  "accessions": {
+    "excluded": [
+      "D00721"
+    ],
+    "included": [
+      "NC_003971.1"
+    ]
+  },
+  "name": "Chicory yellow mottle virus satellite RNA",
+  "schema": [
+    {
+      "length": 457,
+      "molecule": "ssRNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 192022
+}

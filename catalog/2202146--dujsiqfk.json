@@ -1,0 +1,21 @@
+{
+  "_id": "dujsiqfk",
+  "accessions": {
+    "excluded": [
+      "LC080677"
+    ],
+    "included": [
+      "NC_039003.1"
+    ]
+  },
+  "name": "Malachra yellow mosaic virus DNA",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2202146
+}

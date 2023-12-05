@@ -1,0 +1,32 @@
+{
+  "_id": "scgci5fm",
+  "accessions": {
+    "excluded": [
+      "MF185009"
+    ],
+    "included": [
+      "MF185002.1",
+      "MF185003.1",
+      "MF185004.1",
+      "MF185005.1",
+      "MF185006.1",
+      "MF185007.1",
+      "MF185008.1",
+      "MF185010.1",
+      "MG976082.1",
+      "MG976083.1",
+      "MG976084.1",
+      "NC_035480.1"
+    ]
+  },
+  "name": "Wild vitis virus 1",
+  "schema": [
+    {
+      "length": 3253,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2025352
+}

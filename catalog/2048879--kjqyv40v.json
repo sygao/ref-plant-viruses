@@ -1,0 +1,21 @@
+{
+  "_id": "kjqyv40v",
+  "accessions": {
+    "excluded": [
+      "KY848691"
+    ],
+    "included": [
+      "NC_055478.1"
+    ]
+  },
+  "name": "Tomato leaf curl Virudhunagar alphasatellite",
+  "schema": [
+    {
+      "length": 1361,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2048879
+}

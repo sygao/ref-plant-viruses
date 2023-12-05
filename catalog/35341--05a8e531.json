@@ -1,0 +1,29 @@
+{
+  "_id": "05a8e531",
+  "accessions": {
+    "excluded": [
+      "AJ012081",
+      "AJ012082"
+    ],
+    "included": [
+      "NC_003708.1",
+      "NC_003709.1"
+    ]
+  },
+  "name": "Watermelon chlorotic stunt virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 35341
+}

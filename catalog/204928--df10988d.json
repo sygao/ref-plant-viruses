@@ -1,0 +1,21 @@
+{
+  "_id": "df10988d",
+  "accessions": {
+    "excluded": [
+      "GQ244431"
+    ],
+    "included": [
+      "NC_021926.1"
+    ]
+  },
+  "name": "Calibrachoa mottle virus",
+  "schema": [
+    {
+      "length": 3919,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 204928
+}

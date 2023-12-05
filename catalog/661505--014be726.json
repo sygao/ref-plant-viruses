@@ -1,0 +1,21 @@
+{
+  "_id": "014be726",
+  "accessions": {
+    "excluded": [
+      "FM179614"
+    ],
+    "included": [
+      "NC_013103.1"
+    ]
+  },
+  "name": "Chilli leaf curl Multan alphasatellite",
+  "schema": [
+    {
+      "length": 1369,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 661505
+}

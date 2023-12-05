@@ -1,0 +1,21 @@
+{
+  "_id": "19n3wqbx",
+  "accessions": {
+    "excluded": [
+      "KJ939346"
+    ],
+    "included": [
+      "NC_025244.1"
+    ]
+  },
+  "name": "Synedrella leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1359,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1544378
+}

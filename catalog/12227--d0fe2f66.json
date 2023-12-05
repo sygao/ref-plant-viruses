@@ -1,0 +1,24 @@
+{
+  "_id": "d0fe2f66",
+  "accessions": {
+    "excluded": [
+      "M11458"
+    ],
+    "included": [
+      "KM282187.1",
+      "KM282188.1",
+      "KM282189.1",
+      "NC_001555.1"
+    ]
+  },
+  "name": "Tobacco etch virus",
+  "schema": [
+    {
+      "length": 9494,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12227
+}

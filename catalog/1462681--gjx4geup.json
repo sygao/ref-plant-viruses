@@ -1,0 +1,20 @@
+{
+  "_id": "gjx4geup",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KU315177.1",
+      "KU315178.1"
+    ]
+  },
+  "name": "Pepo aphid-borne yellows virus",
+  "schema": [
+    {
+      "length": 5813,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1462681
+}

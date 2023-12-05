@@ -1,0 +1,21 @@
+{
+  "_id": "6xrtkuml",
+  "accessions": {
+    "excluded": [
+      "KY562565"
+    ],
+    "included": [
+      "NC_036802.1"
+    ]
+  },
+  "name": "Saffron latent virus",
+  "schema": [
+    {
+      "length": 9693,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2070152
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "pdhm9wnb",
+  "accessions": {
+    "excluded": [
+      "AF264063"
+    ],
+    "included": [
+      "NC_004153.1"
+    ]
+  },
+  "name": "Tomato leaf curl Vietnam virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 208177
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "006a583e",
+  "accessions": {
+    "excluded": [
+      "AY206394"
+    ],
+    "included": [
+      "NC_005304.1"
+    ]
+  },
+  "name": "Beet mosaic virus",
+  "schema": [
+    {
+      "length": 9591,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 114921
+}

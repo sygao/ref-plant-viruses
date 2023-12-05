@@ -1,0 +1,21 @@
+{
+  "_id": "0hr4b2uk",
+  "accessions": {
+    "excluded": [
+      "JX972142"
+    ],
+    "included": [
+      "NC_021205.1"
+    ]
+  },
+  "name": "Tomato leaf curl China virus - OX2",
+  "schema": [
+    {
+      "length": 2744,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1329381
+}

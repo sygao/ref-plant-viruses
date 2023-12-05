@@ -1,0 +1,20 @@
+{
+  "_id": "4jm59w8q",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KF360240.1",
+      "MH376747.1"
+    ]
+  },
+  "name": "Pleione flower breaking virus",
+  "schema": [
+    {
+      "length": 5659,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1403565
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "13ee3f1b",
+  "accessions": {
+    "excluded": [
+      "AB517596"
+    ],
+    "included": [
+      "NC_013527.1"
+    ]
+  },
+  "name": "Butterbur mosaic virus",
+  "schema": [
+    {
+      "length": 8662,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 666859
+}

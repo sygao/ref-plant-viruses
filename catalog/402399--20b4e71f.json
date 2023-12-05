@@ -1,0 +1,21 @@
+{
+  "_id": "20b4e71f",
+  "accessions": {
+    "excluded": [
+      "AM398436"
+    ],
+    "included": [
+      "NC_010944.1"
+    ]
+  },
+  "name": "Brugmansia mild mottle virus",
+  "schema": [
+    {
+      "length": 6381,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 402399
+}

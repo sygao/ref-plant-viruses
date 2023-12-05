@@ -1,0 +1,21 @@
+{
+  "_id": "ea786f0e",
+  "accessions": {
+    "excluded": [
+      "DQ822073"
+    ],
+    "included": [
+      "NC_009010.1"
+    ]
+  },
+  "name": "Dioscorea bacilliform virus",
+  "schema": [
+    {
+      "length": 7261,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 52996
+}

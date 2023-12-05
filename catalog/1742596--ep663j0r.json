@@ -1,0 +1,29 @@
+{
+  "_id": "ep663j0r",
+  "accessions": {
+    "excluded": [
+      "KT948787",
+      "KT948788"
+    ],
+    "included": [
+      "NC_029105.1",
+      "NC_037611.1"
+    ]
+  },
+  "name": "Pavonia yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2700,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2678,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1742596
+}

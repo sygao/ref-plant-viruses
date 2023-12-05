@@ -1,0 +1,21 @@
+{
+  "_id": "023b1ab3",
+  "accessions": {
+    "excluded": [
+      "JN419021"
+    ],
+    "included": [
+      "NC_017000.1"
+    ]
+  },
+  "name": "Macroptilium yellow vein virus",
+  "schema": [
+    {
+      "length": 2656,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1129035
+}

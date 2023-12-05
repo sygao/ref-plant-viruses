@@ -1,0 +1,21 @@
+{
+  "_id": "fea4635c",
+  "accessions": {
+    "excluded": [
+      "AY077797"
+    ],
+    "included": [
+      "NC_006935.1"
+    ]
+  },
+  "name": "Cotton leaf curl Gezira betasatellite",
+  "schema": [
+    {
+      "length": 1348,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 304222
+}

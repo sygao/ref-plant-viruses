@@ -1,0 +1,21 @@
+{
+  "_id": "c25mfkee",
+  "accessions": {
+    "excluded": [
+      "FJ600483"
+    ],
+    "included": [
+      "NC_038452.1"
+    ]
+  },
+  "name": "Malvastrum yellow mosaic Helshire",
+  "schema": [
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 643133
+}

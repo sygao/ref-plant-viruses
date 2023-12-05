@@ -1,0 +1,21 @@
+{
+  "_id": "c1f72e20",
+  "accessions": {
+    "excluded": [
+      "AJ876550"
+    ],
+    "included": [
+      "NC_006995.1"
+    ]
+  },
+  "name": "Senecio yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 310103
+}

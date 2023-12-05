@@ -1,0 +1,21 @@
+{
+  "_id": "e5921431",
+  "accessions": {
+    "excluded": [
+      "AM181350"
+    ],
+    "included": [
+      "NC_008393.1"
+    ]
+  },
+  "name": "Pepper severe mosaic virus",
+  "schema": [
+    {
+      "length": 9890,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12210
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "f400acc8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "S63913.1"
+    ]
+  },
+  "name": "Beet cryptic virus 3",
+  "schema": [
+    {
+      "length": 1607,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    }
+  ],
+  "taxid": 29257
+}

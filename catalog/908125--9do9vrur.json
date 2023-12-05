@@ -1,0 +1,21 @@
+{
+  "_id": "9do9vrur",
+  "accessions": {
+    "excluded": [
+      "KX698087"
+    ],
+    "included": [
+      "NC_031754.1"
+    ]
+  },
+  "name": "Okra enation leaf curl virus",
+  "schema": [
+    {
+      "length": 2738,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 908125
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "19843998",
+  "accessions": {
+    "excluded": [
+      "AF072672"
+    ],
+    "included": [
+      "EU244916.1",
+      "NC_004755.1"
+    ]
+  },
+  "name": "Sugarcane streak Reunion virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 78395
+}

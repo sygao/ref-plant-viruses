@@ -1,0 +1,31 @@
+{
+  "_id": "27f0bbd2",
+  "accessions": {
+    "excluded": [
+      "AY330918",
+      "AY330919"
+    ],
+    "included": [
+      "LC100131.1",
+      "LC100132.1",
+      "NC_005209.1",
+      "NC_005210.1"
+    ]
+  },
+  "name": "Beet pseudo-yellows virus",
+  "schema": [
+    {
+      "length": 7881,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 7903,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 72750
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "16y26c1e",
+  "accessions": {
+    "excluded": [
+      "MH425573"
+    ],
+    "included": [
+      "NC_040839.1"
+    ]
+  },
+  "name": "Holcus lanatus-associated virus",
+  "schema": [
+    {
+      "length": 2197,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2282643
+}

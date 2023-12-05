@@ -1,0 +1,21 @@
+{
+  "_id": "88a20e9f",
+  "accessions": {
+    "excluded": [
+      "KJ614231"
+    ],
+    "included": [
+      "NC_024372.1"
+    ]
+  },
+  "name": "Mesta yellow vein mosaic virus alphasatellite [India:Hoshiarpur:Okra:2013]",
+  "schema": [
+    {
+      "length": 1374,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1542665
+}

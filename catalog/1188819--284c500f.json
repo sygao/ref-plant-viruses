@@ -1,0 +1,21 @@
+{
+  "_id": "284c500f",
+  "accessions": {
+    "excluded": [
+      "HE806451"
+    ],
+    "included": [
+      "NC_021708.1"
+    ]
+  },
+  "name": "Cuban alphasatellite 1",
+  "schema": [
+    {
+      "length": 1292,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1188819
+}

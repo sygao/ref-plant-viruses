@@ -1,0 +1,26 @@
+{
+  "_id": "31c119e5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "Z46351.1",
+      "Z46353.1"
+    ]
+  },
+  "name": "Lychnis ringspot virus",
+  "schema": [
+    {
+      "length": 1468,
+      "molecule": "ssRNA+",
+      "name": "RNA gamma",
+      "required": true
+    },
+    {
+      "length": 3065,
+      "molecule": "ssRNA+",
+      "name": "RNA beta",
+      "required": true
+    }
+  ],
+  "taxid": 44421
+}

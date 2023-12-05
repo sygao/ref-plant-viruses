@@ -1,0 +1,21 @@
+{
+  "_id": "68246810",
+  "accessions": {
+    "excluded": [
+      "KC305096"
+    ],
+    "included": [
+      "NC_020502.1"
+    ]
+  },
+  "name": "Guar leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1364,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 748170
+}

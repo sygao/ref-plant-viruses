@@ -1,0 +1,21 @@
+{
+  "_id": "795dfec4",
+  "accessions": {
+    "excluded": [
+      "HQ158009"
+    ],
+    "included": [
+      "NC_017827.1"
+    ]
+  },
+  "name": "Cotton leaf curl virus",
+  "schema": [
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 53010
+}

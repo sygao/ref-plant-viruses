@@ -1,0 +1,25 @@
+{
+  "_id": "17976ad8",
+  "accessions": {
+    "excluded": [
+      "FJ457015"
+    ],
+    "included": [
+      "FJ707484.1",
+      "LC591947.1",
+      "MT603846.1",
+      "MT603847.1",
+      "NC_011643.1"
+    ]
+  },
+  "name": "Soybean yellow mottle mosaic virus",
+  "schema": [
+    {
+      "length": 4007,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 578361
+}

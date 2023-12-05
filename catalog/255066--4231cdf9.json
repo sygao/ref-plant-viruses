@@ -1,0 +1,23 @@
+{
+  "_id": "4231cdf9",
+  "accessions": {
+    "excluded": [
+      "DQ645484"
+    ],
+    "included": [
+      "FJ617225.2",
+      "MN082715.1",
+      "NC_011918.1"
+    ]
+  },
+  "name": "Pepper veinal mottle virus",
+  "schema": [
+    {
+      "length": 9799,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 255066
+}

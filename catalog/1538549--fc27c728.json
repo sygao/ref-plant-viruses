@@ -1,0 +1,21 @@
+{
+  "_id": "fc27c728",
+  "accessions": {
+    "excluded": [
+      "KJ918748"
+    ],
+    "included": [
+      "NC_024808.1"
+    ]
+  },
+  "name": "Ethiopian tobacco bushy top virus",
+  "schema": [
+    {
+      "length": 4236,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1538549
+}

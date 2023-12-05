@@ -1,0 +1,21 @@
+{
+  "_id": "b75e4eee",
+  "accessions": {
+    "excluded": [
+      "JQ361910"
+    ],
+    "included": [
+      "NC_017828.1"
+    ]
+  },
+  "name": "Wheat dwarf India virus",
+  "schema": [
+    {
+      "length": 2783,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1174526
+}

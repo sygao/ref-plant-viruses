@@ -1,0 +1,21 @@
+{
+  "_id": "5549fb49",
+  "accessions": {
+    "excluded": [
+      "X69826"
+    ],
+    "included": [
+      "NC_003848.1"
+    ]
+  },
+  "name": "Strawberry latent ringspot virus satellite RNA",
+  "schema": [
+    {
+      "length": 1118,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 195062
+}

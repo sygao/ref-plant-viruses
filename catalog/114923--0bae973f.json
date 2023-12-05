@@ -1,0 +1,19 @@
+{
+  "_id": "0bae973f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF203538.1"
+    ]
+  },
+  "name": "Carrot virus Y",
+  "schema": [
+    {
+      "length": 1754,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 114923
+}

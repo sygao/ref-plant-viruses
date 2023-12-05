@@ -1,0 +1,21 @@
+{
+  "_id": "kkofohqa",
+  "accessions": {
+    "excluded": [
+      "KX831132"
+    ],
+    "included": [
+      "NC_032118.1"
+    ]
+  },
+  "name": "Vernonia crinkle virus",
+  "schema": [
+    {
+      "length": 2791,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1925153
+}

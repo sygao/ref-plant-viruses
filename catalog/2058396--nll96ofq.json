@@ -1,0 +1,21 @@
+{
+  "_id": "nll96ofq",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF509898.1",
+      "MG995843.1",
+      "MW187786.1"
+    ]
+  },
+  "name": "Paris mosaic necrosis virus",
+  "schema": [
+    {
+      "length": 9486,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2058396
+}

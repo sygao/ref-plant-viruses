@@ -1,0 +1,21 @@
+{
+  "_id": "z940tzs7",
+  "accessions": {
+    "excluded": [
+      "KM359406"
+    ],
+    "included": [
+      "NC_028262.1"
+    ]
+  },
+  "name": "Andrographis yellow vein leaf curl virus",
+  "schema": [
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1738045
+}

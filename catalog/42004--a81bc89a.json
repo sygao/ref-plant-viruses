@@ -1,0 +1,21 @@
+{
+  "_id": "a81bc89a",
+  "accessions": {
+    "excluded": [
+      "AJ307057"
+    ],
+    "included": [
+      "NC_004011.1"
+    ]
+  },
+  "name": "Leek yellow stripe virus",
+  "schema": [
+    {
+      "length": 10142,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 42004
+}

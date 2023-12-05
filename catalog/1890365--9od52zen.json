@@ -1,0 +1,21 @@
+{
+  "_id": "9od52zen",
+  "accessions": {
+    "excluded": [
+      "KU935732"
+    ],
+    "included": [
+      "NC_030840.1"
+    ]
+  },
+  "name": "Coccinia mottle virus",
+  "schema": [
+    {
+      "length": 9778,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1890365
+}

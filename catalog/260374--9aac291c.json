@@ -1,0 +1,19 @@
+{
+  "_id": "9aac291c",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB158522.1"
+    ]
+  },
+  "name": "Alstroemeria mosaic virus",
+  "schema": [
+    {
+      "length": 1867,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 260374
+}

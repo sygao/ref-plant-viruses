@@ -1,0 +1,37 @@
+{
+  "_id": "pgz5mfer",
+  "accessions": {
+    "excluded": [
+      "MH931195",
+      "MH931196",
+      "MH931197"
+    ],
+    "included": [
+      "NC_040509.1",
+      "NC_040510.1",
+      "NC_040511.1"
+    ]
+  },
+  "name": "Zea mays chrysovirus 1",
+  "schema": [
+    {
+      "length": 3713,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3373,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 4220,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2382121
+}

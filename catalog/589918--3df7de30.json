@@ -1,0 +1,26 @@
+{
+  "_id": "3df7de30",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FJ550604.1",
+      "FJ550605.1"
+    ]
+  },
+  "name": "Carrot cryptic virus",
+  "schema": [
+    {
+      "length": 1971,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1776,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 589918
+}

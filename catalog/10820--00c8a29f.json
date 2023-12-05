@@ -1,0 +1,21 @@
+{
+  "_id": "00c8a29f",
+  "accessions": {
+    "excluded": [
+      "M20021"
+    ],
+    "included": [
+      "NC_001466.1"
+    ]
+  },
+  "name": "Chloris striate mosaic virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 10820
+}

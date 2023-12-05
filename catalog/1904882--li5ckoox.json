@@ -1,0 +1,29 @@
+{
+  "_id": "li5ckoox",
+  "accessions": {
+    "excluded": [
+      "KX691407",
+      "KX691415"
+    ],
+    "included": [
+      "NC_031456.1",
+      "NC_031457.1"
+    ]
+  },
+  "name": "Sida angular mosaic virus",
+  "schema": [
+    {
+      "length": 2692,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2657,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1904882
+}

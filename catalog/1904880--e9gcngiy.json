@@ -1,0 +1,21 @@
+{
+  "_id": "e9gcngiy",
+  "accessions": {
+    "excluded": [
+      "KX691400"
+    ],
+    "included": [
+      "NC_031452.1"
+    ]
+  },
+  "name": "Macroptilium bright mosaic virus",
+  "schema": [
+    {
+      "length": 2636,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1904880
+}

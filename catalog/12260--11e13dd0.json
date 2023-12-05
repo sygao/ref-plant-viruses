@@ -1,0 +1,29 @@
+{
+  "_id": "11e13dd0",
+  "accessions": {
+    "excluded": [
+      "M62738",
+      "U70866"
+    ],
+    "included": [
+      "NC_003495.1",
+      "NC_003496.1"
+    ]
+  },
+  "name": "Bean pod mottle virus",
+  "schema": [
+    {
+      "length": 5995,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3662,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12260
+}

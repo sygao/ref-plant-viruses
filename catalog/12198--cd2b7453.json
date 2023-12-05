@@ -1,0 +1,21 @@
+{
+  "_id": "cd2b7453",
+  "accessions": {
+    "excluded": [
+      "AB011819"
+    ],
+    "included": [
+      "NC_003536.1"
+    ]
+  },
+  "name": "Clover yellow vein virus",
+  "schema": [
+    {
+      "length": 9584,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12198
+}

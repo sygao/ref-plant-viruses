@@ -1,0 +1,19 @@
+{
+  "_id": "feefaa2b",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF399672.1"
+    ]
+  },
+  "name": "Lycoris mild mottle virus",
+  "schema": [
+    {
+      "length": 1989,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 186187
+}

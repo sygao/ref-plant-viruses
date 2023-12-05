@@ -1,0 +1,21 @@
+{
+  "_id": "0cb23abb",
+  "accessions": {
+    "excluded": [
+      "V01468"
+    ],
+    "included": [
+      "NC_001557.1"
+    ]
+  },
+  "name": "Tobacco necrosis satellite virus",
+  "schema": [
+    {
+      "length": 1239,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 12881
+}

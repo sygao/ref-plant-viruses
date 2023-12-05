@@ -1,0 +1,21 @@
+{
+  "_id": "4l9d3cpd",
+  "accessions": {
+    "excluded": [
+      "KJ572564"
+    ],
+    "included": [
+      "NC_029089.1"
+    ]
+  },
+  "name": "Elderberry carlavirus E",
+  "schema": [
+    {
+      "length": 8540,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1569056
+}

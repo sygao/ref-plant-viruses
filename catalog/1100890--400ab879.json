@@ -1,0 +1,37 @@
+{
+  "_id": "400ab879",
+  "accessions": {
+    "excluded": [
+      "HQ852052",
+      "HQ852053",
+      "HQ852054"
+    ],
+    "included": [
+      "NC_016141.1",
+      "NC_016142.1",
+      "NC_016143.1"
+    ]
+  },
+  "name": "Hibiscus green spot virus",
+  "schema": [
+    {
+      "length": 8372,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3196,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3134,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1100890
+}

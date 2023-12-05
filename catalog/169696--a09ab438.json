@@ -1,0 +1,21 @@
+{
+  "_id": "a09ab438",
+  "accessions": {
+    "excluded": [
+      "AF397214"
+    ],
+    "included": [
+      "NC_004092.1"
+    ]
+  },
+  "name": "Hollyhock leaf crumple virus satellite DNA",
+  "schema": [
+    {
+      "length": 741,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 169696
+}

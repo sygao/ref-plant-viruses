@@ -1,0 +1,21 @@
+{
+  "_id": "afd1f679",
+  "accessions": {
+    "excluded": [
+      "GU111975"
+    ],
+    "included": [
+      "NC_014895.1"
+    ]
+  },
+  "name": "Bhendi yellow vein mosaic betasatellite [India:Coimbator:OYCO1:2005]",
+  "schema": [
+    {
+      "length": 1373,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 908070
+}

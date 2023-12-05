@@ -1,0 +1,21 @@
+{
+  "_id": "008h6h65",
+  "accessions": {
+    "excluded": [
+      "KT763043"
+    ],
+    "included": [
+      "NC_029301.1"
+    ]
+  },
+  "name": "Currant virus A",
+  "schema": [
+    {
+      "length": 7925,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1770618
+}

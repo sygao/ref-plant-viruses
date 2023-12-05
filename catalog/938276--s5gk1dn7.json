@@ -1,0 +1,21 @@
+{
+  "_id": "s5gk1dn7",
+  "accessions": {
+    "excluded": [
+      "GQ994095"
+    ],
+    "included": [
+      "NC_016965.1"
+    ]
+  },
+  "name": "Tomato leaf curl Ranchi virus",
+  "schema": [
+    {
+      "length": 2762,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 938276
+}

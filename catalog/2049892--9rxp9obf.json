@@ -1,0 +1,21 @@
+{
+  "_id": "9rxp9obf",
+  "accessions": {
+    "excluded": [
+      "KM051528"
+    ],
+    "included": [
+      "NC_038686.1"
+    ]
+  },
+  "name": "Tomato leaf curl Malaysia betasatellite",
+  "schema": [
+    {
+      "length": 1342,
+      "molecule": "dsDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2049892
+}

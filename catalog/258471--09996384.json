@@ -1,0 +1,19 @@
+{
+  "_id": "09996384",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY485276.1"
+    ]
+  },
+  "name": "Pfaffia mosaic virus",
+  "schema": [
+    {
+      "length": 1724,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 258471
+}

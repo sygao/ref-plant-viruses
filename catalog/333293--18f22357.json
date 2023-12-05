@@ -1,0 +1,21 @@
+{
+  "_id": "18f22357",
+  "accessions": {
+    "excluded": [
+      "AJ851005"
+    ],
+    "included": [
+      "NC_006384.1"
+    ]
+  },
+  "name": "Ageratum leaf curl virus - [G52]",
+  "schema": [
+    {
+      "length": 2735,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 333293
+}

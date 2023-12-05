@@ -1,0 +1,19 @@
+{
+  "_id": "zj7b57yt",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF166685.1"
+    ]
+  },
+  "name": "Ribes americanum virus A",
+  "schema": [
+    {
+      "length": 7106,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1569057
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "37a16dd2",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JN591720.1"
+    ]
+  },
+  "name": "Cucumber vein-clearing virus",
+  "schema": [
+    {
+      "length": 5218,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1092564
+}

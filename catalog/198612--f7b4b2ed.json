@@ -1,0 +1,37 @@
+{
+  "_id": "f7b4b2ed",
+  "accessions": {
+    "excluded": [
+      "AF025538",
+      "U27809",
+      "U42555"
+    ],
+    "included": [
+      "NC_003614.1",
+      "NC_003619.1",
+      "NC_003620.1"
+    ]
+  },
+  "name": "Groundnut bud necrosis virus",
+  "schema": [
+    {
+      "length": 4801,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3057,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    },
+    {
+      "length": 8911,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    }
+  ],
+  "taxid": 198612
+}

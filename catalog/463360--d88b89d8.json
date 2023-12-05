@@ -1,0 +1,21 @@
+{
+  "_id": "d88b89d8",
+  "accessions": {
+    "excluded": [
+      "AM850136"
+    ],
+    "included": [
+      "NC_011058.1"
+    ]
+  },
+  "name": "Chickpea chlorotic dwarf virus",
+  "schema": [
+    {
+      "length": 2584,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 463360
+}

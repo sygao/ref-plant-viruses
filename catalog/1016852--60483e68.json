@@ -1,0 +1,21 @@
+{
+  "_id": "60483e68",
+  "accessions": {
+    "excluded": [
+      "HQ593111"
+    ],
+    "included": [
+      "NC_015506.1"
+    ]
+  },
+  "name": "Banana streak CA virus",
+  "schema": [
+    {
+      "length": 7408,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1016852
+}

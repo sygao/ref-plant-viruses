@@ -1,0 +1,21 @@
+{
+  "_id": "447fd438",
+  "accessions": {
+    "excluded": [
+      "KF471047"
+    ],
+    "included": [
+      "NC_024374.1"
+    ]
+  },
+  "name": "Chilli leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1392,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1428342
+}

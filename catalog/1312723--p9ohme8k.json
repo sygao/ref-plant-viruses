@@ -1,0 +1,21 @@
+{
+  "_id": "p9ohme8k",
+  "accessions": {
+    "excluded": [
+      "KC430935"
+    ],
+    "included": [
+      "NC_038438.1"
+    ]
+  },
+  "name": "Abutilon golden mosaic Yucatan virus",
+  "schema": [
+    {
+      "length": 2629,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1312723
+}

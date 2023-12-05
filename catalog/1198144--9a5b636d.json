@@ -1,0 +1,21 @@
+{
+  "_id": "9a5b636d",
+  "accessions": {
+    "excluded": [
+      "JX156422"
+    ],
+    "included": [
+      "NC_021197.1"
+    ]
+  },
+  "name": "Donkey orchid virus A",
+  "schema": [
+    {
+      "length": 9868,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1198144
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "11a0e2e8",
+  "accessions": {
+    "excluded": [
+      "AF112119"
+    ],
+    "included": [
+      "NC_003872.1"
+    ]
+  },
+  "name": "Blackcurrant reversion virus satellite RNA",
+  "schema": [
+    {
+      "length": 1432,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 99930
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "60147c1e",
+  "accessions": {
+    "excluded": [
+      "AB733585"
+    ],
+    "included": [
+      "NC_018519.1"
+    ]
+  },
+  "name": "Blueberry virus A",
+  "schema": [
+    {
+      "length": 17798,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1206566
+}

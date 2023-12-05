@@ -1,0 +1,19 @@
+{
+  "_id": "sw5j2bkj",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT013232.1"
+    ]
+  },
+  "name": "Dendrobium viroid",
+  "schema": [
+    {
+      "length": 324,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 2793718
+}

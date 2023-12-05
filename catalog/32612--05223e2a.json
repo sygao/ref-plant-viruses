@@ -1,0 +1,21 @@
+{
+  "_id": "05223e2a",
+  "accessions": {
+    "excluded": [
+      "AJ867584"
+    ],
+    "included": [
+      "NC_007642.1"
+    ]
+  },
+  "name": "Lettuce necrotic yellows virus",
+  "schema": [
+    {
+      "length": 12807,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 32612
+}

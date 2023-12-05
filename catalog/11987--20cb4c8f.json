@@ -1,0 +1,33 @@
+{
+  "_id": "20cb4c8f",
+  "accessions": {
+    "excluded": [
+      "M29671"
+    ],
+    "included": [
+      "AB232925.1",
+      "AB232926.1",
+      "AB250684.1",
+      "AB250686.1",
+      "AB250687.1",
+      "AY122286.1",
+      "DQ339157.1",
+      "DQ922807.1",
+      "GU480022.1",
+      "JX879088.1",
+      "KF060715.1",
+      "KR094068.1",
+      "NC_001504.1"
+    ]
+  },
+  "name": "Melon necrotic spot virus",
+  "schema": [
+    {
+      "length": 4271,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 11987
+}

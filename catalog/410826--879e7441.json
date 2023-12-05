@@ -1,0 +1,21 @@
+{
+  "_id": "879e7441",
+  "accessions": {
+    "excluded": [
+      "EF043234"
+    ],
+    "included": [
+      "NC_008605.1"
+    ]
+  },
+  "name": "Potato apical leaf curl disease-associated satellite DNA beta",
+  "schema": [
+    {
+      "length": 1367,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 410826
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "b12a7e84",
+  "accessions": {
+    "excluded": [
+      "X67673"
+    ],
+    "included": [
+      "NC_001785.1"
+    ]
+  },
+  "name": "Papaya ringspot virus",
+  "schema": [
+    {
+      "length": 10326,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12205
+}

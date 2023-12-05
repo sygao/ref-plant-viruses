@@ -1,0 +1,21 @@
+{
+  "_id": "oh04oeuq",
+  "accessions": {
+    "excluded": [
+      "KR349464"
+    ],
+    "included": [
+      "NC_027121.1"
+    ]
+  },
+  "name": "Areca palm velarivirus 1",
+  "schema": [
+    {
+      "length": 16080,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1654603
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "hd04bzmm",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF991299.1",
+      "MG958505.1"
+    ]
+  },
+  "name": "Jasmine mosaic associated virus 1",
+  "schema": [
+    {
+      "length": 3863,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2293880
+}

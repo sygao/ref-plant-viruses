@@ -1,0 +1,21 @@
+{
+  "_id": "47c42611",
+  "accessions": {
+    "excluded": [
+      "EF608612"
+    ],
+    "included": [
+      "NC_009805.1"
+    ]
+  },
+  "name": "Wheat eqlid mosaic virus",
+  "schema": [
+    {
+      "length": 9636,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 460364
+}

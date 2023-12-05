@@ -1,0 +1,21 @@
+{
+  "_id": "3083b126",
+  "accessions": {
+    "excluded": [
+      "DQ641696"
+    ],
+    "included": [
+      "NC_009547.1"
+    ]
+  },
+  "name": "Sida yellow vein Vietnam virus",
+  "schema": [
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 390441
+}

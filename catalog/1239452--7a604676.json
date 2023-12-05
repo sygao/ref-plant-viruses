@@ -1,0 +1,21 @@
+{
+  "_id": "7a604676",
+  "accessions": {
+    "excluded": [
+      "JX867236"
+    ],
+    "included": [
+      "NC_020105.1"
+    ]
+  },
+  "name": "Brugmansia mosaic virus",
+  "schema": [
+    {
+      "length": 9796,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1239452
+}

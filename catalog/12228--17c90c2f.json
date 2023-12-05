@@ -1,0 +1,22 @@
+{
+  "_id": "17c90c2f",
+  "accessions": {
+    "excluded": [
+      "X04083"
+    ],
+    "included": [
+      "NC_001768.1",
+      "U38621.1"
+    ]
+  },
+  "name": "Tobacco vein mottling virus",
+  "schema": [
+    {
+      "length": 9475,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12228
+}

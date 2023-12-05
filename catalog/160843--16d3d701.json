@@ -1,0 +1,21 @@
+{
+  "_id": "16d3d701",
+  "accessions": {
+    "excluded": [
+      "AM158908"
+    ],
+    "included": [
+      "NC_011541.1"
+    ]
+  },
+  "name": "Narcissus yellow stripe virus",
+  "schema": [
+    {
+      "length": 9650,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 160843
+}

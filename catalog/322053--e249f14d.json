@@ -1,0 +1,21 @@
+{
+  "_id": "e249f14d",
+  "accessions": {
+    "excluded": [
+      "AB219545"
+    ],
+    "included": [
+      "NC_007913.1"
+    ]
+  },
+  "name": "Konjac mosaic virus",
+  "schema": [
+    {
+      "length": 9544,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 322053
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "c80c0eb7",
+  "accessions": {
+    "excluded": [
+      "AB724113",
+      "AB724114",
+      "AB724115"
+    ],
+    "included": [
+      "NC_018402.1",
+      "NC_018403.1",
+      "NC_018404.1"
+    ]
+  },
+  "name": "Amazon lily mild mottle virus",
+  "schema": [
+    {
+      "length": 3169,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2507,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2530,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1195163
+}

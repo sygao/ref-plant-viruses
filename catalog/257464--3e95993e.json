@@ -1,0 +1,35 @@
+{
+  "_id": "3e95993e",
+  "accessions": {
+    "excluded": [
+      "KC832887",
+      "KC832892"
+    ],
+    "included": [
+      "KC832889.1",
+      "KC832891.1",
+      "KC832893.1",
+      "MT922050.1",
+      "MT922051.1",
+      "MW582779.1",
+      "NC_022798.1",
+      "NC_022799.1"
+    ]
+  },
+  "name": "Potato black ringspot virus",
+  "schema": [
+    {
+      "length": 7477,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3874,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 257464
+}

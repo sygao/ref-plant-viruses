@@ -1,0 +1,21 @@
+{
+  "_id": "eofbbmv1",
+  "accessions": {
+    "excluded": [
+      "FM210278"
+    ],
+    "included": [
+      "NC_013639.1"
+    ]
+  },
+  "name": "Tomato leaf curl Cameroon virus",
+  "schema": [
+    {
+      "length": 2808,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 693894
+}

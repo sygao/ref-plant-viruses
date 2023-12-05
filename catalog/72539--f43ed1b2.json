@@ -1,0 +1,21 @@
+{
+  "_id": "f43ed1b2",
+  "accessions": {
+    "excluded": [
+      "Y16104"
+    ],
+    "included": [
+      "NC_003634.1"
+    ]
+  },
+  "name": "Physalis mottle virus",
+  "schema": [
+    {
+      "length": 6673,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 72539
+}

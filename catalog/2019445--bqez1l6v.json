@@ -1,0 +1,21 @@
+{
+  "_id": "bqez1l6v",
+  "accessions": {
+    "excluded": [
+      "KY605226"
+    ],
+    "included": [
+      "NC_035451.1"
+    ]
+  },
+  "name": "Wheat leaf yellowing-associated virus",
+  "schema": [
+    {
+      "length": 5772,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2019445
+}

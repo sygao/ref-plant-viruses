@@ -1,0 +1,19 @@
+{
+  "_id": "7h2hzmzt",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT952336.1"
+    ]
+  },
+  "name": "Rose virus R",
+  "schema": [
+    {
+      "length": 13601,
+      "molecule": "dsRNA",
+      "name": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 2805917
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "ce49b52c",
+  "accessions": {
+    "excluded": [
+      "AJ005968"
+    ],
+    "included": [
+      "NC_003558.1"
+    ]
+  },
+  "name": "Faba bean necrotic yellows C11 alphasatellite",
+  "schema": [
+    {
+      "length": 1004,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1453081
+}

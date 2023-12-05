@@ -1,0 +1,41 @@
+{
+  "_id": "9fe2f60d",
+  "accessions": {
+    "excluded": [
+      "AY303787",
+      "AY303788"
+    ],
+    "included": [
+      "AY310444.1",
+      "AY310445.1",
+      "MN384981.1",
+      "MN384982.1",
+      "MW057710.1",
+      "MW057711.1",
+      "MZ220963.1",
+      "MZ220964.1",
+      "MZ220965.1",
+      "MZ220966.1",
+      "MZ291909.1",
+      "MZ291910.1",
+      "NC_005266.1",
+      "NC_005267.1"
+    ]
+  },
+  "name": "Raspberry ringspot virus",
+  "schema": [
+    {
+      "length": 7922,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3903,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12809
+}

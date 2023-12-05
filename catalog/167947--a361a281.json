@@ -1,0 +1,19 @@
+{
+  "_id": "a361a281",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JN700748.1"
+    ]
+  },
+  "name": "Lettuce necrotic stunt virus",
+  "schema": [
+    {
+      "length": 4772,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167947
+}

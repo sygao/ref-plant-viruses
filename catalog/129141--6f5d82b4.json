@@ -1,0 +1,25 @@
+{
+  "_id": "6f5d82b4",
+  "accessions": {
+    "excluded": [
+      "AJ318061"
+    ],
+    "included": [
+      "EU857539.1",
+      "EU857540.1",
+      "JN900477.1",
+      "KR023647.1",
+      "NC_003877.1"
+    ]
+  },
+  "name": "Citrus leaf blotch virus",
+  "schema": [
+    {
+      "length": 8757,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 129141
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "cfe6beed",
+  "accessions": {
+    "excluded": [
+      "AM990928"
+    ],
+    "included": [
+      "NC_011536.1"
+    ]
+  },
+  "name": "Imperata yellow mottle virus",
+  "schema": [
+    {
+      "length": 4547,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 524023
+}

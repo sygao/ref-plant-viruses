@@ -1,0 +1,21 @@
+{
+  "_id": "61o9316m",
+  "accessions": {
+    "excluded": [
+      "KC952005"
+    ],
+    "included": [
+      "NC_023034.1"
+    ]
+  },
+  "name": "Tomato leaf curl Gandhinagar virus",
+  "schema": [
+    {
+      "length": 2760,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1384631
+}

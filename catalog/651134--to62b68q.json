@@ -1,0 +1,21 @@
+{
+  "_id": "to62b68q",
+  "accessions": {
+    "excluded": [
+      "FJ615418"
+    ],
+    "included": [
+      "NC_012805.1"
+    ]
+  },
+  "name": "Coleus blumei viroid 6",
+  "schema": [
+    {
+      "length": 342,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 651134
+}

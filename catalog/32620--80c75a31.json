@@ -1,0 +1,21 @@
+{
+  "_id": "80c75a31",
+  "accessions": {
+    "excluded": [
+      "KT692938"
+    ],
+    "included": [
+      "NC_029076.1"
+    ]
+  },
+  "name": "Iris severe mosaic virus",
+  "schema": [
+    {
+      "length": 10423,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 32620
+}

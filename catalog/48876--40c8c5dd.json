@@ -1,0 +1,19 @@
+{
+  "_id": "40c8c5dd",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN314973.1"
+    ]
+  },
+  "name": "Heracleum latent virus",
+  "schema": [
+    {
+      "length": 7391,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 48876
+}

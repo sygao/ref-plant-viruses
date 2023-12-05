@@ -1,0 +1,21 @@
+{
+  "_id": "92fbd358",
+  "accessions": {
+    "excluded": [
+      "KF875586"
+    ],
+    "included": [
+      "NC_023485.1"
+    ]
+  },
+  "name": "Hibiscus bacilliform virus GD1",
+  "schema": [
+    {
+      "length": 7435,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1459800
+}

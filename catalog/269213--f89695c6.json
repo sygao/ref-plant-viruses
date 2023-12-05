@@ -1,0 +1,37 @@
+{
+  "_id": "f89695c6",
+  "accessions": {
+    "excluded": [
+      "AY500236",
+      "AY500237",
+      "AY500238"
+    ],
+    "included": [
+      "NC_006064.1",
+      "NC_006065.1",
+      "NC_006066.1"
+    ]
+  },
+  "name": "Humulus japonicus latent virus",
+  "schema": [
+    {
+      "length": 3382,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2810,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1938,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 269213
+}

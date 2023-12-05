@@ -1,0 +1,21 @@
+{
+  "_id": "ed5f58b5",
+  "accessions": {
+    "excluded": [
+      "EU273818"
+    ],
+    "included": [
+      "NC_010417.1"
+    ]
+  },
+  "name": "Beet curly top Iran virus",
+  "schema": [
+    {
+      "length": 2845,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 391228
+}

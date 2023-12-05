@@ -1,0 +1,21 @@
+{
+  "_id": "o92czwpm",
+  "accessions": {
+    "excluded": [
+      "KX156609"
+    ],
+    "included": [
+      "NC_055543.1"
+    ]
+  },
+  "name": "Hybanthus yellow mosaic",
+  "schema": [
+    {
+      "length": 2592,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1884874
+}

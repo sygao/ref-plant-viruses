@@ -1,0 +1,29 @@
+{
+  "_id": "kg08yrkn",
+  "accessions": {
+    "excluded": [
+      "KY617094",
+      "KY617095"
+    ],
+    "included": [
+      "NC_043526.1",
+      "NC_050697.1"
+    ]
+  },
+  "name": "Jacquemontia yellow vein virus",
+  "schema": [
+    {
+      "length": 2585,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2543,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1982675
+}

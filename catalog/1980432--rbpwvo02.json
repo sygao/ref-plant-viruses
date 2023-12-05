@@ -1,0 +1,53 @@
+{
+  "_id": "rbpwvo02",
+  "accessions": {
+    "excluded": [
+      "JF795479",
+      "JF795480",
+      "JF795481",
+      "JF795482",
+      "KU904300"
+    ],
+    "included": [
+      "NC_038852.1",
+      "NC_038853.1",
+      "NC_038854.1",
+      "NC_038855.1",
+      "NC_038856.1"
+    ]
+  },
+  "name": "Redbud yellow ringspot-associated virus",
+  "schema": [
+    {
+      "length": 7049,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2220,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1414,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1513,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1272,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 1980432
+}

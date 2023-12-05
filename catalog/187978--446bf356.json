@@ -1,0 +1,23 @@
+{
+  "_id": "446bf356",
+  "accessions": {
+    "excluded": [
+      "AJ437280"
+    ],
+    "included": [
+      "AJ516010.1",
+      "MW291539.1",
+      "NC_004573.1"
+    ]
+  },
+  "name": "Peru tomato mosaic virus",
+  "schema": [
+    {
+      "length": 9887,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 187978
+}

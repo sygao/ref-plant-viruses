@@ -1,0 +1,21 @@
+{
+  "_id": "e775b708",
+  "accessions": {
+    "excluded": [
+      "Y15934"
+    ],
+    "included": [
+      "NC_004147.1"
+    ]
+  },
+  "name": "Papaya leaf curl virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 53260
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "eugmwbj0",
+  "accessions": {
+    "excluded": [
+      "MK546379"
+    ],
+    "included": [
+      "NC_055572.1"
+    ]
+  },
+  "name": "Eleusine indica associated virus",
+  "schema": [
+    {
+      "length": 2713,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2596881
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "0xbw89fw",
+  "accessions": {
+    "excluded": [
+      "KX363443"
+    ],
+    "included": [
+      "NC_038994.1"
+    ]
+  },
+  "name": "Synedrella yellow vein clearing virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1914900
+}

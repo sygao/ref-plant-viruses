@@ -1,0 +1,19 @@
+{
+  "_id": "1c62c8c6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF228693.1"
+    ]
+  },
+  "name": "Zea mosaic virus",
+  "schema": [
+    {
+      "length": 1294,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 115232
+}

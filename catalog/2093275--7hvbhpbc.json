@@ -1,0 +1,21 @@
+{
+  "_id": "7hvbhpbc",
+  "accessions": {
+    "excluded": [
+      "MG001960"
+    ],
+    "included": [
+      "NC_037065.1"
+    ]
+  },
+  "name": "Exomis microphylla associated virus",
+  "schema": [
+    {
+      "length": 2974,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2093275
+}

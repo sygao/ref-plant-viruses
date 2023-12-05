@@ -1,0 +1,29 @@
+{
+  "_id": "8022dc16",
+  "accessions": {
+    "excluded": [
+      "AF126806",
+      "AF126807"
+    ],
+    "included": [
+      "NC_004674.1",
+      "NC_004676.1"
+    ]
+  },
+  "name": "East African cassava mosaic virus",
+  "schema": [
+    {
+      "length": 2777,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2799,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 62079
+}

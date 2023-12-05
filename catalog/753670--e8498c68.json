@@ -1,0 +1,77 @@
+{
+  "_id": "e8498c68",
+  "accessions": {
+    "excluded": [
+      "GU553134",
+      "JN133279",
+      "JN133280",
+      "JN133281",
+      "JN133282",
+      "JN133283",
+      "JN133284",
+      "JN133285"
+    ],
+    "included": [
+      "NC_023154.1",
+      "NC_023155.1",
+      "NC_023156.1",
+      "NC_023157.1",
+      "NC_023158.1",
+      "NC_023159.1",
+      "NC_023160.1",
+      "NC_023161.1"
+    ]
+  },
+  "name": "Pea necrotic yellow dwarf virus",
+  "schema": [
+    {
+      "length": 988,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 988,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 993,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 983,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 1002,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 978,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 985,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 979,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    }
+  ],
+  "taxid": 753670
+}

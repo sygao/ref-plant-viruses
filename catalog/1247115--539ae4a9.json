@@ -1,0 +1,21 @@
+{
+  "_id": "539ae4a9",
+  "accessions": {
+    "excluded": [
+      "JX173276"
+    ],
+    "included": [
+      "NC_019029.1"
+    ]
+  },
+  "name": "Diuris virus A",
+  "schema": [
+    {
+      "length": 6956,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1247115
+}

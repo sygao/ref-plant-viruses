@@ -1,0 +1,29 @@
+{
+  "_id": "fe9a85e1",
+  "accessions": {
+    "excluded": [
+      "AF101476",
+      "AF101478"
+    ],
+    "included": [
+      "NC_003830.1",
+      "NC_003831.1"
+    ]
+  },
+  "name": "Chino del tomate virus",
+  "schema": [
+    {
+      "length": 2634,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2579,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 47838
+}

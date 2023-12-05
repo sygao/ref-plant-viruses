@@ -1,0 +1,29 @@
+{
+  "_id": "096bec4e",
+  "accessions": {
+    "excluded": [
+      "DQ641688",
+      "DQ641689"
+    ],
+    "included": [
+      "NC_009644.1",
+      "NC_009646.1"
+    ]
+  },
+  "name": "Corchorus golden mosaic virus",
+  "schema": [
+    {
+      "length": 2677,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2649,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 390436
+}

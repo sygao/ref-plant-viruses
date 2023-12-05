@@ -1,0 +1,21 @@
+{
+  "_id": "e579fd5d",
+  "accessions": {
+    "excluded": [
+      "HQ443515"
+    ],
+    "included": [
+      "NC_015051.1"
+    ]
+  },
+  "name": "Spinach curly top Arizona virus",
+  "schema": [
+    {
+      "length": 2860,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 945225
+}

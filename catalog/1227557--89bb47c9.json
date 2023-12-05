@@ -1,0 +1,21 @@
+{
+  "_id": "89bb47c9",
+  "accessions": {
+    "excluded": [
+      "LN651258"
+    ],
+    "included": [
+      "NC_026020.1"
+    ]
+  },
+  "name": "Mulberry badnavirus 1",
+  "schema": [
+    {
+      "length": 6949,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1227557
+}

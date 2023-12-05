@@ -1,0 +1,33 @@
+{
+  "_id": "50ae2bc3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW256413.1",
+      "MW256414.1",
+      "MW256415.1"
+    ]
+  },
+  "name": "Tomato necrotic ringspot virus",
+  "schema": [
+    {
+      "length": 8915,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4724,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3013,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 584711
+}

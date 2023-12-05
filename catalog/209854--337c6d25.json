@@ -1,0 +1,21 @@
+{
+  "_id": "337c6d25",
+  "accessions": {
+    "excluded": [
+      "AY618417"
+    ],
+    "included": [
+      "NC_005974.1"
+    ]
+  },
+  "name": "Maize fine streak virus",
+  "schema": [
+    {
+      "length": 13782,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 209854
+}

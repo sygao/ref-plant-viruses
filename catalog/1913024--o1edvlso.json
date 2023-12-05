@@ -1,0 +1,21 @@
+{
+  "_id": "o1edvlso",
+  "accessions": {
+    "excluded": [
+      "LC192169"
+    ],
+    "included": [
+      "NC_031747.1"
+    ]
+  },
+  "name": "White clover mottle virus",
+  "schema": [
+    {
+      "length": 6205,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1913024
+}

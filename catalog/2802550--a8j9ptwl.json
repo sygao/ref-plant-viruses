@@ -1,0 +1,19 @@
+{
+  "_id": "a8j9ptwl",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT036048.1"
+    ]
+  },
+  "name": "Camellia-associated marafivirus",
+  "schema": [
+    {
+      "length": 6878,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2802550
+}

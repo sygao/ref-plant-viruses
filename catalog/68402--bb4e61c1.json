@@ -1,0 +1,23 @@
+{
+  "_id": "bb4e61c1",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FJ647429.1",
+      "FJ647481.1",
+      "FJ647498.1",
+      "KT033022.1",
+      "KT033025.1"
+    ]
+  },
+  "name": "Chrysanthemum chlorotic mottle viroid",
+  "schema": [
+    {
+      "length": 399,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 68402
+}

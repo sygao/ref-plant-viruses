@@ -1,0 +1,19 @@
+{
+  "_id": "lkagyahc",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX363561.1"
+    ]
+  },
+  "name": "Ash gourd yellow vein mosaic alphasatellite",
+  "schema": [
+    {
+      "length": 1413,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1945850
+}

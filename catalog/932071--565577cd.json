@@ -1,0 +1,29 @@
+{
+  "_id": "565577cd",
+  "accessions": {
+    "excluded": [
+      "HM585445",
+      "HM585446"
+    ],
+    "included": [
+      "NC_015045.1",
+      "NC_015048.1"
+    ]
+  },
+  "name": "Abutilon mosaic Bolivia virus",
+  "schema": [
+    {
+      "length": 2717,
+      "molecule": "dsRNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2682,
+      "molecule": "dsRNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 932071
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "pefx98rl",
+  "accessions": {
+    "excluded": [
+      "MF642728"
+    ],
+    "included": [
+      "NC_043535.1"
+    ]
+  },
+  "name": "Cacao swollen shoot Ghana Q virus",
+  "schema": [
+    {
+      "length": 7102,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2056885
+}

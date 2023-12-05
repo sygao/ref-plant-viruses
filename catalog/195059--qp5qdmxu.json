@@ -1,0 +1,21 @@
+{
+  "_id": "qp5qdmxu",
+  "accessions": {
+    "excluded": [
+      "KM823531"
+    ],
+    "included": [
+      "NC_028231.1"
+    ]
+  },
+  "name": "Datura yellow vein nucleorhabdovirus",
+  "schema": [
+    {
+      "length": 13188,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 195059
+}

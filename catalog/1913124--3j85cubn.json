@@ -1,0 +1,21 @@
+{
+  "_id": "3j85cubn",
+  "accessions": {
+    "excluded": [
+      "KY364846"
+    ],
+    "included": [
+      "NC_034246.1"
+    ]
+  },
+  "name": "Cowpea polerovirus 1",
+  "schema": [
+    {
+      "length": 5845,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1913124
+}

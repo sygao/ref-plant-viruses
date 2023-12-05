@@ -1,0 +1,44 @@
+{
+  "_id": "3b496df0",
+  "accessions": {
+    "excluded": [
+      "K02702",
+      "K02703",
+      "L00163",
+      "X01572"
+    ],
+    "included": [
+      "FR715040.1",
+      "FR715041.1",
+      "FR715042.1",
+      "HQ316635.1",
+      "HQ316636.1",
+      "HQ316637.1",
+      "NC_001495.1",
+      "NC_002024.1",
+      "NC_002025.1"
+    ]
+  },
+  "name": "Alfalfa mosaic virus",
+  "schema": [
+    {
+      "length": 3643,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2594,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2038,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12321
+}

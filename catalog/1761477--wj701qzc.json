@@ -1,0 +1,25 @@
+{
+  "_id": "wj701qzc",
+  "accessions": {
+    "excluded": [
+      "KT383474"
+    ],
+    "included": [
+      "MN182534.1",
+      "MN549397.1",
+      "MN882023.1",
+      "MN882041.1",
+      "NC_028478.1"
+    ]
+  },
+  "name": "Tomato brown rugose fruit virus",
+  "schema": [
+    {
+      "length": 6399,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1761477
+}

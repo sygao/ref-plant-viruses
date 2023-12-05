@@ -1,0 +1,93 @@
+{
+  "_id": "q9akepqg",
+  "accessions": {
+    "excluded": [
+      "KR107527",
+      "KR107528",
+      "KR107529",
+      "KR107530",
+      "KR107531",
+      "KR107532",
+      "KR107533",
+      "KR107534",
+      "KR107535",
+      "KR107536"
+    ],
+    "included": [
+      "NC_027802.1",
+      "NC_027808.1",
+      "NC_027809.1",
+      "NC_027810.1",
+      "NC_027816.1",
+      "NC_035935.1",
+      "NC_035936.1",
+      "NC_035937.1",
+      "NC_035938.1",
+      "NC_035939.1"
+    ]
+  },
+  "name": "Grapevine Cabernet Sauvignon reovirus",
+  "schema": [
+    {
+      "length": 3235,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3849,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3826,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3781,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 2457,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1541,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1959,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1639,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1199,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1110,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 1640277
+}

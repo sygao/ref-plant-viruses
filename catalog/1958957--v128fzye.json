@@ -1,0 +1,21 @@
+{
+  "_id": "v128fzye",
+  "accessions": {
+    "excluded": [
+      "KY607769"
+    ],
+    "included": [
+      "NC_033817.1"
+    ]
+  },
+  "name": "Cassava satellite virus",
+  "schema": [
+    {
+      "length": 1228,
+      "molecule": "ssRNA-",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1958957
+}

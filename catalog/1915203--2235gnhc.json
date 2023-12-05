@@ -1,0 +1,29 @@
+{
+  "_id": "2235gnhc",
+  "accessions": {
+    "excluded": [
+      "KX011475",
+      "KX096982"
+    ],
+    "included": [
+      "NC_031961.1",
+      "NC_040190.1"
+    ]
+  },
+  "name": "Common bean severe mosaic virus",
+  "schema": [
+    {
+      "length": 2613,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2577,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1915203
+}

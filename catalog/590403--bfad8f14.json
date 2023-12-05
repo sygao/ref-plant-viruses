@@ -1,0 +1,22 @@
+{
+  "_id": "bfad8f14",
+  "accessions": {
+    "excluded": [
+      "FJ685618"
+    ],
+    "included": [
+      "KR108251.1",
+      "NC_012210.1"
+    ]
+  },
+  "name": "Red clover vein mosaic virus",
+  "schema": [
+    {
+      "length": 8606,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 590403
+}

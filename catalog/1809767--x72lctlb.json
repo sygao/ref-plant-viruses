@@ -1,0 +1,21 @@
+{
+  "_id": "x72lctlb",
+  "accessions": {
+    "excluded": [
+      "KT868949"
+    ],
+    "included": [
+      "NC_029691.1"
+    ]
+  },
+  "name": "Ixeridium yellow mottle virus 1",
+  "schema": [
+    {
+      "length": 6017,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1809767
+}

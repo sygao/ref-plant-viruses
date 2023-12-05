@@ -1,0 +1,21 @@
+{
+  "_id": "micjjis4",
+  "accessions": {
+    "excluded": [
+      "MN592680"
+    ],
+    "included": [
+      "NC_055601.1"
+    ]
+  },
+  "name": "Begonia flower breaking virus",
+  "schema": [
+    {
+      "length": 9540,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 588752
+}

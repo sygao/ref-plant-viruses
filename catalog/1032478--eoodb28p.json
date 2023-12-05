@@ -1,0 +1,21 @@
+{
+  "_id": "eoodb28p",
+  "accessions": {
+    "excluded": [
+      "HM626515"
+    ],
+    "included": [
+      "NC_038440.1"
+    ]
+  },
+  "name": "Chenopodium leaf curl virus",
+  "schema": [
+    {
+      "length": 2626,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1032478
+}

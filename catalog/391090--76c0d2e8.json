@@ -1,0 +1,25 @@
+{
+  "_id": "76c0d2e8",
+  "accessions": {
+    "excluded": [
+      "JX679253",
+      "DQ644566",
+      "DQ136001"
+    ],
+    "included": [
+      "NC_007485.1",
+      "NC_010126.1",
+      "NC_019532.1"
+    ]
+  },
+  "name": "Tomato yellow leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1350,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 391090
+}

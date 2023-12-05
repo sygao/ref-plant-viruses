@@ -1,0 +1,22 @@
+{
+  "_id": "39d3f3e7",
+  "accessions": {
+    "excluded": [
+      "X99487"
+    ],
+    "included": [
+      "AB561003.1",
+      "NC_003463.1"
+    ]
+  },
+  "name": "Apple fruit dimple viroid",
+  "schema": [
+    {
+      "length": 304,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 73494
+}

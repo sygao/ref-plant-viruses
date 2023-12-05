@@ -1,0 +1,21 @@
+{
+  "_id": "dyc48vck",
+  "accessions": {
+    "excluded": [
+      "FJ560943"
+    ],
+    "included": [
+      "NC_015655.1"
+    ]
+  },
+  "name": "Sweet potato pakakuy virus",
+  "schema": [
+    {
+      "length": 8082,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2034762
+}

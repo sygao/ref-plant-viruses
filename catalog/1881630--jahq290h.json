@@ -1,0 +1,21 @@
+{
+  "_id": "jahq290h",
+  "accessions": {
+    "excluded": [
+      "KU569583"
+    ],
+    "included": [
+      "NC_038985.1"
+    ]
+  },
+  "name": "Velvet bean golden mosaic virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1881630
+}

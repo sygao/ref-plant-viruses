@@ -1,0 +1,37 @@
+{
+  "_id": "61214e8e",
+  "accessions": {
+    "excluded": [
+      "X76993",
+      "X94346",
+      "X94347"
+    ],
+    "included": [
+      "NC_003671.1",
+      "NC_003673.1",
+      "NC_003674.1"
+    ]
+  },
+  "name": "Olive latent virus 2",
+  "schema": [
+    {
+      "length": 3128,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2735,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2438,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 33773
+}

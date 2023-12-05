@@ -1,0 +1,21 @@
+{
+  "_id": "voxg0jn0",
+  "accessions": {
+    "excluded": [
+      "KX008577"
+    ],
+    "included": [
+      "NC_038987.1"
+    ]
+  },
+  "name": "Dioscorea bacilliform RT virus 2",
+  "schema": [
+    {
+      "length": 7438,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2011125
+}

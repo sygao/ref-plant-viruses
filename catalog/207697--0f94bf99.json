@@ -1,0 +1,21 @@
+{
+  "_id": "0f94bf99",
+  "accessions": {
+    "excluded": [
+      "AJ507777"
+    ],
+    "included": [
+      "NC_004300.1"
+    ]
+  },
+  "name": "Croton yellow vein mosaic virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 207697
+}

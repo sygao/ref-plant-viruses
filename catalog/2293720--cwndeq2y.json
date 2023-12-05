@@ -1,0 +1,19 @@
+{
+  "_id": "cwndeq2y",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH680824.1"
+    ]
+  },
+  "name": "Mashua virus Y",
+  "schema": [
+    {
+      "length": 9769,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2293720
+}

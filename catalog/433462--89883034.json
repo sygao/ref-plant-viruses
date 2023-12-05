@@ -1,0 +1,21 @@
+{
+  "_id": "89883034",
+  "accessions": {
+    "excluded": [
+      "GQ421689"
+    ],
+    "included": [
+      "NC_013261.1"
+    ]
+  },
+  "name": "Canna yellow streak virus",
+  "schema": [
+    {
+      "length": 9502,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 433462
+}

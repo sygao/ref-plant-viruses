@@ -1,0 +1,26 @@
+{
+  "_id": "3a8a9447",
+  "accessions": {
+    "excluded": [
+      "AF414119"
+    ],
+    "included": [
+      "KJ872494.1",
+      "MH704740.1",
+      "MH704743.1",
+      "MN539275.1",
+      "MN539276.1",
+      "NC_010178.1"
+    ]
+  },
+  "name": "Pineapple mealybug wilt-associated virus 1",
+  "schema": [
+    {
+      "length": 13050,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 180903
+}

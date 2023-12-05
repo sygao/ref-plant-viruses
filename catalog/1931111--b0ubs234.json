@@ -1,0 +1,27 @@
+{
+  "_id": "b0ubs234",
+  "accessions": {
+    "excluded": [
+      "KY001635"
+    ],
+    "included": [
+      "KY001635.1",
+      "KY001636.1",
+      "KY001637.1",
+      "KY001638.1",
+      "KY001639.1",
+      "KY001640.1",
+      "NC_033554.1"
+    ]
+  },
+  "name": "Pea leaf distortion virus",
+  "schema": [
+    {
+      "length": 2738,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1931111
+}

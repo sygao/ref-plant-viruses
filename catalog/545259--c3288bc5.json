@@ -1,0 +1,37 @@
+{
+  "_id": "c3288bc5",
+  "accessions": {
+    "excluded": [
+      "AB444583",
+      "AB444584",
+      "AB444585"
+    ],
+    "included": [
+      "NC_013266.1",
+      "NC_013267.1",
+      "NC_013268.1"
+    ]
+  },
+  "name": "Melandrium yellow fleck virus",
+  "schema": [
+    {
+      "length": 3249,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2862,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2424,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 545259
+}

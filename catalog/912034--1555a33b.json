@@ -1,0 +1,21 @@
+{
+  "_id": "1555a33b",
+  "accessions": {
+    "excluded": [
+      "FR717137"
+    ],
+    "included": [
+      "NC_014745.1"
+    ]
+  },
+  "name": "Okra leaf curl Cameroon virus",
+  "schema": [
+    {
+      "length": 2764,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 912034
+}

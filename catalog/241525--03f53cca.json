@@ -1,0 +1,19 @@
+{
+  "_id": "03f53cca",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY340584.1"
+    ]
+  },
+  "name": "Cole latent virus",
+  "schema": [
+    {
+      "length": 1040,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 241525
+}

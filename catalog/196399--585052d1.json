@@ -1,0 +1,21 @@
+{
+  "_id": "585052d1",
+  "accessions": {
+    "excluded": [
+      "M21212"
+    ],
+    "included": [
+      "NC_001546.1"
+    ]
+  },
+  "name": "Arabis mosaic virus small satellite RNA",
+  "schema": [
+    {
+      "length": 300,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 196399
+}

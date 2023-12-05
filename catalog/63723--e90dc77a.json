@@ -1,0 +1,29 @@
+{
+  "_id": "e90dc77a",
+  "accessions": {
+    "excluded": [
+      "AF155806",
+      "AF155807"
+    ],
+    "included": [
+      "NC_003803.1",
+      "NC_003804.1"
+    ]
+  },
+  "name": "South African cassava mosaic virus",
+  "schema": [
+    {
+      "length": 2800,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2760,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 63723
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "1ea03417",
+  "accessions": {
+    "excluded": [
+      "EU589450"
+    ],
+    "included": [
+      "NC_010620.1"
+    ]
+  },
+  "name": "Okra leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1388,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 518829
+}

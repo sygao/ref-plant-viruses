@@ -1,0 +1,19 @@
+{
+  "_id": "ig3tcksf",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH778545.1"
+    ]
+  },
+  "name": "Apple rootstock virus A",
+  "schema": [
+    {
+      "length": 14043,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2563012
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "0e60648b",
+  "accessions": {
+    "excluded": [
+      "EU384641"
+    ],
+    "included": [
+      "NC_013013.1"
+    ]
+  },
+  "name": "Gossypium darwinii symptomless alphasatellite",
+  "schema": [
+    {
+      "length": 1378,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 656025
+}

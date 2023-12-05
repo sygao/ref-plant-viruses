@@ -1,0 +1,21 @@
+{
+  "_id": "ig0q6pxe",
+  "accessions": {
+    "excluded": [
+      "AB300464"
+    ],
+    "included": [
+      "NC_038677.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein mosaic betasatellite",
+  "schema": [
+    {
+      "length": 1359,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2010319
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "6a7f8970",
+  "accessions": {
+    "excluded": [
+      "AY751778"
+    ],
+    "included": [
+      "NC_011538.1"
+    ]
+  },
+  "name": "Nemesia ring necrosis virus",
+  "schema": [
+    {
+      "length": 6285,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312009
+}

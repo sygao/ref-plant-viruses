@@ -1,0 +1,21 @@
+{
+  "_id": "ca075b95",
+  "accessions": {
+    "excluded": [
+      "AY377938"
+    ],
+    "included": [
+      "NC_005136.1"
+    ]
+  },
+  "name": "Oat necrotic mottle virus",
+  "schema": [
+    {
+      "length": 9346,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 112437
+}

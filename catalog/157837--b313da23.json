@@ -1,0 +1,29 @@
+{
+  "_id": "b313da23",
+  "accessions": {
+    "excluded": [
+      "AJ306718",
+      "AJ306719"
+    ],
+    "included": [
+      "NC_004016.1",
+      "NC_004017.1"
+    ]
+  },
+  "name": "Oat mosaic virus",
+  "schema": [
+    {
+      "length": 7550,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2284,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 157837
+}

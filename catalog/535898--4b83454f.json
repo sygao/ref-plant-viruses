@@ -1,0 +1,21 @@
+{
+  "_id": "4b83454f",
+  "accessions": {
+    "excluded": [
+      "KC166238"
+    ],
+    "included": [
+      "NC_020415.1"
+    ]
+  },
+  "name": "Rosa rugosa leaf distortion virus",
+  "schema": [
+    {
+      "length": 3971,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 535898
+}

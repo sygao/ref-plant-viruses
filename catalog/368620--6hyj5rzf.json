@@ -1,0 +1,21 @@
+{
+  "_id": "6hyj5rzf",
+  "accessions": {
+    "excluded": [
+      "DQ357615"
+    ],
+    "included": [
+      "NC_028271.1"
+    ]
+  },
+  "name": "Cherry small circular viroid-like RNA 1",
+  "schema": [
+    {
+      "length": 415,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 368620
+}

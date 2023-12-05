@@ -1,0 +1,21 @@
+{
+  "_id": "sa6m1ayz",
+  "accessions": {
+    "excluded": [
+      "HM439608"
+    ],
+    "included": [
+      "NC_055129.1"
+    ]
+  },
+  "name": "Pepper vein yellows virus 2",
+  "schema": [
+    {
+      "length": 6028,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560636
+}

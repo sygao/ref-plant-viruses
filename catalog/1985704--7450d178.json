@@ -1,0 +1,21 @@
+{
+  "_id": "7450d178",
+  "accessions": {
+    "excluded": [
+      "AB030277"
+    ],
+    "included": [
+      "NC_002251.1"
+    ]
+  },
+  "name": "Northern cereal mosaic virus",
+  "schema": [
+    {
+      "length": 13222,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985704
+}

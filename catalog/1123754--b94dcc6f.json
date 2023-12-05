@@ -1,0 +1,21 @@
+{
+  "_id": "b94dcc6f",
+  "accessions": {
+    "excluded": [
+      "JF729471"
+    ],
+    "included": [
+      "NC_016442.1"
+    ]
+  },
+  "name": "Rattail cactus necrosis-associated virus",
+  "schema": [
+    {
+      "length": 6506,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1123754
+}

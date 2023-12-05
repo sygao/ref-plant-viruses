@@ -1,0 +1,23 @@
+{
+  "_id": "5cfc36d5",
+  "accessions": {
+    "excluded": [
+      "KC840043"
+    ],
+    "included": [
+      "KJ940970.1",
+      "KT834406.1",
+      "NC_021851.1"
+    ]
+  },
+  "name": "Tomato blistering mosaic virus",
+  "schema": [
+    {
+      "length": 6272,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1010616
+}

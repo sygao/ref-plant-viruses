@@ -1,0 +1,21 @@
+{
+  "_id": "6mjh3qty",
+  "accessions": {
+    "excluded": [
+      "KT099170"
+    ],
+    "included": [
+      "NC_038973.1"
+    ]
+  },
+  "name": "Whitefly associated Guatemala alphasatellite 2",
+  "schema": [
+    {
+      "length": 1370,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169828
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "kk2vkso6",
+  "accessions": {
+    "excluded": [
+      "JQ897969"
+    ],
+    "included": [
+      "NC_038470.1"
+    ]
+  },
+  "name": "Tomato leaf curl New Delhi virus 2",
+  "schema": [
+    {
+      "length": 2735,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2050583
+}

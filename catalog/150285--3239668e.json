@@ -1,0 +1,21 @@
+{
+  "_id": "3239668e",
+  "accessions": {
+    "excluded": [
+      "AJ292230"
+    ],
+    "included": [
+      "NC_004012.1"
+    ]
+  },
+  "name": "Garlic virus E",
+  "schema": [
+    {
+      "length": 8451,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 150285
+}

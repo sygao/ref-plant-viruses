@@ -1,0 +1,22 @@
+{
+  "_id": "mie279g8",
+  "accessions": {
+    "excluded": [
+      "KX000914"
+    ],
+    "included": [
+      "MG865890.1",
+      "NC_031089.1"
+    ]
+  },
+  "name": "Ligustrum virus A",
+  "schema": [
+    {
+      "length": 8525,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1899566
+}

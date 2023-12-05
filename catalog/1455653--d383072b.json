@@ -1,0 +1,21 @@
+{
+  "_id": "d383072b",
+  "accessions": {
+    "excluded": [
+      "AB000921"
+    ],
+    "included": [
+      "NC_003639.1"
+    ]
+  },
+  "name": "Milk vetch dwarf C2 alphasatellite",
+  "schema": [
+    {
+      "length": 1009,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1455653
+}

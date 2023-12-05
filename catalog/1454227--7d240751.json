@@ -1,0 +1,21 @@
+{
+  "_id": "7d240751",
+  "accessions": {
+    "excluded": [
+      "KF785752"
+    ],
+    "included": [
+      "NC_023443.1"
+    ]
+  },
+  "name": "Ageratum yellow vein China alphasatellite",
+  "schema": [
+    {
+      "length": 1365,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1454227
+}

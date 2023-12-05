@@ -1,0 +1,45 @@
+{
+  "_id": "596bea7e",
+  "accessions": {
+    "excluded": [
+      "AY563040",
+      "AY563041",
+      "DQ831828",
+      "DQ831831"
+    ],
+    "included": [
+      "NC_013105.1",
+      "NC_013106.1",
+      "NC_013107.1",
+      "NC_013108.1"
+    ]
+  },
+  "name": "European mountain ash ringspot-associated virus",
+  "schema": [
+    {
+      "length": 7040,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2335,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1559,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1348,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 1980426
+}

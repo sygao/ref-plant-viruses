@@ -1,0 +1,19 @@
+{
+  "_id": "5679da64",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY137775.1"
+    ]
+  },
+  "name": "Tobacco latent virus",
+  "schema": [
+    {
+      "length": 1415,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2083209
+}

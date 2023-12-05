@@ -1,0 +1,22 @@
+{
+  "_id": "0073d90b",
+  "accessions": {
+    "excluded": [
+      "AF254924",
+      "HQ667979"
+    ],
+    "included": [
+      "NC_002792.1"
+    ]
+  },
+  "name": "Ribgrass mosaic virus",
+  "schema": [
+    {
+      "length": 6311,
+      "molecule": "ssRNA+",
+      "name": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 51680
+}

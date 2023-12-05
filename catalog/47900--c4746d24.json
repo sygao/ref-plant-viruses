@@ -1,0 +1,21 @@
+{
+  "_id": "c4746d24",
+  "accessions": {
+    "excluded": [
+      "JF320810"
+    ],
+    "included": [
+      "NC_016440.1"
+    ]
+  },
+  "name": "Garlic common latent virus",
+  "schema": [
+    {
+      "length": 8638,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 47900
+}

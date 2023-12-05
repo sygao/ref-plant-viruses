@@ -1,0 +1,27 @@
+{
+  "_id": "81ffea53",
+  "accessions": {
+    "excluded": [
+      "AF347695"
+    ],
+    "included": [
+      "EU489744.1",
+      "EU489745.1",
+      "EU708316.1",
+      "FJ617224.1",
+      "JN006805.1",
+      "JN006806.1",
+      "NC_003382.1"
+    ]
+  },
+  "name": "Citrus yellow mosaic virus",
+  "schema": [
+    {
+      "length": 7511,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 174178
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "ss6bios9",
+  "accessions": {
+    "excluded": [
+      "MK602171",
+      "MK602172",
+      "MK602173",
+      "MK602174",
+      "MK602175",
+      "MK602176"
+    ],
+    "included": [
+      "NC_055646.1",
+      "NC_055647.1",
+      "NC_055648.1",
+      "NC_055649.1",
+      "NC_055650.1",
+      "NC_055651.1"
+    ]
+  },
+  "name": "Actinidia emaravirus 2",
+  "schema": [
+    {
+      "length": 7079,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2252,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1387,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1514,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1744,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1233,
+      "molecule": "ssRNA-",
+      "name": "RNA 6",
+      "required": true
+    }
+  ],
+  "taxid": 2660760
+}

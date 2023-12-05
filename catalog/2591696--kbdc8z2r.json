@@ -1,0 +1,21 @@
+{
+  "_id": "kbdc8z2r",
+  "accessions": {
+    "excluded": [
+      "MK286375"
+    ],
+    "included": [
+      "NC_055568.1"
+    ]
+  },
+  "name": "Costus stripe mosaic virus",
+  "schema": [
+    {
+      "length": 9446,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2591696
+}

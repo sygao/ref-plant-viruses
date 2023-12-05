@@ -1,0 +1,26 @@
+{
+  "_id": "s27ij535",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH323432.1",
+      "MH323433.1"
+    ]
+  },
+  "name": "Green Sichuan pepper idaeovirus",
+  "schema": [
+    {
+      "length": 5447,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2234,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2802552
+}

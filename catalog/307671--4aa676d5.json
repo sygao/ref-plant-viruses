@@ -1,0 +1,19 @@
+{
+  "_id": "4aa676d5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY710267.1"
+    ]
+  },
+  "name": "Banana virus X",
+  "schema": [
+    {
+      "length": 2917,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 307671
+}

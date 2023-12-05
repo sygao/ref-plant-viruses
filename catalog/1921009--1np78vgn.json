@@ -1,0 +1,22 @@
+{
+  "_id": "1np78vgn",
+  "accessions": {
+    "excluded": [
+      "KX058345"
+    ],
+    "included": [
+      "KX058346.1",
+      "NC_032104.1"
+    ]
+  },
+  "name": "Arachis pintoi virus",
+  "schema": [
+    {
+      "length": 7596,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1921009
+}

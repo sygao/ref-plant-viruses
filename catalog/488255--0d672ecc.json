@@ -1,0 +1,21 @@
+{
+  "_id": "0d672ecc",
+  "accessions": {
+    "excluded": [
+      "EU285590"
+    ],
+    "included": [
+      "NC_010328.1"
+    ]
+  },
+  "name": "Malachra yellow vein mosaic virus-associated satellite DNA beta",
+  "schema": [
+    {
+      "length": 1339,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 488255
+}

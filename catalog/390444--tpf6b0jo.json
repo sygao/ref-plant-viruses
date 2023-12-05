@@ -1,0 +1,21 @@
+{
+  "_id": "tpf6b0jo",
+  "accessions": {
+    "excluded": [
+      "DQ641699"
+    ],
+    "included": [
+      "NC_038451.1"
+    ]
+  },
+  "name": "Ludwigia yellow vein Vietnam virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 390444
+}

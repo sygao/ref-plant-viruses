@@ -1,0 +1,21 @@
+{
+  "_id": "tna6dbna",
+  "accessions": {
+    "excluded": [
+      "FN434083"
+    ],
+    "included": [
+      "NC_013102.1"
+    ]
+  },
+  "name": "Tomato leaf curl Hainan virus",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 664980
+}

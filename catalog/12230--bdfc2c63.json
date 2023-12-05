@@ -1,0 +1,32 @@
+{
+  "_id": "bdfc2c63",
+  "accessions": {
+    "excluded": [
+      "AF169561"
+    ],
+    "included": [
+      "AF169561.2",
+      "AY227024.1",
+      "KM094174.2",
+      "MK241971.1",
+      "MK241972.1",
+      "MK241973.1",
+      "MK241974.1",
+      "MK241975.1",
+      "MT663307.1",
+      "MW017473.1",
+      "MZ062212.1",
+      "NC_002509.1"
+    ]
+  },
+  "name": "Turnip mosaic virus",
+  "schema": [
+    {
+      "length": 9848,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12230
+}

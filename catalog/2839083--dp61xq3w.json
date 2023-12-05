@@ -1,0 +1,47 @@
+{
+  "_id": "dp61xq3w",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW888853.1",
+      "MW888854.1",
+      "MW888855.1",
+      "MW888856.1",
+      "MW888857.1"
+    ]
+  },
+  "name": "Grapevine emaravirus A",
+  "schema": [
+    {
+      "length": 7090,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2097,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1615,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1640,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1308,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 2839083
+}

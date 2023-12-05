@@ -1,0 +1,29 @@
+{
+  "_id": "3xa1dbt0",
+  "accessions": {
+    "excluded": [
+      "HE616777",
+      "HE616778"
+    ],
+    "included": [
+      "NC_055127.1",
+      "NC_055128.1"
+    ]
+  },
+  "name": "African cassava mosaic Burkina Faso virus",
+  "schema": [
+    {
+      "length": 2770,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2560285
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "2488ebe5",
+  "accessions": {
+    "excluded": [
+      "X04658"
+    ],
+    "included": [
+      "NC_003498.1"
+    ]
+  },
+  "name": "Carnation etched ring virus",
+  "schema": [
+    {
+      "length": 7932,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10640
+}

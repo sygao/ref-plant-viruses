@@ -1,0 +1,21 @@
+{
+  "_id": "353lg6d3",
+  "accessions": {
+    "excluded": [
+      "HM357456"
+    ],
+    "included": [
+      "NC_043122.1"
+    ]
+  },
+  "name": "Tomato golden leaf distortion virus",
+  "schema": [
+    {
+      "length": 2630,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 858511
+}

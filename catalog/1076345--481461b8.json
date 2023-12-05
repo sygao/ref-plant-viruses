@@ -1,0 +1,21 @@
+{
+  "_id": "481461b8",
+  "accessions": {
+    "excluded": [
+      "LK028570"
+    ],
+    "included": [
+      "NC_025964.1"
+    ]
+  },
+  "name": "Catharanthus yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2752,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1076345
+}

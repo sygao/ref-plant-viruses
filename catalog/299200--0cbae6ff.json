@@ -1,0 +1,23 @@
+{
+  "_id": "0cbae6ff",
+  "accessions": {
+    "excluded": [
+      "AJ851866"
+    ],
+    "included": [
+      "AJ851867.1",
+      "AJ885005.1",
+      "NC_007180.1"
+    ]
+  },
+  "name": "Thunberg fritillary virus",
+  "schema": [
+    {
+      "length": 7036,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 299200
+}

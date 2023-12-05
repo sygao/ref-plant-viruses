@@ -1,0 +1,19 @@
+{
+  "_id": "m1n6ul61",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH988691.1"
+    ]
+  },
+  "name": "Salvia hispanica RNA virus 1",
+  "schema": [
+    {
+      "length": 3406,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2419805
+}

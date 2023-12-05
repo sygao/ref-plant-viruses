@@ -1,0 +1,14 @@
+{
+  "_id": "f2864c47",
+  "accessions": {
+    "excluded": [
+      "JQ866297"
+    ],
+    "included": [
+      "NC_018090.1"
+    ]
+  },
+  "name": "French bean leaf curl virus-Kanpur",
+  "schema": [],
+  "taxid": 1200970
+}

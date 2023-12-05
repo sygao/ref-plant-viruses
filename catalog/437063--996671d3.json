@@ -1,0 +1,21 @@
+{
+  "_id": "996671d3",
+  "accessions": {
+    "excluded": [
+      "DQ866124"
+    ],
+    "included": [
+      "NC_010812.1"
+    ]
+  },
+  "name": "Ageratum yellow vein Hualian virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 437063
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "nk8i8kuk",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK204653.1",
+      "MN172165.1"
+    ]
+  },
+  "name": "Grapevine Kizil Sapak virus",
+  "schema": [
+    {
+      "length": 7615,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2650001
+}

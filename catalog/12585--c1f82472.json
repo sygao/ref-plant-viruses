@@ -1,0 +1,61 @@
+{
+  "_id": "c1f82472",
+  "accessions": {
+    "excluded": [
+      "L41574",
+      "L41575",
+      "L41576",
+      "L41577",
+      "L41578",
+      "S56276"
+    ],
+    "included": [
+      "NC_003473.1",
+      "NC_003474.1",
+      "NC_003475.1",
+      "NC_003476.1",
+      "NC_003477.1",
+      "NC_003479.1"
+    ]
+  },
+  "name": "Banana bunchy top virus",
+  "schema": [
+    {
+      "length": 1111,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 1018,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 1089,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1060,
+      "molecule": "ssDNA",
+      "name": "DNA U3",
+      "required": true
+    },
+    {
+      "length": 1043,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 1075,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    }
+  ],
+  "taxid": 12585
+}

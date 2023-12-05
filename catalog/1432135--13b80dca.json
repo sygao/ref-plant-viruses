@@ -1,0 +1,29 @@
+{
+  "_id": "13b80dca",
+  "accessions": {
+    "excluded": [
+      "KC595304",
+      "KC595305"
+    ],
+    "included": [
+      "NC_023016.1",
+      "NC_023017.1"
+    ]
+  },
+  "name": "Lamium mild mosaic virus",
+  "schema": [
+    {
+      "length": 6080,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4065,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1432135
+}

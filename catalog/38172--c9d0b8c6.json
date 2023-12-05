@@ -1,0 +1,26 @@
+{
+  "_id": "c9d0b8c6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "U20621.1",
+      "U20622.1"
+    ]
+  },
+  "name": "Blueberry leaf mottle virus",
+  "schema": [
+    {
+      "length": 1908,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3082,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 38172
+}

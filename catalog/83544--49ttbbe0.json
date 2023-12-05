@@ -1,0 +1,29 @@
+{
+  "_id": "49ttbbe0",
+  "accessions": {
+    "excluded": [
+      "AJ012006",
+      "AJ012005"
+    ],
+    "included": [
+      "NC_002356.1",
+      "NC_002359.1"
+    ]
+  },
+  "name": "Chinese wheat mosaic virus",
+  "schema": [
+    {
+      "length": 7147,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3569,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 83544
+}

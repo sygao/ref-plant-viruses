@@ -1,0 +1,21 @@
+{
+  "_id": "a0937ed2",
+  "accessions": {
+    "excluded": [
+      "KJ830760"
+    ],
+    "included": [
+      "NC_025821.1"
+    ]
+  },
+  "name": "Asparagus virus 1",
+  "schema": [
+    {
+      "length": 9741,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 443746
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "3ae51c0e",
+  "accessions": {
+    "excluded": [
+      "KC571999"
+    ],
+    "included": [
+      "NC_021481.1"
+    ]
+  },
+  "name": "Barley yellow dwarf virus Ker-II",
+  "schema": [
+    {
+      "length": 5736,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169987
+}

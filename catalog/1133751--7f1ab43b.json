@@ -1,0 +1,21 @@
+{
+  "_id": "7f1ab43b",
+  "accessions": {
+    "excluded": [
+      "JN620802"
+    ],
+    "included": [
+      "NC_017914.1"
+    ]
+  },
+  "name": "Artemisia virus A",
+  "schema": [
+    {
+      "length": 4138,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1133751
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "9c83b72d",
+  "accessions": {
+    "excluded": [
+      "AM259382"
+    ],
+    "included": [
+      "NC_009354.1"
+    ]
+  },
+  "name": "Sida yellow vein Madurai virus",
+  "schema": [
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 420255
+}

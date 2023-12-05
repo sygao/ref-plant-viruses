@@ -1,0 +1,19 @@
+{
+  "_id": "qwasbrzq",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN047299.1"
+    ]
+  },
+  "name": "Rubber tree capillovirus",
+  "schema": [
+    {
+      "length": 6811,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12174
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "tpevv0j7",
+  "accessions": {
+    "excluded": [
+      "KR349343"
+    ],
+    "included": [
+      "NC_038966.1"
+    ]
+  },
+  "name": "Atractylodes mottle virus",
+  "schema": [
+    {
+      "length": 8881,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1702121
+}

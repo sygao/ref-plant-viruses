@@ -1,0 +1,26 @@
+{
+  "_id": "xxv54nax",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG253804.1",
+      "MG253805.1"
+    ]
+  },
+  "name": "Hibiscus-infecting cilevirus",
+  "schema": [
+    {
+      "length": 8725,
+      "molecule": "",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 4991,
+      "molecule": "",
+      "name": "RNA2",
+      "required": true
+    }
+  ],
+  "taxid": 2054415
+}

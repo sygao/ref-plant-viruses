@@ -1,0 +1,19 @@
+{
+  "_id": "9ga02vw8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT090966.1"
+    ]
+  },
+  "name": "Cherry virus T",
+  "schema": [
+    {
+      "length": 6847,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2763129
+}

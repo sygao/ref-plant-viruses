@@ -1,0 +1,21 @@
+{
+  "_id": "f1cd6772",
+  "accessions": {
+    "excluded": [
+      "M55012"
+    ],
+    "included": [
+      "NC_003631.1"
+    ]
+  },
+  "name": "Maize white line mosaic satellite virus",
+  "schema": [
+    {
+      "length": 1168,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 31503
+}

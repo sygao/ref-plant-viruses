@@ -1,0 +1,36 @@
+{
+  "_id": "ytyaeou0",
+  "accessions": {
+    "excluded": [
+      "KT214376"
+    ],
+    "included": [
+      "HF921459.1",
+      "HF921460.1",
+      "HF921477.1",
+      "KT214377.1",
+      "KT214378.1",
+      "KT214379.1",
+      "KT214380.1",
+      "KT214381.1",
+      "KT214382.1",
+      "KT214383.1",
+      "KT214384.1",
+      "KT214385.1",
+      "KT214386.1",
+      "KT214387.1",
+      "KT214388.1",
+      "NC_030238.1"
+    ]
+  },
+  "name": "Euphorbia caput-medusae latent virus",
+  "schema": [
+    {
+      "length": 2675,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1853865
+}

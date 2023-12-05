@@ -1,0 +1,19 @@
+{
+  "_id": "7d533255",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH886517.1"
+    ]
+  },
+  "name": "Tulip breaking virus",
+  "schema": [
+    {
+      "length": 9081,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12229
+}

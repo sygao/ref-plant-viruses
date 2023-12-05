@@ -1,0 +1,21 @@
+{
+  "_id": "e8deebcf",
+  "accessions": {
+    "excluded": [
+      "AY616760"
+    ],
+    "included": [
+      "NC_006939.1"
+    ]
+  },
+  "name": "Olive mild mosaic virus",
+  "schema": [
+    {
+      "length": 3683,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 295090
+}

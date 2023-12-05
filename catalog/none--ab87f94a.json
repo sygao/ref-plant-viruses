@@ -1,0 +1,29 @@
+{
+  "_id": "ab87f94a",
+  "accessions": {
+    "excluded": [
+      "EU195326",
+      "EU195327"
+    ],
+    "included": [
+      "NC_013109.1",
+      "NC_013110.1"
+    ]
+  },
+  "name": "Primula malacoides virus",
+  "schema": [
+    {
+      "length": 2390,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2344,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

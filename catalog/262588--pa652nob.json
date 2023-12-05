@@ -1,0 +1,85 @@
+{
+  "_id": "pa652nob",
+  "accessions": {
+    "excluded": [
+      "JX569847",
+      "JX867540",
+      "JX867546",
+      "JX867548",
+      "JX867550",
+      "KF435143",
+      "KF435145",
+      "KF435146",
+      "KF435147"
+    ],
+    "included": [
+      "NC_038808.1",
+      "NC_038809.1",
+      "NC_038810.1",
+      "NC_038811.1",
+      "NC_038812.1",
+      "NC_038813.1",
+      "NC_038814.1",
+      "NC_038815.1",
+      "NC_038816.1"
+    ]
+  },
+  "name": "Cardamom bushy dwarf virus",
+  "schema": [
+    {
+      "length": 1102,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 1088,
+      "molecule": "ssDNA",
+      "name": "DNA U3",
+      "required": true
+    },
+    {
+      "length": 1086,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 1083,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 1028,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 1097,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1080,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 1079,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 1106,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    }
+  ],
+  "taxid": 262588
+}

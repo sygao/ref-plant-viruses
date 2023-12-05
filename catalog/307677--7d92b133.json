@@ -1,0 +1,23 @@
+{
+  "_id": "7d92b133",
+  "accessions": {
+    "excluded": [
+      "AY713379"
+    ],
+    "included": [
+      "KY310579.1",
+      "MG879477.1",
+      "NC_006946.1"
+    ]
+  },
+  "name": "Apricot pseudo-chlorotic leaf spot virus",
+  "schema": [
+    {
+      "length": 7490,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 307677
+}

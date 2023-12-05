@@ -1,0 +1,37 @@
+{
+  "_id": "d14ha6sp",
+  "accessions": {
+    "excluded": [
+      "KP782029",
+      "KP782030",
+      "KP782031"
+    ],
+    "included": [
+      "NC_043659.1",
+      "NC_043660.1",
+      "NC_043661.1"
+    ]
+  },
+  "name": "Brassica campestris chrysovirus 1",
+  "schema": [
+    {
+      "length": 3639,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3567,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3337,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1692191
+}

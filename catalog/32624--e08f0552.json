@@ -1,0 +1,21 @@
+{
+  "_id": "e08f0552",
+  "accessions": {
+    "excluded": [
+      "AJ564636"
+    ],
+    "included": [
+      "NC_005288.1"
+    ]
+  },
+  "name": "Lily mottle virus",
+  "schema": [
+    {
+      "length": 9644,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 32624
+}

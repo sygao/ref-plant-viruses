@@ -1,0 +1,21 @@
+{
+  "_id": "673c00e5",
+  "accessions": {
+    "excluded": [
+      "HE984148"
+    ],
+    "included": [
+      "NC_018628.1"
+    ]
+  },
+  "name": "Cassava mosaic Madagascar alphasatellite",
+  "schema": [
+    {
+      "length": 1478,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1231298
+}

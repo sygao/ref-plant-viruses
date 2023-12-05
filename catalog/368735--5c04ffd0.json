@@ -1,0 +1,21 @@
+{
+  "_id": "5c04ffd0",
+  "accessions": {
+    "excluded": [
+      "DQ355023"
+    ],
+    "included": [
+      "NC_009642.1"
+    ]
+  },
+  "name": "Bell pepper mottle virus",
+  "schema": [
+    {
+      "length": 6375,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 368735
+}

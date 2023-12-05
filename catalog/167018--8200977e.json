@@ -1,0 +1,21 @@
+{
+  "_id": "8200977e",
+  "accessions": {
+    "excluded": [
+      "AY038066"
+    ],
+    "included": [
+      "NC_026239.1"
+    ]
+  },
+  "name": "Elderberry latent virus",
+  "schema": [
+    {
+      "length": 3892,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167018
+}

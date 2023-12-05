@@ -1,0 +1,21 @@
+{
+  "_id": "mojgoulp",
+  "accessions": {
+    "excluded": [
+      "KJ413252"
+    ],
+    "included": [
+      "NC_029303.1"
+    ]
+  },
+  "name": "Blackberry virus F",
+  "schema": [
+    {
+      "length": 7663,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560349
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "74dde717",
+  "accessions": {
+    "excluded": [
+      "Y13463"
+    ],
+    "included": [
+      "NC_001818.1"
+    ]
+  },
+  "name": "Galinsoga mosaic virus",
+  "schema": [
+    {
+      "length": 3803,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 60714
+}

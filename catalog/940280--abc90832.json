@@ -1,0 +1,21 @@
+{
+  "_id": "abc90832",
+  "accessions": {
+    "excluded": [
+      "GU234167"
+    ],
+    "included": [
+      "NC_022978.1"
+    ]
+  },
+  "name": "Carnation yellow fleck virus",
+  "schema": [
+    {
+      "length": 15602,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 940280
+}

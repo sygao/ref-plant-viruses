@@ -1,0 +1,22 @@
+{
+  "_id": "2d4f5c15",
+  "accessions": {
+    "excluded": [
+      "JQ700308"
+    ],
+    "included": [
+      "KX122023.1",
+      "NC_018571.1"
+    ]
+  },
+  "name": "Suakwa aphid-borne yellows virus",
+  "schema": [
+    {
+      "length": 5833,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 646010
+}

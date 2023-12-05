@@ -1,0 +1,21 @@
+{
+  "_id": "606dac03",
+  "accessions": {
+    "excluded": [
+      "AM040955"
+    ],
+    "included": [
+      "NC_008365.1"
+    ]
+  },
+  "name": "Streptocarpus flower break virus",
+  "schema": [
+    {
+      "length": 6279,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 335187
+}

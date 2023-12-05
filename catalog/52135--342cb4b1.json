@@ -1,0 +1,31 @@
+{
+  "_id": "342cb4b1",
+  "accessions": {
+    "excluded": [
+      "FJ815440",
+      "FJ815441"
+    ],
+    "included": [
+      "FJ542306.1",
+      "JQ973706.1",
+      "NC_013258.1",
+      "NC_013259.1"
+    ]
+  },
+  "name": "Tomato infectious chlorosis virus",
+  "schema": [
+    {
+      "length": 8271,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 7913,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 52135
+}

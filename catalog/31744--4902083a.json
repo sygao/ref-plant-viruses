@@ -1,0 +1,22 @@
+{
+  "_id": "4902083a",
+  "accessions": {
+    "excluded": [
+      "L20893",
+      "AJ608206"
+    ],
+    "included": [
+      "NC_001575.1"
+    ]
+  },
+  "name": "Rice yellow mottle virus",
+  "schema": [
+    {
+      "length": 4449,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31744
+}

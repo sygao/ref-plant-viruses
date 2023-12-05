@@ -1,0 +1,21 @@
+{
+  "_id": "h0xis57y",
+  "accessions": {
+    "excluded": [
+      "MF927925"
+    ],
+    "included": [
+      "NC_037058.1"
+    ]
+  },
+  "name": "Grapevine virus I",
+  "schema": [
+    {
+      "length": 7507,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2052157
+}

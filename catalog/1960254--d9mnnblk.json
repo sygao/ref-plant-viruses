@@ -1,0 +1,21 @@
+{
+  "_id": "d9mnnblk",
+  "accessions": {
+    "excluded": [
+      "GU985153"
+    ],
+    "included": [
+      "NC_038379.1"
+    ]
+  },
+  "name": "Cacao swollen shoot Togo A virus",
+  "schema": [
+    {
+      "length": 13221,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1960254
+}

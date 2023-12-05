@@ -1,0 +1,21 @@
+{
+  "_id": "0dozydio",
+  "accessions": {
+    "excluded": [
+      "MF614101"
+    ],
+    "included": [
+      "NC_040551.1"
+    ]
+  },
+  "name": "Panax notoginseng virus B",
+  "schema": [
+    {
+      "length": 4993,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2248770
+}

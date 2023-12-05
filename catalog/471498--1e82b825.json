@@ -1,0 +1,24 @@
+{
+  "_id": "1e82b825",
+  "accessions": {
+    "excluded": [
+      "EF693898"
+    ],
+    "included": [
+      "KY774446.1",
+      "MZ220961.1",
+      "MZ220962.1",
+      "NC_009892.1"
+    ]
+  },
+  "name": "Peach chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 9005,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 471498
+}

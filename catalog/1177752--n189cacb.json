@@ -1,0 +1,21 @@
+{
+  "_id": "n189cacb",
+  "accessions": {
+    "excluded": [
+      "JQ599283"
+    ],
+    "included": [
+      "NC_043107.1"
+    ]
+  },
+  "name": "Cordyline virus 3",
+  "schema": [
+    {
+      "length": 16274,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1177752
+}

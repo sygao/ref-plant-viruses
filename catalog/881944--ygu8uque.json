@@ -1,0 +1,25 @@
+{
+  "_id": "ygu8uque",
+  "accessions": {
+    "excluded": [
+      "HM439608"
+    ],
+    "included": [
+      "KC149938.1",
+      "KC149939.1",
+      "KC149940.1",
+      "KT809346.1",
+      "NC_055129.1"
+    ]
+  },
+  "name": "Pepper yellow leaf curl virus",
+  "schema": [
+    {
+      "length": 3404,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 881944
+}

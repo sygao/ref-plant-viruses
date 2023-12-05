@@ -1,0 +1,21 @@
+{
+  "_id": "u4nyxtph",
+  "accessions": {
+    "excluded": [
+      "MF362666"
+    ],
+    "included": [
+      "NC_040799.1"
+    ]
+  },
+  "name": "Helianthus annuus alphaendornavirus",
+  "schema": [
+    {
+      "length": 14663,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2184469
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "45db6945",
+  "accessions": {
+    "excluded": [
+      "DQ020491"
+    ],
+    "included": [
+      "NC_008031.1"
+    ]
+  },
+  "name": "Luffa begomovirus associated DNA beta",
+  "schema": [
+    {
+      "length": 1352,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 333045
+}

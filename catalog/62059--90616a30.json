@@ -1,0 +1,22 @@
+{
+  "_id": "90616a30",
+  "accessions": {
+    "excluded": [
+      "AJ865076"
+    ],
+    "included": [
+      "MN607702.1",
+      "NC_007433.1"
+    ]
+  },
+  "name": "Shallot yellow stripe virus",
+  "schema": [
+    {
+      "length": 10438,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 62059
+}

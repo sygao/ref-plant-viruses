@@ -1,0 +1,19 @@
+{
+  "_id": "b2326f98",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF465545.1"
+    ]
+  },
+  "name": "Sunflower mosaic virus",
+  "schema": [
+    {
+      "length": 2646,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 185017
+}

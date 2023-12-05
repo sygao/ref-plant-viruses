@@ -1,0 +1,19 @@
+{
+  "_id": "62d0d28d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JF320812.1"
+    ]
+  },
+  "name": "Iris mild mosaic virus",
+  "schema": [
+    {
+      "length": 8651,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 206392
+}

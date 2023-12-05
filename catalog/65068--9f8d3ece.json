@@ -1,0 +1,31 @@
+{
+  "_id": "9f8d3ece",
+  "accessions": {
+    "excluded": [
+      "KJ572573",
+      "KY646466"
+    ],
+    "included": [
+      "AF016626.1",
+      "KJ572574.1",
+      "NC_034214.1",
+      "NC_034215.1"
+    ]
+  },
+  "name": "Peach rosette mosaic virus",
+  "schema": [
+    {
+      "length": 7995,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3809,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 65068
+}

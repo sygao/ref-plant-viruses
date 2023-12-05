@@ -1,0 +1,21 @@
+{
+  "_id": "qdauxa3p",
+  "accessions": {
+    "excluded": [
+      "HE862273"
+    ],
+    "included": [
+      "NC_028985.1"
+    ]
+  },
+  "name": "Okra leaf curl Oman virus",
+  "schema": [
+    {
+      "length": 2788,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1241370
+}

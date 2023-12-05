@@ -1,0 +1,21 @@
+{
+  "_id": "9f43e29c",
+  "accessions": {
+    "excluded": [
+      "DQ641713"
+    ],
+    "included": [
+      "NC_009559.1"
+    ]
+  },
+  "name": "Erectites yellow mosaic virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1342,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 447603
+}

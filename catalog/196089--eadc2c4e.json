@@ -1,0 +1,21 @@
+{
+  "_id": "eadc2c4e",
+  "accessions": {
+    "excluded": [
+      "X05689"
+    ],
+    "included": [
+      "NC_003890.1"
+    ]
+  },
+  "name": "Tomato black ring virus satellite RNA",
+  "schema": [
+    {
+      "length": 1374,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 196089
+}

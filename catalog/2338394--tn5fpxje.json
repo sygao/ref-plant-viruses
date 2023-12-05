@@ -1,0 +1,20 @@
+{
+  "_id": "tn5fpxje",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH267701.1",
+      "MH460558.1"
+    ]
+  },
+  "name": "Blackcurrant-associated closterovirus 1",
+  "schema": [
+    {
+      "length": 17240,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2338394
+}

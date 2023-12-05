@@ -1,0 +1,37 @@
+{
+  "_id": "14926dec",
+  "accessions": {
+    "excluded": [
+      "AF133128",
+      "U75379",
+      "U78734"
+    ],
+    "included": [
+      "NC_003832.1",
+      "NC_003841.1",
+      "NC_003843.1"
+    ]
+  },
+  "name": "Watermelon silver mottle virus",
+  "schema": [
+    {
+      "length": 8917,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4880,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3534,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 1933300
+}

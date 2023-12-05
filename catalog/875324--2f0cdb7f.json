@@ -1,0 +1,21 @@
+{
+  "_id": "2f0cdb7f",
+  "accessions": {
+    "excluded": [
+      "GQ478343"
+    ],
+    "included": [
+      "NC_016660.1"
+    ]
+  },
+  "name": "Eclipta yellow vein virus",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 875324
+}

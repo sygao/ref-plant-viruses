@@ -1,0 +1,21 @@
+{
+  "_id": "42b14ffe",
+  "accessions": {
+    "excluded": [
+      "U21125"
+    ],
+    "included": [
+      "NC_001651.1"
+    ]
+  },
+  "name": "Citrus bent leaf viroid",
+  "schema": [
+    {
+      "length": 315,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12906
+}

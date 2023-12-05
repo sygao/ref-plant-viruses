@@ -1,0 +1,22 @@
+{
+  "_id": "913fc4ee",
+  "accessions": {
+    "excluded": [
+      "FJ039520",
+      "GU563327"
+    ],
+    "included": [
+      "NC_012698.1"
+    ]
+  },
+  "name": "Cassava brown streak virus",
+  "schema": [
+    {
+      "length": 8995,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 137758
+}

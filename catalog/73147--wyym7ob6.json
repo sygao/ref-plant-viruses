@@ -1,0 +1,81 @@
+{
+  "_id": "wyym7ob6",
+  "accessions": {
+    "excluded": [
+      "AB011024",
+      "AB011025",
+      "AB011026",
+      "AB011027"
+    ],
+    "included": [
+      "NC_038653.1",
+      "NC_038654.1",
+      "NC_038655.1",
+      "NC_038656.1"
+    ]
+  },
+  "name": "Oat sterile dwarf virus",
+  "schema": [
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1944,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1874,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1893,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1761,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 73147
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "9e0d4f37",
+  "accessions": {
+    "excluded": [
+      "FM200426"
+    ],
+    "included": [
+      "NC_015229.1"
+    ]
+  },
+  "name": "Fig fleck-associated virus",
+  "schema": [],
+  "taxid": 548908
+}

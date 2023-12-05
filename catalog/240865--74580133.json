@@ -1,0 +1,21 @@
+{
+  "_id": "74580133",
+  "accessions": {
+    "excluded": [
+      "AJ542540"
+    ],
+    "included": [
+      "NC_005807.1"
+    ]
+  },
+  "name": "Honeysuckle yellow vein virus",
+  "schema": [
+    {
+      "length": 2784,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 240865
+}

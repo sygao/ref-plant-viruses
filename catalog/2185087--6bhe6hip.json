@@ -1,0 +1,21 @@
+{
+  "_id": "6bhe6hip",
+  "accessions": {
+    "excluded": [
+      "MF375475"
+    ],
+    "included": [
+      "NC_040543.1"
+    ]
+  },
+  "name": "Chenopodium quinoa mitovirus 1",
+  "schema": [
+    {
+      "length": 2730,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2185087
+}

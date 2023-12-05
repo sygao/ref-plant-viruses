@@ -1,0 +1,21 @@
+{
+  "_id": "920bcce2",
+  "accessions": {
+    "excluded": [
+      "M20731"
+    ],
+    "included": [
+      "NC_001471.1"
+    ]
+  },
+  "name": "Coconut tinangaja viroid",
+  "schema": [
+    {
+      "length": 254,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12889
+}

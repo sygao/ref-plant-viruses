@@ -1,0 +1,31 @@
+{
+  "_id": "1691f2ed",
+  "accessions": {
+    "excluded": [
+      "AJ621358",
+      "AJ621357"
+    ],
+    "included": [
+      "AY122330.1",
+      "AY764390.1",
+      "NC_006271.1",
+      "NC_006272.1"
+    ]
+  },
+  "name": "Cherry rasp leaf virus",
+  "schema": [
+    {
+      "length": 7013,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3316,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 202566
+}

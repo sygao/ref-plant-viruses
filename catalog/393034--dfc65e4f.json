@@ -1,0 +1,21 @@
+{
+  "_id": "dfc65e4f",
+  "accessions": {
+    "excluded": [
+      "AM230643"
+    ],
+    "included": [
+      "NC_008237.1"
+    ]
+  },
+  "name": "Siegesbeckia yellow vein virus-associated DNA beta",
+  "schema": [
+    {
+      "length": 1358,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 393034
+}

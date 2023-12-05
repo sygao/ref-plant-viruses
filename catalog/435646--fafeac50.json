@@ -1,0 +1,21 @@
+{
+  "_id": "fafeac50",
+  "accessions": {
+    "excluded": [
+      "EF175733"
+    ],
+    "included": [
+      "NC_010238.1"
+    ]
+  },
+  "name": "Radish leaf curl virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 435646
+}

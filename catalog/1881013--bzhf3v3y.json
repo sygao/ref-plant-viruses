@@ -1,0 +1,21 @@
+{
+  "_id": "bzhf3v3y",
+  "accessions": {
+    "excluded": [
+      "KX196173"
+    ],
+    "included": [
+      "NC_030746.1"
+    ]
+  },
+  "name": "Senna mosaic virus",
+  "schema": [
+    {
+      "length": 6775,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1881013
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "10857991",
+  "accessions": {
+    "excluded": [
+      "EF375551"
+    ],
+    "included": [
+      "NC_009041.1"
+    ]
+  },
+  "name": "Rehmannia mosaic virus",
+  "schema": [
+    {
+      "length": 6395,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 425279
+}

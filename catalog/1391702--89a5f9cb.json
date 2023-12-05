@@ -1,0 +1,27 @@
+{
+  "_id": "89a5f9cb",
+  "accessions": {
+    "excluded": [
+      "KF477193"
+    ],
+    "included": [
+      "KP202857.1",
+      "KR824950.1",
+      "KR824951.1",
+      "KU594507.2",
+      "MH381817.1",
+      "MN853592.1",
+      "NC_022230.1"
+    ]
+  },
+  "name": "Tomato mottle mosaic virus",
+  "schema": [
+    {
+      "length": 6398,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1391702
+}

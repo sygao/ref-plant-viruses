@@ -1,0 +1,21 @@
+{
+  "_id": "43kzbprc",
+  "accessions": {
+    "excluded": [
+      "EU910141"
+    ],
+    "included": [
+      "NC_011135.1"
+    ]
+  },
+  "name": "Tomato leaf curl Kerala virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 551531
+}

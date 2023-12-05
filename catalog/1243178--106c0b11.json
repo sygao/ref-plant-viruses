@@ -1,0 +1,21 @@
+{
+  "_id": "106c0b11",
+  "accessions": {
+    "excluded": [
+      "JX277553"
+    ],
+    "included": [
+      "NC_019025.1"
+    ]
+  },
+  "name": "Rubus canadensis virus 1",
+  "schema": [
+    {
+      "length": 8328,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1243178
+}

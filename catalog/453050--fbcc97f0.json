@@ -1,0 +1,25 @@
+{
+  "_id": "fbcc97f0",
+  "accessions": {
+    "excluded": [
+      "JN613807"
+    ],
+    "included": [
+      "JN613805.1",
+      "JN613806.1",
+      "KP115617.1",
+      "MK778809.1",
+      "NC_017970.1"
+    ]
+  },
+  "name": "Sweet potato virus 2",
+  "schema": [
+    {
+      "length": 10762,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 453050
+}

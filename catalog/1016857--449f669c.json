@@ -1,0 +1,21 @@
+{
+  "_id": "449f669c",
+  "accessions": {
+    "excluded": [
+      "HQ593110"
+    ],
+    "included": [
+      "NC_015505.1"
+    ]
+  },
+  "name": "Banana streak UM virus",
+  "schema": [
+    {
+      "length": 7532,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1016857
+}

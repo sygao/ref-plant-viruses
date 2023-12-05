@@ -1,0 +1,21 @@
+{
+  "_id": "8fc34d4b",
+  "accessions": {
+    "excluded": [
+      "GU112010"
+    ],
+    "included": [
+      "NC_014847.1"
+    ]
+  },
+  "name": "Okra leaf curl India virus [India:Sonipat EL14A:2006]",
+  "schema": [
+    {
+      "length": 2723,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 908123
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "q4hwtks3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF062136.1",
+      "MF062137.1",
+      "MF062138.1"
+    ]
+  },
+  "name": "Apple rubbery wood virus 1",
+  "schema": [
+    {
+      "length": 7219,
+      "molecule": "ssRNA-",
+      "name": "L",
+      "required": true
+    },
+    {
+      "length": 1613,
+      "molecule": "ssRNA-",
+      "name": "M",
+      "required": true
+    },
+    {
+      "length": 1291,
+      "molecule": "ssRNA-",
+      "name": "S",
+      "required": true
+    }
+  ],
+  "taxid": 2164102
+}

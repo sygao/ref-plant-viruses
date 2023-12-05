@@ -1,0 +1,21 @@
+{
+  "_id": "8325a077",
+  "accessions": {
+    "excluded": [
+      "JF838187"
+    ],
+    "included": [
+      "NC_016159.1"
+    ]
+  },
+  "name": "Keunjorong mosaic virus",
+  "schema": [
+    {
+      "length": 9626,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1080799
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "9822a7a1",
+  "accessions": {
+    "excluded": [
+      "EU365617",
+      "EU384576"
+    ],
+    "included": [
+      "NC_011805.1",
+      "NC_012120.1"
+    ]
+  },
+  "name": "Gossypium punctatum mild leaf curl virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2725,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 509532
+}

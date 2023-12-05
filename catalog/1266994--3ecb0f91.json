@@ -1,0 +1,21 @@
+{
+  "_id": "3ecb0f91",
+  "accessions": {
+    "excluded": [
+      "JX871383"
+    ],
+    "included": [
+      "NC_020255.1"
+    ]
+  },
+  "name": "Sida yellow mosaic Alagoas virus",
+  "schema": [
+    {
+      "length": 2690,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1266994
+}

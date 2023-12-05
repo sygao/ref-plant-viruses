@@ -1,0 +1,19 @@
+{
+  "_id": "1tzn4kyt",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF781082.1"
+    ]
+  },
+  "name": "Grapevine badnavirus 1",
+  "schema": [
+    {
+      "length": 7145,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2052838
+}

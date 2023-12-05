@@ -1,0 +1,77 @@
+{
+  "_id": "9xkio3od",
+  "accessions": {
+    "excluded": [
+      "MH048842",
+      "MH048843",
+      "MH048844",
+      "MH048845",
+      "MH048846",
+      "MH048847",
+      "MH048848",
+      "MH048849"
+    ],
+    "included": [
+      "NC_055616.1",
+      "NC_055617.1",
+      "NC_055618.1",
+      "NC_055619.1",
+      "NC_055620.1",
+      "NC_055621.1",
+      "NC_055622.1",
+      "NC_055623.1"
+    ]
+  },
+  "name": "Sophora yellow stunt virus",
+  "schema": [
+    {
+      "length": 984,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 986,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 978,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 988,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 997,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 984,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 980,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 996,
+      "molecule": "ssDNA",
+      "name": "DNA U4",
+      "required": true
+    }
+  ],
+  "taxid": 1980160
+}

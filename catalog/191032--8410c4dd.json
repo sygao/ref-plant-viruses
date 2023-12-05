@@ -1,0 +1,21 @@
+{
+  "_id": "8410c4dd",
+  "accessions": {
+    "excluded": [
+      "M63666"
+    ],
+    "included": [
+      "NC_003533.1"
+    ]
+  },
+  "name": "Cereal yellow dwarf virus-RPV satellite RNA",
+  "schema": [
+    {
+      "length": 322,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 191032
+}

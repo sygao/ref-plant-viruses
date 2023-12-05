@@ -1,0 +1,21 @@
+{
+  "_id": "eb044095",
+  "accessions": {
+    "excluded": [
+      "AJ633822"
+    ],
+    "included": [
+      "NC_007192.1"
+    ]
+  },
+  "name": "Lily virus X",
+  "schema": [
+    {
+      "length": 5823,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12194
+}

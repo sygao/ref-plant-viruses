@@ -1,0 +1,37 @@
+{
+  "_id": "3f9928c8",
+  "accessions": {
+    "excluded": [
+      "JX463340",
+      "JX463341",
+      "JX463342"
+    ],
+    "included": [
+      "NC_022127.1",
+      "NC_022128.1",
+      "NC_022129.1"
+    ]
+  },
+  "name": "Ageratum latent virus",
+  "schema": [
+    {
+      "length": 3481,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2872,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2224,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1386090
+}

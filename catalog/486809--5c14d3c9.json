@@ -1,0 +1,29 @@
+{
+  "_id": "5c14d3c9",
+  "accessions": {
+    "excluded": [
+      "EU596959",
+      "EU596960"
+    ],
+    "included": [
+      "NC_010791.1",
+      "NC_010792.1"
+    ]
+  },
+  "name": "Ramie mosaic virus",
+  "schema": [
+    {
+      "length": 2738,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2708,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 486809
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "422e434f",
+  "accessions": {
+    "excluded": [
+      "Y14875",
+      "Y14874"
+    ],
+    "included": [
+      "NC_003867.1",
+      "NC_003868.1"
+    ]
+  },
+  "name": "Tomato mosaic Havana virus",
+  "schema": [
+    {
+      "length": 2620,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2586,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223356
+}

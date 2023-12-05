@@ -1,0 +1,21 @@
+{
+  "_id": "x8q14h0l",
+  "accessions": {
+    "excluded": [
+      "MG755240"
+    ],
+    "included": [
+      "NC_055491.1"
+    ]
+  },
+  "name": "Yam chlorotic necrosis virus",
+  "schema": [
+    {
+      "length": 8261,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2175329
+}

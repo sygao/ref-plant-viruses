@@ -1,0 +1,21 @@
+{
+  "_id": "6d8bd016",
+  "accessions": {
+    "excluded": [
+      "X06728"
+    ],
+    "included": [
+      "NC_003820.1"
+    ]
+  },
+  "name": "White clover mosaic virus",
+  "schema": [
+    {
+      "length": 5845,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12188
+}

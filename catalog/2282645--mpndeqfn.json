@@ -1,0 +1,21 @@
+{
+  "_id": "mpndeqfn",
+  "accessions": {
+    "excluded": [
+      "MH425571"
+    ],
+    "included": [
+      "NC_040651.1"
+    ]
+  },
+  "name": "Panicum ecklonii-associated virus",
+  "schema": [
+    {
+      "length": 2070,
+      "molecule": "",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2282645
+}

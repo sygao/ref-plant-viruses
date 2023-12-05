@@ -1,0 +1,14 @@
+{
+  "_id": "55016146",
+  "accessions": {
+    "excluded": [
+      "AM039800"
+    ],
+    "included": [
+      "NC_010954.1"
+    ]
+  },
+  "name": "Fritillary virus Y",
+  "schema": [],
+  "taxid": 332471
+}

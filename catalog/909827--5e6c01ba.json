@@ -1,0 +1,24 @@
+{
+  "_id": "5e6c01ba",
+  "accessions": {
+    "excluded": [
+      "AB594828"
+    ],
+    "included": [
+      "KP326573.1",
+      "KU999109.1",
+      "MN337276.1",
+      "NC_015050.1"
+    ]
+  },
+  "name": "Pepper vein yellows virus",
+  "schema": [
+    {
+      "length": 6238,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 909827
+}

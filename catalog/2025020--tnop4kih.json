@@ -1,0 +1,20 @@
+{
+  "_id": "tnop4kih",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC314398.1",
+      "LC314399.1"
+    ]
+  },
+  "name": "Narcissus virus 1",
+  "schema": [
+    {
+      "length": 9626,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2025020
+}

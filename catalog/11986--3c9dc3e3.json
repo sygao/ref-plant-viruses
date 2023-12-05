@@ -1,0 +1,22 @@
+{
+  "_id": "3c9dc3e3",
+  "accessions": {
+    "excluded": [
+      "X02986",
+      "AF192772"
+    ],
+    "included": [
+      "NC_001265.1"
+    ]
+  },
+  "name": "Carnation mottle virus",
+  "schema": [
+    {
+      "length": 4003,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 11986
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "d6u33vmw",
+  "accessions": {
+    "excluded": [
+      "LC052212"
+    ],
+    "included": [
+      "NC_029783.1"
+    ]
+  },
+  "name": "Grapevine leafroll-associated virus 13",
+  "schema": [
+    {
+      "length": 17608,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1815581
+}

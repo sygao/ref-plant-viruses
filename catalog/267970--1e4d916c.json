@@ -1,0 +1,29 @@
+{
+  "_id": "1e4d916c",
+  "accessions": {
+    "excluded": [
+      "EU191904",
+      "EU191905"
+    ],
+    "included": [
+      "NC_010560.1",
+      "NC_010561.1"
+    ]
+  },
+  "name": "Bean yellow disorder virus",
+  "schema": [
+    {
+      "length": 8965,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 8530,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 267970
+}

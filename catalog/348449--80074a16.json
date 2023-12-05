@@ -1,0 +1,29 @@
+{
+  "_id": "80074a16",
+  "accessions": {
+    "excluded": [
+      "AY949985",
+      "DQ181926"
+    ],
+    "included": [
+      "NC_008190.1",
+      "NC_008191.1"
+    ]
+  },
+  "name": "Raphanus sativus cryptic virus 1",
+  "schema": [
+    {
+      "length": 1866,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1791,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 348449
+}

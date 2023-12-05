@@ -1,0 +1,19 @@
+{
+  "_id": "n7gos5c3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC424839.1"
+    ]
+  },
+  "name": "Panicum distortion mosaic virus",
+  "schema": [
+    {
+      "length": 5808,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2420235
+}

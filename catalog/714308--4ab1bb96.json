@@ -1,0 +1,29 @@
+{
+  "_id": "4ab1bb96",
+  "accessions": {
+    "excluded": [
+      "FJ944019",
+      "FJ944020"
+    ],
+    "included": [
+      "NC_015488.1",
+      "NC_015489.1"
+    ]
+  },
+  "name": "Rhynchosia mild mosaic virus",
+  "schema": [
+    {
+      "length": 2611,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2551,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 714308
+}

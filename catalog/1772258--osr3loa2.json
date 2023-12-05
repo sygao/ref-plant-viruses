@@ -1,0 +1,21 @@
+{
+  "_id": "osr3loa2",
+  "accessions": {
+    "excluded": [
+      "KT948785"
+    ],
+    "included": [
+      "NC_038981.1"
+    ]
+  },
+  "name": "Pavonia mosaic virus",
+  "schema": [
+    {
+      "length": 2700,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1772258
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "rx37ub9f",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF062133.1",
+      "MF062134.1",
+      "MF062135.1",
+      "MF062139.1",
+      "MF062140.1",
+      "MF062141.1",
+      "MF062142.1",
+      "MF062143.1",
+      "MF062144.1",
+      "MF062145.1",
+      "MF062146.1"
+    ]
+  },
+  "name": "Apple rubbery wood virus 2",
+  "schema": [
+    {
+      "length": 7357,
+      "molecule": "ssRNA-",
+      "name": "L",
+      "required": true
+    },
+    {
+      "length": 1600,
+      "molecule": "ssRNA-",
+      "name": "M",
+      "required": true
+    },
+    {
+      "length": 1432,
+      "molecule": "ssRNA-",
+      "name": "S",
+      "required": true
+    }
+  ],
+  "taxid": 2164103
+}

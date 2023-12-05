@@ -1,0 +1,21 @@
+{
+  "_id": "c286afba",
+  "accessions": {
+    "excluded": [
+      "EU853709"
+    ],
+    "included": [
+      "NC_011097.1"
+    ]
+  },
+  "name": "Cycad leaf necrosis virus",
+  "schema": [
+    {
+      "length": 9205,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 549205
+}

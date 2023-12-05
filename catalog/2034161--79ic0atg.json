@@ -1,0 +1,19 @@
+{
+  "_id": "79ic0atg",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF960828.1"
+    ]
+  },
+  "name": "Bottle gourd mottle virus",
+  "schema": [
+    {
+      "length": 6497,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2034161
+}

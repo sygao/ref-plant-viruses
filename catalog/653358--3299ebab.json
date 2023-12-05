@@ -1,0 +1,14 @@
+{
+  "_id": "3299ebab",
+  "accessions": {
+    "excluded": [
+      "EU839576"
+    ],
+    "included": [
+      "NC_013022.1"
+    ]
+  },
+  "name": "Ipomoea yellow vein virus",
+  "schema": [],
+  "taxid": 653358
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "fe83f2d9",
+  "accessions": {
+    "excluded": [
+      "HQ113104"
+    ],
+    "included": [
+      "NC_014822.1"
+    ]
+  },
+  "name": "Bromus catharticus striate mosaic virus",
+  "schema": [
+    {
+      "length": 2797,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 936005
+}

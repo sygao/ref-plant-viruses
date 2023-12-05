@@ -1,0 +1,21 @@
+{
+  "_id": "088d7d90",
+  "accessions": {
+    "excluded": [
+      "FM865413"
+    ],
+    "included": [
+      "NC_012931.1"
+    ]
+  },
+  "name": "Wheat yellow dwarf virus-GPV",
+  "schema": [
+    {
+      "length": 5673,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 572239
+}

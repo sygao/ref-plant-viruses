@@ -1,0 +1,21 @@
+{
+  "_id": "8jkgyujo",
+  "accessions": {
+    "excluded": [
+      "JN809819"
+    ],
+    "included": [
+      "NC_038455.1"
+    ]
+  },
+  "name": "Sauropus leaf curl virus",
+  "schema": [
+    {
+      "length": 2762,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1130981
+}

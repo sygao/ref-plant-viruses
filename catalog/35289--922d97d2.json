@@ -1,0 +1,33 @@
+{
+  "_id": "922d97d2",
+  "accessions": {
+    "excluded": [
+      "X75448"
+    ],
+    "included": [
+      "EF583906.1",
+      "GU733707.1",
+      "JX513897.1",
+      "KF700375.1",
+      "KJ524452.1",
+      "KX522545.2",
+      "KX790785.1",
+      "KY426923.1",
+      "MF991949.1",
+      "MZ344593.1",
+      "MZ440727.1",
+      "MZ440728.1",
+      "NC_003602.1"
+    ]
+  },
+  "name": "Grapevine virus B",
+  "schema": [
+    {
+      "length": 7593,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35289
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "5b2962bd",
+  "accessions": {
+    "excluded": [
+      "DQ641718"
+    ],
+    "included": [
+      "NC_009563.1"
+    ]
+  },
+  "name": "Sida yellow vein Vietnam alphasatellite",
+  "schema": [
+    {
+      "length": 1372,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 447597
+}

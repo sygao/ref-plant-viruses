@@ -1,0 +1,21 @@
+{
+  "_id": "89clcelq",
+  "accessions": {
+    "excluded": [
+      "KR080327"
+    ],
+    "included": [
+      "NC_027924.1"
+    ]
+  },
+  "name": "Atractylodes mild mottle virus",
+  "schema": [
+    {
+      "length": 8105,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1711685
+}

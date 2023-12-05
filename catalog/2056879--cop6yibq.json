@@ -1,0 +1,21 @@
+{
+  "_id": "cop6yibq",
+  "accessions": {
+    "excluded": [
+      "MF642720"
+    ],
+    "included": [
+      "NC_040692.1"
+    ]
+  },
+  "name": "Cacao swollen shoot CE virus",
+  "schema": [
+    {
+      "length": 7131,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2056879
+}

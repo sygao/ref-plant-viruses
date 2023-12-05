@@ -1,0 +1,20 @@
+{
+  "_id": "nnwnffl5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX398053.1",
+      "KX398054.1"
+    ]
+  },
+  "name": "Jasmine virus T",
+  "schema": [
+    {
+      "length": 9649,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1775963
+}

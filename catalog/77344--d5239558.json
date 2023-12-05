@@ -1,0 +1,21 @@
+{
+  "_id": "d5239558",
+  "accessions": {
+    "excluded": [
+      "D86123"
+    ],
+    "included": [
+      "NC_002187.1"
+    ]
+  },
+  "name": "Japanese iris necrotic ring virus",
+  "schema": [
+    {
+      "length": 4014,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 77344
+}

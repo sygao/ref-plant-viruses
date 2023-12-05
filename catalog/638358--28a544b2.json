@@ -1,0 +1,21 @@
+{
+  "_id": "28a544b2",
+  "accessions": {
+    "excluded": [
+      "FJ665631"
+    ],
+    "included": [
+      "NC_012664.1"
+    ]
+  },
+  "name": "Eragrostis curvula streak virus",
+  "schema": [
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 638358
+}

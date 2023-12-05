@@ -1,0 +1,21 @@
+{
+  "_id": "cba31ebf",
+  "accessions": {
+    "excluded": [
+      "AM236779"
+    ],
+    "included": [
+      "NC_008316.1"
+    ]
+  },
+  "name": "Malvastrum leaf curl Guangdong virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 377610
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "6ryhz6qr",
+  "accessions": {
+    "excluded": [
+      "KP769852"
+    ],
+    "included": [
+      "NC_027706.1"
+    ]
+  },
+  "name": "Lettuce italian necrotic virus",
+  "schema": [
+    {
+      "length": 9829,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1688637
+}

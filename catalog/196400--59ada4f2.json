@@ -1,0 +1,37 @@
+{
+  "_id": "59ada4f2",
+  "accessions": {
+    "excluded": [
+      "AF057136"
+    ],
+    "included": [
+      "AY368172.1",
+      "FR691076.1",
+      "HE591388.1",
+      "JQ922417.1",
+      "JX513892.1",
+      "JX559646.1",
+      "KC427107.1",
+      "KX274275.1",
+      "KX274277.1",
+      "MZ484752.1",
+      "MZ484754.1",
+      "MZ484771.1",
+      "MZ484780.1",
+      "MZ484781.1",
+      "MZ484791.1",
+      "MZ484874.1",
+      "NC_001948.1"
+    ]
+  },
+  "name": "Grapevine rupestris stem pitting-associated virus",
+  "schema": [
+    {
+      "length": 8729,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 196400
+}

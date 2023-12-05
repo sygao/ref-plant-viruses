@@ -1,0 +1,31 @@
+{
+  "_id": "5xoxvhob",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX525586.1",
+      "MH720464.1",
+      "MH720465.1",
+      "MH720466.1",
+      "MH720467.1",
+      "MH720468.1",
+      "MH720469.1",
+      "MH720470.1",
+      "MH720471.1",
+      "MH720472.1",
+      "MH720473.1",
+      "MH720474.1",
+      "MH720475.1"
+    ]
+  },
+  "name": "Rice stripe mosaic virus",
+  "schema": [
+    {
+      "length": 12774,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1931356
+}

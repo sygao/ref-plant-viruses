@@ -1,0 +1,21 @@
+{
+  "_id": "b04icjtx",
+  "accessions": {
+    "excluded": [
+      "KY392781"
+    ],
+    "included": [
+      "NC_034264.1"
+    ]
+  },
+  "name": "Arracacha virus V",
+  "schema": [
+    {
+      "length": 7398,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1972716
+}

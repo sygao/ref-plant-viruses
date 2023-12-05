@@ -1,0 +1,22 @@
+{
+  "_id": "abb87c84",
+  "accessions": {
+    "excluded": [
+      "KF958838"
+    ],
+    "included": [
+      "KF030873.1",
+      "NC_024449.1"
+    ]
+  },
+  "name": "Cherry twisted leaf associated virus",
+  "schema": [
+    {
+      "length": 8428,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1424279
+}

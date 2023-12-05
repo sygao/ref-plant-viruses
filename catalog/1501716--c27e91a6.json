@@ -1,0 +1,22 @@
+{
+  "_id": "c27e91a6",
+  "accessions": {
+    "excluded": [
+      "KJ395757"
+    ],
+    "included": [
+      "KX881422.2",
+      "NC_026816.1"
+    ]
+  },
+  "name": "Plumeria mosaic virus",
+  "schema": [
+    {
+      "length": 6685,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1501716
+}

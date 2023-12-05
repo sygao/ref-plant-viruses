@@ -1,0 +1,21 @@
+{
+  "_id": "2a65210e",
+  "accessions": {
+    "excluded": [
+      "AB294512"
+    ],
+    "included": [
+      "NC_009893.1"
+    ]
+  },
+  "name": "Tomato yellow dwarf disease associated satellite DNA beta-[Kochi]",
+  "schema": [
+    {
+      "length": 1356,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 427315
+}

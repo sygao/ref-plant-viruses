@@ -1,0 +1,21 @@
+{
+  "_id": "ox2j28l5",
+  "accessions": {
+    "excluded": [
+      "AM411424"
+    ],
+    "included": [
+      "NC_038881.1"
+    ]
+  },
+  "name": "Euphorbia leaf curl Guangxi virus",
+  "schema": [
+    {
+      "length": 2747,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 412688
+}

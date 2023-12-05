@@ -1,0 +1,23 @@
+{
+  "_id": "259ae1cc",
+  "accessions": {
+    "excluded": [
+      "K00818"
+    ],
+    "included": [
+      "DQ144506.1",
+      "KF484878.1",
+      "NC_001553.1"
+    ]
+  },
+  "name": "Tomato apical stunt viroid",
+  "schema": [
+    {
+      "length": 362,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12885
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "898l72tb",
+  "accessions": {
+    "excluded": [
+      "KR080326"
+    ],
+    "included": [
+      "NC_027920.1"
+    ]
+  },
+  "name": "Hot pepper endornavirus",
+  "schema": [
+    {
+      "length": 14729,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1711684
+}

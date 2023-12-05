@@ -1,0 +1,19 @@
+{
+  "_id": "76z0qjd9",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF125267.1"
+    ]
+  },
+  "name": "Corn salad necrosis virus",
+  "schema": [
+    {
+      "length": 3687,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170412
+}

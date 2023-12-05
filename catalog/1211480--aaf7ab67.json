@@ -1,0 +1,21 @@
+{
+  "_id": "aaf7ab67",
+  "accessions": {
+    "excluded": [
+      "AB735628"
+    ],
+    "included": [
+      "NC_018381.1"
+    ]
+  },
+  "name": "Persimmon virus A",
+  "schema": [
+    {
+      "length": 13467,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1211480
+}

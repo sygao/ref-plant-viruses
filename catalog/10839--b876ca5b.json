@@ -1,0 +1,29 @@
+{
+  "_id": "b876ca5b",
+  "accessions": {
+    "excluded": [
+      "M88686",
+      "M88687"
+    ],
+    "included": [
+      "NC_004042.1",
+      "NC_004043.1"
+    ]
+  },
+  "name": "Bean golden mosaic virus",
+  "schema": [
+    {
+      "length": 2617,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2580,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10839
+}

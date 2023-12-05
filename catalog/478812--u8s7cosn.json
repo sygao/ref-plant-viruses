@@ -1,0 +1,21 @@
+{
+  "_id": "u8s7cosn",
+  "accessions": {
+    "excluded": [
+      "AY438561"
+    ],
+    "included": [
+      "NC_005359.1"
+    ]
+  },
+  "name": "Tomato leaf curl New Delhi betasatellite",
+  "schema": [
+    {
+      "length": 1012,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 478812
+}

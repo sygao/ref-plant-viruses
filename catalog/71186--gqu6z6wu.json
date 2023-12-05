@@ -1,0 +1,29 @@
+{
+  "_id": "gqu6z6wu",
+  "accessions": {
+    "excluded": [
+      "AJ508783",
+      "AJ608286"
+    ],
+    "included": [
+      "NC_009605.1",
+      "NC_009606.1"
+    ]
+  },
+  "name": "Tomato leaf curl Sinaloa virus",
+  "schema": [
+    {
+      "length": 2611,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2562,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 71186
+}

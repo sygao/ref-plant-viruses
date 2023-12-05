@@ -1,0 +1,21 @@
+{
+  "_id": "14ydggl4",
+  "accessions": {
+    "excluded": [
+      "MH036372"
+    ],
+    "included": [
+      "NC_040643.1"
+    ]
+  },
+  "name": "Panax ginseng flexivirus 1",
+  "schema": [
+    {
+      "length": 9002,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2303411
+}

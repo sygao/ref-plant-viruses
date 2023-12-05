@@ -1,0 +1,25 @@
+{
+  "_id": "5347c5c2",
+  "accessions": {
+    "excluded": [
+      "KC149510"
+    ],
+    "included": [
+      "KY211673.1",
+      "MF446638.1",
+      "MH802033.1",
+      "MH802034.1",
+      "NC_021480.1"
+    ]
+  },
+  "name": "Grapevine satellite virus",
+  "schema": [
+    {
+      "length": 1020,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1343493
+}

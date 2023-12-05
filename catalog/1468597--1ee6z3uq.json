@@ -1,0 +1,21 @@
+{
+  "_id": "1ee6z3uq",
+  "accessions": {
+    "excluded": [
+      "HG934827"
+    ],
+    "included": [
+      "NC_033273.1"
+    ]
+  },
+  "name": "Hibiscus leaf curl alphasatellite",
+  "schema": [
+    {
+      "length": 1375,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1468597
+}

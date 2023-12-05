@@ -1,0 +1,29 @@
+{
+  "_id": "b3efbe4a",
+  "accessions": {
+    "excluded": [
+      "EU914817",
+      "EU914818"
+    ],
+    "included": [
+      "NC_011181.1",
+      "NC_011182.1"
+    ]
+  },
+  "name": "Okra mottle virus",
+  "schema": [
+    {
+      "length": 2660,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2653,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 619599
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "10bc89e7",
+  "accessions": {
+    "excluded": [
+      "AJ272327",
+      "AJ272328",
+      "AJ272329"
+    ],
+    "included": [
+      "NC_003649.1",
+      "NC_003650.1",
+      "NC_003651.1"
+    ]
+  },
+  "name": "Pelargonium zonate spot virus",
+  "schema": [
+    {
+      "length": 3383,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2435,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2659,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 116056
+}

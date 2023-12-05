@@ -1,0 +1,29 @@
+{
+  "_id": "6531d8a4",
+  "accessions": {
+    "excluded": [
+      "JN052073",
+      "JN052074"
+    ],
+    "included": [
+      "NC_016443.1",
+      "NC_016444.1"
+    ]
+  },
+  "name": "Chocolate lily virus A",
+  "schema": [
+    {
+      "length": 6139,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4735,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1120751
+}

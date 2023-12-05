@@ -1,0 +1,21 @@
+{
+  "_id": "a39e46d2",
+  "accessions": {
+    "excluded": [
+      "AY956384"
+    ],
+    "included": [
+      "NC_008249.1"
+    ]
+  },
+  "name": "Chickpea chlorotic stunt virus",
+  "schema": [
+    {
+      "length": 5900,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 328430
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "0cffd61e",
+  "accessions": {
+    "excluded": [
+      "JQ429443"
+    ],
+    "included": [
+      "NC_018703.1"
+    ]
+  },
+  "name": "Culex originated Tymoviridae-like virus",
+  "schema": [
+    {
+      "length": 6471,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1236047
+}

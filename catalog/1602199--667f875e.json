@@ -1,0 +1,21 @@
+{
+  "_id": "667f875e",
+  "accessions": {
+    "excluded": [
+      "KM887907"
+    ],
+    "included": [
+      "NC_026253.1"
+    ]
+  },
+  "name": "Oxalis yellow vein virus",
+  "schema": [
+    {
+      "length": 2661,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1602199
+}

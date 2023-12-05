@@ -1,0 +1,21 @@
+{
+  "_id": "adbeogcg",
+  "accessions": {
+    "excluded": [
+      "LC144945"
+    ],
+    "included": [
+      "NC_031336.1"
+    ]
+  },
+  "name": "Winged bean alphaendornavirus 1",
+  "schema": [
+    {
+      "length": 14623,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169693
+}

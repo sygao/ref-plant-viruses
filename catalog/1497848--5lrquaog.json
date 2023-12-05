@@ -1,0 +1,21 @@
+{
+  "_id": "5lrquaog",
+  "accessions": {
+    "excluded": [
+      "KT013296"
+    ],
+    "included": [
+      "NC_028378.1"
+    ]
+  },
+  "name": "Papaya meleira virus",
+  "schema": [
+    {
+      "length": 8768,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1497848
+}

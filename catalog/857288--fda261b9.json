@@ -1,0 +1,21 @@
+{
+  "_id": "fda261b9",
+  "accessions": {
+    "excluded": [
+      "GQ369531"
+    ],
+    "included": [
+      "NC_018451.1"
+    ]
+  },
+  "name": "Arabis mosaic virus small satellite RNA barley/CHE/1991",
+  "schema": [
+    {
+      "length": 301,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 857288
+}

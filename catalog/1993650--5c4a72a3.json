@@ -1,0 +1,21 @@
+{
+  "_id": "5c4a72a3",
+  "accessions": {
+    "excluded": [
+      "U74627"
+    ],
+    "included": [
+      "NC_002743.1"
+    ]
+  },
+  "name": "Tomato leaf curl virus satellite",
+  "schema": [
+    {
+      "length": 682,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1993650
+}

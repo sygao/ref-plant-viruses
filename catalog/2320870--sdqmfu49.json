@@ -1,0 +1,19 @@
+{
+  "_id": "sdqmfu49",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH779625.1"
+    ]
+  },
+  "name": "Platycodon mild mottle virus",
+  "schema": [
+    {
+      "length": 9556,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2320870
+}

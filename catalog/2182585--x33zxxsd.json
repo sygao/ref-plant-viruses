@@ -1,0 +1,21 @@
+{
+  "_id": "x33zxxsd",
+  "accessions": {
+    "excluded": [
+      "MG917697"
+    ],
+    "included": [
+      "NC_055492.1"
+    ]
+  },
+  "name": "Ageratum leaf curl Sichuan virus",
+  "schema": [
+    {
+      "length": 2749,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2182585
+}

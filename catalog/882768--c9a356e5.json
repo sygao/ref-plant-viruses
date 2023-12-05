@@ -1,0 +1,16 @@
+{
+  "_id": "c9a356e5",
+  "accessions": {
+    "excluded": [
+      "FR687854",
+      "FR687855"
+    ],
+    "included": [
+      "NC_015494.1",
+      "NC_015495.1"
+    ]
+  },
+  "name": "Fig cryptic virus",
+  "schema": [],
+  "taxid": 882768
+}

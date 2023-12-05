@@ -1,0 +1,21 @@
+{
+  "_id": "4f651de6",
+  "accessions": {
+    "excluded": [
+      "FJ869906"
+    ],
+    "included": [
+      "NC_012666.1"
+    ]
+  },
+  "name": "Emilia yellow vein virus-associated DNA beta",
+  "schema": [
+    {
+      "length": 1337,
+      "molecule": "ssDNA",
+      "name": "Beta",
+      "required": true
+    }
+  ],
+  "taxid": 640136
+}

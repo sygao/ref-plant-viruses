@@ -1,0 +1,21 @@
+{
+  "_id": "a09def38",
+  "accessions": {
+    "excluded": [
+      "AJ542499"
+    ],
+    "included": [
+      "NC_005874.1"
+    ]
+  },
+  "name": "Zinnia leaf curl virus-associated DNA beta",
+  "schema": [
+    {
+      "length": 1354,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 220813
+}

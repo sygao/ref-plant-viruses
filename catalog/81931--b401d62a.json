@@ -1,0 +1,29 @@
+{
+  "_id": "b401d62a",
+  "accessions": {
+    "excluded": [
+      "AJ428554",
+      "AJ428555"
+    ],
+    "included": [
+      "NC_004123.1",
+      "NC_004124.1"
+    ]
+  },
+  "name": "Sweet potato chlorotic stunt virus",
+  "schema": [
+    {
+      "length": 9407,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 8223,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 81931
+}

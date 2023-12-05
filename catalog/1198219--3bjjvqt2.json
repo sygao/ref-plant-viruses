@@ -1,0 +1,21 @@
+{
+  "_id": "3bjjvqt2",
+  "accessions": {
+    "excluded": [
+      "DQ512731"
+    ],
+    "included": [
+      "NC_038464.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl China virus",
+  "schema": [
+    {
+      "length": 2771,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1198219
+}

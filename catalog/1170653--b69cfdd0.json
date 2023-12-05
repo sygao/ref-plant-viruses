@@ -1,0 +1,21 @@
+{
+  "_id": "b69cfdd0",
+  "accessions": {
+    "excluded": [
+      "JQ412056"
+    ],
+    "included": [
+      "NC_023844.1"
+    ]
+  },
+  "name": "Cassava associated cicular DNA virus",
+  "schema": [
+    {
+      "length": 2220,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1170653
+}

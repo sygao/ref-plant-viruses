@@ -1,0 +1,19 @@
+{
+  "_id": "fd48e64d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EU559678.1"
+    ]
+  },
+  "name": "Abutilon yellow mosaic virus",
+  "schema": [
+    {
+      "length": 5093,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 515303
+}

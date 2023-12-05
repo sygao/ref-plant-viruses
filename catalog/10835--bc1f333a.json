@@ -1,0 +1,29 @@
+{
+  "_id": "bc1f333a",
+  "accessions": {
+    "excluded": [
+      "L14460",
+      "L14461"
+    ],
+    "included": [
+      "NC_001938.1",
+      "NC_001939.1"
+    ]
+  },
+  "name": "Tomato mottle virus",
+  "schema": [
+    {
+      "length": 2601,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2544,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10835
+}

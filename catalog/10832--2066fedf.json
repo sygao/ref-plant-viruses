@@ -1,0 +1,33 @@
+{
+  "_id": "2066fedf",
+  "accessions": {
+    "excluded": [
+      "AF271234",
+      "AJ489258",
+      "KM215610",
+      "AF311734",
+      "X61153",
+      "KF040453",
+      "AF189018"
+    ],
+    "included": [
+      "NC_003828.1",
+      "NC_004005.1",
+      "NC_004044.1",
+      "NC_004569.1",
+      "NC_008267.1",
+      "NC_022229.1",
+      "NC_025680.1"
+    ]
+  },
+  "name": "Tomato yellow leaf curl virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 10832
+}

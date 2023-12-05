@@ -1,0 +1,22 @@
+{
+  "_id": "4oqrzhs4",
+  "accessions": {
+    "excluded": [
+      "LC159494"
+    ],
+    "included": [
+      "LC159495.1",
+      "NC_030391.1"
+    ]
+  },
+  "name": "Wild onion symptomless virus",
+  "schema": [
+    {
+      "length": 9369,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1862127
+}

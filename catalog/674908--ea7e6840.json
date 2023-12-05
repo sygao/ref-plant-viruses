@@ -1,0 +1,22 @@
+{
+  "_id": "ea7e6840",
+  "accessions": {
+    "excluded": [
+      "GQ497731"
+    ],
+    "included": [
+      "GQ497733.1",
+      "NC_043150.1"
+    ]
+  },
+  "name": "Kalanchoe mosaic virus",
+  "schema": [
+    {
+      "length": 1142,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 674908
+}

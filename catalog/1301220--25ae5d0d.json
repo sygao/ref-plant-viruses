@@ -1,0 +1,21 @@
+{
+  "_id": "25ae5d0d",
+  "accessions": {
+    "excluded": [
+      "HF679486"
+    ],
+    "included": [
+      "NC_021564.1"
+    ]
+  },
+  "name": "Citrus vein enation virus",
+  "schema": [
+    {
+      "length": 5983,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1301220
+}

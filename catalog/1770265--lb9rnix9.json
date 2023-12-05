@@ -1,0 +1,22 @@
+{
+  "_id": "lb9rnix9",
+  "accessions": {
+    "excluded": [
+      "KU297983"
+    ],
+    "included": [
+      "KY985463.1",
+      "NC_029993.1"
+    ]
+  },
+  "name": "Alfalfa enamovirus 1",
+  "schema": [
+    {
+      "length": 5727,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1770265
+}

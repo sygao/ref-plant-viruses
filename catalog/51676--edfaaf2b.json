@@ -1,0 +1,29 @@
+{
+  "_id": "edfaaf2b",
+  "accessions": {
+    "excluded": [
+      "EU158096",
+      "EU158097"
+    ],
+    "included": [
+      "NC_010952.1",
+      "NC_010953.1"
+    ]
+  },
+  "name": "Macroptilium golden mosaic virus",
+  "schema": [
+    {
+      "length": 2605,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2553,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 51676
+}

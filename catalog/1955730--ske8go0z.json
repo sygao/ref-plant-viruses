@@ -1,0 +1,26 @@
+{
+  "_id": "ske8go0z",
+  "accessions": {
+    "excluded": [
+      "KY084481"
+    ],
+    "included": [
+      "MK361473.1",
+      "MK361474.1",
+      "MK361475.1",
+      "MK361476.1",
+      "MK361477.1",
+      "NC_033828.1"
+    ]
+  },
+  "name": "Peach virus D",
+  "schema": [
+    {
+      "length": 1621,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1955730
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "04810c9e",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB623143.1",
+      "DQ315388.1",
+      "FR851463.1",
+      "HQ452407.1",
+      "HQ454917.1",
+      "KC810006.1",
+      "KF418774.1",
+      "KF683199.1",
+      "KM588065.1"
+    ]
+  },
+  "name": "Potato spindle tuber viroid",
+  "schema": [
+    {
+      "length": 359,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12892
+}

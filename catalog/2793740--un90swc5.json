@@ -1,0 +1,26 @@
+{
+  "_id": "un90swc5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "BK014317.1",
+      "BK014318.1"
+    ]
+  },
+  "name": "Spinach virus 1",
+  "schema": [
+    {
+      "length": 6151,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 3750,
+      "molecule": "ssRNA-",
+      "name": "RNA N",
+      "required": true
+    }
+  ],
+  "taxid": 2793740
+}

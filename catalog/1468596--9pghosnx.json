@@ -1,0 +1,21 @@
+{
+  "_id": "9pghosnx",
+  "accessions": {
+    "excluded": [
+      "HG934822"
+    ],
+    "included": [
+      "NC_033271.1"
+    ]
+  },
+  "name": "Ageratum yellow vein Pakistan alphasatellite",
+  "schema": [
+    {
+      "length": 1370,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1468596
+}

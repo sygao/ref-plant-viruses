@@ -1,0 +1,21 @@
+{
+  "_id": "ktqyrrgq",
+  "accessions": {
+    "excluded": [
+      "AB308071"
+    ],
+    "included": [
+      "NC_009570.1"
+    ]
+  },
+  "name": "Tomato leaf curl Philippine betasatellite",
+  "schema": [
+    {
+      "length": 1349,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2173168
+}

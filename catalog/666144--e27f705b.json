@@ -1,0 +1,29 @@
+{
+  "_id": "e27f705b",
+  "accessions": {
+    "excluded": [
+      "JF694461",
+      "JF694462"
+    ],
+    "included": [
+      "NC_016572.1",
+      "NC_016578.1"
+    ]
+  },
+  "name": "Cleome leaf crumple virus",
+  "schema": [
+    {
+      "length": 2725,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2661,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 666144
+}

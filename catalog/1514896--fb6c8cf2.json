@@ -1,0 +1,21 @@
+{
+  "_id": "fb6c8cf2",
+  "accessions": {
+    "excluded": [
+      "KJ634409"
+    ],
+    "included": [
+      "NC_024455.1"
+    ]
+  },
+  "name": "Yerba mate endornavirus",
+  "schema": [
+    {
+      "length": 13954,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1514896
+}

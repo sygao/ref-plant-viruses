@@ -1,0 +1,21 @@
+{
+  "_id": "aef1dba1",
+  "accessions": {
+    "excluded": [
+      "KC677735"
+    ],
+    "included": [
+      "NC_023484.1"
+    ]
+  },
+  "name": "Sida yellow vein China alphasatellite",
+  "schema": [
+    {
+      "length": 1359,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1293961
+}

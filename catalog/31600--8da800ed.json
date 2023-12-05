@@ -1,0 +1,29 @@
+{
+  "_id": "8da800ed",
+  "accessions": {
+    "excluded": [
+      "Z24758",
+      "Z24759"
+    ],
+    "included": [
+      "NC_001932.1",
+      "NC_001933.1"
+    ]
+  },
+  "name": "Indian cassava mosaic virus",
+  "schema": [
+    {
+      "length": 2815,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2645,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 31600
+}

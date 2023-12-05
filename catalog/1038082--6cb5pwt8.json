@@ -1,0 +1,21 @@
+{
+  "_id": "6cb5pwt8",
+  "accessions": {
+    "excluded": [
+      "MF402918"
+    ],
+    "included": [
+      "NC_043531.1"
+    ]
+  },
+  "name": "Datura leaf curl virus",
+  "schema": [
+    {
+      "length": 2782,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1038082
+}

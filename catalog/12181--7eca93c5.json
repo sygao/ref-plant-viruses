@@ -1,0 +1,21 @@
+{
+  "_id": "7eca93c5",
+  "accessions": {
+    "excluded": [
+      "D13957"
+    ],
+    "included": [
+      "NC_001748.1"
+    ]
+  },
+  "name": "Papaya mosaic virus",
+  "schema": [
+    {
+      "length": 6656,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12181
+}

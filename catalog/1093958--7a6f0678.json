@@ -1,0 +1,16 @@
+{
+  "_id": "7a6f0678",
+  "accessions": {
+    "excluded": [
+      "JN411687",
+      "JN411688"
+    ],
+    "included": [
+      "NC_016082.1",
+      "NC_016083.1"
+    ]
+  },
+  "name": "Sida yellow mottle virus",
+  "schema": [],
+  "taxid": 1093958
+}

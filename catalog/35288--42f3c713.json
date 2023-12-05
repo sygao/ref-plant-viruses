@@ -1,0 +1,36 @@
+{
+  "_id": "42f3c713",
+  "accessions": {
+    "excluded": [
+      "X75433"
+    ],
+    "included": [
+      "AF007415.1",
+      "DQ787959.1",
+      "DQ855081.1",
+      "DQ855082.1",
+      "DQ855083.1",
+      "DQ855084.1",
+      "DQ855086.1",
+      "DQ855087.1",
+      "DQ855088.1",
+      "JX559641.1",
+      "KC962564.1",
+      "MZ440717.1",
+      "MZ440720.1",
+      "MZ440721.1",
+      "MZ440722.1",
+      "NC_003604.1"
+    ]
+  },
+  "name": "Grapevine virus A",
+  "schema": [
+    {
+      "length": 7355,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35288
+}

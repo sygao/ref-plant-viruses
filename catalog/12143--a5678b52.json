@@ -1,0 +1,21 @@
+{
+  "_id": "a5678b52",
+  "accessions": {
+    "excluded": [
+      "M25270"
+    ],
+    "included": [
+      "NC_001469.1"
+    ]
+  },
+  "name": "Cucumber necrosis virus",
+  "schema": [
+    {
+      "length": 4701,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12143
+}

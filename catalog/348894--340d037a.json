@@ -1,0 +1,21 @@
+{
+  "_id": "340d037a",
+  "accessions": {
+    "excluded": [
+      "AM087671"
+    ],
+    "included": [
+      "NC_038862.1"
+    ]
+  },
+  "name": "Artichoke yellow ringspot virus",
+  "schema": [
+    {
+      "length": 5873,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 348894
+}

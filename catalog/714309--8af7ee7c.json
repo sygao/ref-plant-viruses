@@ -1,0 +1,29 @@
+{
+  "_id": "8af7ee7c",
+  "accessions": {
+    "excluded": [
+      "FJ944021",
+      "FJ944022"
+    ],
+    "included": [
+      "NC_015490.1",
+      "NC_015491.1"
+    ]
+  },
+  "name": "Merremia mosaic Puerto Rico virus",
+  "schema": [
+    {
+      "length": 2640,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2585,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 714309
+}

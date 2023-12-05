@@ -1,0 +1,21 @@
+{
+  "_id": "9ff098f1",
+  "accessions": {
+    "excluded": [
+      "X97705"
+    ],
+    "included": [
+      "NC_003605.1"
+    ]
+  },
+  "name": "Lettuce mosaic virus",
+  "schema": [
+    {
+      "length": 10080,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12202
+}

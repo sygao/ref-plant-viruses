@@ -1,0 +1,33 @@
+{
+  "_id": "95121591",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "HM560702.1",
+      "HM560703.1",
+      "HM560704.1"
+    ]
+  },
+  "name": "Beet cryptic virus 2",
+  "schema": [
+    {
+      "length": 1598,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1575,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1522,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 912029
+}

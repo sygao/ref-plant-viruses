@@ -1,0 +1,30 @@
+{
+  "_id": "daa3c5af",
+  "accessions": {
+    "excluded": [
+      "KU659022"
+    ],
+    "included": [
+      "MT130379.1",
+      "MT130380.1",
+      "MT130381.1",
+      "MT130382.1",
+      "MT130383.1",
+      "MT130384.1",
+      "MT130385.1",
+      "MT130386.1",
+      "MT130387.1",
+      "NC_030229.1"
+    ]
+  },
+  "name": "Tropical soda apple mosaic virus",
+  "schema": [
+    {
+      "length": 6273,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 327387
+}

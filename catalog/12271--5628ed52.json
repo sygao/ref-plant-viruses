@@ -1,0 +1,37 @@
+{
+  "_id": "5628ed52",
+  "accessions": {
+    "excluded": [
+      "AY017339",
+      "AY303786"
+    ],
+    "included": [
+      "EU617326.1",
+      "EU617327.1",
+      "HQ834962.1",
+      "JQ975057.1",
+      "KC138732.1",
+      "KC138733.1",
+      "MH802016.1",
+      "MH802017.1",
+      "NC_006056.1",
+      "NC_006057.1"
+    ]
+  },
+  "name": "Arabis mosaic virus",
+  "schema": [
+    {
+      "length": 7332,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3813,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12271
+}

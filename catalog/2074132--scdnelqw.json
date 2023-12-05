@@ -1,0 +1,19 @@
+{
+  "_id": "scdnelqw",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG459012.1"
+    ]
+  },
+  "name": "Cherry virus Trakiya",
+  "schema": [
+    {
+      "length": 8620,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2074132
+}

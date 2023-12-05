@@ -1,0 +1,21 @@
+{
+  "_id": "7356db27",
+  "accessions": {
+    "excluded": [
+      "KJ739692"
+    ],
+    "included": [
+      "NC_024687.1"
+    ]
+  },
+  "name": "Rose leaf curl virus",
+  "schema": [
+    {
+      "length": 2741,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 875323
+}

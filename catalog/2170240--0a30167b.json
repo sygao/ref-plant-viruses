@@ -1,0 +1,22 @@
+{
+  "_id": "0a30167b",
+  "accessions": {
+    "excluded": [
+      "KF984546"
+    ],
+    "included": [
+      "KF984547.1",
+      "NC_024471.1"
+    ]
+  },
+  "name": "Yellow oat-grass mosaic virus",
+  "schema": [
+    {
+      "length": 9292,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170240
+}

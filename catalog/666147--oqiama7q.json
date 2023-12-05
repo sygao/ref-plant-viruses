@@ -1,0 +1,21 @@
+{
+  "_id": "oqiama7q",
+  "accessions": {
+    "excluded": [
+      "FN436008"
+    ],
+    "included": [
+      "NC_014630.1"
+    ]
+  },
+  "name": "Euphorbia yellow mosaic virus associated DNA 1",
+  "schema": [
+    {
+      "length": 1331,
+      "molecule": "ssDNA",
+      "name": "Associated DNA",
+      "required": true
+    }
+  ],
+  "taxid": 666147
+}

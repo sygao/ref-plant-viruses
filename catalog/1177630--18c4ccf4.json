@@ -1,0 +1,22 @@
+{
+  "_id": "18c4ccf4",
+  "accessions": {
+    "excluded": [
+      "JQ245696"
+    ],
+    "included": [
+      "KR185345.1",
+      "NC_017859.1"
+    ]
+  },
+  "name": "American hop latent virus",
+  "schema": [
+    {
+      "length": 8570,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1177630
+}

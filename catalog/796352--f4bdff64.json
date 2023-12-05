@@ -1,0 +1,21 @@
+{
+  "_id": "f4bdff64",
+  "accessions": {
+    "excluded": [
+      "GQ916624"
+    ],
+    "included": [
+      "NC_014252.1"
+    ]
+  },
+  "name": "Panax virus Y",
+  "schema": [
+    {
+      "length": 9750,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 796352
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "0c9f4a07",
+  "accessions": {
+    "excluded": [
+      "AY461421"
+    ],
+    "included": [
+      "KP115605.1",
+      "KP115606.1",
+      "KP715159.1",
+      "KU707475.2",
+      "NC_006550.1"
+    ]
+  },
+  "name": "Sweet potato chlorotic fleck virus",
+  "schema": [
+    {
+      "length": 9116,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 263004
+}

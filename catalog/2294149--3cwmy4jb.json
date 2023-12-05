@@ -1,0 +1,25 @@
+{
+  "_id": "3cwmy4jb",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH379332.1",
+      "MT271615.1",
+      "MT680930.1",
+      "MT680931.1",
+      "MT680932.1",
+      "MT680933.1",
+      "MT680934.1"
+    ]
+  },
+  "name": "Passiflora edulis symptomless virus",
+  "schema": [
+    {
+      "length": 9931,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2294149
+}

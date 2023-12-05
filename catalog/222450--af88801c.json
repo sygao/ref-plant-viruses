@@ -1,0 +1,21 @@
+{
+  "_id": "af88801c",
+  "accessions": {
+    "excluded": [
+      "AJ223191"
+    ],
+    "included": [
+      "NC_004618.1"
+    ]
+  },
+  "name": "Chayote yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2787,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 222450
+}

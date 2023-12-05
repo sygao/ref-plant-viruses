@@ -1,0 +1,29 @@
+{
+  "_id": "719e42dc",
+  "accessions": {
+    "excluded": [
+      "DQ875872",
+      "DQ875873"
+    ],
+    "included": [
+      "NC_008779.1",
+      "NC_008780.1"
+    ]
+  },
+  "name": "Sida yellow mosaic Yucatan virus",
+  "schema": [
+    {
+      "length": 2611,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2586,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 408719
+}

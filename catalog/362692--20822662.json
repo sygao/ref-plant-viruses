@@ -1,0 +1,21 @@
+{
+  "_id": "20822662",
+  "accessions": {
+    "excluded": [
+      "AB014344"
+    ],
+    "included": [
+      "NC_007649.1"
+    ]
+  },
+  "name": "Oryza rufipogon endornavirus",
+  "schema": [
+    {
+      "length": 13936,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 362692
+}

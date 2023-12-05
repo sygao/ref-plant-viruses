@@ -1,0 +1,23 @@
+{
+  "_id": "ab8b461f",
+  "accessions": {
+    "excluded": [
+      "AM940437"
+    ],
+    "included": [
+      "HM163159.1",
+      "MW197141.1",
+      "NC_011187.1"
+    ]
+  },
+  "name": "Sowbane mosaic virus",
+  "schema": [
+    {
+      "length": 3985,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 378833
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "c53d5e77",
+  "accessions": {
+    "excluded": [
+      "U03564"
+    ],
+    "included": [
+      "NC_003854.1"
+    ]
+  },
+  "name": "Pea enation mosaic virus satellite RNA",
+  "schema": [
+    {
+      "length": 717,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 193119
+}

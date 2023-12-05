@@ -1,0 +1,21 @@
+{
+  "_id": "r70vp3bk",
+  "accessions": {
+    "excluded": [
+      "KY649478"
+    ],
+    "included": [
+      "NC_034835.1"
+    ]
+  },
+  "name": "Longan witches broom-associated virus",
+  "schema": [
+    {
+      "length": 9428,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1993907
+}

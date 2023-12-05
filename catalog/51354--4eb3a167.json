@@ -1,0 +1,24 @@
+{
+  "_id": "4eb3a167",
+  "accessions": {
+    "excluded": [
+      "U67839"
+    ],
+    "included": [
+      "AY829112.1",
+      "MH713426.1",
+      "MN203201.1",
+      "NC_003626.1"
+    ]
+  },
+  "name": "Maize chlorotic dwarf virus",
+  "schema": [
+    {
+      "length": 11910,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 51354
+}

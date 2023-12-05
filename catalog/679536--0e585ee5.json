@@ -1,0 +1,21 @@
+{
+  "_id": "0e585ee5",
+  "accessions": {
+    "excluded": [
+      "FN554580"
+    ],
+    "included": [
+      "NC_013593.1"
+    ]
+  },
+  "name": "Cotton leaf curl Gezira alphasatellite",
+  "schema": [
+    {
+      "length": 1387,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 679536
+}

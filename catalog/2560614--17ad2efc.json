@@ -1,0 +1,24 @@
+{
+  "_id": "17ad2efc",
+  "accessions": {
+    "excluded": [
+      "KP638562"
+    ],
+    "included": [
+      "KT273409.1",
+      "KT273410.1",
+      "MF326520.1",
+      "NC_027211.1"
+    ]
+  },
+  "name": "Nectarine stem pitting-associated virus",
+  "schema": [
+    {
+      "length": 4991,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560614
+}

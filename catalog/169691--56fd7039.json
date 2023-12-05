@@ -1,0 +1,21 @@
+{
+  "_id": "56fd7039",
+  "accessions": {
+    "excluded": [
+      "AJ316033"
+    ],
+    "included": [
+      "NC_005049.1"
+    ]
+  },
+  "name": "Tobacco leaf curl disease associated sequence",
+  "schema": [
+    {
+      "length": 1356,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 169691
+}

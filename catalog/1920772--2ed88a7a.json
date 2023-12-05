@@ -1,0 +1,29 @@
+{
+  "_id": "2ed88a7a",
+  "accessions": {
+    "excluded": [
+      "AB976029",
+      "AB976030"
+    ],
+    "included": [
+      "NC_024501.1",
+      "NC_024502.1"
+    ]
+  },
+  "name": "Gentian ovary ring-spot virus",
+  "schema": [
+    {
+      "length": 5519,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3869,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1920772
+}

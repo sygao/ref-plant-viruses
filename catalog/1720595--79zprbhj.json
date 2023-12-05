@@ -1,0 +1,21 @@
+{
+  "_id": "79zprbhj",
+  "accessions": {
+    "excluded": [
+      "KT238881"
+    ],
+    "included": [
+      "NC_027915.1"
+    ]
+  },
+  "name": "Bellflower vein chlorosis virus",
+  "schema": [
+    {
+      "length": 11649,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1720595
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "7d4a513a",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "ADEPP.1",
+      "M84483.1",
+      "MN148891.1",
+      "MN148892.1",
+      "MN176101.1",
+      "MN176102.1"
+    ]
+  },
+  "name": "Andean potato mottle virus",
+  "schema": [
+    {
+      "length": 5299,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3465,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12259
+}

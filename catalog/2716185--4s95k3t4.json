@@ -1,0 +1,33 @@
+{
+  "_id": "4s95k3t4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN520757.1",
+      "MN520758.1",
+      "MN520759.1"
+    ]
+  },
+  "name": "Grapevine associated cogu-like virus 3",
+  "schema": [
+    {
+      "length": 7251,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2477,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1039,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2716185
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "f7ab41eb",
+  "accessions": {
+    "excluded": [
+      "AB206396"
+    ],
+    "included": [
+      "NC_007408.1"
+    ]
+  },
+  "name": "Alstroemeria virus x",
+  "schema": [
+    {
+      "length": 7009,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 316983
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "4ydohve6",
+  "accessions": {
+    "excluded": [
+      "FR772086"
+    ],
+    "included": [
+      "NC_039084.1"
+    ]
+  },
+  "name": "Hollyhock yellow vein virus associated symptomless alphasatellite",
+  "schema": [
+    {
+      "length": 1360,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 944996
+}

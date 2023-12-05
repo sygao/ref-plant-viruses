@@ -1,0 +1,21 @@
+{
+  "_id": "42875e89",
+  "accessions": {
+    "excluded": [
+      "HQ396465"
+    ],
+    "included": [
+      "NC_015397.1"
+    ]
+  },
+  "name": "Cleome golden mosaic virus",
+  "schema": [
+    {
+      "length": 2566,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 858517
+}

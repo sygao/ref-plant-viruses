@@ -1,0 +1,19 @@
+{
+  "_id": "d4266aef",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY861351.1"
+    ]
+  },
+  "name": "Tradescantia mild mosaic virus",
+  "schema": [
+    {
+      "length": 1514,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 307997
+}

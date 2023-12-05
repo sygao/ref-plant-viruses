@@ -1,0 +1,21 @@
+{
+  "_id": "5b75f871",
+  "accessions": {
+    "excluded": [
+      "AY836366"
+    ],
+    "included": [
+      "NC_006956.1"
+    ]
+  },
+  "name": "Begomovirus-associated DNA-II",
+  "schema": [
+    {
+      "length": 1032,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 302069
+}

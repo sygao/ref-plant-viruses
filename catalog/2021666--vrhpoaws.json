@@ -1,0 +1,29 @@
+{
+  "_id": "vrhpoaws",
+  "accessions": {
+    "excluded": [
+      "KY196219",
+      "KY196220"
+    ],
+    "included": [
+      "NC_035487.1",
+      "NC_035488.1"
+    ]
+  },
+  "name": "Macroptilium golden yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2631,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2593,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2021666
+}

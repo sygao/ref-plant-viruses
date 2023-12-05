@@ -1,0 +1,21 @@
+{
+  "_id": "32118501",
+  "accessions": {
+    "excluded": [
+      "JQ948088"
+    ],
+    "included": [
+      "NC_018579.1"
+    ]
+  },
+  "name": "Digitaria ciliaris striate mosaic virus",
+  "schema": [
+    {
+      "length": 2816,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1196237
+}

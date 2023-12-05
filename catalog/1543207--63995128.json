@@ -1,0 +1,21 @@
+{
+  "_id": "63995128",
+  "accessions": {
+    "excluded": [
+      "KJ748003"
+    ],
+    "included": [
+      "NC_024906.1"
+    ]
+  },
+  "name": "Rose leaf rosette-associated virus",
+  "schema": [
+    {
+      "length": 17656,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1543207
+}

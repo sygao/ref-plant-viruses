@@ -1,0 +1,14 @@
+{
+  "_id": "4f64869b",
+  "accessions": {
+    "excluded": [
+      "FJ768020"
+    ],
+    "included": [
+      "NC_020469.1"
+    ]
+  },
+  "name": "Furcraea necrotic streak virus",
+  "schema": [],
+  "taxid": 676234
+}

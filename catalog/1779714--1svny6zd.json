@@ -1,0 +1,29 @@
+{
+  "_id": "1svny6zd",
+  "accessions": {
+    "excluded": [
+      "KT582302",
+      "KT582303"
+    ],
+    "included": [
+      "NC_038978.1",
+      "NC_040187.1"
+    ]
+  },
+  "name": "Lycianthes yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2752,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2704,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1779714
+}

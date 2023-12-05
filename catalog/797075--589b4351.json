@@ -1,0 +1,21 @@
+{
+  "_id": "589b4351",
+  "accessions": {
+    "excluded": [
+      "JQ395043"
+    ],
+    "included": [
+      "NC_028111.1"
+    ]
+  },
+  "name": "Nerine latent virus",
+  "schema": [
+    {
+      "length": 8334,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 797075
+}

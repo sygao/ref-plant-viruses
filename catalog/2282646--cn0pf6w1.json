@@ -1,0 +1,21 @@
+{
+  "_id": "cn0pf6w1",
+  "accessions": {
+    "excluded": [
+      "MH425570"
+    ],
+    "included": [
+      "NC_040581.1"
+    ]
+  },
+  "name": "Stipagrostis associaed virus",
+  "schema": [
+    {
+      "length": 2296,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2282646
+}

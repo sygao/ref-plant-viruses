@@ -1,0 +1,21 @@
+{
+  "_id": "bjl0ahib",
+  "accessions": {
+    "excluded": [
+      "AB162142"
+    ],
+    "included": [
+      "NC_005497.1"
+    ]
+  },
+  "name": "Tomato leaf curl Java virus-[Ageratum] satellite DNA",
+  "schema": [
+    {
+      "length": 1360,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

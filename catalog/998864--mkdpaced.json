@@ -1,0 +1,21 @@
+{
+  "_id": "mkdpaced",
+  "accessions": {
+    "excluded": [
+      "KP205452"
+    ],
+    "included": [
+      "NC_028237.1"
+    ]
+  },
+  "name": "Alfalfa dwarf virus",
+  "schema": [
+    {
+      "length": 14494,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 998864
+}

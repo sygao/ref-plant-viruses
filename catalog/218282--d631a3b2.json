@@ -1,0 +1,19 @@
+{
+  "_id": "d631a3b2",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB099711.1"
+    ]
+  },
+  "name": "Chinese artichoke mosaic virus",
+  "schema": [
+    {
+      "length": 1675,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 218282
+}

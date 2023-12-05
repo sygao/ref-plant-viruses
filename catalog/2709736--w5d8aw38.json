@@ -1,0 +1,19 @@
+{
+  "_id": "w5d8aw38",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN386967.1"
+    ]
+  },
+  "name": "Apple picorna-like virus 1",
+  "schema": [
+    {
+      "length": 11885,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2709736
+}

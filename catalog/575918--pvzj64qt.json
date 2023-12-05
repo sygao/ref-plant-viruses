@@ -1,0 +1,21 @@
+{
+  "_id": "pvzj64qt",
+  "accessions": {
+    "excluded": [
+      "EU862324"
+    ],
+    "included": [
+      "NC_012493.1"
+    ]
+  },
+  "name": "Tomato leaf curl Patna betasatellite",
+  "schema": [
+    {
+      "length": 1349,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 575918
+}

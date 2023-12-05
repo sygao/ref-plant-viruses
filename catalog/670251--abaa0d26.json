@@ -1,0 +1,21 @@
+{
+  "_id": "abaa0d26",
+  "accessions": {
+    "excluded": [
+      "GQ421324"
+    ],
+    "included": [
+      "NC_013424.1"
+    ]
+  },
+  "name": "Leucas zeylanica yellow vein virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1363,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 670251
+}

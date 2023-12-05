@@ -1,0 +1,21 @@
+{
+  "_id": "394e88fc",
+  "accessions": {
+    "excluded": [
+      "KR872420"
+    ],
+    "included": [
+      "NC_028649.1"
+    ]
+  },
+  "name": "Actinidia virus X",
+  "schema": [
+    {
+      "length": 6888,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1331744
+}

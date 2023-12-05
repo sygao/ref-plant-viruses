@@ -1,0 +1,21 @@
+{
+  "_id": "33de8c1c",
+  "accessions": {
+    "excluded": [
+      "AF241479"
+    ],
+    "included": [
+      "NC_003418.1"
+    ]
+  },
+  "name": "Bhendi yellow vein mosaic virus",
+  "schema": [
+    {
+      "length": 2741,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 120168
+}

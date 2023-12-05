@@ -1,0 +1,29 @@
+{
+  "_id": "f3fa0af6",
+  "accessions": {
+    "excluded": [
+      "JX971980",
+      "JX971981"
+    ],
+    "included": [
+      "NC_021098.1",
+      "NC_021099.1"
+    ]
+  },
+  "name": "Hop trefoil cryptic virus 2",
+  "schema": [
+    {
+      "length": 2431,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2349,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1323523
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "nm1q0wfr",
+  "accessions": {
+    "excluded": [
+      "AF416471"
+    ],
+    "included": [
+      "NC_038953.1"
+    ]
+  },
+  "name": "Banana bunchy top alphasatellite 2",
+  "schema": [
+    {
+      "length": 1100,
+      "molecule": "ssDNA",
+      "name": "DNA 1",
+      "required": true
+    }
+  ],
+  "taxid": 2169722
+}

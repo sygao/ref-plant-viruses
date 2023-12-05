@@ -1,0 +1,21 @@
+{
+  "_id": "xdhj3w4d",
+  "accessions": {
+    "excluded": [
+      "KU852742"
+    ],
+    "included": [
+      "NC_030748.1"
+    ]
+  },
+  "name": "Senna leaf curl virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1884991
+}

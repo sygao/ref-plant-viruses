@@ -1,0 +1,25 @@
+{
+  "_id": "fe634ddd",
+  "accessions": {
+    "excluded": [
+      "KF700263"
+    ],
+    "included": [
+      "KF700262.1",
+      "MW331539.1",
+      "MW331540.1",
+      "MW331541.1",
+      "NC_024686.1"
+    ]
+  },
+  "name": "Prunus virus T",
+  "schema": [
+    {
+      "length": 7154,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1472425
+}

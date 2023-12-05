@@ -1,0 +1,21 @@
+{
+  "_id": "427a3f0d",
+  "accessions": {
+    "excluded": [
+      "KC218926"
+    ],
+    "included": [
+      "NC_020996.1"
+    ]
+  },
+  "name": "Cherry rusty mottle associated virus",
+  "schema": [
+    {
+      "length": 8397,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1312929
+}

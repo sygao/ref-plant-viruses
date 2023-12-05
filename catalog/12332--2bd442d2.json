@@ -1,0 +1,45 @@
+{
+  "_id": "2bd442d2",
+  "accessions": {
+    "excluded": [
+      "MG566074",
+      "MG566075",
+      "MG566076",
+      "MG566077"
+    ],
+    "included": [
+      "NC_036597.1",
+      "NC_036598.1",
+      "NC_036599.1",
+      "NC_036602.1"
+    ]
+  },
+  "name": "Rice hoja blanca virus",
+  "schema": [
+    {
+      "length": 8999,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3620,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2299,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1998,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 12332
+}

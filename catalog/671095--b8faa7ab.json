@@ -1,0 +1,21 @@
+{
+  "_id": "b8faa7ab",
+  "accessions": {
+    "excluded": [
+      "FN543112"
+    ],
+    "included": [
+      "NC_014473.1"
+    ]
+  },
+  "name": "Croton yellow vein virus",
+  "schema": [
+    {
+      "length": 2744,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 671095
+}

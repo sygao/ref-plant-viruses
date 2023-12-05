@@ -1,0 +1,21 @@
+{
+  "_id": "6599e139",
+  "accessions": {
+    "excluded": [
+      "HE588185"
+    ],
+    "included": [
+      "NC_016436.1"
+    ]
+  },
+  "name": "Grapevine leafroll-associated virus 7",
+  "schema": [
+    {
+      "length": 16404,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 217615
+}

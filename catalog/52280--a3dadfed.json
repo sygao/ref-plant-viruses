@@ -1,0 +1,21 @@
+{
+  "_id": "a3dadfed",
+  "accessions": {
+    "excluded": [
+      "AJ237843"
+    ],
+    "included": [
+      "NC_005778.1"
+    ]
+  },
+  "name": "Chilli veinal mottle virus",
+  "schema": [
+    {
+      "length": 9711,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 52280
+}

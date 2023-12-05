@@ -1,0 +1,21 @@
+{
+  "_id": "da94ab07",
+  "accessions": {
+    "excluded": [
+      "AM182028"
+    ],
+    "included": [
+      "NC_008824.1"
+    ]
+  },
+  "name": "Narcissus degeneration virus",
+  "schema": [
+    {
+      "length": 9816,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 394036
+}

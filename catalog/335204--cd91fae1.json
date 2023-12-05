@@ -1,0 +1,18 @@
+{
+  "_id": "cd91fae1",
+  "accessions": {
+    "excluded": [
+      "DQ355439",
+      "DQ355440",
+      "DQ093961"
+    ],
+    "included": [
+      "NC_009519.1",
+      "NC_009520.1",
+      "NC_009521.1"
+    ]
+  },
+  "name": "Fragaria chiloensis cryptic virus",
+  "schema": [],
+  "taxid": 335204
+}

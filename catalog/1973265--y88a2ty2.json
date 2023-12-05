@@ -1,0 +1,21 @@
+{
+  "_id": "y88a2ty2",
+  "accessions": {
+    "excluded": [
+      "KX168422"
+    ],
+    "included": [
+      "NC_034252.1"
+    ]
+  },
+  "name": "Wisteria badnavirus 1",
+  "schema": [
+    {
+      "length": 7326,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1973265
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "0d400637",
+  "accessions": {
+    "excluded": [
+      "L28145",
+      "AF277662",
+      "U57648"
+    ],
+    "included": [
+      "MZ220866.1",
+      "MZ220869.1",
+      "MZ220873.1",
+      "MZ220877.1",
+      "MZ220882.1",
+      "MZ220975.1",
+      "MZ220978.1",
+      "MZ220982.1",
+      "MZ220986.1",
+      "MZ220989.1",
+      "MZ220995.1",
+      "MZ220999.1",
+      "MZ221003.1",
+      "MZ221007.1",
+      "MZ221012.1",
+      "NC_008037.1",
+      "NC_008038.1",
+      "NC_008039.1"
+    ]
+  },
+  "name": "Prune dwarf virus",
+  "schema": [
+    {
+      "length": 3092,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2566,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2113,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 33760
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "j5udjga7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF167297.1",
+      "MF167298.1",
+      "MF167299.1",
+      "MF167300.1",
+      "MF167301.1",
+      "MF167302.1",
+      "MF167303.1",
+      "MF167304.1",
+      "MF167305.1",
+      "MF167306.1",
+      "MF167307.1"
+    ]
+  },
+  "name": "Maize striate mosaic virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2025388
+}

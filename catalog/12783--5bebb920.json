@@ -1,0 +1,26 @@
+{
+  "_id": "5bebb920",
+  "accessions": {
+    "excluded": [
+      "D12823"
+    ],
+    "included": [
+      "DQ198084.1",
+      "EF530212.1",
+      "FJ974085.1",
+      "GU825974.1",
+      "HM233933.1",
+      "NC_001830.1"
+    ]
+  },
+  "name": "Pear blister canker viroid",
+  "schema": [
+    {
+      "length": 314,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12783
+}

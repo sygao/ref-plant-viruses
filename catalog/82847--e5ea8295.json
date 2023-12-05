@@ -1,0 +1,19 @@
+{
+  "_id": "e5ea8295",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB017630.1"
+    ]
+  },
+  "name": "Carnation vein mottle virus",
+  "schema": [
+    {
+      "length": 2326,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 82847
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "4wwlxvnq",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT409627.1"
+    ]
+  },
+  "name": "Yam asymptomatic virus 1",
+  "schema": [
+    {
+      "length": 14855,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2771210
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "z8z93sth",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT075773.1",
+      "MT075774.1"
+    ]
+  },
+  "name": "Grapevine begomovirus A",
+  "schema": [
+    {
+      "length": 2680,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2645,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2793638
+}

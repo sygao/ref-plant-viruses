@@ -1,0 +1,21 @@
+{
+  "_id": "0c5124e6",
+  "accessions": {
+    "excluded": [
+      "U59751"
+    ],
+    "included": [
+      "NC_001648.1"
+    ]
+  },
+  "name": "Cassava vein mosaic virus",
+  "schema": [
+    {
+      "length": 8159,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 38062
+}

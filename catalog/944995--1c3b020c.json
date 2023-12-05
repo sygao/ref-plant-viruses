@@ -1,0 +1,21 @@
+{
+  "_id": "1c3b020c",
+  "accessions": {
+    "excluded": [
+      "HG518788"
+    ],
+    "included": [
+      "NC_024710.1"
+    ]
+  },
+  "name": "Ageratum conyzoides associated symptomless alphasatellite",
+  "schema": [
+    {
+      "length": 1437,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 944995
+}

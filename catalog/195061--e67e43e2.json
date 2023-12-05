@@ -1,0 +1,21 @@
+{
+  "_id": "e67e43e2",
+  "accessions": {
+    "excluded": [
+      "J02386"
+    ],
+    "included": [
+      "NC_003850.1"
+    ]
+  },
+  "name": "Solanum nodiflorum mottle virus satellite RNA",
+  "schema": [
+    {
+      "length": 377,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 195061
+}

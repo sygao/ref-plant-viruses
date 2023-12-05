@@ -1,0 +1,21 @@
+{
+  "_id": "ec0d2ca9",
+  "accessions": {
+    "excluded": [
+      "U49907"
+    ],
+    "included": [
+      "NC_002543.1"
+    ]
+  },
+  "name": "Horseradish curly top virus",
+  "schema": [
+    {
+      "length": 3080,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 46448
+}

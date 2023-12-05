@@ -1,0 +1,21 @@
+{
+  "_id": "7d5e1139",
+  "accessions": {
+    "excluded": [
+      "DQ871221"
+    ],
+    "included": [
+      "NC_009553.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Thailand virus",
+  "schema": [
+    {
+      "length": 2752,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 409287
+}

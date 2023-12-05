@@ -1,0 +1,19 @@
+{
+  "_id": "z1u7pfu3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG432107.1"
+    ]
+  },
+  "name": "Chrysanthemum virus R",
+  "schema": [
+    {
+      "length": 8890,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2116736
+}

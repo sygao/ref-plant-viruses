@@ -1,0 +1,21 @@
+{
+  "_id": "8b353c56",
+  "accessions": {
+    "excluded": [
+      "AF447788"
+    ],
+    "included": [
+      "NC_003264.1"
+    ]
+  },
+  "name": "Citrus dwarfing viroid",
+  "schema": [
+    {
+      "length": 292,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 551523
+}

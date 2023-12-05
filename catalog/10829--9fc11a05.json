@@ -1,0 +1,29 @@
+{
+  "_id": "9fc11a05",
+  "accessions": {
+    "excluded": [
+      "M38182",
+      "M38183"
+    ],
+    "included": [
+      "NC_001936.1",
+      "NC_001937.1"
+    ]
+  },
+  "name": "Squash leaf curl virus",
+  "schema": [
+    {
+      "length": 2634,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2607,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10829
+}

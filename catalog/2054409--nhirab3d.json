@@ -1,0 +1,20 @@
+{
+  "_id": "nhirab3d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF120198.1",
+      "MF580384.1"
+    ]
+  },
+  "name": "Apple associated luteovirus",
+  "schema": [
+    {
+      "length": 5945,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2054409
+}

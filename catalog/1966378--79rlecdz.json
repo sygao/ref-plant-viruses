@@ -1,0 +1,47 @@
+{
+  "_id": "79rlecdz",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY056657.1",
+      "KY056658.1",
+      "KY056659.1",
+      "KY056660.1",
+      "KY056661.1"
+    ]
+  },
+  "name": "Blackberry leaf mottle associated virus",
+  "schema": [
+    {
+      "length": 7050,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2271,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1510,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1364,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 1966378
+}

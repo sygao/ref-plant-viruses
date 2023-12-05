@@ -1,0 +1,19 @@
+{
+  "_id": "n5fstcxc",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK050793.1"
+    ]
+  },
+  "name": "Camellia ringspot associated virus 2",
+  "schema": [
+    {
+      "length": 7808,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2606570
+}

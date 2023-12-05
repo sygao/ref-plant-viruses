@@ -1,0 +1,45 @@
+{
+  "_id": "b146523c",
+  "accessions": {
+    "excluded": [
+      "AY535016",
+      "AY535017",
+      "AY535018",
+      "AY535019"
+    ],
+    "included": [
+      "NC_006051.1",
+      "NC_006052.1",
+      "NC_006053.1",
+      "NC_006054.1"
+    ]
+  },
+  "name": "Lettuce ring necrosis virus",
+  "schema": [
+    {
+      "length": 7651,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1830,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1527,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1417,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 274495
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "cb66f1e7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK377386.1",
+      "MK377387.1",
+      "MK377388.1"
+    ]
+  },
+  "name": "Poa semilatent virus",
+  "schema": [
+    {
+      "length": 3873,
+      "molecule": "ssRNA+",
+      "name": "RNA alpha",
+      "required": true
+    },
+    {
+      "length": 3608,
+      "molecule": "ssRNA+",
+      "name": "RNA beta",
+      "required": true
+    },
+    {
+      "length": 3169,
+      "molecule": "ssRNA+",
+      "name": "RNA gamma",
+      "required": true
+    }
+  ],
+  "taxid": 12328
+}

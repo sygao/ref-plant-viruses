@@ -1,0 +1,21 @@
+{
+  "_id": "dd9a7616",
+  "accessions": {
+    "excluded": [
+      "EF190215"
+    ],
+    "included": [
+      "NC_010235.1"
+    ]
+  },
+  "name": "Pepper leaf curl virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1361,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 436242
+}

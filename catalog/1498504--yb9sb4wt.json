@@ -1,0 +1,21 @@
+{
+  "_id": "yb9sb4wt",
+  "accessions": {
+    "excluded": [
+      "KF260965"
+    ],
+    "included": [
+      "NC_024116.1"
+    ]
+  },
+  "name": "Tomato leaf curl Barka virus",
+  "schema": [
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1498504
+}

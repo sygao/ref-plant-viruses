@@ -1,0 +1,93 @@
+{
+  "_id": "53392166",
+  "accessions": {
+    "excluded": [
+      "EU523359",
+      "EU523360",
+      "FN563989",
+      "FN563990",
+      "FN563991",
+      "FN563992",
+      "FN563993",
+      "FN563994",
+      "FN563995",
+      "FN563996"
+    ],
+    "included": [
+      "NC_014708.1",
+      "NC_014709.1",
+      "NC_014710.1",
+      "NC_014711.1",
+      "NC_014712.1",
+      "NC_014713.1",
+      "NC_014714.1",
+      "NC_014715.1",
+      "NC_014716.1",
+      "NC_014717.1"
+    ]
+  },
+  "name": "Southern rice black-streaked dwarf virus",
+  "schema": [
+    {
+      "length": 4500,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3815,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3618,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3571,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 3167,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 2651,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 2176,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1928,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1900,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1798,
+      "molecule": "ssDNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 519497
+}

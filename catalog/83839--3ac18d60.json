@@ -1,0 +1,23 @@
+{
+  "_id": "3ac18d60",
+  "accessions": {
+    "excluded": [
+      "AF134484"
+    ],
+    "included": [
+      "EF190217.1",
+      "JN663870.1",
+      "NC_000882.1"
+    ]
+  },
+  "name": "Pepper leaf curl virus",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 83839
+}

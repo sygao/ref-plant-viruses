@@ -1,0 +1,21 @@
+{
+  "_id": "8e31a7d4",
+  "accessions": {
+    "excluded": [
+      "U13988"
+    ],
+    "included": [
+      "NC_001634.1"
+    ]
+  },
+  "name": "Peanut chlorotic streak virus",
+  "schema": [
+    {
+      "length": 8174,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35593
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "7c4b9c5a",
+  "accessions": {
+    "excluded": [
+      "JN190431"
+    ],
+    "included": [
+      "NC_016441.1"
+    ]
+  },
+  "name": "Yam bean mosaic virus",
+  "schema": [
+    {
+      "length": 9649,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 418827
+}

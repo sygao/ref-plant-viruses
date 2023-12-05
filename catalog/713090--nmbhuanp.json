@@ -1,0 +1,21 @@
+{
+  "_id": "nmbhuanp",
+  "accessions": {
+    "excluded": [
+      "FN658716"
+    ],
+    "included": [
+      "NC_039083.1"
+    ]
+  },
+  "name": "Bendhi Yellow Vein Mosaic/Mesta Yellow Vein Mosaic alphasatellite",
+  "schema": [
+    {
+      "length": 1377,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 713090
+}

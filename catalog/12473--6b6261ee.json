@@ -1,0 +1,21 @@
+{
+  "_id": "6b6261ee",
+  "accessions": {
+    "excluded": [
+      "HM754263"
+    ],
+    "included": [
+      "NC_014509.1"
+    ]
+  },
+  "name": "Velvet tobacco mottle virus",
+  "schema": [
+    {
+      "length": 4247,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12473
+}

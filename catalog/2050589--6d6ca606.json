@@ -1,0 +1,21 @@
+{
+  "_id": "6d6ca606",
+  "accessions": {
+    "excluded": [
+      "JF733779"
+    ],
+    "included": [
+      "NC_015928.1"
+    ]
+  },
+  "name": "Vernonia yellow vein Fujian virus betasatellite",
+  "schema": [
+    {
+      "length": 1377,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2050589
+}

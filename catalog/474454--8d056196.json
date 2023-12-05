@@ -1,0 +1,22 @@
+{
+  "_id": "8d056196",
+  "accessions": {
+    "excluded": [
+      "EU024678"
+    ],
+    "included": [
+      "MT939513.1",
+      "NC_010806.1"
+    ]
+  },
+  "name": "Rose spring dwarf-associated virus",
+  "schema": [
+    {
+      "length": 5812,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 474454
+}

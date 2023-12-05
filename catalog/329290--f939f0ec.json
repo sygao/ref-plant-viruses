@@ -1,0 +1,21 @@
+{
+  "_id": "f939f0ec",
+  "accessions": {
+    "excluded": [
+      "AJ971263"
+    ],
+    "included": [
+      "NC_007724.1"
+    ]
+  },
+  "name": "Malvastrum leaf curl virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 329290
+}

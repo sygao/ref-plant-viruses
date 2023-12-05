@@ -1,0 +1,21 @@
+{
+  "_id": "18f47eba",
+  "accessions": {
+    "excluded": [
+      "HM122238"
+    ],
+    "included": [
+      "NC_014547.1"
+    ]
+  },
+  "name": "Digitaria didactyla striate mosaic virus",
+  "schema": [
+    {
+      "length": 2762,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 889510
+}

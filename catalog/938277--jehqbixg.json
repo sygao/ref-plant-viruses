@@ -1,0 +1,21 @@
+{
+  "_id": "jehqbixg",
+  "accessions": {
+    "excluded": [
+      "GQ994096"
+    ],
+    "included": [
+      "NC_055541.1"
+    ]
+  },
+  "name": "Tomato leaf curl Ranchi betasatellite",
+  "schema": [
+    {
+      "length": 1353,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 938277
+}

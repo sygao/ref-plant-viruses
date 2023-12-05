@@ -1,0 +1,26 @@
+{
+  "_id": "3ee2a908",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB033689.1",
+      "AB033690.1"
+    ]
+  },
+  "name": "Japanese soil-borne wheat mosaic virus",
+  "schema": [
+    {
+      "length": 7226,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3574,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2030954
+}

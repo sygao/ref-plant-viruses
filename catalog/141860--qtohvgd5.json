@@ -1,0 +1,35 @@
+{
+  "_id": "qtohvgd5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KC161999.1",
+      "KC162000.1",
+      "KX034950.1",
+      "KX034951.1",
+      "KX034952.1",
+      "KX034953.1",
+      "KX034956.1",
+      "KX034957.1",
+      "KX034959.1",
+      "KX034963.1",
+      "KX034964.1",
+      "KX034971.1",
+      "KX034974.1",
+      "KX034975.1",
+      "KX034978.1",
+      "KX034979.1",
+      "KX034980.1"
+    ]
+  },
+  "name": "Grapevine fanleaf virus satellite RNA",
+  "schema": [
+    {
+      "length": 1113,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 141860
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "jq4n3zf2",
+  "accessions": {
+    "excluded": [
+      "AJ542491"
+    ],
+    "included": [
+      "NC_038925.1"
+    ]
+  },
+  "name": "Tomato leaf curl Laos betasatellite",
+  "schema": [
+    {
+      "length": 1348,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2010333
+}

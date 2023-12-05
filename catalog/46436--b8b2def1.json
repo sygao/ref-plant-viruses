@@ -1,0 +1,37 @@
+{
+  "_id": "b8b2def1",
+  "accessions": {
+    "excluded": [
+      "U64512",
+      "Z66493",
+      "Z97873"
+    ],
+    "included": [
+      "NC_003518.1",
+      "NC_003519.1",
+      "NC_003520.1"
+    ]
+  },
+  "name": "Beet soil-borne virus",
+  "schema": [
+    {
+      "length": 5834,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3454,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3005,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 46436
+}

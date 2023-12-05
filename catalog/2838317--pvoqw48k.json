@@ -1,0 +1,36 @@
+{
+  "_id": "pvoqw48k",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW698817.1",
+      "MW698818.1",
+      "MW698819.1",
+      "MW768722.1",
+      "MW768723.1",
+      "MW768724.1",
+      "MW768725.1",
+      "MW768726.1",
+      "MW768727.1",
+      "MW768728.1",
+      "MW768729.1",
+      "MW768730.1",
+      "MW768731.1",
+      "MW768732.1",
+      "MW768733.1",
+      "MW768734.1",
+      "MW768735.1",
+      "MW768736.1"
+    ]
+  },
+  "name": "Trifolium virus 1",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2838317
+}

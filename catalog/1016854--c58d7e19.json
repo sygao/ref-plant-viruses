@@ -1,0 +1,21 @@
+{
+  "_id": "c58d7e19",
+  "accessions": {
+    "excluded": [
+      "HQ593107"
+    ],
+    "included": [
+      "NC_015502.1"
+    ]
+  },
+  "name": "Banana streak UA virus",
+  "schema": [
+    {
+      "length": 7519,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1016854
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "ad0ac2f3",
+  "accessions": {
+    "excluded": [
+      "U72332"
+    ],
+    "included": [
+      "NC_001780.1"
+    ]
+  },
+  "name": "Saguaro cactus virus",
+  "schema": [
+    {
+      "length": 3879,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 52274
+}

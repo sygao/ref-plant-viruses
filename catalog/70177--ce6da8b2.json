@@ -1,0 +1,31 @@
+{
+  "_id": "ce6da8b2",
+  "accessions": {
+    "excluded": [
+      "FJ467503",
+      "FJ467504",
+      "FR822696"
+    ],
+    "included": [
+      "AY297819.1",
+      "FJ907331.1",
+      "JX559639.1",
+      "KJ810572.2",
+      "KP313764.1",
+      "KX828702.1",
+      "NC_016081.1",
+      "NC_016416.1",
+      "NC_016417.1"
+    ]
+  },
+  "name": "Grapevine leafroll-associated virus 4",
+  "schema": [
+    {
+      "length": 13509,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 70177
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "f78zewyq",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK936045.1"
+    ]
+  },
+  "name": "Loquate virus A",
+  "schema": [
+    {
+      "length": 7553,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2683823
+}

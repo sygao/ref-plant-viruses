@@ -1,0 +1,28 @@
+{
+  "_id": "cb5d4fd4",
+  "accessions": {
+    "excluded": [
+      "EU835937"
+    ],
+    "included": [
+      "EU835937.1",
+      "JF297562.1",
+      "JQ316469.1",
+      "MH069211.1",
+      "MH680825.1",
+      "MZ202326.1",
+      "MZ405665.1",
+      "NC_011062.1"
+    ]
+  },
+  "name": "Potato virus T",
+  "schema": [
+    {
+      "length": 6513,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 36403
+}

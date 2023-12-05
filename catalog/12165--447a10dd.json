@@ -1,0 +1,21 @@
+{
+  "_id": "447a10dd",
+  "accessions": {
+    "excluded": [
+      "AM493895"
+    ],
+    "included": [
+      "NC_009087.1"
+    ]
+  },
+  "name": "Chrysanthemum virus B",
+  "schema": [
+    {
+      "length": 8855,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12165
+}

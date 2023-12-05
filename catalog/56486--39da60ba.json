@@ -1,0 +1,37 @@
+{
+  "_id": "39da60ba",
+  "accessions": {
+    "excluded": [
+      "U85399",
+      "U34050",
+      "U57047"
+    ],
+    "included": [
+      "NC_003568.1",
+      "NC_003569.1",
+      "NC_003570.1"
+    ]
+  },
+  "name": "Elm mottle virus",
+  "schema": [
+    {
+      "length": 3431,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2874,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2315,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 56486
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "gux1di4e",
+  "accessions": {
+    "excluded": [
+      "KX960111",
+      "KX960112"
+    ],
+    "included": [
+      "MH038042.1",
+      "MH038043.1",
+      "MH137740.1",
+      "MH137741.1",
+      "NC_035454.1",
+      "NC_035759.1"
+    ]
+  },
+  "name": "Citrus concave gum-associated virus",
+  "schema": [
+    {
+      "length": 6676,
+      "molecule": "ssRNA-",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 2703,
+      "molecule": "ssRNA-",
+      "name": "RNA2",
+      "required": true
+    }
+  ],
+  "taxid": 2024604
+}

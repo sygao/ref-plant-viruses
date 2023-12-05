@@ -1,0 +1,21 @@
+{
+  "_id": "014e5522",
+  "accessions": {
+    "excluded": [
+      "AJ316032"
+    ],
+    "included": [
+      "NC_005048.1"
+    ]
+  },
+  "name": "Chilli leaf curl betasatellite virus",
+  "schema": [
+    {
+      "length": 1387,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2010286
+}

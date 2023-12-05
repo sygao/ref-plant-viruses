@@ -1,0 +1,22 @@
+{
+  "_id": "600cf7e0",
+  "accessions": {
+    "excluded": [
+      "AF162131"
+    ],
+    "included": [
+      "JQ974378.1",
+      "NC_000885.1"
+    ]
+  },
+  "name": "Tomato chlorotic dwarf viroid",
+  "schema": [
+    {
+      "length": 372,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 100785
+}

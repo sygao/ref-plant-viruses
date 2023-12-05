@@ -1,0 +1,40 @@
+{
+  "_id": "a5af030e",
+  "accessions": {
+    "excluded": [
+      "U15608",
+      "AF174584",
+      "AF174585"
+    ],
+    "included": [
+      "KY883318.1",
+      "KY883319.1",
+      "KY883320.1",
+      "NC_003464.1",
+      "NC_003465.1",
+      "NC_003480.1"
+    ]
+  },
+  "name": "Apple mosaic virus",
+  "schema": [
+    {
+      "length": 3455,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2954,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2036,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12319
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "rapn5ly3",
+  "accessions": {
+    "excluded": [
+      "BK010347"
+    ],
+    "included": [
+      "NC_036580.1"
+    ]
+  },
+  "name": "Allium cepa amalgavirus 1",
+  "schema": [
+    {
+      "length": 3453,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2058778
+}

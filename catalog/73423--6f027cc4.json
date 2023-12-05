@@ -1,0 +1,19 @@
+{
+  "_id": "6f027cc4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ223827.1"
+    ]
+  },
+  "name": "Endive necrotic mosaic virus",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 73423
+}

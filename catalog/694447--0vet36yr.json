@@ -1,0 +1,33 @@
+{
+  "_id": "0vet36yr",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX196164.1",
+      "KX196165.1",
+      "KX196166.1"
+    ]
+  },
+  "name": "Viola white distortion associated virus",
+  "schema": [
+    {
+      "length": 3320,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2581,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2104,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 694447
+}

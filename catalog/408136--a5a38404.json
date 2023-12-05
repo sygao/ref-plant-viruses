@@ -1,0 +1,19 @@
+{
+  "_id": "a5a38404",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EF016486.1"
+    ]
+  },
+  "name": "Soybean blistering mosaic virus",
+  "schema": [
+    {
+      "length": 2605,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 408136
+}

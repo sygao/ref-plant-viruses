@@ -1,0 +1,21 @@
+{
+  "_id": "qylctrcj",
+  "accessions": {
+    "excluded": [
+      "FJ956700"
+    ],
+    "included": [
+      "NC_014542.1"
+    ]
+  },
+  "name": "Tomato leaf curl Oman virus",
+  "schema": [
+    {
+      "length": 2763,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 713949
+}

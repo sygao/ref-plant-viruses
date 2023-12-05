@@ -1,0 +1,29 @@
+{
+  "_id": "e574ad7e",
+  "accessions": {
+    "excluded": [
+      "AF068636",
+      "AY965899"
+    ],
+    "included": [
+      "NC_007965.1",
+      "NC_007966.1"
+    ]
+  },
+  "name": "Merremia mosaic virus",
+  "schema": [
+    {
+      "length": 2557,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2492,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 77813
+}

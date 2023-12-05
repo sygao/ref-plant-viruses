@@ -1,0 +1,30 @@
+{
+  "_id": "gqjmwnre",
+  "accessions": {
+    "excluded": [
+      "MF510408"
+    ],
+    "included": [
+      "MF504029.1",
+      "MF504030.1",
+      "MF504032.1",
+      "MF504034.1",
+      "MF504036.1",
+      "MF504037.1",
+      "MF510412.1",
+      "MF579393.1",
+      "MF579394.1",
+      "NC_043533.1"
+    ]
+  },
+  "name": "Prunus geminivirus A",
+  "schema": [
+    {
+      "length": 3174,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2022321
+}

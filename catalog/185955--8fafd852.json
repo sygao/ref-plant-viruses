@@ -1,0 +1,23 @@
+{
+  "_id": "8fafd852",
+  "accessions": {
+    "excluded": [
+      "AF395898"
+    ],
+    "included": [
+      "LC127213.1",
+      "MN080499.1",
+      "NC_008310.1"
+    ]
+  },
+  "name": "Hibiscus latent Singapore virus",
+  "schema": [
+    {
+      "length": 6343,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 185955
+}

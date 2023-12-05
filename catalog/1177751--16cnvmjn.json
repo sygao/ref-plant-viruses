@@ -1,0 +1,21 @@
+{
+  "_id": "16cnvmjn",
+  "accessions": {
+    "excluded": [
+      "JQ599282"
+    ],
+    "included": [
+      "NC_043453.1"
+    ]
+  },
+  "name": "Cordyline virus 2",
+  "schema": [
+    {
+      "length": 15107,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1177751
+}

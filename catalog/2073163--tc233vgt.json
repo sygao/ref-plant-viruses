@@ -1,0 +1,21 @@
+{
+  "_id": "tc233vgt",
+  "accessions": {
+    "excluded": [
+      "MG470803"
+    ],
+    "included": [
+      "NC_037052.1"
+    ]
+  },
+  "name": "Pepper enamovirus",
+  "schema": [
+    {
+      "length": 5656,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2073163
+}

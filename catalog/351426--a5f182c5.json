@@ -1,0 +1,25 @@
+{
+  "_id": "a5f182c5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KR998048.1",
+      "KR998049.1",
+      "KT893294.1",
+      "KT893295.1",
+      "KY310581.1",
+      "KY310582.1",
+      "KY445748.1"
+    ]
+  },
+  "name": "Asian prunus virus 2",
+  "schema": [
+    {
+      "length": 9387,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 351426
+}

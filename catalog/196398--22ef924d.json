@@ -1,0 +1,21 @@
+{
+  "_id": "22ef924d",
+  "accessions": {
+    "excluded": [
+      "M23021"
+    ],
+    "included": [
+      "NC_001625.1"
+    ]
+  },
+  "name": "Southern cowpea mosaic virus",
+  "schema": [
+    {
+      "length": 4193,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 196398
+}

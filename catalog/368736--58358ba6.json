@@ -1,0 +1,21 @@
+{
+  "_id": "58358ba6",
+  "accessions": {
+    "excluded": [
+      "DQ356949"
+    ],
+    "included": [
+      "NC_008716.1"
+    ]
+  },
+  "name": "Maracuja mosaic virus",
+  "schema": [
+    {
+      "length": 6794,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 368736
+}

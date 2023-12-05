@@ -1,0 +1,19 @@
+{
+  "_id": "zoq96oac",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW280188.1"
+    ]
+  },
+  "name": "Cnidium virus x",
+  "schema": [
+    {
+      "length": 5964,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2510428
+}

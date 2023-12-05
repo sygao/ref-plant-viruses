@@ -1,0 +1,19 @@
+{
+  "_id": "daf8b649",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EF710625.1"
+    ]
+  },
+  "name": "Araujia mosaic virus",
+  "schema": [
+    {
+      "length": 1719,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 454757
+}

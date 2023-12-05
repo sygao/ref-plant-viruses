@@ -1,0 +1,21 @@
+{
+  "_id": "feb8108c",
+  "accessions": {
+    "excluded": [
+      "GU112023"
+    ],
+    "included": [
+      "NC_014845.1"
+    ]
+  },
+  "name": "Bhendi yellow vein India virus [India:Dharwad OYDWR2:2006]",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 908023
+}

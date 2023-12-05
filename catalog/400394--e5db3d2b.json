@@ -1,0 +1,26 @@
+{
+  "_id": "e5db3d2b",
+  "accessions": {
+    "excluded": [
+      "DQ851493"
+    ],
+    "included": [
+      "MG944249.2",
+      "MK340754.1",
+      "MK340755.1",
+      "MN316594.1",
+      "MT557572.1",
+      "NC_009742.1"
+    ]
+  },
+  "name": "Telosma mosaic virus",
+  "schema": [
+    {
+      "length": 9994,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 400394
+}

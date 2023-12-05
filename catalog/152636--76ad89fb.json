@@ -1,0 +1,19 @@
+{
+  "_id": "76ad89fb",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY769680.1"
+    ]
+  },
+  "name": "Ranunculus white mottle virus",
+  "schema": [
+    {
+      "length": 7614,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 152636
+}

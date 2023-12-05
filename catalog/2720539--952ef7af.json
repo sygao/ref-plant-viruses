@@ -1,0 +1,22 @@
+{
+  "_id": "952ef7af",
+  "accessions": {
+    "excluded": [
+      "KM386645"
+    ],
+    "included": [
+      "MT107529.1",
+      "NC_026760.1"
+    ]
+  },
+  "name": "Apple geminivirus",
+  "schema": [
+    {
+      "length": 2939,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2720539
+}

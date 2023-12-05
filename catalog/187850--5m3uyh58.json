@@ -1,0 +1,21 @@
+{
+  "_id": "5m3uyh58",
+  "accessions": {
+    "excluded": [
+      "KY001650"
+    ],
+    "included": [
+      "NC_033555.1"
+    ]
+  },
+  "name": "Ageratum yellow vein alphasatellite",
+  "schema": [
+    {
+      "length": 1364,
+      "molecule": "ssDNA",
+      "name": "DNA 1",
+      "required": true
+    }
+  ],
+  "taxid": 187850
+}

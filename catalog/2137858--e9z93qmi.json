@@ -1,0 +1,19 @@
+{
+  "_id": "e9z93qmi",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG783575.1"
+    ]
+  },
+  "name": "Mume virus A",
+  "schema": [
+    {
+      "length": 7644,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2137858
+}

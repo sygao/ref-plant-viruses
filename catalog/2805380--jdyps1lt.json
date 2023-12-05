@@ -1,0 +1,19 @@
+{
+  "_id": "jdyps1lt",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW323519.1"
+    ]
+  },
+  "name": "Agave virus T",
+  "schema": [
+    {
+      "length": 6408,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2805380
+}

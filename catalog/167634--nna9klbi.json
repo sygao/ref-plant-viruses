@@ -1,0 +1,21 @@
+{
+  "_id": "nna9klbi",
+  "accessions": {
+    "excluded": [
+      "AF314061"
+    ],
+    "included": [
+      "NC_004724.1"
+    ]
+  },
+  "name": "Grapevine rootstock stem lesion associated virus",
+  "schema": [
+    {
+      "length": 16527,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167634
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "e77060b6",
+  "accessions": {
+    "excluded": [
+      "FR772081"
+    ],
+    "included": [
+      "NC_016649.1"
+    ]
+  },
+  "name": "Hollyhock yellow vein mosaic virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 944994
+}

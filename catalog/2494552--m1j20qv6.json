@@ -1,0 +1,21 @@
+{
+  "_id": "m1j20qv6",
+  "accessions": {
+    "excluded": [
+      "MH932227"
+    ],
+    "included": [
+      "NC_055507.1"
+    ]
+  },
+  "name": "Celery latent virus",
+  "schema": [
+    {
+      "length": 11519,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2494552
+}

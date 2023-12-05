@@ -1,0 +1,21 @@
+{
+  "_id": "txo7bzkb",
+  "accessions": {
+    "excluded": [
+      "EU487047"
+    ],
+    "included": [
+      "NC_010441.2"
+    ]
+  },
+  "name": "Tomato leaf curl Cotabato virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 507475
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "d9dde9d6",
+  "accessions": {
+    "excluded": [
+      "AB304848",
+      "AJ316085"
+    ],
+    "included": [
+      "NC_003400.1",
+      "NC_010416.1"
+    ]
+  },
+  "name": "Asparagus virus 3",
+  "schema": [
+    {
+      "length": 6961,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 445435
+}

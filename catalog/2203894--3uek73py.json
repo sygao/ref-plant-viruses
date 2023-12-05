@@ -1,0 +1,21 @@
+{
+  "_id": "3uek73py",
+  "accessions": {
+    "excluded": [
+      "MF461726"
+    ],
+    "included": [
+      "NC_040544.1"
+    ]
+  },
+  "name": "Tomato leaf curl Yunnan betasatellite",
+  "schema": [
+    {
+      "length": 1361,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2203894
+}

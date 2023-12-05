@@ -1,0 +1,46 @@
+{
+  "_id": "e74f3ad3",
+  "accessions": {
+    "excluded": [
+      "D21829",
+      "HE963831"
+    ],
+    "included": [
+      "AB045371.1",
+      "EU095327.1",
+      "FR694186.1",
+      "JF946772.1",
+      "JF946775.1",
+      "KF319056.1",
+      "KF321966.1",
+      "KF321967.1",
+      "KF915809.1",
+      "KJ522472.1",
+      "KT835289.1",
+      "KU308398.1",
+      "KY242757.1",
+      "KY490039.1",
+      "KY702580.1",
+      "KY702581.1",
+      "KY798310.1",
+      "LM999967.1",
+      "MZ148015.1",
+      "MZ148027.1",
+      "MZ148028.1",
+      "MZ148061.1",
+      "MZ148071.1",
+      "NC_003462.1",
+      "NC_018714.1"
+    ]
+  },
+  "name": "Apple stem pitting virus (+Apricot latent + Apple green crinkle)",
+  "schema": [
+    {
+      "length": 9287,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35350
+}

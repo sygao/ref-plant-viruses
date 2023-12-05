@@ -1,0 +1,21 @@
+{
+  "_id": "q2r0enld",
+  "accessions": {
+    "excluded": [
+      "EU082131"
+    ],
+    "included": [
+      "NC_009890.1"
+    ]
+  },
+  "name": "Black raspberry virus F",
+  "schema": [
+    {
+      "length": 5077,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 463392
+}

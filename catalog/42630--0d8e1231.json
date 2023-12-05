@@ -1,0 +1,19 @@
+{
+  "_id": "0d8e1231",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "L75930.1"
+    ]
+  },
+  "name": "Echinochloa hoja blanca virus",
+  "schema": [
+    {
+      "length": 2336,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 42630
+}

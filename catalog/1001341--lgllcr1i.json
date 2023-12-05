@@ -1,0 +1,21 @@
+{
+  "_id": "lgllcr1i",
+  "accessions": {
+    "excluded": [
+      "JF265670"
+    ],
+    "included": [
+      "NC_043514.1"
+    ]
+  },
+  "name": "Vernonia yellow vein Fujian virus",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1001341
+}

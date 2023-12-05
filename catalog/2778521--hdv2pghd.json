@@ -1,0 +1,54 @@
+{
+  "_id": "hdv2pghd",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT879190.1",
+      "MT879191.1",
+      "MT879192.1",
+      "MT879193.1",
+      "MT879194.1",
+      "MT879195.1"
+    ]
+  },
+  "name": "Maple mottle associated virus",
+  "schema": [
+    {
+      "length": 7074,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2289,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1525,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1533,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1825,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1179,
+      "molecule": "ssRNA-",
+      "name": "RNA 6",
+      "required": true
+    }
+  ],
+  "taxid": 2778521
+}

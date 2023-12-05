@@ -1,0 +1,37 @@
+{
+  "_id": "95a40681",
+  "accessions": {
+    "excluded": [
+      "U35145",
+      "AY496069",
+      "AY496068"
+    ],
+    "included": [
+      "NC_005848.1",
+      "NC_005849.1",
+      "NC_005854.1"
+    ]
+  },
+  "name": "Parietaria mottle virus",
+  "schema": [
+    {
+      "length": 3518,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2922,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2268,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 64958
+}

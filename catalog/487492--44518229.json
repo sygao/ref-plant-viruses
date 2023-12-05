@@ -1,0 +1,29 @@
+{
+  "_id": "44518229",
+  "accessions": {
+    "excluded": [
+      "EU158249",
+      "EU158250"
+    ],
+    "included": [
+      "NC_011189.1",
+      "NC_011190.1"
+    ]
+  },
+  "name": "Mikania micrantha mosaic virus",
+  "schema": [
+    {
+      "length": 5862,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3418,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 487492
+}

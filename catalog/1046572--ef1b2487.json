@@ -1,0 +1,29 @@
+{
+  "_id": "ef1b2487",
+  "accessions": {
+    "excluded": [
+      "JF694479",
+      "JF694480"
+    ],
+    "included": [
+      "NC_016574.1",
+      "NC_016577.1"
+    ]
+  },
+  "name": "Abutilon mosaic Brazil virus",
+  "schema": [
+    {
+      "length": 2649,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2633,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1046572
+}

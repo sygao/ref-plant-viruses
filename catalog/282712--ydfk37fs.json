@@ -1,0 +1,21 @@
+{
+  "_id": "ydfk37fs",
+  "accessions": {
+    "excluded": [
+      "KU556609"
+    ],
+    "included": [
+      "NC_038984.1"
+    ]
+  },
+  "name": "Daphne virus Y",
+  "schema": [
+    {
+      "length": 9448,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 282712
+}

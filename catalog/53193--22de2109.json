@@ -1,0 +1,21 @@
+{
+  "_id": "22de2109",
+  "accessions": {
+    "excluded": [
+      "X95734"
+    ],
+    "included": [
+      "NC_003613.1"
+    ]
+  },
+  "name": "Iresine viroid",
+  "schema": [
+    {
+      "length": 370,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 53193
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "9814d663",
+  "accessions": {
+    "excluded": [
+      "KF716173",
+      "KF716174"
+    ],
+    "included": [
+      "NC_025220.1",
+      "NC_025245.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl virus associated satellite",
+  "schema": [
+    {
+      "length": 733,
+      "molecule": "ssDNA",
+      "name": "Satellite A",
+      "required": true
+    },
+    {
+      "length": 733,
+      "molecule": "ssDNA",
+      "name": "Satellite B",
+      "required": true
+    }
+  ],
+  "taxid": 1490528
+}

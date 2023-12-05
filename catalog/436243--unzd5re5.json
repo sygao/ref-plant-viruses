@@ -1,0 +1,21 @@
+{
+  "_id": "unzd5re5",
+  "accessions": {
+    "excluded": [
+      "EF190216"
+    ],
+    "included": [
+      "NC_010236.1"
+    ]
+  },
+  "name": "Tomato leaf curl Joydebpur betasatellite",
+  "schema": [
+    {
+      "length": 1370,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 436243
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "g9usk09t",
+  "accessions": {
+    "excluded": [
+      "HQ180395"
+    ],
+    "included": [
+      "NC_014594.1"
+    ]
+  },
+  "name": "Tomato leaf curl Bangladesh betasatellite",
+  "schema": [
+    {
+      "length": 1371,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 885379
+}

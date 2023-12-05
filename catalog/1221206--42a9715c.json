@@ -1,0 +1,29 @@
+{
+  "_id": "42a9715c",
+  "accessions": {
+    "excluded": [
+      "JX122965",
+      "JX122966"
+    ],
+    "included": [
+      "NC_018456.1",
+      "NC_018457.1"
+    ]
+  },
+  "name": "Soybean chlorotic spot virus",
+  "schema": [
+    {
+      "length": 2623,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2585,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1221206
+}

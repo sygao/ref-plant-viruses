@@ -1,0 +1,21 @@
+{
+  "_id": "41b2e65e",
+  "accessions": {
+    "excluded": [
+      "AM050732"
+    ],
+    "included": [
+      "NC_007639.1"
+    ]
+  },
+  "name": "Sida leaf curl virus-associated DNA beta",
+  "schema": [
+    {
+      "length": 1365,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 337824
+}

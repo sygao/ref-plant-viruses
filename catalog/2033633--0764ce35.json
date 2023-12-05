@@ -1,0 +1,23 @@
+{
+  "_id": "0764ce35",
+  "accessions": {
+    "excluded": [
+      "GU121676"
+    ],
+    "included": [
+      "GQ398110.4",
+      "LC507821.1",
+      "NC_014648.1"
+    ]
+  },
+  "name": "Pineapple bacilliform comosus virus",
+  "schema": [
+    {
+      "length": 7511,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2033633
+}

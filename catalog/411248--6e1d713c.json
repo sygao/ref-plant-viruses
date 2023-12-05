@@ -1,0 +1,21 @@
+{
+  "_id": "6e1d713c",
+  "accessions": {
+    "excluded": [
+      "AM410551"
+    ],
+    "included": [
+      "NC_008579.1"
+    ]
+  },
+  "name": "Croton yellow vein mosaic betasatellite",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 411248
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "azgmvemc",
+  "accessions": {
+    "excluded": [
+      "MF156698"
+    ],
+    "included": [
+      "NC_035620.1"
+    ]
+  },
+  "name": "Lychee viroid-like RNA",
+  "schema": [
+    {
+      "length": 304,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 2022430
+}

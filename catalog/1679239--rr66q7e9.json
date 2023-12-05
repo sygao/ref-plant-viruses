@@ -1,0 +1,21 @@
+{
+  "_id": "rr66q7e9",
+  "accessions": {
+    "excluded": [
+      "KU355553"
+    ],
+    "included": [
+      "NC_043172.1"
+    ]
+  },
+  "name": "Zucchini shoestring virus",
+  "schema": [
+    {
+      "length": 10308,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1679239
+}

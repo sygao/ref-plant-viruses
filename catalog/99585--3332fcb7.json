@@ -1,0 +1,14 @@
+{
+  "_id": "3332fcb7",
+  "accessions": {
+    "excluded": [
+      "HM026454"
+    ],
+    "included": [
+      "NC_014546.1"
+    ]
+  },
+  "name": "Frangipani mosaic virus",
+  "schema": [],
+  "taxid": 99585
+}

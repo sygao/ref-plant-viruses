@@ -1,0 +1,33 @@
+{
+  "_id": "cc8c31ee",
+  "accessions": {
+    "excluded": [
+      "EF219408"
+    ],
+    "included": [
+      "EF219408.1",
+      "EU734432.1",
+      "HQ396791.1",
+      "HQ396792.1",
+      "HQ396793.1",
+      "JN621319.1",
+      "JN630468.1",
+      "JN630469.1",
+      "JN630470.1",
+      "JN630471.1",
+      "JN630472.1",
+      "KY499622.1",
+      "NC_009994.1"
+    ]
+  },
+  "name": "Tobacco vein banding mosaic virus",
+  "schema": [
+    {
+      "length": 9572,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 33765
+}

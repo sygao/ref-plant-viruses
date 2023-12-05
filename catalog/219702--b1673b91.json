@@ -1,0 +1,20 @@
+{
+  "_id": "b1673b91",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY542958.1",
+      "KY769675.1"
+    ]
+  },
+  "name": "Tulip mild mottle mosaic virus",
+  "schema": [
+    {
+      "length": 1413,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 219702
+}

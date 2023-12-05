@@ -1,0 +1,21 @@
+{
+  "_id": "a98bef40",
+  "accessions": {
+    "excluded": [
+      "FR717140"
+    ],
+    "included": [
+      "NC_014746.1"
+    ]
+  },
+  "name": "Ageratum leaf curl Buea betasatellite",
+  "schema": [
+    {
+      "length": 1259,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 912035
+}

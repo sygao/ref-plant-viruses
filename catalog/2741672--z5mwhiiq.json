@@ -1,0 +1,33 @@
+{
+  "_id": "z5mwhiiq",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT319109.1",
+      "MT319110.1",
+      "MT319111.1"
+    ]
+  },
+  "name": "Grapevine line pattern virus",
+  "schema": [
+    {
+      "length": 3160,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2493,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2529,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2741672
+}

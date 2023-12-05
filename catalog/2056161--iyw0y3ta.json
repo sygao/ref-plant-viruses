@@ -1,0 +1,21 @@
+{
+  "_id": "iyw0y3ta",
+  "accessions": {
+    "excluded": [
+      "MF997470"
+    ],
+    "included": [
+      "NC_043537.1"
+    ]
+  },
+  "name": "African eggplant mosaic virus",
+  "schema": [
+    {
+      "length": 9632,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2056161
+}

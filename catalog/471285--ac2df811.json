@@ -1,0 +1,21 @@
+{
+  "_id": "ac2df811",
+  "accessions": {
+    "excluded": [
+      "EF687738"
+    ],
+    "included": [
+      "NC_011532.1"
+    ]
+  },
+  "name": "Lettuce yellow mottle virus",
+  "schema": [
+    {
+      "length": 12926,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 471285
+}

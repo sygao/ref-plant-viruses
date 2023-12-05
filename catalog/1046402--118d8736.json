@@ -1,0 +1,24 @@
+{
+  "_id": "118d8736",
+  "accessions": {
+    "excluded": [
+      "JQ904630"
+    ],
+    "included": [
+      "MH379107.1",
+      "MH706739.1",
+      "MT676865.1",
+      "NC_018175.1"
+    ]
+  },
+  "name": "Potato virus H",
+  "schema": [
+    {
+      "length": 8425,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1046402
+}

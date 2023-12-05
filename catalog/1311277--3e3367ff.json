@@ -1,0 +1,29 @@
+{
+  "_id": "3e3367ff",
+  "accessions": {
+    "excluded": [
+      "KC426927",
+      "KC426928"
+    ],
+    "included": [
+      "NC_022007.1",
+      "NC_022008.1"
+    ]
+  },
+  "name": "Capraria yellow spot Yucatan virus",
+  "schema": [
+    {
+      "length": 2624,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2584,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1311277
+}

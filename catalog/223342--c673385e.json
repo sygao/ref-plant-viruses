@@ -1,0 +1,29 @@
+{
+  "_id": "c673385e",
+  "accessions": {
+    "excluded": [
+      "DQ406674",
+      "DQ520943"
+    ],
+    "included": [
+      "NC_008057.1",
+      "NC_008058.1"
+    ]
+  },
+  "name": "Tomato golden mottle virus",
+  "schema": [
+    {
+      "length": 2614,
+      "molecule": "ssRNA+",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2558,
+      "molecule": "ssRNA+",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223342
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "1dded038",
+  "accessions": {
+    "excluded": [
+      "M33001"
+    ],
+    "included": [
+      "NC_003851.1"
+    ]
+  },
+  "name": "Subterranean clover mottle virus satellite RNA",
+  "schema": [
+    {
+      "length": 388,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 195063
+}

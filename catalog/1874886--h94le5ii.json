@@ -1,0 +1,21 @@
+{
+  "_id": "h94le5ii",
+  "accessions": {
+    "excluded": [
+      "KU522485"
+    ],
+    "included": [
+      "NC_030699.1"
+    ]
+  },
+  "name": "Ramie mosaic Yunnan virus",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1874886
+}

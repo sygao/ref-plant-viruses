@@ -1,0 +1,21 @@
+{
+  "_id": "yyz8tkek",
+  "accessions": {
+    "excluded": [
+      "KT381973"
+    ],
+    "included": [
+      "NC_034551.1"
+    ]
+  },
+  "name": "Colocasia bobone disease-associated virus",
+  "schema": [
+    {
+      "length": 12193,
+      "molecule": "ssRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1775456
+}

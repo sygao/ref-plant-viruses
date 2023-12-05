@@ -1,0 +1,21 @@
+{
+  "_id": "85769401",
+  "accessions": {
+    "excluded": [
+      "HQ184471"
+    ],
+    "included": [
+      "NC_014730.1"
+    ]
+  },
+  "name": "Cowpea mild mottle virus",
+  "schema": [
+    {
+      "length": 8127,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 67761
+}

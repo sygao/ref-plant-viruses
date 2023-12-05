@@ -1,0 +1,21 @@
+{
+  "_id": "p91kfuf9",
+  "accessions": {
+    "excluded": [
+      "KY696659"
+    ],
+    "included": [
+      "NC_034622.1"
+    ]
+  },
+  "name": "Alfalfa virus S",
+  "schema": [
+    {
+      "length": 8349,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985968
+}

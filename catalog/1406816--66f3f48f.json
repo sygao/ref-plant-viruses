@@ -1,0 +1,21 @@
+{
+  "_id": "66f3f48f",
+  "accessions": {
+    "excluded": [
+      "KC345607"
+    ],
+    "included": [
+      "NC_023175.1"
+    ]
+  },
+  "name": "Zucchini tigre mosaic virus",
+  "schema": [
+    {
+      "length": 10346,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1406816
+}

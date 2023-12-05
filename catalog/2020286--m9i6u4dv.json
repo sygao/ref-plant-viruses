@@ -1,0 +1,21 @@
+{
+  "_id": "m9i6u4dv",
+  "accessions": {
+    "excluded": [
+      "MF196913"
+    ],
+    "included": [
+      "NC_035462.1"
+    ]
+  },
+  "name": "Ocimum basilicum RNA virus 1",
+  "schema": [
+    {
+      "length": 6930,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2020286
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "5281yho7",
+  "accessions": {
+    "excluded": [
+      "KP343681"
+    ],
+    "included": [
+      "NC_027210.1"
+    ]
+  },
+  "name": "Catharanthus mosaic virus",
+  "schema": [
+    {
+      "length": 9575,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 369752
+}

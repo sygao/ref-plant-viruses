@@ -1,0 +1,21 @@
+{
+  "_id": "8c2ih9r1",
+  "accessions": {
+    "excluded": [
+      "JN698954"
+    ],
+    "included": [
+      "NC_038956.1"
+    ]
+  },
+  "name": "Jatropha leaf yellow mosaic Katarniaghat virus",
+  "schema": [
+    {
+      "length": 2744,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1530093
+}

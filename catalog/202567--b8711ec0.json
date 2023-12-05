@@ -1,0 +1,21 @@
+{
+  "_id": "b8711ec0",
+  "accessions": {
+    "excluded": [
+      "AJ495813"
+    ],
+    "included": [
+      "NC_004090.1"
+    ]
+  },
+  "name": "Ageratum yellow vein China virus",
+  "schema": [
+    {
+      "length": 2768,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 202567
+}

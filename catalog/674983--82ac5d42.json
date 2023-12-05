@@ -1,0 +1,29 @@
+{
+  "_id": "82ac5d42",
+  "accessions": {
+    "excluded": [
+      "AY533036",
+      "AY533038"
+    ],
+    "included": [
+      "NC_006960.1",
+      "NC_006961.1"
+    ]
+  },
+  "name": "Pleurotus ostreatus virus 1",
+  "schema": [
+    {
+      "length": 2296,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2223,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 674983
+}

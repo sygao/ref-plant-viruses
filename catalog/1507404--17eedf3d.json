@@ -1,0 +1,21 @@
+{
+  "_id": "17eedf3d",
+  "accessions": {
+    "excluded": [
+      "KJ638692"
+    ],
+    "included": [
+      "NC_024448.1"
+    ]
+  },
+  "name": "Mint-like virus",
+  "schema": [
+    {
+      "length": 15362,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1507404
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "i9hh3lmc",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH129615.1",
+      "MH129616.1"
+    ]
+  },
+  "name": "Strawberry crinkle cytorhabdovirus",
+  "schema": [
+    {
+      "length": 14552,
+      "molecule": "",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985706
+}

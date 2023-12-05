@@ -1,0 +1,37 @@
+{
+  "_id": "b26c1c49",
+  "accessions": {
+    "excluded": [
+      "M60291",
+      "M64713",
+      "M65138"
+    ],
+    "included": [
+      "NC_004006.1",
+      "NC_004007.1",
+      "NC_004008.1"
+    ]
+  },
+  "name": "Broad bean mottle virus",
+  "schema": [
+    {
+      "length": 3158,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2799,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2293,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12301
+}

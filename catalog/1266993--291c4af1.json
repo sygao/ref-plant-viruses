@@ -1,0 +1,21 @@
+{
+  "_id": "291c4af1",
+  "accessions": {
+    "excluded": [
+      "JX871380"
+    ],
+    "included": [
+      "NC_020254.1"
+    ]
+  },
+  "name": "Sida yellow blotch virus",
+  "schema": [
+    {
+      "length": 2664,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1266993
+}

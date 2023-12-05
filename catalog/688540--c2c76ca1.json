@@ -1,0 +1,21 @@
+{
+  "_id": "c2c76ca1",
+  "accessions": {
+    "excluded": [
+      "HQ333143"
+    ],
+    "included": [
+      "NC_015324.1"
+    ]
+  },
+  "name": "Sweet potato golden vein associated virus",
+  "schema": [
+    {
+      "length": 2824,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 688540
+}

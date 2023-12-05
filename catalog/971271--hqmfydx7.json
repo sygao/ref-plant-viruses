@@ -1,0 +1,21 @@
+{
+  "_id": "hqmfydx7",
+  "accessions": {
+    "excluded": [
+      "HQ162270"
+    ],
+    "included": [
+      "NC_015124.1"
+    ]
+  },
+  "name": "Tomato leaf curl Hanoi virus",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 971271
+}

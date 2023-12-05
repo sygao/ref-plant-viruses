@@ -1,0 +1,29 @@
+{
+  "_id": "7cee0a88",
+  "accessions": {
+    "excluded": [
+      "U16304"
+    ],
+    "included": [
+      "AB046398.1",
+      "DQ272579.1",
+      "EU937521.1",
+      "FJ525435.1",
+      "JQ798289.1",
+      "KC517488.1",
+      "KR263170.1",
+      "KU883267.1",
+      "NC_001661.1"
+    ]
+  },
+  "name": "Citrus tristeza virus",
+  "schema": [
+    {
+      "length": 19291,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12162
+}

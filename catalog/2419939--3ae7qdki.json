@@ -1,0 +1,40 @@
+{
+  "_id": "3ae7qdki",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG781152.1",
+      "MG781153.1",
+      "MG781154.1",
+      "MG781155.1"
+    ]
+  },
+  "name": "Tea plant necrotic ring blotch virus",
+  "schema": [
+    {
+      "length": 5952,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4140,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2705,
+      "molecule": "",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 2287,
+      "molecule": "",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 2419939
+}

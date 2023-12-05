@@ -1,0 +1,21 @@
+{
+  "_id": "4fe1d51e",
+  "accessions": {
+    "excluded": [
+      "LK054801"
+    ],
+    "included": [
+      "NC_024491.1"
+    ]
+  },
+  "name": "Mirabilis leaf curl India virus",
+  "schema": [
+    {
+      "length": 2778,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1507006
+}

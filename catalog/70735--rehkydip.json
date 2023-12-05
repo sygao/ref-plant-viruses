@@ -1,0 +1,68 @@
+{
+  "_id": "rehkydip",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KT970499.1",
+      "KT970500.1",
+      "KT970501.1",
+      "KT970502.1",
+      "KT970503.1",
+      "KT970504.1",
+      "KT970505.1",
+      "KT995106.1"
+    ]
+  },
+  "name": "Wheat mosaic virus",
+  "schema": [
+    {
+      "length": 6991,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2170,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1547,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1678,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1644,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1728,
+      "molecule": "ssRNA-",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1324,
+      "molecule": "ssRNA-",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1350,
+      "molecule": "ssRNA-",
+      "name": "RNA 8",
+      "required": true
+    }
+  ],
+  "taxid": 70735
+}

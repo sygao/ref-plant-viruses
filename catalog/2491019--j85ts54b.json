@@ -1,0 +1,21 @@
+{
+  "_id": "j85ts54b",
+  "accessions": {
+    "excluded": [
+      "MH206616"
+    ],
+    "included": [
+      "NC_055506.1"
+    ]
+  },
+  "name": "Dioscorea mosaic virus",
+  "schema": [
+    {
+      "length": 9550,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2491019
+}

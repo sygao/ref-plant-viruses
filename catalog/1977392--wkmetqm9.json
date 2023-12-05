@@ -1,0 +1,21 @@
+{
+  "_id": "wkmetqm9",
+  "accessions": {
+    "excluded": [
+      "KY288487"
+    ],
+    "included": [
+      "NC_034375.1"
+    ]
+  },
+  "name": "Cassava virus X",
+  "schema": [
+    {
+      "length": 5879,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1977392
+}

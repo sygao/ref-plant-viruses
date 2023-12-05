@@ -1,0 +1,14 @@
+{
+  "_id": "93a6b398",
+  "accessions": {
+    "excluded": [
+      "AJ810093"
+    ],
+    "included": [
+      "NC_006267.1"
+    ]
+  },
+  "name": "Sida yellow mosaic virus-[China]-associated DNA beta",
+  "schema": [],
+  "taxid": 291270
+}

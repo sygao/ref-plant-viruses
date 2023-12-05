@@ -1,0 +1,24 @@
+{
+  "_id": "f852c888",
+  "accessions": {
+    "excluded": [
+      "AY884005"
+    ],
+    "included": [
+      "DQ185573.1",
+      "KY110735.1",
+      "KY110736.1",
+      "NC_006950.1"
+    ]
+  },
+  "name": "Citrus sudden death-associated virus",
+  "schema": [
+    {
+      "length": 6816,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312008
+}

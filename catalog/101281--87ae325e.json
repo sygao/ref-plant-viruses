@@ -1,0 +1,19 @@
+{
+  "_id": "87ae325e",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JN692499.1"
+    ]
+  },
+  "name": "Tuberose mild mosaic virus",
+  "schema": [
+    {
+      "length": 1909,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 101281
+}

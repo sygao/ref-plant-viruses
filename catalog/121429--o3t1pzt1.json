@@ -1,0 +1,21 @@
+{
+  "_id": "o3t1pzt1",
+  "accessions": {
+    "excluded": [
+      "AJ277435"
+    ],
+    "included": [
+      "NC_038863.1"
+    ]
+  },
+  "name": "Olive latent ringspot virus",
+  "schema": [
+    {
+      "length": 3969,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 121429
+}

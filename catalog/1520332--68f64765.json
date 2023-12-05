@@ -1,0 +1,33 @@
+{
+  "_id": "68f64765",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KJ704366.1",
+      "KJ704367.1",
+      "KJ704368.1"
+    ]
+  },
+  "name": "Blueberry mosaic associated virus",
+  "schema": [
+    {
+      "length": 7963,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1934,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1570,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1520332
+}

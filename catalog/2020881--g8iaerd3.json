@@ -1,0 +1,21 @@
+{
+  "_id": "g8iaerd3",
+  "accessions": {
+    "excluded": [
+      "KY373213"
+    ],
+    "included": [
+      "NC_035473.1"
+    ]
+  },
+  "name": "Emilia sonchifolia yellow vein Thailand virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2020881
+}

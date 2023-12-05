@@ -1,0 +1,33 @@
+{
+  "_id": "t743y1yp",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY484836.1",
+      "KY484837.1",
+      "KY484838.1"
+    ]
+  },
+  "name": "Hippeastrum chlorotic ringspot virus",
+  "schema": [
+    {
+      "length": 0,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    },
+    {
+      "length": 3756,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 8908,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    }
+  ],
+  "taxid": 2736661
+}

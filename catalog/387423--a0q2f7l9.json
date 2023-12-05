@@ -1,0 +1,21 @@
+{
+  "_id": "a0q2f7l9",
+  "accessions": {
+    "excluded": [
+      "KY190215"
+    ],
+    "included": [
+      "NC_034833.1"
+    ]
+  },
+  "name": "Agave tequilana leaf virus",
+  "schema": [
+    {
+      "length": 6958,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 387423
+}

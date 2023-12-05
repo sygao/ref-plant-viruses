@@ -1,0 +1,21 @@
+{
+  "_id": "n1oifku2",
+  "accessions": {
+    "excluded": [
+      "BK010356"
+    ],
+    "included": [
+      "NC_040432.1"
+    ]
+  },
+  "name": "Anthoxanthum odoratum amalgavirus 1",
+  "schema": [
+    {
+      "length": 3356,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2065797
+}

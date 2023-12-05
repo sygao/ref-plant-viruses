@@ -1,0 +1,37 @@
+{
+  "_id": "b5e84fae",
+  "accessions": {
+    "excluded": [
+      "EU770623",
+      "EU770624",
+      "EU770625"
+    ],
+    "included": [
+      "NC_011068.1",
+      "NC_011069.1",
+      "NC_011070.1"
+    ]
+  },
+  "name": "Ourmia melon virus",
+  "schema": [
+    {
+      "length": 2814,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1064,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 974,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 186786
+}

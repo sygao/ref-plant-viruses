@@ -1,0 +1,21 @@
+{
+  "_id": "73d73616",
+  "accessions": {
+    "excluded": [
+      "AB089381"
+    ],
+    "included": [
+      "NC_004106.1"
+    ]
+  },
+  "name": "Paprika mild mottle virus",
+  "schema": [
+    {
+      "length": 6524,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35281
+}

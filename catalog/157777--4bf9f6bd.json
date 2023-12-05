@@ -1,0 +1,24 @@
+{
+  "_id": "4bf9f6bd",
+  "accessions": {
+    "excluded": [
+      "KP828803"
+    ],
+    "included": [
+      "NC_027527.1",
+      "OK188829.1",
+      "OK188830.1",
+      "OK188831.1"
+    ]
+  },
+  "name": "Pea streak virus",
+  "schema": [
+    {
+      "length": 8074,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 157777
+}

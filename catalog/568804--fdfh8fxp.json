@@ -1,0 +1,33 @@
+{
+  "_id": "fdfh8fxp",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH780154.1",
+      "MH780155.1",
+      "MH780156.1"
+    ]
+  },
+  "name": "Tomato necrotic spot virus",
+  "schema": [
+    {
+      "length": 3519,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2596,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 568804
+}

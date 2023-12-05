@@ -1,0 +1,23 @@
+{
+  "_id": "c13e72fd",
+  "accessions": {
+    "excluded": [
+      "D13747"
+    ],
+    "included": [
+      "AY225449.1",
+      "KF752593.1",
+      "NC_001441.1"
+    ]
+  },
+  "name": "Narcissus mosaic virus",
+  "schema": [
+    {
+      "length": 6956,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12180
+}

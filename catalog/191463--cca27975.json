@@ -1,0 +1,21 @@
+{
+  "_id": "cca27975",
+  "accessions": {
+    "excluded": [
+      "AY090558"
+    ],
+    "included": [
+      "NC_004639.1"
+    ]
+  },
+  "name": "Sida yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2661,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 191463
+}

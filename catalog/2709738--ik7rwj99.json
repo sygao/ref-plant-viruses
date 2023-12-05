@@ -1,0 +1,19 @@
+{
+  "_id": "ik7rwj99",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN386969.1"
+    ]
+  },
+  "name": "Apple tombus-like virus 2",
+  "schema": [
+    {
+      "length": 4340,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2709738
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "rjfd0f6t",
+  "accessions": {
+    "excluded": [
+      "KX011473",
+      "KX011474"
+    ],
+    "included": [
+      "NC_038988.1",
+      "NC_040189.1"
+    ]
+  },
+  "name": "Common bean mottle virus",
+  "schema": [
+    {
+      "length": 2631,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2604,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1915202
+}

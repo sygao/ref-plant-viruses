@@ -1,0 +1,21 @@
+{
+  "_id": "y8o6frwf",
+  "accessions": {
+    "excluded": [
+      "LK054803"
+    ],
+    "included": [
+      "NC_038924.1"
+    ]
+  },
+  "name": "Mirabilis leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1367,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2049883
+}

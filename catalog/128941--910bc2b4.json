@@ -1,0 +1,21 @@
+{
+  "_id": "910bc2b4",
+  "accessions": {
+    "excluded": [
+      "AF261885"
+    ],
+    "included": [
+      "NC_004675.1"
+    ]
+  },
+  "name": "Tomato curly stunt virus",
+  "schema": [
+    {
+      "length": 2766,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 128941
+}

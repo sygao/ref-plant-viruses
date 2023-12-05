@@ -1,0 +1,19 @@
+{
+  "_id": "mkyqwc1d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW835350.1"
+    ]
+  },
+  "name": "Barmah Forest Virus",
+  "schema": [
+    {
+      "length": 11535,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 11020
+}

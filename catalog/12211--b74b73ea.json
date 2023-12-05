@@ -1,0 +1,24 @@
+{
+  "_id": "b74b73ea",
+  "accessions": {
+    "excluded": [
+      "D13751"
+    ],
+    "included": [
+      "AJ243957.1",
+      "JN596110.1",
+      "KF472134.1",
+      "NC_001445.1"
+    ]
+  },
+  "name": "Plum pox virus",
+  "schema": [
+    {
+      "length": 9774,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12211
+}

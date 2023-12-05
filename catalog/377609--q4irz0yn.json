@@ -1,0 +1,21 @@
+{
+  "_id": "q4irz0yn",
+  "accessions": {
+    "excluded": [
+      "AM236784"
+    ],
+    "included": [
+      "NC_008329.1"
+    ]
+  },
+  "name": "Tomato leaf curl Guangxi virus",
+  "schema": [
+    {
+      "length": 2752,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 377609
+}

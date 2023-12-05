@@ -1,0 +1,21 @@
+{
+  "_id": "e328f44e",
+  "accessions": {
+    "excluded": [
+      "JX871385"
+    ],
+    "included": [
+      "NC_020256.1"
+    ]
+  },
+  "name": "Sida mottle Alagoas virus",
+  "schema": [
+    {
+      "length": 2649,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1266995
+}

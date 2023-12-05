@@ -1,0 +1,21 @@
+{
+  "_id": "d01cde98",
+  "accessions": {
+    "excluded": [
+      "AJ620300"
+    ],
+    "included": [
+      "NC_008020.1"
+    ]
+  },
+  "name": "Daphne virus S",
+  "schema": [
+    {
+      "length": 8739,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 216614
+}

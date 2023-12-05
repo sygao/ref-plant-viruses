@@ -1,0 +1,21 @@
+{
+  "_id": "mb4yuc6q",
+  "accessions": {
+    "excluded": [
+      "KF427701"
+    ],
+    "included": [
+      "NC_027703.1"
+    ]
+  },
+  "name": "Luffa aphid-borne yellows virus",
+  "schema": [
+    {
+      "length": 5961,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1462682
+}

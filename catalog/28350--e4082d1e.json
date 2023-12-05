@@ -1,0 +1,28 @@
+{
+  "_id": "e4082d1e",
+  "accessions": {
+    "excluded": [
+      "U38239",
+      "S53251",
+      "AY297924",
+      "AB050597"
+    ],
+    "included": [
+      "JN676053.1",
+      "NC_003896.1",
+      "NC_003897.1",
+      "NC_005032.1",
+      "NC_005842.1"
+    ]
+  },
+  "name": "Tomato leaf curl virus",
+  "schema": [
+    {
+      "length": 2761,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 28350
+}

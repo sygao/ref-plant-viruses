@@ -1,0 +1,21 @@
+{
+  "_id": "cf34dee0",
+  "accessions": {
+    "excluded": [
+      "AJ002449"
+    ],
+    "included": [
+      "NC_004583.1"
+    ]
+  },
+  "name": "Cotton leaf curl Kokhran virus",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 222464
+}

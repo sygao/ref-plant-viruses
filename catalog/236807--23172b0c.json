@@ -1,0 +1,33 @@
+{
+  "_id": "23172b0c",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY312434.1",
+      "AY312435.1",
+      "AY312436.1"
+    ]
+  },
+  "name": "Iranian wheat stripe virus",
+  "schema": [
+    {
+      "length": 1831,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3469,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2337,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 236807
+}

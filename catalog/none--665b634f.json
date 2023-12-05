@@ -1,0 +1,21 @@
+{
+  "_id": "665b634f",
+  "accessions": {
+    "excluded": [
+      "EU734831"
+    ],
+    "included": [
+      "NC_011024.1"
+    ]
+  },
+  "name": "TYLCAxV-Sic1-[IT:Sic2/2:04]",
+  "schema": [
+    {
+      "length": 2771,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "24014058",
+  "accessions": {
+    "excluded": [
+      "AF531505"
+    ],
+    "included": [
+      "MF069043.1",
+      "MG881767.1",
+      "MN131070.1",
+      "NC_005065.1"
+    ]
+  },
+  "name": "Little cherry virus 2",
+  "schema": [
+    {
+      "length": 15226,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 154339
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "43d3b9de",
+  "accessions": {
+    "excluded": [
+      "LC081344"
+    ],
+    "included": [
+      "NC_029578.1"
+    ]
+  },
+  "name": "Blueberry shoestring virus",
+  "schema": [
+    {
+      "length": 4020,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1714570
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "z2vx7ohd",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG995738.1"
+    ]
+  },
+  "name": "Hobart betaflexivirus 1",
+  "schema": [
+    {
+      "length": 6468,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2201305
+}

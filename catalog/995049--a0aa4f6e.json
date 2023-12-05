@@ -1,0 +1,22 @@
+{
+  "_id": "a0aa4f6e",
+  "accessions": {
+    "excluded": [
+      "HQ694979"
+    ],
+    "included": [
+      "MH188860.1",
+      "NC_015228.1"
+    ]
+  },
+  "name": "Sweet potato vein clearing virus",
+  "schema": [
+    {
+      "length": 8791,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 995049
+}

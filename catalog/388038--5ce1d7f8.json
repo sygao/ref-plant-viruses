@@ -1,0 +1,21 @@
+{
+  "_id": "5ce1d7f8",
+  "accessions": {
+    "excluded": [
+      "AB261167"
+    ],
+    "included": [
+      "NC_008614.1"
+    ]
+  },
+  "name": "Cucumber mottle virus",
+  "schema": [
+    {
+      "length": 6485,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 388038
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "86kzscrj",
+  "accessions": {
+    "excluded": [
+      "MF510471"
+    ],
+    "included": [
+      "NC_055480.1"
+    ]
+  },
+  "name": "Faba bean necrotic yellows virus associated alphasatellite 1",
+  "schema": [
+    {
+      "length": 1005,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2052606
+}

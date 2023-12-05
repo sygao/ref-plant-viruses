@@ -1,0 +1,19 @@
+{
+  "_id": "vwutfs4i",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW582811.1"
+    ]
+  },
+  "name": "Olive virus T",
+  "schema": [
+    {
+      "length": 6845,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2830702
+}

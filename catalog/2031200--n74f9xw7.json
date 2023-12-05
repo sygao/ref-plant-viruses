@@ -1,0 +1,21 @@
+{
+  "_id": "n74f9xw7",
+  "accessions": {
+    "excluded": [
+      "AJ542492"
+    ],
+    "included": [
+      "NC_038926.1"
+    ]
+  },
+  "name": "Tomato leaf curl Nepal betasatellite",
+  "schema": [
+    {
+      "length": 1350,
+      "molecule": "dsDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2031200
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "d5966d2b",
+  "accessions": {
+    "excluded": [
+      "JN566124"
+    ],
+    "included": [
+      "NC_016519.1"
+    ]
+  },
+  "name": "Clitoria yellow mottle virus",
+  "schema": [
+    {
+      "length": 6514,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1128119
+}

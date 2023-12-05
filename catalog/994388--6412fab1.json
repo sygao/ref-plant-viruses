@@ -1,0 +1,21 @@
+{
+  "_id": "6412fab1",
+  "accessions": {
+    "excluded": [
+      "HQ393477"
+    ],
+    "included": [
+      "NC_025681.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Sao Paulo virus",
+  "schema": [
+    {
+      "length": 2782,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 994388
+}

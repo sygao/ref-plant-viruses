@@ -1,0 +1,21 @@
+{
+  "_id": "efe20977",
+  "accessions": {
+    "excluded": [
+      "JX183090"
+    ],
+    "included": [
+      "NC_018573.1"
+    ]
+  },
+  "name": "Mesta yellow vein mosaic virus-associated alphasatellite",
+  "schema": [
+    {
+      "length": 1358,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1705093
+}

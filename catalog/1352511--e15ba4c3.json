@@ -1,0 +1,22 @@
+{
+  "_id": "e15ba4c3",
+  "accessions": {
+    "excluded": [
+      "JX848616",
+      "JX848617"
+    ],
+    "included": [
+      "NC_021705.1"
+    ]
+  },
+  "name": "Thin paspalum asymptomatic virus",
+  "schema": [
+    {
+      "length": 4195,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1352511
+}

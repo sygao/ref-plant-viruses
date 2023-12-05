@@ -1,0 +1,29 @@
+{
+  "_id": "a50530ca",
+  "accessions": {
+    "excluded": [
+      "DQ875868",
+      "DQ875869"
+    ],
+    "included": [
+      "NC_008492.1",
+      "NC_008493.1"
+    ]
+  },
+  "name": "Corchorus yellow spot virus",
+  "schema": [
+    {
+      "length": 2606,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2589,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 403897
+}

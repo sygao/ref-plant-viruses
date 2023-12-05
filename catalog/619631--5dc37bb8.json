@@ -1,0 +1,24 @@
+{
+  "_id": "5dc37bb8",
+  "accessions": {
+    "excluded": [
+      "AM712436"
+    ],
+    "included": [
+      "MH550115.1",
+      "MK158207.1",
+      "MK158208.1",
+      "NC_012118.1"
+    ]
+  },
+  "name": "Pedilanthus leaf curl virus",
+  "schema": [
+    {
+      "length": 2777,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 619631
+}

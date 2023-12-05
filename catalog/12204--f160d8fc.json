@@ -1,0 +1,21 @@
+{
+  "_id": "f160d8fc",
+  "accessions": {
+    "excluded": [
+      "JQ807997"
+    ],
+    "included": [
+      "NC_019409.1"
+    ]
+  },
+  "name": "Ornithogalum mosaic virus",
+  "schema": [
+    {
+      "length": 9445,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12204
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "031710ef",
+  "accessions": {
+    "excluded": [
+      "AF020051",
+      "AF368272"
+    ],
+    "included": [
+      "NC_003502.1",
+      "NC_003509.1"
+    ]
+  },
+  "name": "Blackcurrant reversion virus",
+  "schema": [
+    {
+      "length": 7711,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6405,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 65743
+}

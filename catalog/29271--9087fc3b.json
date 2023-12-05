@@ -1,0 +1,21 @@
+{
+  "_id": "9087fc3b",
+  "accessions": {
+    "excluded": [
+      "AJ298033"
+    ],
+    "included": [
+      "NC_003537.1"
+    ]
+  },
+  "name": "Dasheen mosaic virus",
+  "schema": [
+    {
+      "length": 10038,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 29271
+}

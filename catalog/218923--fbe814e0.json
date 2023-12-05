@@ -1,0 +1,23 @@
+{
+  "_id": "fbe814e0",
+  "accessions": {
+    "excluded": [
+      "KC778720",
+      "AY177608"
+    ],
+    "included": [
+      "KC778721.1",
+      "NC_004553.1"
+    ]
+  },
+  "name": "Turnip rosette virus",
+  "schema": [
+    {
+      "length": 4086,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 218923
+}

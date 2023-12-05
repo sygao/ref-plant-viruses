@@ -1,0 +1,21 @@
+{
+  "_id": "b9af9ad8",
+  "accessions": {
+    "excluded": [
+      "AF499738"
+    ],
+    "included": [
+      "NC_003742.1"
+    ]
+  },
+  "name": "Cocksfoot streak virus",
+  "schema": [
+    {
+      "length": 9663,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 192452
+}

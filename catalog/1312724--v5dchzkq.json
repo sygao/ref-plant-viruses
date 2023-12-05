@@ -1,0 +1,21 @@
+{
+  "_id": "v5dchzkq",
+  "accessions": {
+    "excluded": [
+      "KC430936"
+    ],
+    "included": [
+      "NC_038475.1"
+    ]
+  },
+  "name": "Vigna yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2602,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1312724
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "6879ab2e",
+  "accessions": {
+    "excluded": [
+      "D00507"
+    ],
+    "included": [
+      "KC845322.1",
+      "NC_002634.1"
+    ]
+  },
+  "name": "Soybean mosaic virus",
+  "schema": [
+    {
+      "length": 9816,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12222
+}

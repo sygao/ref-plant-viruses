@@ -1,0 +1,21 @@
+{
+  "_id": "tvpl2pkt",
+  "accessions": {
+    "excluded": [
+      "KT992824"
+    ],
+    "included": [
+      "NC_029990.1"
+    ]
+  },
+  "name": "Maize yellow dwarf virus-RMV2",
+  "schema": [
+    {
+      "length": 5625,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1833824
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "vnv7vldl",
+  "accessions": {
+    "excluded": [
+      "KT099139"
+    ],
+    "included": [
+      "NC_038971.1"
+    ]
+  },
+  "name": "Whitefly-associated begomovirus 6",
+  "schema": [
+    {
+      "length": 2638,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169743
+}

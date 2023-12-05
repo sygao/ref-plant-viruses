@@ -1,0 +1,21 @@
+{
+  "_id": "yii1vuvc",
+  "accessions": {
+    "excluded": [
+      "HM107844"
+    ],
+    "included": [
+      "NC_014129.1"
+    ]
+  },
+  "name": "Rubber viroid India/2009",
+  "schema": [
+    {
+      "length": 361,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 758918
+}

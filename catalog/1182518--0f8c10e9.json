@@ -1,0 +1,23 @@
+{
+  "_id": "0f8c10e9",
+  "accessions": {
+    "excluded": [
+      "JQ624879"
+    ],
+    "included": [
+      "KM230031.1",
+      "KT717933.1",
+      "NC_017917.1"
+    ]
+  },
+  "name": "Maize streak Reunion virus",
+  "schema": [
+    {
+      "length": 2881,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1182518
+}

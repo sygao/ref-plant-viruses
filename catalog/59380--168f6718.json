@@ -1,0 +1,21 @@
+{
+  "_id": "168f6718",
+  "accessions": {
+    "excluded": [
+      "AB011257"
+    ],
+    "included": [
+      "NC_003746.1"
+    ]
+  },
+  "name": "Rice yellow stunt virus",
+  "schema": [
+    {
+      "length": 14042,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 59380
+}

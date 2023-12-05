@@ -1,0 +1,29 @@
+{
+  "_id": "66z41rig",
+  "accessions": {
+    "excluded": [
+      "KT692952",
+      "KT692953"
+    ],
+    "included": [
+      "NC_029036.1",
+      "NC_029038.1"
+    ]
+  },
+  "name": "Currant latent virus",
+  "schema": [
+    {
+      "length": 6603,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3292,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1476584
+}

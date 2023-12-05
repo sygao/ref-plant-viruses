@@ -1,0 +1,21 @@
+{
+  "_id": "iycgu5j0",
+  "accessions": {
+    "excluded": [
+      "MF926431"
+    ],
+    "included": [
+      "NC_040697.1"
+    ]
+  },
+  "name": "Coconut foliar decay alphasatellite 6",
+  "schema": [
+    {
+      "length": 1264,
+      "molecule": "",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2161879
+}

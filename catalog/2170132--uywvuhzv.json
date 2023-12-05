@@ -1,0 +1,21 @@
+{
+  "_id": "uywvuhzv",
+  "accessions": {
+    "excluded": [
+      "KU685505"
+    ],
+    "included": [
+      "NC_030847.1"
+    ]
+  },
+  "name": "Barbacena virus Y",
+  "schema": [
+    {
+      "length": 9837,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170132
+}

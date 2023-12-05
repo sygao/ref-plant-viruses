@@ -1,0 +1,21 @@
+{
+  "_id": "003f2ef6",
+  "accessions": {
+    "excluded": [
+      "JX173277"
+    ],
+    "included": [
+      "NC_019030.1"
+    ]
+  },
+  "name": "Diuris virus B",
+  "schema": [
+    {
+      "length": 7001,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1247116
+}

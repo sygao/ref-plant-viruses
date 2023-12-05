@@ -1,0 +1,22 @@
+{
+  "_id": "6ed4864f",
+  "accessions": {
+    "excluded": [
+      "JQ314463"
+    ],
+    "included": [
+      "JX846918.1",
+      "NC_017824.1"
+    ]
+  },
+  "name": "Tomato necrotic stunt virus",
+  "schema": [
+    {
+      "length": 10057,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1176153
+}

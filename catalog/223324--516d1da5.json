@@ -1,0 +1,29 @@
+{
+  "_id": "516d1da5",
+  "accessions": {
+    "excluded": [
+      "AF421552",
+      "AF421553"
+    ],
+    "included": [
+      "NC_004645.1",
+      "NC_004646.1"
+    ]
+  },
+  "name": "Squash mild leaf curl virus",
+  "schema": [
+    {
+      "length": 2612,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2578,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223324
+}

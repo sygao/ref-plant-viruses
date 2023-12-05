@@ -1,0 +1,29 @@
+{
+  "_id": "1f3ef59e",
+  "accessions": {
+    "excluded": [
+      "EU914919",
+      "U57305"
+    ],
+    "included": [
+      "NC_001726.1",
+      "NC_030648.1"
+    ]
+  },
+  "name": "Carrot mottle mimic virus",
+  "schema": [
+    {
+      "length": 4201,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    },
+    {
+      "length": 748,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 47736
+}

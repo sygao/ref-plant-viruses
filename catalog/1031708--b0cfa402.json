@@ -1,0 +1,19 @@
+{
+  "_id": "b0cfa402",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT311966.1"
+    ]
+  },
+  "name": "Caper latent virus",
+  "schema": [
+    {
+      "length": 8280,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1031708
+}

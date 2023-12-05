@@ -1,0 +1,21 @@
+{
+  "_id": "x5taick6",
+  "accessions": {
+    "excluded": [
+      "KT388111"
+    ],
+    "included": [
+      "NC_029096.1"
+    ]
+  },
+  "name": "Panax notoginseng virus A",
+  "schema": [
+    {
+      "length": 5003,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1777016
+}

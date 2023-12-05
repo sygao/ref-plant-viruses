@@ -1,0 +1,21 @@
+{
+  "_id": "4b865047",
+  "accessions": {
+    "excluded": [
+      "D32136"
+    ],
+    "included": [
+      "NC_007647.1"
+    ]
+  },
+  "name": "Oryza sativa endornavirus",
+  "schema": [
+    {
+      "length": 13952,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 362693
+}

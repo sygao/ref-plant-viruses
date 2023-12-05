@@ -1,0 +1,24 @@
+{
+  "_id": "c86437c7",
+  "accessions": {
+    "excluded": [
+      "M81413"
+    ],
+    "included": [
+      "MN164454.1",
+      "MN164455.1",
+      "MT733325.1",
+      "NC_003630.1"
+    ]
+  },
+  "name": "Pepper mild mottle virus",
+  "schema": [
+    {
+      "length": 6368,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12239
+}

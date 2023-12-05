@@ -1,0 +1,32 @@
+{
+  "_id": "72032ef0",
+  "accessions": {
+    "excluded": [
+      "D14995"
+    ],
+    "included": [
+      "AB004063.1",
+      "HE978837.1",
+      "JN701424.1",
+      "JQ308181.1",
+      "KF434636.1",
+      "KJ579253.1",
+      "KR106996.1",
+      "LC084659.1",
+      "MZ126534.1",
+      "MZ126541.1",
+      "MZ126542.1",
+      "NC_001749.1"
+    ]
+  },
+  "name": "Apple stem grooving virus",
+  "schema": [
+    {
+      "length": 6485,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 28347
+}

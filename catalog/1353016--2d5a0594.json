@@ -1,0 +1,21 @@
+{
+  "_id": "2d5a0594",
+  "accessions": {
+    "excluded": [
+      "KC852908"
+    ],
+    "included": [
+      "NC_021706.1"
+    ]
+  },
+  "name": "Sclerotinia sclerotiorum endornavirus-1",
+  "schema": [
+    {
+      "length": 10770,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1353016
+}

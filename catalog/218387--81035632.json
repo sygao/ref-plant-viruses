@@ -1,0 +1,21 @@
+{
+  "_id": "81035632",
+  "accessions": {
+    "excluded": [
+      "AY180137"
+    ],
+    "included": [
+      "NC_004540.1"
+    ]
+  },
+  "name": "Kalanchoe top-spotting virus",
+  "schema": [
+    {
+      "length": 7591,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 218387
+}

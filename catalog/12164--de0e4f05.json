@@ -1,0 +1,19 @@
+{
+  "_id": "de0e4f05",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN450069.1"
+    ]
+  },
+  "name": "Carnation latent virus",
+  "schema": [
+    {
+      "length": 8513,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12164
+}

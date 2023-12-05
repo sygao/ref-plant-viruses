@@ -1,0 +1,33 @@
+{
+  "_id": "ubu45954",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY781187.1",
+      "KY781188.1",
+      "KY781189.1"
+    ]
+  },
+  "name": "Watermelon crinkle leaf-associated virus 2",
+  "schema": [
+    {
+      "length": 6680,
+      "molecule": "ssRNA-",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 1423,
+      "molecule": "ssRNA-",
+      "name": "RNA2",
+      "required": true
+    },
+    {
+      "length": 1260,
+      "molecule": "ssRNA-",
+      "name": "RNA3",
+      "required": true
+    }
+  ],
+  "taxid": 2034157
+}

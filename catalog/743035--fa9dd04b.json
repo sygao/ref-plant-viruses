@@ -1,0 +1,21 @@
+{
+  "_id": "fa9dd04b",
+  "accessions": {
+    "excluded": [
+      "FR717143"
+    ],
+    "included": [
+      "NC_014744.1"
+    ]
+  },
+  "name": "Ageratum leaf curl Cameroon alphasatellite",
+  "schema": [
+    {
+      "length": 1383,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 743035
+}

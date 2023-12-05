@@ -1,0 +1,21 @@
+{
+  "_id": "fufkhpu1",
+  "accessions": {
+    "excluded": [
+      "KP984504"
+    ],
+    "included": [
+      "NC_028044.1"
+    ]
+  },
+  "name": "Maize-associated totivirus 1",
+  "schema": [
+    {
+      "length": 3956,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2172039
+}

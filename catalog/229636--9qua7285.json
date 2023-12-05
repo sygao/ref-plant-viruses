@@ -1,0 +1,21 @@
+{
+  "_id": "9qua7285",
+  "accessions": {
+    "excluded": [
+      "AJ558118"
+    ],
+    "included": [
+      "NC_005320.1"
+    ]
+  },
+  "name": "Tomato leaf curl China virus",
+  "schema": [
+    {
+      "length": 2738,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 229636
+}

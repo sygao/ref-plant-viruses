@@ -1,0 +1,20 @@
+{
+  "_id": "y40adl0s",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF521889.1",
+      "MH802036.1"
+    ]
+  },
+  "name": "Grapevine virus H",
+  "schema": [
+    {
+      "length": 7446,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2045345
+}

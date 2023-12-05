@@ -1,0 +1,29 @@
+{
+  "_id": "2159c94e",
+  "accessions": {
+    "excluded": [
+      "EU710754",
+      "EU710755"
+    ],
+    "included": [
+      "NC_010835.1",
+      "NC_010836.1"
+    ]
+  },
+  "name": "Tomato common mosaic virus",
+  "schema": [
+    {
+      "length": 2560,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2498,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 536084
+}

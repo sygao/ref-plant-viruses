@@ -1,0 +1,21 @@
+{
+  "_id": "304fdb16",
+  "accessions": {
+    "excluded": [
+      "JN053266"
+    ],
+    "included": [
+      "NC_015706.1"
+    ]
+  },
+  "name": "Blackberry virus E",
+  "schema": [
+    {
+      "length": 7718,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1043184
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "4d0f2a2f",
+  "accessions": {
+    "excluded": [
+      "X15983",
+      "X15984"
+    ],
+    "included": [
+      "LN611622.1",
+      "LN611623.1",
+      "LN611624.1",
+      "LN611625.1",
+      "NC_001928.1",
+      "NC_001929.1"
+    ]
+  },
+  "name": "Abutilon mosaic virus",
+  "schema": [
+    {
+      "length": 2633,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2593,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10815
+}

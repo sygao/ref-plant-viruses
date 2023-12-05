@@ -1,0 +1,21 @@
+{
+  "_id": "788wvhs2",
+  "accessions": {
+    "excluded": [
+      "MF150239"
+    ],
+    "included": [
+      "NC_035204.1"
+    ]
+  },
+  "name": "Vanilla latent virus",
+  "schema": [
+    {
+      "length": 7462,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2016426
+}

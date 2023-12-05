@@ -1,0 +1,21 @@
+{
+  "_id": "9a5e8940",
+  "accessions": {
+    "excluded": [
+      "GQ472984"
+    ],
+    "included": [
+      "NC_014140.1"
+    ]
+  },
+  "name": "Soybean mild mottle virus",
+  "schema": [
+    {
+      "length": 2768,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 761701
+}

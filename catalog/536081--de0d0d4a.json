@@ -1,0 +1,29 @@
+{
+  "_id": "de0d0d4a",
+  "accessions": {
+    "excluded": [
+      "EU710756",
+      "EU710757"
+    ],
+    "included": [
+      "NC_010837.1",
+      "NC_010838.1"
+    ]
+  },
+  "name": "Blainvillea yellow spot virus",
+  "schema": [
+    {
+      "length": 2666,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2634,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 536081
+}

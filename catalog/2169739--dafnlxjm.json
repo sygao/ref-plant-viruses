@@ -1,0 +1,21 @@
+{
+  "_id": "dafnlxjm",
+  "accessions": {
+    "excluded": [
+      "KT099124"
+    ],
+    "included": [
+      "NC_038967.1"
+    ]
+  },
+  "name": "Whitefly-associated begomovirus 1",
+  "schema": [
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169739
+}

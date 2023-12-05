@@ -1,0 +1,21 @@
+{
+  "_id": "f25db805",
+  "accessions": {
+    "excluded": [
+      "AY707100"
+    ],
+    "included": [
+      "NC_006943.1"
+    ]
+  },
+  "name": "Hydrangea ringspot virus",
+  "schema": [
+    {
+      "length": 6185,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 112228
+}

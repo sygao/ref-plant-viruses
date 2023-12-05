@@ -1,0 +1,58 @@
+{
+  "_id": "af1ad33d",
+  "accessions": {
+    "excluded": [
+      "D00645",
+      "D10066",
+      "S48091"
+    ],
+    "included": [
+      "KY021437.1",
+      "KY021438.1",
+      "KY021439.1",
+      "LC273305.1",
+      "LC273306.1",
+      "LC273307.1",
+      "MF159040.1",
+      "MF159042.1",
+      "MF159043.1",
+      "MF159044.1",
+      "MF159048.1",
+      "MF159052.1",
+      "MF159054.1",
+      "MF159055.1",
+      "MF159056.1",
+      "MF159060.1",
+      "MF159064.1",
+      "MF159066.1",
+      "MF159067.1",
+      "MF159068.1",
+      "MF159072.1",
+      "NC_002050.1",
+      "NC_002051.1",
+      "NC_002052.1"
+    ]
+  },
+  "name": "Tomato spotted wilt virus",
+  "schema": [
+    {
+      "length": 8918,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4780,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 2959,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 1933298
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "819bebd7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JQ031715.1",
+      "MF774336.1",
+      "MZ291906.1",
+      "Y07764.1",
+      "Y15892.1"
+    ]
+  },
+  "name": "Grapevine virus D",
+  "schema": [
+    {
+      "length": 3428,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 51617
+}

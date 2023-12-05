@@ -1,0 +1,29 @@
+{
+  "_id": "1eba6f82",
+  "accessions": {
+    "excluded": [
+      "AF126406",
+      "AF142440"
+    ],
+    "included": [
+      "NC_004608.1",
+      "NC_004609.1"
+    ]
+  },
+  "name": "Mungbean yellow mosaic India virus",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2616,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223287
+}

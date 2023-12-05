@@ -1,0 +1,19 @@
+{
+  "_id": "5f6a3688",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF022446.1"
+    ]
+  },
+  "name": "Ceratobium mosaic virus",
+  "schema": [
+    {
+      "length": 1685,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 66702
+}

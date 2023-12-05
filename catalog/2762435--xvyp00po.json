@@ -1,0 +1,48 @@
+{
+  "_id": "xvyp00po",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT434819.1",
+      "MT434820.1",
+      "MT434821.1",
+      "MT434822.1",
+      "MW546267.1",
+      "MW546268.1",
+      "MW546269.1",
+      "MW546270.1",
+      "MW594435.1",
+      "MW594436.1",
+      "MW594437.1",
+      "MW594438.1"
+    ]
+  },
+  "name": "Tomato fruit blotch virus",
+  "schema": [
+    {
+      "length": 5775,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3602,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2818,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1925,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 2762435
+}

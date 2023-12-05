@@ -1,0 +1,21 @@
+{
+  "_id": "6b6e693d",
+  "accessions": {
+    "excluded": [
+      "EU034539"
+    ],
+    "included": [
+      "NC_011592.1"
+    ]
+  },
+  "name": "Bougainvillea chlorotic vein banding virus",
+  "schema": [
+    {
+      "length": 8759,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 263892
+}

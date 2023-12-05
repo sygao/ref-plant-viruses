@@ -1,0 +1,93 @@
+{
+  "_id": "3a86f912",
+  "accessions": {
+    "excluded": [
+      "U66713",
+      "AF020334",
+      "L38899",
+      "U66712",
+      "L46682",
+      "AF020336",
+      "AF020337",
+      "U66714",
+      "U33633",
+      "AF020335"
+    ],
+    "included": [
+      "NC_003749.1",
+      "NC_003750.1",
+      "NC_003751.1",
+      "NC_003752.1",
+      "NC_003757.1",
+      "NC_003758.1",
+      "NC_003759.1",
+      "NC_003769.1",
+      "NC_003770.1",
+      "NC_003771.1"
+    ]
+  },
+  "name": "Rice ragged stunt virus",
+  "schema": [
+    {
+      "length": 3849,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3808,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3699,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3823,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 2682,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 2157,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1938,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1914,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1132,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1162,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 42475
+}

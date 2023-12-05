@@ -1,0 +1,52 @@
+{
+  "_id": "1ouru3iu",
+  "accessions": {
+    "excluded": [
+      "KT861481",
+      "KT861482",
+      "KT861484",
+      "KT861485"
+    ],
+    "included": [
+      "KT861483.1",
+      "NC_038769.1",
+      "NC_038770.1",
+      "NC_038771.1",
+      "NC_038773.1"
+    ]
+  },
+  "name": "Actinidia chlorotic ringspot associated virus",
+  "schema": [
+    {
+      "length": 7061,
+      "molecule": "ssRNA-",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 2267,
+      "molecule": "ssRNA-",
+      "name": "RNA2",
+      "required": true
+    },
+    {
+      "length": 1678,
+      "molecule": "ssRNA-",
+      "name": "RNA3",
+      "required": true
+    },
+    {
+      "length": 1664,
+      "molecule": "ssRNA-",
+      "name": "RNA4",
+      "required": true
+    },
+    {
+      "length": 1476,
+      "molecule": "ssRNA-",
+      "name": "RNA5",
+      "required": true
+    }
+  ],
+  "taxid": 1776763
+}

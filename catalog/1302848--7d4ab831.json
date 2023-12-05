@@ -1,0 +1,21 @@
+{
+  "_id": "7d4ab831",
+  "accessions": {
+    "excluded": [
+      "JN989422"
+    ],
+    "included": [
+      "NC_022131.1"
+    ]
+  },
+  "name": "Chickpea chlorosis Australia virus",
+  "schema": [
+    {
+      "length": 2572,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1302848
+}

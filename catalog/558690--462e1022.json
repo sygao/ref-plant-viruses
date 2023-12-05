@@ -1,0 +1,29 @@
+{
+  "_id": "462e1022",
+  "accessions": {
+    "excluded": [
+      "AB523788",
+      "AB523789"
+    ],
+    "included": [
+      "NC_018173.1",
+      "NC_018174.1"
+    ]
+  },
+  "name": "Cucurbit chlorotic yellows virus",
+  "schema": [
+    {
+      "length": 8607,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 8041,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 558690
+}

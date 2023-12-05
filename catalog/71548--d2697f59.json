@@ -1,0 +1,25 @@
+{
+  "_id": "d2697f59",
+  "accessions": {
+    "excluded": [
+      "AF037752"
+    ],
+    "included": [
+      "AF039528.1",
+      "AF039529.1",
+      "AF039530.1",
+      "AF239159.2",
+      "NC_001868.1"
+    ]
+  },
+  "name": "Sugarcane streak Egypt virus",
+  "schema": [
+    {
+      "length": 2706,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 71548
+}

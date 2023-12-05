@@ -1,0 +1,19 @@
+{
+  "_id": "3vjdlwht",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT028514.1"
+    ]
+  },
+  "name": "Camellia ringspot associated virus 4",
+  "schema": [
+    {
+      "length": 8829,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2791164
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "9763b7a3",
+  "accessions": {
+    "excluded": [
+      "AF440790",
+      "AY064391"
+    ],
+    "included": [
+      "NC_003860.1",
+      "NC_003865.1"
+    ]
+  },
+  "name": "Squash yellow mild mottle virus",
+  "schema": [
+    {
+      "length": 2663,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2662,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1051966
+}

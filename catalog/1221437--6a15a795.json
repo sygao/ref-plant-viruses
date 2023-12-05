@@ -1,0 +1,23 @@
+{
+  "_id": "6a15a795",
+  "accessions": {
+    "excluded": [
+      "JX105428"
+    ],
+    "included": [
+      "KP114220.1",
+      "MZ291908.1",
+      "NC_018458.1"
+    ]
+  },
+  "name": "Grapevine virus F",
+  "schema": [
+    {
+      "length": 7543,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1221437
+}

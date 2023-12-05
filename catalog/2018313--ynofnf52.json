@@ -1,0 +1,21 @@
+{
+  "_id": "ynofnf52",
+  "accessions": {
+    "excluded": [
+      "KY623506"
+    ],
+    "included": [
+      "NC_035458.1"
+    ]
+  },
+  "name": "Wild melon vein banding virus",
+  "schema": [
+    {
+      "length": 10152,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2018313
+}

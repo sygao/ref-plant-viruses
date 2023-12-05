@@ -1,0 +1,29 @@
+{
+  "_id": "1d7959db",
+  "accessions": {
+    "excluded": [
+      "L23972",
+      "X03241"
+    ],
+    "included": [
+      "NC_003669.1",
+      "NC_003670.1"
+    ]
+  },
+  "name": "Pepper ringspot virus",
+  "schema": [
+    {
+      "length": 6828,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1799,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 31750
+}

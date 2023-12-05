@@ -1,0 +1,21 @@
+{
+  "_id": "edf6qh64",
+  "accessions": {
+    "excluded": [
+      "AM184113"
+    ],
+    "included": [
+      "NC_043422.1"
+    ]
+  },
+  "name": "Henbane mosaic virus",
+  "schema": [
+    {
+      "length": 1646,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 369762
+}

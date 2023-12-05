@@ -1,0 +1,21 @@
+{
+  "_id": "c57cd9fb",
+  "accessions": {
+    "excluded": [
+      "AM296025"
+    ],
+    "included": [
+      "NC_010799.1"
+    ]
+  },
+  "name": "Oat dwarf virus",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 497863
+}

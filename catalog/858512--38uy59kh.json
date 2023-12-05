@@ -1,0 +1,21 @@
+{
+  "_id": "38uy59kh",
+  "accessions": {
+    "excluded": [
+      "KC791691"
+    ],
+    "included": [
+      "NC_038468.1"
+    ]
+  },
+  "name": "Tomato bright yellow mottle virus",
+  "schema": [
+    {
+      "length": 2639,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 858512
+}

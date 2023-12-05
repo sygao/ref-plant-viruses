@@ -1,0 +1,21 @@
+{
+  "_id": "85878db1",
+  "accessions": {
+    "excluded": [
+      "X52938"
+    ],
+    "included": [
+      "NC_001343.1"
+    ]
+  },
+  "name": "Commelina yellow mottle virus",
+  "schema": [
+    {
+      "length": 7489,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10653
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "cb6f1b86",
+  "accessions": {
+    "excluded": [
+      "AY090555"
+    ],
+    "included": [
+      "NC_004637.1"
+    ]
+  },
+  "name": "Sida mottle virus",
+  "schema": [
+    {
+      "length": 2668,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 191460
+}

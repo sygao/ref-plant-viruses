@@ -1,0 +1,29 @@
+{
+  "_id": "ac1dc3c2",
+  "accessions": {
+    "excluded": [
+      "AF480940",
+      "AF480941"
+    ],
+    "included": [
+      "NC_004580.1",
+      "NC_004581.1"
+    ]
+  },
+  "name": "Cotton leaf crumple virus",
+  "schema": [
+    {
+      "length": 2630,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2550,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 77647
+}

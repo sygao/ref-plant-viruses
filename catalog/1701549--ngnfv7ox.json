@@ -1,0 +1,29 @@
+{
+  "_id": "ngnfv7ox",
+  "accessions": {
+    "excluded": [
+      "KR263172",
+      "KR263181"
+    ],
+    "included": [
+      "NC_038965.1",
+      "NC_040183.1"
+    ]
+  },
+  "name": "Tomato chlorotic mottle Guyane virus",
+  "schema": [
+    {
+      "length": 2631,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2603,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1701549
+}

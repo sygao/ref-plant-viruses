@@ -1,0 +1,69 @@
+{
+  "_id": "7taa5sxf",
+  "accessions": {
+    "excluded": [
+      "MK039128",
+      "MK039129",
+      "MK039130",
+      "MK039132",
+      "MK039133",
+      "MK039134",
+      "MK039135"
+    ],
+    "included": [
+      "NC_055609.1",
+      "NC_055610.1",
+      "NC_055611.1",
+      "NC_055612.1",
+      "NC_055613.1",
+      "NC_055614.1",
+      "NC_055615.1"
+    ]
+  },
+  "name": "Parsley severe stunt associated virus",
+  "schema": [
+    {
+      "length": 965,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 969,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 958,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 963,
+      "molecule": "ssDNA",
+      "name": "RNA S",
+      "required": true
+    },
+    {
+      "length": 979,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 962,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 957,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    }
+  ],
+  "taxid": 2558055
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "g1xf6qp1",
+  "accessions": {
+    "excluded": [
+      "KX636164"
+    ],
+    "included": [
+      "NC_055466.1"
+    ]
+  },
+  "name": "Physostegia chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 13320,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1905830
+}

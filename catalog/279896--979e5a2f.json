@@ -1,0 +1,21 @@
+{
+  "_id": "979e5a2f",
+  "accessions": {
+    "excluded": [
+      "AY618418"
+    ],
+    "included": [
+      "NC_005975.1"
+    ]
+  },
+  "name": "Maize mosaic virus",
+  "schema": [
+    {
+      "length": 12133,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 279896
+}

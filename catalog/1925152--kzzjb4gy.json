@@ -1,0 +1,21 @@
+{
+  "_id": "kzzjb4gy",
+  "accessions": {
+    "excluded": [
+      "KX831134"
+    ],
+    "included": [
+      "NC_032119.1"
+    ]
+  },
+  "name": "Vernonia crinkle betasatellite",
+  "schema": [
+    {
+      "length": 1365,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1925152
+}

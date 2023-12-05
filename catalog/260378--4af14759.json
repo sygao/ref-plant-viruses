@@ -1,0 +1,21 @@
+{
+  "_id": "4af14759",
+  "accessions": {
+    "excluded": [
+      "AY502935"
+    ],
+    "included": [
+      "NC_005347.1"
+    ]
+  },
+  "name": "Pepper yellow vein Mali virus",
+  "schema": [
+    {
+      "length": 2786,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 260378
+}

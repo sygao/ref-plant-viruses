@@ -1,0 +1,21 @@
+{
+  "_id": "2h7se3jt",
+  "accessions": {
+    "excluded": [
+      "KC952006"
+    ],
+    "included": [
+      "NC_023038.1"
+    ]
+  },
+  "name": "Tomato leaf curl Gandhinagar betasatellite",
+  "schema": [
+    {
+      "length": 1365,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1384632
+}

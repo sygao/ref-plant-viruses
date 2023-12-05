@@ -1,0 +1,21 @@
+{
+  "_id": "0d0hqjtl",
+  "accessions": {
+    "excluded": [
+      "HM357458"
+    ],
+    "included": [
+      "NC_038462.1"
+    ]
+  },
+  "name": "Sidastrum golden leaf spot virus",
+  "schema": [
+    {
+      "length": 2666,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 858513
+}

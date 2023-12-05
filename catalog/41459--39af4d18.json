@@ -1,0 +1,21 @@
+{
+  "_id": "39af4d18",
+  "accessions": {
+    "excluded": [
+      "Z73124"
+    ],
+    "included": [
+      "NC_003797.1"
+    ]
+  },
+  "name": "Sweet potato mild mottle virus",
+  "schema": [
+    {
+      "length": 10818,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 41459
+}

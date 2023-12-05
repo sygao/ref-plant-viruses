@@ -1,0 +1,29 @@
+{
+  "_id": "fa997450",
+  "accessions": {
+    "excluded": [
+      "KP404602",
+      "KP404603"
+    ],
+    "included": [
+      "NC_028139.1",
+      "NC_028146.1"
+    ]
+  },
+  "name": "Bean rugose mosaic virus",
+  "schema": [
+    {
+      "length": 5909,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3644,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 128790
+}

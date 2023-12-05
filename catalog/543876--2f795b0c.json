@@ -1,0 +1,24 @@
+{
+  "_id": "2f795b0c",
+  "accessions": {
+    "excluded": [
+      "EU798996"
+    ],
+    "included": [
+      "GU451249.1",
+      "KM023145.1",
+      "LC080676.1",
+      "NC_011268.1"
+    ]
+  },
+  "name": "Jatropha leaf curl virus",
+  "schema": [
+    {
+      "length": 2822,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 543876
+}

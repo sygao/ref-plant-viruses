@@ -1,0 +1,21 @@
+{
+  "_id": "5324912f",
+  "accessions": {
+    "excluded": [
+      "M89923"
+    ],
+    "included": [
+      "NC_008017.1"
+    ]
+  },
+  "name": "Sugarcane bacilliform MO virus",
+  "schema": [
+    {
+      "length": 7568,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 362399
+}

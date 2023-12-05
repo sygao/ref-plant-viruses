@@ -1,0 +1,21 @@
+{
+  "_id": "xyg479ya",
+  "accessions": {
+    "excluded": [
+      "FJ824813"
+    ],
+    "included": [
+      "NC_038382.1"
+    ]
+  },
+  "name": "Sugarcane bacilliform Guadeloupe A virus",
+  "schema": [
+    {
+      "length": 7444,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1960252
+}

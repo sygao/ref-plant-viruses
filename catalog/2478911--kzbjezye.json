@@ -1,0 +1,33 @@
+{
+  "_id": "kzbjezye",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG727388.1",
+      "MG727389.1",
+      "MG727390.1"
+    ]
+  },
+  "name": "Hop yellow virus",
+  "schema": [
+    {
+      "length": 3160,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2495,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2529,
+      "molecule": "",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2478911
+}

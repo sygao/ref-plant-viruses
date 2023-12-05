@@ -1,0 +1,21 @@
+{
+  "_id": "3f179428",
+  "accessions": {
+    "excluded": [
+      "M10686"
+    ],
+    "included": [
+      "NC_002602.1"
+    ]
+  },
+  "name": "Cucumber mosaic virus satellite RNA",
+  "schema": [
+    {
+      "length": 336,
+      "molecule": "ssRNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 12436
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "akcdbjaa",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MZ422607.1"
+    ]
+  },
+  "name": "Grapevine-associated marafivirus",
+  "schema": [
+    {
+      "length": 6346,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2863841
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "3a63968d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB255880.1",
+      "DQ094298.1",
+      "JQ809268.1",
+      "JX909290.1",
+      "KP262536.1",
+      "KT005821.1",
+      "KT005824.1",
+      "KT005825.1",
+      "KT005826.1",
+      "M19506.1"
+    ]
+  },
+  "name": "Chrysanthemum stunt viroid",
+  "schema": [
+    {
+      "length": 354,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12897
+}

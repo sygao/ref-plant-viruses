@@ -1,0 +1,21 @@
+{
+  "_id": "4d7fefe6",
+  "accessions": {
+    "excluded": [
+      "AF404509"
+    ],
+    "included": [
+      "NC_003138.1"
+    ]
+  },
+  "name": "Blueberry red ringspot virus",
+  "schema": [
+    {
+      "length": 8303,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 172220
+}

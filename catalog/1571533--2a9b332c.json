@@ -1,0 +1,21 @@
+{
+  "_id": "2a9b332c",
+  "accessions": {
+    "excluded": [
+      "KF806701"
+    ],
+    "included": [
+      "NC_025834.1"
+    ]
+  },
+  "name": "Switchgrass mosaic-associated virus 1",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1571533
+}

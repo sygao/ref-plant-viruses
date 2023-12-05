@@ -1,0 +1,21 @@
+{
+  "_id": "bbd5313f",
+  "accessions": {
+    "excluded": [
+      "JQ898331"
+    ],
+    "included": [
+      "NC_023850.1"
+    ]
+  },
+  "name": "Baminivirus",
+  "schema": [
+    {
+      "length": 2806,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1229324
+}

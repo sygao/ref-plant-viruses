@@ -1,0 +1,21 @@
+{
+  "_id": "ca8b8b04",
+  "accessions": {
+    "excluded": [
+      "GU734126"
+    ],
+    "included": [
+      "NC_014631.1"
+    ]
+  },
+  "name": "Spinach severe curly top virus",
+  "schema": [
+    {
+      "length": 3065,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 873160
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "4mn5xg23",
+  "accessions": {
+    "excluded": [
+      "HM007103"
+    ],
+    "included": [
+      "NC_017678.1"
+    ]
+  },
+  "name": "Tomato leaf curl Joydebpur betasatellite [India/Jaunpur/Chilli/2007]",
+  "schema": [
+    {
+      "length": 1362,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 436243
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "0lg0y59p",
+  "accessions": {
+    "excluded": [
+      "KR134312"
+    ],
+    "included": [
+      "KJ955447.1",
+      "KJ955448.1",
+      "KJ955449.1",
+      "KJ955451.1",
+      "KR134311.1",
+      "KR134314.1",
+      "KR134315.1",
+      "KR134316.1",
+      "KR134317.1",
+      "KR134318.1",
+      "KR134319.1",
+      "KR134320.1",
+      "KR134321.1",
+      "KR134322.1",
+      "KR134323.1",
+      "KR134324.1",
+      "KR134343.1",
+      "KR134345.1",
+      "KR134347.1",
+      "NC_027632.1"
+    ]
+  },
+  "name": "Temperate fruit decay-associated virus",
+  "schema": [
+    {
+      "length": 3442,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1628899
+}

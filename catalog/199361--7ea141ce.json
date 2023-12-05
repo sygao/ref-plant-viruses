@@ -1,0 +1,21 @@
+{
+  "_id": "7ea141ce",
+  "accessions": {
+    "excluded": [
+      "AB086951"
+    ],
+    "included": [
+      "NC_004995.1"
+    ]
+  },
+  "name": "Pea stem necrosis virus",
+  "schema": [
+    {
+      "length": 4048,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 199361
+}

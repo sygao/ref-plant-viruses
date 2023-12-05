@@ -1,0 +1,19 @@
+{
+  "_id": "m2nrt60n",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT533610.1"
+    ]
+  },
+  "name": "Clivia yellow stripe virus",
+  "schema": [
+    {
+      "length": 9800,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2838134
+}

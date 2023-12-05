@@ -1,0 +1,37 @@
+{
+  "_id": "dfd23361",
+  "accessions": {
+    "excluded": [
+      "D12477",
+      "L19655"
+    ],
+    "included": [
+      "KM083890.1",
+      "KM083891.1",
+      "KM083892.1",
+      "KM083893.1",
+      "KM083894.1",
+      "KM083895.1",
+      "KR911669.1",
+      "KR911672.1",
+      "NC_003839.1",
+      "NC_003840.1"
+    ]
+  },
+  "name": "Tomato ringspot virus",
+  "schema": [
+    {
+      "length": 8054,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 7558,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12280
+}

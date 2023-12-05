@@ -1,0 +1,31 @@
+{
+  "_id": "2f2a649c",
+  "accessions": {
+    "excluded": [
+      "S51557",
+      "S55890"
+    ],
+    "included": [
+      "KJ007639.1",
+      "KJ007640.1",
+      "NC_003739.1",
+      "NC_003740.1"
+    ]
+  },
+  "name": "Raspberry bushy dwarf virus",
+  "schema": [
+    {
+      "length": 2231,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 5449,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    }
+  ],
+  "taxid": 12451
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "074ab4d0",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KJ541744.1",
+      "KJ541745.1",
+      "KJ541746.1",
+      "KX468762.1",
+      "KX468763.1",
+      "KX468764.1"
+    ]
+  },
+  "name": "Polygonum ringspot virus",
+  "schema": [
+    {
+      "length": 8888,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4712,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 2480,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 1678786
+}

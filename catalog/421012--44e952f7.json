@@ -1,0 +1,14 @@
+{
+  "_id": "44e952f7",
+  "accessions": {
+    "excluded": [
+      "FM206346"
+    ],
+    "included": [
+      "NC_014064.1"
+    ]
+  },
+  "name": "Freesia mosaic virus",
+  "schema": [],
+  "taxid": 421012
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "f17cd095",
+  "accessions": {
+    "excluded": [
+      "KF040467"
+    ],
+    "included": [
+      "NC_022232.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Shanghai virus",
+  "schema": [
+    {
+      "length": 2834,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1392388
+}

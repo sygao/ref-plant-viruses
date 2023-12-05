@@ -1,0 +1,23 @@
+{
+  "_id": "fdgjt6s3",
+  "accessions": {
+    "excluded": [
+      "HG940503"
+    ],
+    "included": [
+      "KT965859.1",
+      "MF991952.1",
+      "NC_027131.1"
+    ]
+  },
+  "name": "Grapevine roditis leaf discoloration associated virus",
+  "schema": [
+    {
+      "length": 7080,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1471299
+}

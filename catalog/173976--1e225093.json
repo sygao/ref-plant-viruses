@@ -1,0 +1,29 @@
+{
+  "_id": "1e225093",
+  "accessions": {
+    "excluded": [
+      "AB073147",
+      "AB073148"
+    ],
+    "included": [
+      "NC_003791.1",
+      "NC_003792.1"
+    ]
+  },
+  "name": "Cycas necrotic stunt virus",
+  "schema": [
+    {
+      "length": 7471,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4667,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 173976
+}

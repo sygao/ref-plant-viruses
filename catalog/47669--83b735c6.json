@@ -1,0 +1,23 @@
+{
+  "_id": "83b735c6",
+  "accessions": {
+    "excluded": [
+      "X85989"
+    ],
+    "included": [
+      "DQ083996.1",
+      "GU326337.1",
+      "NC_001721.1"
+    ]
+  },
+  "name": "Olive latent virus 1",
+  "schema": [
+    {
+      "length": 3700,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 47669
+}

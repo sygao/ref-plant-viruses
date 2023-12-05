@@ -1,0 +1,19 @@
+{
+  "_id": "v2vz3wqk",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH282832.1"
+    ]
+  },
+  "name": "Papaya cytorhabdovirus",
+  "schema": [
+    {
+      "length": 13469,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2364291
+}

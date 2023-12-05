@@ -1,0 +1,37 @@
+{
+  "_id": "972a757b",
+  "accessions": {
+    "excluded": [
+      "KF742519",
+      "KF742520",
+      "KF742521"
+    ],
+    "included": [
+      "NC_025482.1",
+      "NC_025483.1",
+      "NC_025484.1"
+    ]
+  },
+  "name": "Cassava Ivorian bacilliform virus",
+  "schema": [
+    {
+      "length": 3130,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2553,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2564,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1464778
+}

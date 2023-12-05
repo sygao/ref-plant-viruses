@@ -1,0 +1,22 @@
+{
+  "_id": "285cfff8",
+  "accessions": {
+    "excluded": [
+      "KJ210622"
+    ],
+    "included": [
+      "MK606500.1",
+      "NC_023989.1"
+    ]
+  },
+  "name": "Sugarcane white streak virus",
+  "schema": [
+    {
+      "length": 2831,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1492296
+}

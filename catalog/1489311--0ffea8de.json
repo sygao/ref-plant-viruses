@@ -1,0 +1,23 @@
+{
+  "_id": "0ffea8de",
+  "accessions": {
+    "excluded": [
+      "KC907406",
+      "KJ476507"
+    ],
+    "included": [
+      "NC_021719.1",
+      "NC_024117.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Henan virus",
+  "schema": [
+    {
+      "length": 2775,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1489311
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "a85d07f2",
+  "accessions": {
+    "excluded": [
+      "AF155064"
+    ],
+    "included": [
+      "NC_002510.1"
+    ]
+  },
+  "name": "Cotton leaf curl Gezira virus",
+  "schema": [
+    {
+      "length": 2764,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 222459
+}

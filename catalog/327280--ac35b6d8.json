@@ -1,0 +1,29 @@
+{
+  "_id": "ac35b6d8",
+  "accessions": {
+    "excluded": [
+      "DQ022611",
+      "GU972604"
+    ],
+    "included": [
+      "NC_014066.1",
+      "NC_014067.1"
+    ]
+  },
+  "name": "Okra yellow mosaic Mexico virus",
+  "schema": [
+    {
+      "length": 2612,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2582,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 327280
+}

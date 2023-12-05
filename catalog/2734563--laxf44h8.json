@@ -1,0 +1,19 @@
+{
+  "_id": "laxf44h8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG944237.1"
+    ]
+  },
+  "name": "Dioscorea nummularia-associated virus",
+  "schema": [
+    {
+      "length": 8139,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2734563
+}

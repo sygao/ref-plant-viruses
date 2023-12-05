@@ -1,0 +1,21 @@
+{
+  "_id": "dfca1199",
+  "accessions": {
+    "excluded": [
+      "JQ723475"
+    ],
+    "included": [
+      "NC_017977.1"
+    ]
+  },
+  "name": "Cyrtanthus elatus virus A",
+  "schema": [
+    {
+      "length": 9908,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 861561
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "889b2ab0",
+  "accessions": {
+    "excluded": [
+      "FJ011668",
+      "FJ011669"
+    ],
+    "included": [
+      "NC_011346.1",
+      "NC_011347.1"
+    ]
+  },
+  "name": "Clerodendrum golden mosaic China virus",
+  "schema": [
+    {
+      "length": 2776,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 559878
+}

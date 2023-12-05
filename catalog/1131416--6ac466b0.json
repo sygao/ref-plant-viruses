@@ -1,0 +1,26 @@
+{
+  "_id": "6ac466b0",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EU881936.1",
+      "EU881937.1"
+    ]
+  },
+  "name": "Cucurbit mild mosaic virus",
+  "schema": [
+    {
+      "length": 5870,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3294,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1131416
+}

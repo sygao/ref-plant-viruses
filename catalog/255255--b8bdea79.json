@@ -1,0 +1,21 @@
+{
+  "_id": "b8bdea79",
+  "accessions": {
+    "excluded": [
+      "LC224308"
+    ],
+    "included": [
+      "NC_038324.1"
+    ]
+  },
+  "name": "Melon yellowing-associated virus",
+  "schema": [
+    {
+      "length": 9073,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 255255
+}

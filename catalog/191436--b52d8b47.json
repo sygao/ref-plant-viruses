@@ -1,0 +1,37 @@
+{
+  "_id": "b52d8b47",
+  "accessions": {
+    "excluded": [
+      "AY089993",
+      "AY089994",
+      "AY089995"
+    ],
+    "included": [
+      "NC_004018.1",
+      "NC_004019.1",
+      "NC_004020.1"
+    ]
+  },
+  "name": "Gremmeniella abietina RNA virus MS1",
+  "schema": [
+    {
+      "length": 1782,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1586,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1186,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 191436
+}

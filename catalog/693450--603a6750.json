@@ -1,0 +1,33 @@
+{
+  "_id": "603a6750",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK275258.1",
+      "MK275261.1",
+      "MK275264.1"
+    ]
+  },
+  "name": "Alstroemeria necrotic streak virus",
+  "schema": [
+    {
+      "length": 8967,
+      "molecule": "ssRNA-",
+      "name": "Segment L",
+      "required": true
+    },
+    {
+      "length": 4858,
+      "molecule": "ssRNA-",
+      "name": "Segment M",
+      "required": true
+    },
+    {
+      "length": 3132,
+      "molecule": "ssRNA-",
+      "name": "Segment S",
+      "required": true
+    }
+  ],
+  "taxid": 693450
+}

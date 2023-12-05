@@ -1,0 +1,21 @@
+{
+  "_id": "3aot17ml",
+  "accessions": {
+    "excluded": [
+      "FN436001"
+    ],
+    "included": [
+      "NC_038887.1"
+    ]
+  },
+  "name": "Sida Brazil virus",
+  "schema": [
+    {
+      "length": 2659,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 666145
+}

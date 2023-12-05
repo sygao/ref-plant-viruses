@@ -1,0 +1,29 @@
+{
+  "_id": "83da5920",
+  "accessions": {
+    "excluded": [
+      "GU810903",
+      "GU810904"
+    ],
+    "included": [
+      "NC_022004.1",
+      "NC_022006.1"
+    ]
+  },
+  "name": "Broad bean true mosaic virus",
+  "schema": [
+    {
+      "length": 6068,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3532,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 649890
+}

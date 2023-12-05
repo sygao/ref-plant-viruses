@@ -1,0 +1,29 @@
+{
+  "_id": "1hpb8ul3",
+  "accessions": {
+    "excluded": [
+      "KY294725",
+      "KY294727"
+    ],
+    "included": [
+      "NC_039001.1",
+      "NC_040192.1"
+    ]
+  },
+  "name": "Desmodium mottle virus",
+  "schema": [
+    {
+      "length": 2767,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2713,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1960710
+}

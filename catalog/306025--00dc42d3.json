@@ -1,0 +1,21 @@
+{
+  "_id": "00dc42d3",
+  "accessions": {
+    "excluded": [
+      "EF465536"
+    ],
+    "included": [
+      "NC_009535.1"
+    ]
+  },
+  "name": "Cotton leaf curl Multan betasatellite",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 306025
+}

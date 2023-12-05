@@ -1,0 +1,14 @@
+{
+  "_id": "4261a7fc",
+  "accessions": {
+    "excluded": [
+      "JQ866298"
+    ],
+    "included": [
+      "NC_018091.1"
+    ]
+  },
+  "name": "French bean leaf curl betasatellite-Kanpur",
+  "schema": [],
+  "taxid": 1200971
+}

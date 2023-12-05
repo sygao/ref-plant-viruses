@@ -1,0 +1,21 @@
+{
+  "_id": "02nh69bl",
+  "accessions": {
+    "excluded": [
+      "MG686419"
+    ],
+    "included": [
+      "NC_040635.1"
+    ]
+  },
+  "name": "Birch leaf roll-associated virus",
+  "schema": [
+    {
+      "length": 7864,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2057979
+}

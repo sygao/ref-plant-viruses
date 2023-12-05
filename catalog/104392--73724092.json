@@ -1,0 +1,19 @@
+{
+  "_id": "73724092",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF185956.1"
+    ]
+  },
+  "name": "Rhopalanthe virus Y",
+  "schema": [
+    {
+      "length": 1622,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104392
+}

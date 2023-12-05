@@ -1,0 +1,23 @@
+{
+  "_id": "c74673b2",
+  "accessions": {
+    "excluded": [
+      "M21958"
+    ],
+    "included": [
+      "MW582792.1",
+      "MZ202331.1",
+      "NC_001554.1"
+    ]
+  },
+  "name": "Tomato bushy stunt virus",
+  "schema": [
+    {
+      "length": 4773,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12145
+}

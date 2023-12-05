@@ -1,0 +1,93 @@
+{
+  "_id": "d48f9d46",
+  "accessions": {
+    "excluded": [
+      "D14691",
+      "D26127",
+      "D49693",
+      "D49694",
+      "D49695",
+      "D49696",
+      "D49697",
+      "D49698",
+      "D49699",
+      "D49700"
+    ],
+    "included": [
+      "NC_003652.1",
+      "NC_003653.1",
+      "NC_003654.1",
+      "NC_003655.1",
+      "NC_003656.1",
+      "NC_003657.1",
+      "NC_003658.1",
+      "NC_003659.1",
+      "NC_003660.1",
+      "NC_003661.1"
+    ]
+  },
+  "name": "Nilaparvata lugens reovirus",
+  "schema": [
+    {
+      "length": 4391,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3732,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3753,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 3560,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 3427,
+      "molecule": "dsRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 2970,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1994,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1802,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1640,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1430,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    }
+  ],
+  "taxid": 33724
+}

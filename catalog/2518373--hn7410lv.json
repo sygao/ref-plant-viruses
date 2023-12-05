@@ -1,0 +1,21 @@
+{
+  "_id": "hn7410lv",
+  "accessions": {
+    "excluded": [
+      "MG800833"
+    ],
+    "included": [
+      "NC_055513.1"
+    ]
+  },
+  "name": "Pumpkin polerovirus",
+  "schema": [
+    {
+      "length": 5810,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2518373
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "y3nw507f",
+  "accessions": {
+    "excluded": [
+      "KU933258"
+    ],
+    "included": [
+      "NC_031306.1"
+    ]
+  },
+  "name": "Synedrella leaf curl virus",
+  "schema": [
+    {
+      "length": 2749,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1899219
+}

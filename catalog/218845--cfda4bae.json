@@ -1,0 +1,22 @@
+{
+  "_id": "cfda4bae",
+  "accessions": {
+    "excluded": [
+      "KC699042",
+      "AJ536621"
+    ],
+    "included": [
+      "NC_005030.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Yunnan virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1336,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 218845
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "f5d46e48",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF185955.1"
+    ]
+  },
+  "name": "Cypripedium virus Y",
+  "schema": [
+    {
+      "length": 1642,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104389
+}

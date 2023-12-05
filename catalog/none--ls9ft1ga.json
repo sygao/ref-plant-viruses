@@ -1,0 +1,21 @@
+{
+  "_id": "ls9ft1ga",
+  "accessions": {
+    "excluded": [
+      "KU508800"
+    ],
+    "included": [
+      "NC_043523.1"
+    ]
+  },
+  "name": "Angelica bush stunt virus",
+  "schema": [
+    {
+      "length": 8300,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

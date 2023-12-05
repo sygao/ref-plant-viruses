@@ -1,0 +1,22 @@
+{
+  "_id": "aa15e4b9",
+  "accessions": {
+    "excluded": [
+      "X17101"
+    ],
+    "included": [
+      "HM211854.1",
+      "NC_003553.1"
+    ]
+  },
+  "name": "Australian grapevine viroid",
+  "schema": [
+    {
+      "length": 372,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 190810
+}

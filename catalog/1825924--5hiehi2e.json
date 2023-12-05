@@ -1,0 +1,21 @@
+{
+  "_id": "5hiehi2e",
+  "accessions": {
+    "excluded": [
+      "KT962089"
+    ],
+    "included": [
+      "NC_029906.1"
+    ]
+  },
+  "name": "Barley virus G",
+  "schema": [
+    {
+      "length": 5620,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1825924
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "62a9ebca",
+  "accessions": {
+    "excluded": [
+      "EU081018"
+    ],
+    "included": [
+      "NC_011108.1"
+    ]
+  },
+  "name": "Cocksfoot mild mosaic virus",
+  "schema": [
+    {
+      "length": 4198,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 479060
+}

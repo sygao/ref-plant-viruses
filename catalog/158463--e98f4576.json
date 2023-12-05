@@ -1,0 +1,29 @@
+{
+  "_id": "e98f4576",
+  "accessions": {
+    "excluded": [
+      "DQ207749",
+      "EF534708"
+    ],
+    "included": [
+      "NC_009607.1",
+      "NC_009612.1"
+    ]
+  },
+  "name": "Tomato severe rugose virus",
+  "schema": [
+    {
+      "length": 2593,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2571,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 158463
+}

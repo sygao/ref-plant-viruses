@@ -1,0 +1,21 @@
+{
+  "_id": "935c95f4",
+  "accessions": {
+    "excluded": [
+      "HQ677625"
+    ],
+    "included": [
+      "NC_014967.1"
+    ]
+  },
+  "name": "Honeysuckle ringspot virus",
+  "schema": [
+    {
+      "length": 3956,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 943272
+}

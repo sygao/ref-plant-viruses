@@ -1,0 +1,21 @@
+{
+  "_id": "008efa27",
+  "accessions": {
+    "excluded": [
+      "D13438"
+    ],
+    "included": [
+      "NC_003852.1"
+    ]
+  },
+  "name": "Obuda pepper virus",
+  "schema": [
+    {
+      "length": 6507,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31749
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "a3ea3ed4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY646511.1",
+      "FJ355920.1",
+      "JQ765412.1",
+      "JX416228.1",
+      "KC588947.1",
+      "KC588948.1"
+    ]
+  },
+  "name": "Citrus tatter leaf virus",
+  "schema": [
+    {
+      "length": 6496,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 33759
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "b4452e4d",
+  "accessions": {
+    "excluded": [
+      "EU710752",
+      "EU710753"
+    ],
+    "included": [
+      "NC_010833.1",
+      "NC_010834.1"
+    ]
+  },
+  "name": "Tomato mild mosaic virus",
+  "schema": [
+    {
+      "length": 2708,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2663,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 536086
+}

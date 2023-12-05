@@ -1,0 +1,24 @@
+{
+  "_id": "61ee3967",
+  "accessions": {
+    "excluded": [
+      "Y09854"
+    ],
+    "included": [
+      "AF035818.1",
+      "KR061300.1",
+      "MT005828.1",
+      "NC_001814.1"
+    ]
+  },
+  "name": "Ryegrass mosaic virus",
+  "schema": [
+    {
+      "length": 9542,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 40666
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "db38421a",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KT454832.1",
+      "KT454833.1",
+      "KU683743.1"
+    ]
+  },
+  "name": "Telfairia mosaic virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2660,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1859135
+}

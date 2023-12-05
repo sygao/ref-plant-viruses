@@ -1,0 +1,21 @@
+{
+  "_id": "0tv3d5li",
+  "accessions": {
+    "excluded": [
+      "MK063878"
+    ],
+    "included": [
+      "NC_055512.1"
+    ]
+  },
+  "name": "Morogoro maize-associated virus",
+  "schema": [
+    {
+      "length": 12185,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2497337
+}

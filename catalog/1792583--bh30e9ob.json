@@ -1,0 +1,21 @@
+{
+  "_id": "bh30e9ob",
+  "accessions": {
+    "excluded": [
+      "KT834407"
+    ],
+    "included": [
+      "NC_030118.1"
+    ]
+  },
+  "name": "Tobacco mosqueado virus",
+  "schema": [
+    {
+      "length": 9896,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1792583
+}

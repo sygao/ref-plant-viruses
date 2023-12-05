@@ -1,0 +1,19 @@
+{
+  "_id": "wrnlfyde",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW929099.1"
+    ]
+  },
+  "name": "Cassava ampelovirus 1",
+  "schema": [
+    {
+      "length": 13644,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2862824
+}

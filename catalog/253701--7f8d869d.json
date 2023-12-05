@@ -1,0 +1,21 @@
+{
+  "_id": "7f8d869d",
+  "accessions": {
+    "excluded": [
+      "AY366208"
+    ],
+    "included": [
+      "NC_006059.1"
+    ]
+  },
+  "name": "Zygocactus virus X",
+  "schema": [
+    {
+      "length": 6624,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 253701
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "6da6e701",
+  "accessions": {
+    "excluded": [
+      "M82918"
+    ],
+    "included": [
+      "NC_003744.1"
+    ]
+  },
+  "name": "Sugarcane streak virus",
+  "schema": [
+    {
+      "length": 2758,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10836
+}

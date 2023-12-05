@@ -1,0 +1,29 @@
+{
+  "_id": "29d56f74",
+  "accessions": {
+    "excluded": [
+      "X99550",
+      "X99551"
+    ],
+    "included": [
+      "NC_004657.1",
+      "NC_004658.1"
+    ]
+  },
+  "name": "Sida golden mosaic Costa Rica virus",
+  "schema": [
+    {
+      "length": 2605,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2587,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223313
+}

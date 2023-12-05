@@ -1,0 +1,37 @@
+{
+  "_id": "b8llp2qk",
+  "accessions": {
+    "excluded": [
+      "KX698422",
+      "KX698423",
+      "KX698424"
+    ],
+    "included": [
+      "NC_033832.1",
+      "NC_033833.1",
+      "NC_033834.1"
+    ]
+  },
+  "name": "Melon severe mosaic tospovirus",
+  "schema": [
+    {
+      "length": 3283,
+      "molecule": "",
+      "name": "Segment S",
+      "required": true
+    },
+    {
+      "length": 8911,
+      "molecule": "",
+      "name": "Segment L",
+      "required": true
+    },
+    {
+      "length": 4873,
+      "molecule": "",
+      "name": "Segment M",
+      "required": true
+    }
+  ],
+  "taxid": 485724
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "9419018a",
+  "accessions": {
+    "excluded": [
+      "GU111988"
+    ],
+    "included": [
+      "NC_014846.1"
+    ]
+  },
+  "name": "Bhendi yellow vein India betasatellite [India:Aurangabad:OY164:2006]",
+  "schema": [
+    {
+      "length": 1385,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 908009
+}

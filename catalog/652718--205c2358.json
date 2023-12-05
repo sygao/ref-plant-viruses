@@ -1,0 +1,21 @@
+{
+  "_id": "205c2358",
+  "accessions": {
+    "excluded": [
+      "FJ529203"
+    ],
+    "included": [
+      "NC_013465.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Canary virus",
+  "schema": [
+    {
+      "length": 2807,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 652718
+}

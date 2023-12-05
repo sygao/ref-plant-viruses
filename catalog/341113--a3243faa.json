@@ -1,0 +1,19 @@
+{
+  "_id": "a3243faa",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "HQ449546.1"
+    ]
+  },
+  "name": "Ranunculus latent virus",
+  "schema": [
+    {
+      "length": 5929,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 341113
+}

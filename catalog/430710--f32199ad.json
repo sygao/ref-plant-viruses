@@ -1,0 +1,21 @@
+{
+  "_id": "f32199ad",
+  "accessions": {
+    "excluded": [
+      "HM029246"
+    ],
+    "included": [
+      "NC_014593.1"
+    ]
+  },
+  "name": "Blueberry latent virus",
+  "schema": [
+    {
+      "length": 3431,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 430710
+}

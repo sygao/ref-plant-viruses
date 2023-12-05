@@ -1,0 +1,39 @@
+{
+  "_id": "d6f96ac3",
+  "accessions": {
+    "excluded": [
+      "AJ311875",
+      "AJ311876"
+    ],
+    "included": [
+      "KU177218.1",
+      "KU177219.1",
+      "KU200453.1",
+      "KU200454.1",
+      "KU200456.1",
+      "KU200457.1",
+      "KU200458.1",
+      "KU200459.1",
+      "KU200460.1",
+      "KU200461.1",
+      "NC_003445.1",
+      "NC_003446.1"
+    ]
+  },
+  "name": "Strawberry mottle virus",
+  "schema": [
+    {
+      "length": 7026,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6188,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 167161
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "e0ef1add",
+  "accessions": {
+    "excluded": [
+      "KU641378",
+      "KU641379",
+      "KU641380"
+    ],
+    "included": [
+      "NC_031758.1",
+      "NC_031759.1",
+      "NC_031762.1"
+    ]
+  },
+  "name": "Zucchini lethal chlorosis virus",
+  "schema": [
+    {
+      "length": 8885,
+      "molecule": "ssRNA-",
+      "name": "Segment L",
+      "required": true
+    },
+    {
+      "length": 4860,
+      "molecule": "ssRNA-",
+      "name": "Segement M",
+      "required": true
+    },
+    {
+      "length": 3524,
+      "molecule": "ssRNA-",
+      "name": "Segment S",
+      "required": true
+    }
+  ],
+  "taxid": 83872
+}

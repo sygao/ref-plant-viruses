@@ -1,0 +1,29 @@
+{
+  "_id": "m6tjfhim",
+  "accessions": {
+    "excluded": [
+      "LC387327",
+      "LC387329"
+    ],
+    "included": [
+      "NC_055516.1",
+      "NC_055517.1"
+    ]
+  },
+  "name": "Pepper yellow leaf curl Aceh virus",
+  "schema": [
+    {
+      "length": 2743,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2731,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2547432
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "70da63d2",
+  "accessions": {
+    "excluded": [
+      "DQ186554"
+    ],
+    "included": [
+      "NC_011542.1"
+    ]
+  },
+  "name": "Maize Iranian mosaic virus",
+  "schema": [
+    {
+      "length": 12381,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 348823
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "ucdzbq6d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF405923.1",
+      "MF405924.1",
+      "MF405925.1",
+      "MF781081.1"
+    ]
+  },
+  "name": "Grapevine virus G",
+  "schema": [
+    {
+      "length": 7482,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2022475
+}

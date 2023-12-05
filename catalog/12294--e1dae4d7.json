@@ -1,0 +1,29 @@
+{
+  "_id": "e1dae4d7",
+  "accessions": {
+    "excluded": [
+      "X14006",
+      "X51828"
+    ],
+    "included": [
+      "NC_001368.1",
+      "NC_002036.1"
+    ]
+  },
+  "name": "Pea early-browning virus",
+  "schema": [
+    {
+      "length": 7073,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3374,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12294
+}

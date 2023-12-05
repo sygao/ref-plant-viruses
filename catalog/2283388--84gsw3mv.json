@@ -1,0 +1,21 @@
+{
+  "_id": "84gsw3mv",
+  "accessions": {
+    "excluded": [
+      "MH464873"
+    ],
+    "included": [
+      "NC_055495.1"
+    ]
+  },
+  "name": "Faba bean polerovirus 1",
+  "schema": [
+    {
+      "length": 5631,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2283388
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "b8d36ecc",
+  "accessions": {
+    "excluded": [
+      "AY004291"
+    ],
+    "included": [
+      "NC_002568.1"
+    ]
+  },
+  "name": "Sesbania mosaic virus",
+  "schema": [
+    {
+      "length": 4148,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12558
+}

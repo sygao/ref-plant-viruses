@@ -1,0 +1,37 @@
+{
+  "_id": "a0c7146b",
+  "accessions": {
+    "excluded": [
+      "AF226160",
+      "AF226161",
+      "AF226162"
+    ],
+    "included": [
+      "NC_003833.1",
+      "NC_003834.1",
+      "NC_003835.1"
+    ]
+  },
+  "name": "Tulare apple mosaic virus",
+  "schema": [
+    {
+      "length": 3459,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2944,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2229,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 151043
+}

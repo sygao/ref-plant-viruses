@@ -1,0 +1,21 @@
+{
+  "_id": "c59fe3a2",
+  "accessions": {
+    "excluded": [
+      "AF538686"
+    ],
+    "included": [
+      "NC_014325.1"
+    ]
+  },
+  "name": "Bidens mottle virus",
+  "schema": [
+    {
+      "length": 9741,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 433357
+}

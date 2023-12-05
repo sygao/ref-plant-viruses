@@ -1,0 +1,21 @@
+{
+  "_id": "a4aebf4e",
+  "accessions": {
+    "excluded": [
+      "KC149938"
+    ],
+    "included": [
+      "NC_020236.1"
+    ]
+  },
+  "name": "Pepper yellow leaf curl China virus",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1288829
+}

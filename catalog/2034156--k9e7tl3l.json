@@ -1,0 +1,33 @@
+{
+  "_id": "k9e7tl3l",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY781184.1",
+      "KY781185.1",
+      "KY781186.1"
+    ]
+  },
+  "name": "Watermelon crinkle leaf associated virus 1",
+  "schema": [
+    {
+      "length": 6636,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1409,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1310,
+      "molecule": "",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2034156
+}

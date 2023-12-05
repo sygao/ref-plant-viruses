@@ -1,0 +1,21 @@
+{
+  "_id": "fbd9391c",
+  "accessions": {
+    "excluded": [
+      "EU554423"
+    ],
+    "included": [
+      "NC_010737.1"
+    ]
+  },
+  "name": "Lamium leaf distortion virus",
+  "schema": [
+    {
+      "length": 7713,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 515320
+}

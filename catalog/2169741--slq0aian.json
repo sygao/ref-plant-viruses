@@ -1,0 +1,21 @@
+{
+  "_id": "slq0aian",
+  "accessions": {
+    "excluded": [
+      "KT099127"
+    ],
+    "included": [
+      "NC_038969.1"
+    ]
+  },
+  "name": "Whitefly-associated begomovirus 3",
+  "schema": [
+    {
+      "length": 2629,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169741
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "4db36880",
+  "accessions": {
+    "excluded": [
+      "X84735"
+    ],
+    "included": [
+      "NC_003825.1"
+    ]
+  },
+  "name": "Tomato pseudo-curly top virus",
+  "schema": [
+    {
+      "length": 2861,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 49267
+}

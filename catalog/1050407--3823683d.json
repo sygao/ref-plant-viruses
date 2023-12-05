@@ -1,0 +1,25 @@
+{
+  "_id": "3823683d",
+  "accessions": {
+    "excluded": [
+      "JF301669"
+    ],
+    "included": [
+      "KJ725346.1",
+      "KT907478.1",
+      "KX610316.1",
+      "KX610317.1",
+      "NC_015784.1"
+    ]
+  },
+  "name": "Grapevine vein-clearing virus",
+  "schema": [
+    {
+      "length": 7749,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1050407
+}

@@ -1,0 +1,20 @@
+{
+  "_id": "6izqh7u7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF991300.1",
+      "MG958506.1"
+    ]
+  },
+  "name": "Jasmine mosaic-associated virus 2",
+  "schema": [
+    {
+      "length": 3930,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2293881
+}

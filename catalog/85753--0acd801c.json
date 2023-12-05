@@ -1,0 +1,21 @@
+{
+  "_id": "0acd801c",
+  "accessions": {
+    "excluded": [
+      "AB050781"
+    ],
+    "included": [
+      "NC_003357.1"
+    ]
+  },
+  "name": "Soybean crinkle leaf virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 85753
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "c8e999f7",
+  "accessions": {
+    "excluded": [
+      "DQ641694"
+    ],
+    "included": [
+      "NC_009545.1"
+    ]
+  },
+  "name": "Spilanthes yellow vein virus",
+  "schema": [
+    {
+      "length": 2761,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 390439
+}

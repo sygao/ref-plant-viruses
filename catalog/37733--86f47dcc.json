@@ -1,0 +1,49 @@
+{
+  "_id": "86f47dcc",
+  "accessions": {
+    "excluded": [
+      "AF278534",
+      "AF278535",
+      "U57046"
+    ],
+    "included": [
+      "MZ451017.1",
+      "MZ451019.1",
+      "MZ451024.1",
+      "MZ451028.1",
+      "MZ451036.1",
+      "MZ451038.1",
+      "MZ451041.1",
+      "MZ451043.1",
+      "MZ451048.1",
+      "MZ451051.1",
+      "MZ451056.1",
+      "MZ451061.1",
+      "NC_004362.1",
+      "NC_004363.1",
+      "NC_004364.1"
+    ]
+  },
+  "name": "Prunus necrotic ringspot virus",
+  "schema": [
+    {
+      "length": 3314,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2575,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1936,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 37733
+}

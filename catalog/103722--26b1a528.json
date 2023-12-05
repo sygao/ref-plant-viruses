@@ -1,0 +1,21 @@
+{
+  "_id": "26b1a528",
+  "accessions": {
+    "excluded": [
+      "AJ309022"
+    ],
+    "included": [
+      "NC_003347.1"
+    ]
+  },
+  "name": "Grapevine fleck virus",
+  "schema": [
+    {
+      "length": 7564,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 103722
+}

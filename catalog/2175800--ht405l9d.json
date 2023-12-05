@@ -1,0 +1,56 @@
+{
+  "_id": "ht405l9d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF766024.1",
+      "MF766025.1",
+      "MF766026.1",
+      "MF766027.1",
+      "MF766028.1",
+      "MF766029.1",
+      "MF766030.1",
+      "MF766031.1",
+      "MF766032.1",
+      "MF766033.1",
+      "MF766034.1",
+      "MF766035.1",
+      "MF766036.1",
+      "MF766037.1",
+      "MF766038.1",
+      "MF766039.1",
+      "MF766040.1",
+      "MF766041.1",
+      "MF766042.1",
+      "MF766043.1"
+    ]
+  },
+  "name": "Palo verde broom virus",
+  "schema": [
+    {
+      "length": 7019,
+      "molecule": "ssRNA-",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 2100,
+      "molecule": "ssRNA-",
+      "name": "RNA2",
+      "required": true
+    },
+    {
+      "length": 1364,
+      "molecule": "ssRNA-",
+      "name": "RNA3",
+      "required": true
+    },
+    {
+      "length": 1453,
+      "molecule": "ssRNA-",
+      "name": "RNA4",
+      "required": true
+    }
+  ],
+  "taxid": 2175800
+}

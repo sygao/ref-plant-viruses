@@ -1,0 +1,21 @@
+{
+  "_id": "b4f429b8",
+  "accessions": {
+    "excluded": [
+      "KC133073"
+    ],
+    "included": [
+      "NC_022962.1"
+    ]
+  },
+  "name": "Olive viral satellite RNA",
+  "schema": [
+    {
+      "length": 1118,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1250316
+}

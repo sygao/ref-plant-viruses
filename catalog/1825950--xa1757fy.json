@@ -1,0 +1,21 @@
+{
+  "_id": "xa1757fy",
+  "accessions": {
+    "excluded": [
+      "KU131589"
+    ],
+    "included": [
+      "NC_040188.1"
+    ]
+  },
+  "name": "Triumfetta yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2621,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1825950
+}

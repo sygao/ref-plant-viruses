@@ -1,0 +1,31 @@
+{
+  "_id": "be143fe9",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY513267.1",
+      "D13764.1",
+      "D13765.1",
+      "FJ984562.1",
+      "JQ080272.1",
+      "JQ706343.1",
+      "KC427095.1",
+      "KC771553.1",
+      "KF060660.1",
+      "KJ956805.1",
+      "KM052624.1",
+      "M35717.1",
+      "X07405.1"
+    ]
+  },
+  "name": "Hop stunt viroid",
+  "schema": [
+    {
+      "length": 298,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12893
+}

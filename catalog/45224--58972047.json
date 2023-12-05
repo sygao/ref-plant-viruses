@@ -1,0 +1,21 @@
+{
+  "_id": "58972047",
+  "accessions": {
+    "excluded": [
+      "X94560"
+    ],
+    "included": [
+      "NC_001822.1"
+    ]
+  },
+  "name": "Leek white stripe virus",
+  "schema": [
+    {
+      "length": 3662,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 45224
+}

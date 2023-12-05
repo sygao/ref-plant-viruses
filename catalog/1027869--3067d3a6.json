@@ -1,0 +1,21 @@
+{
+  "_id": "3067d3a6",
+  "accessions": {
+    "excluded": [
+      "JF727261"
+    ],
+    "included": [
+      "NC_015522.1"
+    ]
+  },
+  "name": "Switchgrass mosaic virus",
+  "schema": [
+    {
+      "length": 6423,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1027869
+}

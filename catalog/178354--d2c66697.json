@@ -1,0 +1,26 @@
+{
+  "_id": "d2c66697",
+  "accessions": {
+    "excluded": [
+      "AF357836"
+    ],
+    "included": [
+      "MG017318.1",
+      "MG017321.1",
+      "MG017322.1",
+      "MG017323.1",
+      "MG833013.1",
+      "NC_004450.1"
+    ]
+  },
+  "name": "Taro bacilliform virus",
+  "schema": [
+    {
+      "length": 7692,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 178354
+}

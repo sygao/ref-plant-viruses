@@ -1,0 +1,21 @@
+{
+  "_id": "73pwkdc4",
+  "accessions": {
+    "excluded": [
+      "EU710750"
+    ],
+    "included": [
+      "NC_038461.1"
+    ]
+  },
+  "name": "Sida yellow leaf curl virus",
+  "schema": [
+    {
+      "length": 2664,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 536083
+}

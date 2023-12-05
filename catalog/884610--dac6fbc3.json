@@ -1,0 +1,25 @@
+{
+  "_id": "dac6fbc3",
+  "accessions": {
+    "excluded": [
+      "AM404179"
+    ],
+    "included": [
+      "MK724035.1",
+      "MK724036.1",
+      "MK724037.1",
+      "MK724038.1",
+      "NC_016984.1"
+    ]
+  },
+  "name": "Pepper leaf curl Lahore Virus-[Pakistan:Lahore1:2004]",
+  "schema": [
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 884610
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "biwwlkbd",
+  "accessions": {
+    "excluded": [
+      "KY612317"
+    ],
+    "included": [
+      "NC_035461.1"
+    ]
+  },
+  "name": "Reed chlorotic stripe virus",
+  "schema": [
+    {
+      "length": 9426,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1959287
+}

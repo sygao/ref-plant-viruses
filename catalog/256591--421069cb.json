@@ -1,0 +1,19 @@
+{
+  "_id": "421069cb",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY388995.1"
+    ]
+  },
+  "name": "Meadow saffron breaking virus",
+  "schema": [
+    {
+      "length": 1625,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 256591
+}

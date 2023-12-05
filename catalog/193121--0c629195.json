@@ -1,0 +1,26 @@
+{
+  "_id": "0c629195",
+  "accessions": {
+    "excluded": [
+      "L04573"
+    ],
+    "included": [
+      "MK948533.1",
+      "MW961146.1",
+      "NC_003629.1",
+      "OK030715.1",
+      "OK030717.1",
+      "OK030719.1"
+    ]
+  },
+  "name": "Pea enation mosaic virus-1",
+  "schema": [
+    {
+      "length": 5691,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 193121
+}

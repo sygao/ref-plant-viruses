@@ -1,0 +1,29 @@
+{
+  "_id": "d28e0cd7",
+  "accessions": {
+    "excluded": [
+      "AB075039",
+      "AB114138"
+    ],
+    "included": [
+      "NC_011558.1",
+      "NC_011568.1"
+    ]
+  },
+  "name": "Lettuce big-vein associated virus",
+  "schema": [
+    {
+      "length": 6797,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6081,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1985698
+}

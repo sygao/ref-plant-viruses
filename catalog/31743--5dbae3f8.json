@@ -1,0 +1,26 @@
+{
+  "_id": "5dbae3f8",
+  "accessions": {
+    "excluded": [
+      "KC443039"
+    ],
+    "included": [
+      "KP115611.1",
+      "KP115612.1",
+      "KP115613.1",
+      "KP115614.1",
+      "MK778803.1",
+      "NC_020896.1"
+    ]
+  },
+  "name": "Sweet potato latent virus",
+  "schema": [
+    {
+      "length": 10082,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31743
+}

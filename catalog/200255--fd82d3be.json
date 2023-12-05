@@ -1,0 +1,45 @@
+{
+  "_id": "fd82d3be",
+  "accessions": {
+    "excluded": [
+      "AF525933",
+      "AF525934",
+      "AF525935",
+      "AF525936"
+    ],
+    "included": [
+      "NC_004779.1",
+      "NC_004780.1",
+      "NC_004781.1",
+      "NC_004782.1"
+    ]
+  },
+  "name": "Mirafiori lettuce big-vein virus",
+  "schema": [
+    {
+      "length": 7794,
+      "molecule": "ssRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1788,
+      "molecule": "ssRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1515,
+      "molecule": "ssRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1402,
+      "molecule": "ssRNA",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 200255
+}

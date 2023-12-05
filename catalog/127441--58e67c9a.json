@@ -1,0 +1,21 @@
+{
+  "_id": "58e67c9a",
+  "accessions": {
+    "excluded": [
+      "AF202870"
+    ],
+    "included": [
+      "NC_002738.1"
+    ]
+  },
+  "name": "Groundnut rosette virus satellite RNA",
+  "schema": [
+    {
+      "length": 893,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 127441
+}

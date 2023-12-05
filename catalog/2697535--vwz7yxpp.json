@@ -1,0 +1,21 @@
+{
+  "_id": "vwz7yxpp",
+  "accessions": {
+    "excluded": [
+      "MN542417"
+    ],
+    "included": [
+      "NC_055598.1"
+    ]
+  },
+  "name": "Camellia lemon glow virus",
+  "schema": [
+    {
+      "length": 8203,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2697535
+}

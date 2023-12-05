@@ -1,0 +1,21 @@
+{
+  "_id": "2ed0fbd1",
+  "accessions": {
+    "excluded": [
+      "DQ219415"
+    ],
+    "included": [
+      "NC_007733.1"
+    ]
+  },
+  "name": "Angelonia flower break virus",
+  "schema": [
+    {
+      "length": 3964,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 352882
+}

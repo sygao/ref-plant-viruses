@@ -1,0 +1,21 @@
+{
+  "_id": "646ezdt0",
+  "accessions": {
+    "excluded": [
+      "KU053507"
+    ],
+    "included": [
+      "NC_038560.1"
+    ]
+  },
+  "name": "Broad-leafed dock virus",
+  "schema": [
+    {
+      "length": 8174,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1987403
+}

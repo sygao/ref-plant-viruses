@@ -1,0 +1,21 @@
+{
+  "_id": "9ab7c03d",
+  "accessions": {
+    "excluded": [
+      "FM164726"
+    ],
+    "included": [
+      "NC_013017.1"
+    ]
+  },
+  "name": "Okra leaf curl virus",
+  "schema": [
+    {
+      "length": 2386,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 163654
+}

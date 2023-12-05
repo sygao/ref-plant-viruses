@@ -1,0 +1,21 @@
+{
+  "_id": "3336c266",
+  "accessions": {
+    "excluded": [
+      "AJ971264"
+    ],
+    "included": [
+      "NC_007725.1"
+    ]
+  },
+  "name": "Malvastrum leaf curl virus-associated defective DNA beta",
+  "schema": [
+    {
+      "length": 895,
+      "molecule": "ssDNA",
+      "name": "Defective DNA",
+      "required": true
+    }
+  ],
+  "taxid": 329289
+}

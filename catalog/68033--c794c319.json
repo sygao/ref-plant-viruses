@@ -1,0 +1,29 @@
+{
+  "_id": "c794c319",
+  "accessions": {
+    "excluded": [
+      "EU914920",
+      "FJ188473"
+    ],
+    "included": [
+      "NC_011515.1",
+      "NC_030649.1"
+    ]
+  },
+  "name": "Carrot mottle virus",
+  "schema": [
+    {
+      "length": 4193,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    },
+    {
+      "length": 745,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 68033
+}

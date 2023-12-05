@@ -1,0 +1,23 @@
+{
+  "_id": "9ee37b29",
+  "accessions": {
+    "excluded": [
+      "GU181199"
+    ],
+    "included": [
+      "JN863232.1",
+      "JN863233.1",
+      "NC_014038.1"
+    ]
+  },
+  "name": "Sunflower chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 9957,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 129732
+}

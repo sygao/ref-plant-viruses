@@ -1,0 +1,21 @@
+{
+  "_id": "b321a17e",
+  "accessions": {
+    "excluded": [
+      "KC923234"
+    ],
+    "included": [
+      "NC_022894.1"
+    ]
+  },
+  "name": "Donkey orchid symptomless virus",
+  "schema": [
+    {
+      "length": 7838,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1400526
+}

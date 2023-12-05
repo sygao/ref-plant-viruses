@@ -1,0 +1,19 @@
+{
+  "_id": "cl99vppx",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK050792.1"
+    ]
+  },
+  "name": "Camellia ringspot associated virus 1",
+  "schema": [
+    {
+      "length": 7779,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2606569
+}

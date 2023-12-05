@@ -1,0 +1,26 @@
+{
+  "_id": "fjhmkngg",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT036046.1",
+      "MT036047.1"
+    ]
+  },
+  "name": "Camellia yellow ringspot virus",
+  "schema": [
+    {
+      "length": 3786,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2802549
+}

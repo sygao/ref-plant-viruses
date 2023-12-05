@@ -1,0 +1,21 @@
+{
+  "_id": "72sg2wqv",
+  "accessions": {
+    "excluded": [
+      "BK010409"
+    ],
+    "included": [
+      "NC_040433.1"
+    ]
+  },
+  "name": "Camellia oleifera amalgavirus 1",
+  "schema": [
+    {
+      "length": 3333,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2069319
+}

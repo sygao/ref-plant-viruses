@@ -1,0 +1,21 @@
+{
+  "_id": "48ff2a16",
+  "accessions": {
+    "excluded": [
+      "AF473561"
+    ],
+    "included": [
+      "NC_004756.1"
+    ]
+  },
+  "name": "Beet western yellows virus",
+  "schema": [
+    {
+      "length": 5666,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12042
+}

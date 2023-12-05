@@ -1,0 +1,14 @@
+{
+  "_id": "cab3ac4f",
+  "accessions": {
+    "excluded": [
+      "GQ388116"
+    ],
+    "included": [
+      "NC_014037.1"
+    ]
+  },
+  "name": "Sugarcane streak mosaic virus",
+  "schema": [],
+  "taxid": 53954
+}

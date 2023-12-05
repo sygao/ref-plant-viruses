@@ -1,0 +1,28 @@
+{
+  "_id": "53ac9e89",
+  "accessions": {
+    "excluded": [
+      "AJ001691"
+    ],
+    "included": [
+      "AM110758.1",
+      "FM883164.1",
+      "FM883211.1",
+      "JQ280313.1",
+      "JQ403608.1",
+      "JQ403609.1",
+      "JX185302.1",
+      "NC_003377.1"
+    ]
+  },
+  "name": "Maize dwarf mosaic virus",
+  "schema": [
+    {
+      "length": 9502,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12203
+}

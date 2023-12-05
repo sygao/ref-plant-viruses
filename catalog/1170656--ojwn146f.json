@@ -1,0 +1,21 @@
+{
+  "_id": "ojwn146f",
+  "accessions": {
+    "excluded": [
+      "KR612272"
+    ],
+    "included": [
+      "NC_028124.1"
+    ]
+  },
+  "name": "Vinca leaf curl virus",
+  "schema": [
+    {
+      "length": 2776,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1170656
+}

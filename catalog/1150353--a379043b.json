@@ -1,0 +1,21 @@
+{
+  "_id": "a379043b",
+  "accessions": {
+    "excluded": [
+      "AB698917"
+    ],
+    "included": [
+      "NC_020252.1"
+    ]
+  },
+  "name": "Gentian Kobu-sho-associated virus",
+  "schema": [
+    {
+      "length": 22786,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1150353
+}

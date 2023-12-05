@@ -1,0 +1,45 @@
+{
+  "_id": "7efcaa72",
+  "accessions": {
+    "excluded": [
+      "D10979",
+      "D13176",
+      "D31879",
+      "X53563"
+    ],
+    "included": [
+      "NC_003753.1",
+      "NC_003754.1",
+      "NC_003755.1",
+      "NC_003776.1"
+    ]
+  },
+  "name": "Rice stripe virus",
+  "schema": [
+    {
+      "length": 8970,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3514,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2504,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 2157,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 12331
+}

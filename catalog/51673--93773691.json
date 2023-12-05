@@ -1,0 +1,29 @@
+{
+  "_id": "93773691",
+  "accessions": {
+    "excluded": [
+      "DQ395343",
+      "EU158095"
+    ],
+    "included": [
+      "NC_010948.1",
+      "NC_010951.1"
+    ]
+  },
+  "name": "Wissadula golden mosaic virus",
+  "schema": [
+    {
+      "length": 2622,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2578,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 51673
+}

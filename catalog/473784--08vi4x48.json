@@ -1,0 +1,19 @@
+{
+  "_id": "08vi4x48",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG182693.1"
+    ]
+  },
+  "name": "Opium poppy mosaic virus",
+  "schema": [
+    {
+      "length": 4241,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 473784
+}

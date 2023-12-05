@@ -1,0 +1,27 @@
+{
+  "_id": "5574ca68",
+  "accessions": {
+    "excluded": [
+      "AF329878",
+      "Y00514"
+    ],
+    "included": [
+      "KJ437660.1",
+      "KJ437661.1",
+      "KJ437662.1",
+      "KJ437663.1",
+      "KJ437664.1",
+      "NC_001346.1"
+    ]
+  },
+  "name": "Maize streak virus",
+  "schema": [
+    {
+      "length": 2689,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10821
+}

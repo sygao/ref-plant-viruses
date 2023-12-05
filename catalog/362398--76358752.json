@@ -1,0 +1,21 @@
+{
+  "_id": "76358752",
+  "accessions": {
+    "excluded": [
+      "AJ277091"
+    ],
+    "included": [
+      "NC_003031.1"
+    ]
+  },
+  "name": "Sugarcane bacilliform IM virus",
+  "schema": [
+    {
+      "length": 7687,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 362398
+}

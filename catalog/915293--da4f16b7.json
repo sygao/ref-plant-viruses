@@ -1,0 +1,21 @@
+{
+  "_id": "da4f16b7",
+  "accessions": {
+    "excluded": [
+      "AJ416153"
+    ],
+    "included": [
+      "NC_003414.1"
+    ]
+  },
+  "name": "Ageratum yellow vein Singapore alphasatellite",
+  "schema": [
+    {
+      "length": 1360,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 915293
+}

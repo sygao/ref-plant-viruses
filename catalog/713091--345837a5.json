@@ -1,0 +1,21 @@
+{
+  "_id": "345837a5",
+  "accessions": {
+    "excluded": [
+      "FN658727"
+    ],
+    "included": [
+      "NC_013803.1"
+    ]
+  },
+  "name": "Cotton leaf curl Burewala alphasatellite",
+  "schema": [
+    {
+      "length": 1366,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 713091
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "umw33284",
+  "accessions": {
+    "excluded": [
+      "MK241979"
+    ],
+    "included": [
+      "NC_055520.1"
+    ]
+  },
+  "name": "Dendrobium chlorotic mosaic virus",
+  "schema": [
+    {
+      "length": 10041,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2562807
+}

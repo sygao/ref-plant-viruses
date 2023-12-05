@@ -1,0 +1,21 @@
+{
+  "_id": "49da2450",
+  "accessions": {
+    "excluded": [
+      "JX183091"
+    ],
+    "included": [
+      "NC_018574.1"
+    ]
+  },
+  "name": "Bhendi yellow vein mosaic virus-associated alpha satellite",
+  "schema": [
+    {
+      "length": 1316,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1225644
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "b6b2f52a",
+  "accessions": {
+    "excluded": [
+      "JF495127"
+    ],
+    "included": [
+      "LC332541.1",
+      "LC332542.1",
+      "MT603837.1",
+      "MT603838.1",
+      "NC_016033.1"
+    ]
+  },
+  "name": "Soybean yellow common mosaic virus",
+  "schema": [
+    {
+      "length": 4147,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1080798
+}

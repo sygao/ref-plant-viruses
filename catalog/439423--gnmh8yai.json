@@ -1,0 +1,21 @@
+{
+  "_id": "gnmh8yai",
+  "accessions": {
+    "excluded": [
+      "AM701760"
+    ],
+    "included": [
+      "NC_038888.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Comoros virus",
+  "schema": [
+    {
+      "length": 2755,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 439423
+}

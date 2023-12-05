@@ -1,0 +1,22 @@
+{
+  "_id": "50e6b7d5",
+  "accessions": {
+    "excluded": [
+      "AY366207"
+    ],
+    "included": [
+      "KU854929.1",
+      "NC_011659.1"
+    ]
+  },
+  "name": "Schlumbergera virus X",
+  "schema": [
+    {
+      "length": 6639,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 253700
+}

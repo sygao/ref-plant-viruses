@@ -1,0 +1,21 @@
+{
+  "_id": "139c126a",
+  "accessions": {
+    "excluded": [
+      "U95208"
+    ],
+    "included": [
+      "NC_001839.1"
+    ]
+  },
+  "name": "Petunia vein clearing virus",
+  "schema": [
+    {
+      "length": 7206,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 59504
+}

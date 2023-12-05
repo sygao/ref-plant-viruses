@@ -1,0 +1,25 @@
+{
+  "_id": "d1f50e64",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY618902.1"
+    ]
+  },
+  "name": "Cowpea golden mosaic virus",
+  "schema": [
+    {
+      "length": 0,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 69263
+}

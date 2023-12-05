@@ -1,0 +1,37 @@
+{
+  "_id": "lcib54pw",
+  "accessions": {
+    "excluded": [
+      "MG252780",
+      "MG252781",
+      "MG252782"
+    ],
+    "included": [
+      "NC_036607.1",
+      "NC_036608.1",
+      "NC_036609.1"
+    ]
+  },
+  "name": "Calla lily chlorotic spot virus",
+  "schema": [
+    {
+      "length": 8914,
+      "molecule": "ssRNA-",
+      "name": "L",
+      "required": true
+    },
+    {
+      "length": 4734,
+      "molecule": "ssRNA-",
+      "name": "M",
+      "required": true
+    },
+    {
+      "length": 3146,
+      "molecule": "ssRNA-",
+      "name": "S",
+      "required": true
+    }
+  ],
+  "taxid": 309542
+}

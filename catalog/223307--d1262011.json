@@ -1,0 +1,29 @@
+{
+  "_id": "d1262011",
+  "accessions": {
+    "excluded": [
+      "Y15033",
+      "Y15034"
+    ],
+    "included": [
+      "NC_002048.1",
+      "NC_002049.1"
+    ]
+  },
+  "name": "Potato yellow mosaic Panama virus",
+  "schema": [
+    {
+      "length": 2584,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2542,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223307
+}

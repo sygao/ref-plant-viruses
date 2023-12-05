@@ -1,0 +1,21 @@
+{
+  "_id": "64a0675a",
+  "accessions": {
+    "excluded": [
+      "LK054804"
+    ],
+    "included": [
+      "NC_024490.1"
+    ]
+  },
+  "name": "Mirabilis leaf curl India virus associated betasatellite",
+  "schema": [
+    {
+      "length": 1406,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1507403
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "ab5d43fa",
+  "accessions": {
+    "excluded": [
+      "U03563"
+    ],
+    "included": [
+      "AY714213.1",
+      "JF713436.1",
+      "MK948534.1",
+      "NC_003853.1",
+      "OK030736.1"
+    ]
+  },
+  "name": "Pea enation mosaic virus-2",
+  "schema": [
+    {
+      "length": 4256,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 193120
+}

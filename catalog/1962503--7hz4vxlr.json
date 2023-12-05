@@ -1,0 +1,29 @@
+{
+  "_id": "7hz4vxlr",
+  "accessions": {
+    "excluded": [
+      "JQ670669",
+      "JX304792"
+    ],
+    "included": [
+      "NC_038761.1",
+      "NC_038762.1"
+    ]
+  },
+  "name": "Aeonium ringspot virus",
+  "schema": [
+    {
+      "length": 7549,
+      "molecule": "ssDNA",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 4010,
+      "molecule": "ssDNA",
+      "name": "RNA2",
+      "required": true
+    }
+  ],
+  "taxid": 1962503
+}

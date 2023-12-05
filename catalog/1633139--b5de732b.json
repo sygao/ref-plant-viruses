@@ -1,0 +1,21 @@
+{
+  "_id": "b5de732b",
+  "accessions": {
+    "excluded": [
+      "KP188831"
+    ],
+    "included": [
+      "NC_026763.1"
+    ]
+  },
+  "name": "Malvastrum yellow vein Cambodia virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1633139
+}

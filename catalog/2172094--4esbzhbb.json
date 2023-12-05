@@ -1,0 +1,21 @@
+{
+  "_id": "4esbzhbb",
+  "accessions": {
+    "excluded": [
+      "MF278784"
+    ],
+    "included": [
+      "NC_055549.1"
+    ]
+  },
+  "name": "Codiaeum leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1369,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2172094
+}

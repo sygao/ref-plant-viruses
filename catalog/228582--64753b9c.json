@@ -1,0 +1,21 @@
+{
+  "_id": "64753b9c",
+  "accessions": {
+    "excluded": [
+      "AF235168"
+    ],
+    "included": [
+      "NC_002198.1"
+    ]
+  },
+  "name": "Cereal yellow dwarf virus-RPS",
+  "schema": [
+    {
+      "length": 5662,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 228582
+}

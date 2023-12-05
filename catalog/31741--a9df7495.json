@@ -1,0 +1,23 @@
+{
+  "_id": "a9df7495",
+  "accessions": {
+    "excluded": [
+      "AF057533"
+    ],
+    "included": [
+      "AF285170.1",
+      "MH939145.1",
+      "NC_001886.1"
+    ]
+  },
+  "name": "Wheat streak mosaic virus",
+  "schema": [
+    {
+      "length": 9368,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31741
+}

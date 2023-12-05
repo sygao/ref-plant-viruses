@@ -1,0 +1,21 @@
+{
+  "_id": "f8nq9usz",
+  "accessions": {
+    "excluded": [
+      "X52960"
+    ],
+    "included": [
+      "NC_003681.1"
+    ]
+  },
+  "name": "Coleus blumei viroid 1",
+  "schema": [
+    {
+      "length": 248,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 192025
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "de9a1cf6",
+  "accessions": {
+    "excluded": [
+      "AY623627"
+    ],
+    "included": [
+      "NC_005904.1"
+    ]
+  },
+  "name": "Hordeum mosaic virus",
+  "schema": [
+    {
+      "length": 9463,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 41764
+}

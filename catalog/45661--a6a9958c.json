@@ -1,0 +1,21 @@
+{
+  "_id": "a6a9958c",
+  "accessions": {
+    "excluded": [
+      "DQ851496"
+    ],
+    "included": [
+      "NC_009745.1"
+    ]
+  },
+  "name": "Banana bract mosaic virus",
+  "schema": [
+    {
+      "length": 9711,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 45661
+}

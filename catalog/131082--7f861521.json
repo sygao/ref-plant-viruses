@@ -1,0 +1,21 @@
+{
+  "_id": "7f861521",
+  "accessions": {
+    "excluded": [
+      "AF352024"
+    ],
+    "included": [
+      "NC_002766.1"
+    ]
+  },
+  "name": "Beet chlorosis virus",
+  "schema": [
+    {
+      "length": 5776,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 131082
+}

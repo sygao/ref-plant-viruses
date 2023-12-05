@@ -1,0 +1,21 @@
+{
+  "_id": "e6255bee",
+  "accessions": {
+    "excluded": [
+      "AF364175"
+    ],
+    "included": [
+      "NC_004324.1"
+    ]
+  },
+  "name": "Cestrum yellow leaf curling virus",
+  "schema": [
+    {
+      "length": 8253,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 175814
+}

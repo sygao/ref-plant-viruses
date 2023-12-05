@@ -1,0 +1,21 @@
+{
+  "_id": "2ab2864e",
+  "accessions": {
+    "excluded": [
+      "AJ295948"
+    ],
+    "included": [
+      "NC_003610.1"
+    ]
+  },
+  "name": "Kyuri green mottle mosaic virus",
+  "schema": [
+    {
+      "length": 6514,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 111970
+}

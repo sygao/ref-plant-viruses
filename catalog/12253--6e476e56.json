@@ -1,0 +1,21 @@
+{
+  "_id": "6e476e56",
+  "accessions": {
+    "excluded": [
+      "AF332868"
+    ],
+    "included": [
+      "NC_002692.1"
+    ]
+  },
+  "name": "Tomato mosaic virus",
+  "schema": [
+    {
+      "length": 6383,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12253
+}

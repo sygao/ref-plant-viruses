@@ -1,0 +1,26 @@
+{
+  "_id": "ce4daa25",
+  "accessions": {
+    "excluded": [
+      "AJ457986"
+    ],
+    "included": [
+      "HQ407395.1",
+      "LC316184.1",
+      "MH205950.1",
+      "MK920410.1",
+      "MK920411.1",
+      "NC_003722.1"
+    ]
+  },
+  "name": "Tobacco curly shoot virus",
+  "schema": [
+    {
+      "length": 2763,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 180526
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "k3aougwk",
+  "accessions": {
+    "excluded": [
+      "LC151461",
+      "LC151462"
+    ],
+    "included": [
+      "NC_030889.1",
+      "NC_030890.1"
+    ]
+  },
+  "name": "Arabidopsis halleri partitivirus 1",
+  "schema": [
+    {
+      "length": 1959,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1763,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1849335
+}

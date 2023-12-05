@@ -1,0 +1,21 @@
+{
+  "_id": "84f99722",
+  "accessions": {
+    "excluded": [
+      "FN563123"
+    ],
+    "included": [
+      "NC_014127.1"
+    ]
+  },
+  "name": "Chiltepin yellow mosaic virus",
+  "schema": [
+    {
+      "length": 6517,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 688701
+}

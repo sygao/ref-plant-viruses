@@ -1,0 +1,29 @@
+{
+  "_id": "e6934c4c",
+  "accessions": {
+    "excluded": [
+      "DQ318938",
+      "DQ318937"
+    ],
+    "included": [
+      "NC_008304.1",
+      "NC_008305.1"
+    ]
+  },
+  "name": "Euphorbia mosaic virus",
+  "schema": [
+    {
+      "length": 2613,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2602,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 77811
+}

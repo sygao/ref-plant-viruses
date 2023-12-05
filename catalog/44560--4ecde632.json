@@ -1,0 +1,21 @@
+{
+  "_id": "4ecde632",
+  "accessions": {
+    "excluded": [
+      "X74516"
+    ],
+    "included": [
+      "NC_004626.1"
+    ]
+  },
+  "name": "Ageratum yellow vein virus",
+  "schema": [
+    {
+      "length": 2741,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 44560
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "04ae91c8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AF028004.1"
+    ]
+  },
+  "name": "Watermelon leaf mottle virus",
+  "schema": [
+    {
+      "length": 2316,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 70134
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "03e6d91a",
+  "accessions": {
+    "excluded": [
+      "EU489061",
+      "EU489062"
+    ],
+    "included": [
+      "NC_011556.1",
+      "NC_011557.1"
+    ]
+  },
+  "name": "Beet cryptic virus 1",
+  "schema": [
+    {
+      "length": 2008,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1783,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 509923
+}

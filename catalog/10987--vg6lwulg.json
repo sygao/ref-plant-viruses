@@ -1,0 +1,85 @@
+{
+  "_id": "vg6lwulg",
+  "accessions": {
+    "excluded": [
+      "J03020",
+      "J04344",
+      "M11133",
+      "M24114",
+      "M24115",
+      "M24116",
+      "M24117",
+      "X14218",
+      "X14219"
+    ],
+    "included": [
+      "NC_038944.1",
+      "NC_038945.1",
+      "NC_038946.1",
+      "NC_038947.1",
+      "NC_038948.1",
+      "NC_038949.1",
+      "NC_038950.1",
+      "NC_038951.1",
+      "NC_038952.1"
+    ]
+  },
+  "name": "Wound tumor virus",
+  "schema": [
+    {
+      "length": 2613,
+      "molecule": "dsRNA",
+      "name": "S5",
+      "required": true
+    },
+    {
+      "length": 1726,
+      "molecule": "dsRNA",
+      "name": "P6",
+      "required": true
+    },
+    {
+      "length": 1472,
+      "molecule": "dsRNA",
+      "name": "S8",
+      "required": true
+    },
+    {
+      "length": 2565,
+      "molecule": "dsRNA",
+      "name": "S4",
+      "required": true
+    },
+    {
+      "length": 851,
+      "molecule": "dsRNA",
+      "name": "S12",
+      "required": true
+    },
+    {
+      "length": 1700,
+      "molecule": "dsRNA",
+      "name": "S6",
+      "required": true
+    },
+    {
+      "length": 1172,
+      "molecule": "dsRNA",
+      "name": "S10",
+      "required": true
+    },
+    {
+      "length": 1182,
+      "molecule": "dsRNA",
+      "name": "S9",
+      "required": true
+    },
+    {
+      "length": 1128,
+      "molecule": "dsRNA",
+      "name": "P9",
+      "required": true
+    }
+  ],
+  "taxid": 10987
+}

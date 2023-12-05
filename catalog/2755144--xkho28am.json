@@ -1,0 +1,19 @@
+{
+  "_id": "xkho28am",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT353901.1"
+    ]
+  },
+  "name": "Grapevine associated poty-like virus 1",
+  "schema": [
+    {
+      "length": 11032,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2755144
+}

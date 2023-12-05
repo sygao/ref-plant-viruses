@@ -1,0 +1,29 @@
+{
+  "_id": "cabefb67",
+  "accessions": {
+    "excluded": [
+      "AF509739",
+      "AF509740"
+    ],
+    "included": [
+      "NC_004824.1",
+      "NC_004825.1"
+    ]
+  },
+  "name": "Luffa yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2742,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2713,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 207240
+}

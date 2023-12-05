@@ -1,0 +1,22 @@
+{
+  "_id": "c6e76041",
+  "accessions": {
+    "excluded": [
+      "AF017780"
+    ],
+    "included": [
+      "KY774448.1",
+      "NC_001946.1"
+    ]
+  },
+  "name": "Cherry green ring mottle virus",
+  "schema": [
+    {
+      "length": 8338,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 65467
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "20bdedec",
+  "accessions": {
+    "excluded": [
+      "KF537660"
+    ],
+    "included": [
+      "NC_025674.1"
+    ]
+  },
+  "name": "Macrophomina phaseolina tobamo-like virus",
+  "schema": [
+    {
+      "length": 9524,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1527523
+}

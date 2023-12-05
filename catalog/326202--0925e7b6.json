@@ -1,0 +1,21 @@
+{
+  "_id": "0925e7b6",
+  "accessions": {
+    "excluded": [
+      "KF906523"
+    ],
+    "included": [
+      "NC_025250.1"
+    ]
+  },
+  "name": "Vanilla distortion mosaic virus",
+  "schema": [
+    {
+      "length": 9553,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 326202
+}

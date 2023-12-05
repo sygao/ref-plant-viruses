@@ -1,0 +1,45 @@
+{
+  "_id": "867886fe",
+  "accessions": {
+    "excluded": [
+      "HQ871942",
+      "HQ871943",
+      "HQ871944",
+      "HQ871945"
+    ],
+    "included": [
+      "NC_015298.1",
+      "NC_015299.1",
+      "NC_015300.1",
+      "NC_015301.1"
+    ]
+  },
+  "name": "Rose rosette virus",
+  "schema": [
+    {
+      "length": 7026,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2245,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1544,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1541,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 1980433
+}

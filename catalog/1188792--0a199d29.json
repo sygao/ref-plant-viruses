@@ -1,0 +1,21 @@
+{
+  "_id": "0a199d29",
+  "accessions": {
+    "excluded": [
+      "AB719397"
+    ],
+    "included": [
+      "NC_023678.1"
+    ]
+  },
+  "name": "Phaseolus vulgaris endornavirus 1",
+  "schema": [
+    {
+      "length": 13908,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1188792
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "2cc42198",
+  "accessions": {
+    "excluded": [
+      "AB007990"
+    ],
+    "included": [
+      "NC_003556.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein virus",
+  "schema": [
+    {
+      "length": 2766,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

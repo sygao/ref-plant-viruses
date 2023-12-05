@@ -1,0 +1,21 @@
+{
+  "_id": "jbfgpdhh",
+  "accessions": {
+    "excluded": [
+      "KT728735"
+    ],
+    "included": [
+      "NC_029315.1"
+    ]
+  },
+  "name": "Tomato leaf curl Sudan betasatellite",
+  "schema": [
+    {
+      "length": 1356,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1757097
+}

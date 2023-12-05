@@ -1,0 +1,21 @@
+{
+  "_id": "9a95dee2",
+  "accessions": {
+    "excluded": [
+      "HM363516"
+    ],
+    "included": [
+      "NC_014905.1"
+    ]
+  },
+  "name": "Apium virus Y",
+  "schema": [
+    {
+      "length": 9917,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 168135
+}

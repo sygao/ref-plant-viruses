@@ -1,0 +1,45 @@
+{
+  "_id": "2f0fef67",
+  "accessions": {
+    "excluded": [
+      "AF509742",
+      "AF509743"
+    ],
+    "included": [
+      "AM260205.1",
+      "AM260206.1",
+      "AM260207.1",
+      "AM260208.1",
+      "GU967381.1",
+      "GU967382.1",
+      "JN587811.1",
+      "JN624306.1",
+      "KC171648.1",
+      "KC171649.1",
+      "KC857509.1",
+      "KC857510.1",
+      "KF188433.1",
+      "KF999983.1",
+      "KF999984.1",
+      "KJ004521.1",
+      "NC_007338.1",
+      "NC_007339.1"
+    ]
+  },
+  "name": "Squash leaf curl China virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2708,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223323
+}

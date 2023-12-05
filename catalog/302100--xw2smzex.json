@@ -1,0 +1,21 @@
+{
+  "_id": "xw2smzex",
+  "accessions": {
+    "excluded": [
+      "AJ865340"
+    ],
+    "included": [
+      "NC_006876.1"
+    ]
+  },
+  "name": "Tomato leaf curl Mayotte virus",
+  "schema": [
+    {
+      "length": 2768,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 302100
+}

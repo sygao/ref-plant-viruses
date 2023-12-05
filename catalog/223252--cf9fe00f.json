@@ -1,0 +1,21 @@
+{
+  "_id": "cf9fe00f",
+  "accessions": {
+    "excluded": [
+      "AJ002447"
+    ],
+    "included": [
+      "NC_004607.1"
+    ]
+  },
+  "name": "Cotton leaf curl Multan virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 223252
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "bb1l5os7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG995740.1"
+    ]
+  },
+  "name": "Robinvale plant virus 1",
+  "schema": [
+    {
+      "length": 5187,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2201325
+}

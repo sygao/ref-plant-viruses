@@ -1,0 +1,26 @@
+{
+  "_id": "d5f7413d",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX109927.1",
+      "MZ451067.1",
+      "MZ451068.1",
+      "MZ451070.1",
+      "MZ451071.1",
+      "MZ451072.1",
+      "MZ451073.1",
+      "MZ451074.1"
+    ]
+  },
+  "name": "Grapevine Red Globe Virus",
+  "schema": [
+    {
+      "length": 6847,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 103723
+}

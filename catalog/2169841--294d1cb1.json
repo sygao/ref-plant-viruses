@@ -1,0 +1,21 @@
+{
+  "_id": "294d1cb1",
+  "accessions": {
+    "excluded": [
+      "HQ343234"
+    ],
+    "included": [
+      "NC_015327.1"
+    ]
+  },
+  "name": "Cotton leaf curl virus associated DNA 1 isolate Lucknow",
+  "schema": [
+    {
+      "length": 1396,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169841
+}

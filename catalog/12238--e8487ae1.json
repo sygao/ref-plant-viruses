@@ -1,0 +1,21 @@
+{
+  "_id": "e8487ae1",
+  "accessions": {
+    "excluded": [
+      "X82130"
+    ],
+    "included": [
+      "NC_001728.1"
+    ]
+  },
+  "name": "Odontoglossum ringspot virus",
+  "schema": [
+    {
+      "length": 6618,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12238
+}

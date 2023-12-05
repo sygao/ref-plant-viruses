@@ -1,0 +1,22 @@
+{
+  "_id": "a8rau7zh",
+  "accessions": {
+    "excluded": [
+      "MF072319"
+    ],
+    "included": [
+      "MF993576.1",
+      "NC_035202.1"
+    ]
+  },
+  "name": "Grapevine virus K",
+  "schema": [
+    {
+      "length": 7452,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2016034
+}

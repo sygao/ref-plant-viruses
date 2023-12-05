@@ -1,0 +1,21 @@
+{
+  "_id": "d40b7df2",
+  "accessions": {
+    "excluded": [
+      "EF492068"
+    ],
+    "included": [
+      "NC_009383.1"
+    ]
+  },
+  "name": "Phlox virus S",
+  "schema": [
+    {
+      "length": 8590,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 436066
+}

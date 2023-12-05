@@ -1,0 +1,21 @@
+{
+  "_id": "6916133e",
+  "accessions": {
+    "excluded": [
+      "FN386459"
+    ],
+    "included": [
+      "NC_012665.1"
+    ]
+  },
+  "name": "Malvastrum yellow vein Baoshan virus",
+  "schema": [
+    {
+      "length": 2743,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 642493
+}

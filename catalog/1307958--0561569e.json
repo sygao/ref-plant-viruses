@@ -1,0 +1,21 @@
+{
+  "_id": "0561569e",
+  "accessions": {
+    "excluded": [
+      "JX212747"
+    ],
+    "included": [
+      "NC_018448.1"
+    ]
+  },
+  "name": "Sweet potato C6 virus",
+  "schema": [
+    {
+      "length": 8857,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1307958
+}

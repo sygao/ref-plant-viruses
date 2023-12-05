@@ -1,0 +1,21 @@
+{
+  "_id": "slng6hah",
+  "accessions": {
+    "excluded": [
+      "KX758441"
+    ],
+    "included": [
+      "NC_032405.1"
+    ]
+  },
+  "name": "Bermuda grass latent virus",
+  "schema": [
+    {
+      "length": 4044,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1930269
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "51c5d911",
+  "accessions": {
+    "excluded": [
+      "AB236322"
+    ],
+    "included": [
+      "NC_009449.1"
+    ]
+  },
+  "name": "Honeysuckle yellow vein beta-[Japan:Fukui:2001]",
+  "schema": [],
+  "taxid": 434068
+}

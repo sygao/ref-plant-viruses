@@ -1,0 +1,29 @@
+{
+  "_id": "72ffa4ed",
+  "accessions": {
+    "excluded": [
+      "M83309",
+      "M83830"
+    ],
+    "included": [
+      "NC_003544.1",
+      "NC_003545.1"
+    ]
+  },
+  "name": "Cowpea severe mosaic virus",
+  "schema": [
+    {
+      "length": 5957,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3732,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12261
+}

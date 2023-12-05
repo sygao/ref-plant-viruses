@@ -1,0 +1,21 @@
+{
+  "_id": "ul7o0kt7",
+  "accessions": {
+    "excluded": [
+      "EF194760"
+    ],
+    "included": [
+      "NC_009030.1"
+    ]
+  },
+  "name": "Tomato leaf curl Arusha virus",
+  "schema": [
+    {
+      "length": 2762,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 392761
+}

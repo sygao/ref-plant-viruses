@@ -1,0 +1,21 @@
+{
+  "_id": "0af8ec28",
+  "accessions": {
+    "excluded": [
+      "M24597"
+    ],
+    "included": [
+      "NC_001412.1"
+    ]
+  },
+  "name": "Beet curly top virus",
+  "schema": [
+    {
+      "length": 2994,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10840
+}

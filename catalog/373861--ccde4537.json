@@ -1,0 +1,21 @@
+{
+  "_id": "ccde4537",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "DQ399259.1",
+      "MH704742.1",
+      "MN539274.1"
+    ]
+  },
+  "name": "Pineapple mealybug wilt-associated virus 3",
+  "schema": [
+    {
+      "length": 12408,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 373861
+}

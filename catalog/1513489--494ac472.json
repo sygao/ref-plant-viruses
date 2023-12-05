@@ -1,0 +1,29 @@
+{
+  "_id": "494ac472",
+  "accessions": {
+    "excluded": [
+      "KJ862841",
+      "KJ862842"
+    ],
+    "included": [
+      "NC_024894.1",
+      "NC_024895.1"
+    ]
+  },
+  "name": "Bitter gourd yellow vein virus",
+  "schema": [
+    {
+      "length": 2737,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2716,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1513489
+}

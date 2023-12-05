@@ -1,0 +1,21 @@
+{
+  "_id": "f3cb3539",
+  "accessions": {
+    "excluded": [
+      "FJ869862"
+    ],
+    "included": [
+      "NC_013007.1"
+    ]
+  },
+  "name": "Carrot yellow leaf virus",
+  "schema": [
+    {
+      "length": 16354,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 656190
+}

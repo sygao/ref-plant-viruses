@@ -1,0 +1,29 @@
+{
+  "_id": "7e7ef88e",
+  "accessions": {
+    "excluded": [
+      "L07937",
+      "L07938"
+    ],
+    "included": [
+      "NC_002041.1",
+      "NC_002042.1"
+    ]
+  },
+  "name": "Soil-borne wheat mosaic virus",
+  "schema": [
+    {
+      "length": 7099,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3593,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 28375
+}

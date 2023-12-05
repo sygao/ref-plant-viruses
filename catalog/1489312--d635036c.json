@@ -1,0 +1,21 @@
+{
+  "_id": "d635036c",
+  "accessions": {
+    "excluded": [
+      "KJ476510"
+    ],
+    "included": [
+      "NC_024693.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl Guangxi virus",
+  "schema": [
+    {
+      "length": 2831,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1489312
+}

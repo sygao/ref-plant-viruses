@@ -1,0 +1,37 @@
+{
+  "_id": "tqz52p1f",
+  "accessions": {
+    "excluded": [
+      "GU584184",
+      "GU584185",
+      "GU735408"
+    ],
+    "included": [
+      "NC_038288.1",
+      "NC_038289.1",
+      "NC_038290.1"
+    ]
+  },
+  "name": "Watermelon bud necrosis virus",
+  "schema": [
+    {
+      "length": 8916,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4794,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3401,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 76052
+}

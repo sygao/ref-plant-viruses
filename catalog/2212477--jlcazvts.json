@@ -1,0 +1,21 @@
+{
+  "_id": "jlcazvts",
+  "accessions": {
+    "excluded": [
+      "MG978107"
+    ],
+    "included": [
+      "NC_055493.1"
+    ]
+  },
+  "name": "Alpinia oxyphylla mosaic virus",
+  "schema": [
+    {
+      "length": 8213,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2212477
+}

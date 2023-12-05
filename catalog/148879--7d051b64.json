@@ -1,0 +1,21 @@
+{
+  "_id": "7d051b64",
+  "accessions": {
+    "excluded": [
+      "AF314662"
+    ],
+    "included": [
+      "NC_002729.1"
+    ]
+  },
+  "name": "Banana mild mosaic virus",
+  "schema": [
+    {
+      "length": 7352,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 148879
+}

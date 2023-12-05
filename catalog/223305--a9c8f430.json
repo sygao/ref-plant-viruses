@@ -1,0 +1,25 @@
+{
+  "_id": "a9c8f430",
+  "accessions": {
+    "excluded": [
+      "AF314531"
+    ],
+    "included": [
+      "HM007097.1",
+      "HM007101.1",
+      "JN663853.1",
+      "MT636372.1",
+      "NC_004192.1"
+    ]
+  },
+  "name": "Pepper leaf curl Bangladesh virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 223305
+}

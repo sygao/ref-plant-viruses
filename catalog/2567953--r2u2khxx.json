@@ -1,0 +1,33 @@
+{
+  "_id": "r2u2khxx",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH134006.1",
+      "MH134007.1",
+      "MH134008.1"
+    ]
+  },
+  "name": "UNVERIFIED: Apple flat limb virus",
+  "schema": [
+    {
+      "length": 7385,
+      "molecule": "",
+      "name": "RNA RdRp",
+      "required": true
+    },
+    {
+      "length": 1614,
+      "molecule": "",
+      "name": "RNA MP",
+      "required": true
+    },
+    {
+      "length": 1508,
+      "molecule": "",
+      "name": "RNA CP",
+      "required": true
+    }
+  ],
+  "taxid": 2567953
+}

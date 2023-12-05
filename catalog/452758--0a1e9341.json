@@ -1,0 +1,21 @@
+{
+  "_id": "0a1e9341",
+  "accessions": {
+    "excluded": [
+      "EF602306"
+    ],
+    "included": [
+      "NC_010947.1"
+    ]
+  },
+  "name": "Allamanda leaf curl virus",
+  "schema": [
+    {
+      "length": 2755,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 452758
+}

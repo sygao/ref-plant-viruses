@@ -1,0 +1,33 @@
+{
+  "_id": "tkhisaw0",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG800789.1",
+      "MG800790.1",
+      "MG800791.1"
+    ]
+  },
+  "name": "Peanut virus C",
+  "schema": [
+    {
+      "length": 3474,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2925,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2160,
+      "molecule": "",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2171525
+}

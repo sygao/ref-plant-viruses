@@ -1,0 +1,21 @@
+{
+  "_id": "c0a37cda",
+  "accessions": {
+    "excluded": [
+      "M14879"
+    ],
+    "included": [
+      "NC_003889.1"
+    ]
+  },
+  "name": "Tobacco ringspot virus satellite RNA",
+  "schema": [
+    {
+      "length": 359,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 31504
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "73fbc280",
+  "accessions": {
+    "excluded": [
+      "JX569789"
+    ],
+    "included": [
+      "NC_019499.1"
+    ]
+  },
+  "name": "Sunflower leaf curl Karnataka alphasatellite",
+  "schema": [
+    {
+      "length": 1350,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1250303
+}

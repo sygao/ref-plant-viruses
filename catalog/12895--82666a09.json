@@ -1,0 +1,24 @@
+{
+  "_id": "82666a09",
+  "accessions": {
+    "excluded": [
+      "X17696"
+    ],
+    "included": [
+      "EU031488.1",
+      "HQ326095.1",
+      "JX861259.1",
+      "NC_001340.1"
+    ]
+  },
+  "name": "Apple scar skin viroid",
+  "schema": [
+    {
+      "length": 330,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12895
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "cq0stirp",
+  "accessions": {
+    "excluded": [
+      "KT722800"
+    ],
+    "included": [
+      "NC_030398.2"
+    ]
+  },
+  "name": "Maize-associated totivirus 2",
+  "schema": [
+    {
+      "length": 4998,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1874267
+}

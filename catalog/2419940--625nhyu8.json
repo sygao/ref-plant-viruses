@@ -1,0 +1,33 @@
+{
+  "_id": "625nhyu8",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG781156.1",
+      "MG781157.1",
+      "MG781158.1"
+    ]
+  },
+  "name": "Tea plant line pattern virus",
+  "schema": [
+    {
+      "length": 3403,
+      "molecule": "dsRNA",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 2381,
+      "molecule": "dsRNA",
+      "name": "RNA2",
+      "required": true
+    },
+    {
+      "length": 2172,
+      "molecule": "dsRNA",
+      "name": "RNA3",
+      "required": true
+    }
+  ],
+  "taxid": 2419940
+}

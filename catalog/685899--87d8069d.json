@@ -1,0 +1,21 @@
+{
+  "_id": "87d8069d",
+  "accessions": {
+    "excluded": [
+      "JX123318"
+    ],
+    "included": [
+      "NC_018449.1"
+    ]
+  },
+  "name": "Papaya lethal yellowing virus",
+  "schema": [
+    {
+      "length": 4145,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 685899
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "f8e1f882",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FJ915122.1"
+    ]
+  },
+  "name": "Blackberry virus S",
+  "schema": [
+    {
+      "length": 6463,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 670883
+}

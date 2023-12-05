@@ -1,0 +1,21 @@
+{
+  "_id": "s9wybkdw",
+  "accessions": {
+    "excluded": [
+      "KX008573"
+    ],
+    "included": [
+      "NC_038381.1"
+    ]
+  },
+  "name": "Dioscorea bacilliform AL virus",
+  "schema": [
+    {
+      "length": 7609,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1619899
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "bd7948e2",
+  "accessions": {
+    "excluded": [
+      "AY728262"
+    ],
+    "included": [
+      "NC_007459.1"
+    ]
+  },
+  "name": "Luffa puckering and leaf distortion-associated DNA beta",
+  "schema": [
+    {
+      "length": 1358,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 292626
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "p4eckl61",
+  "accessions": {
+    "excluded": [
+      "AY686718",
+      "JN560177",
+      "JN560178"
+    ],
+    "included": [
+      "MT723994.1",
+      "MT723995.1",
+      "MT723996.1",
+      "NC_055411.1",
+      "NC_055412.1",
+      "NC_055413.1"
+    ]
+  },
+  "name": "Tomato yellow ring virus",
+  "schema": [
+    {
+      "length": 8877,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 3916,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 304859
+}

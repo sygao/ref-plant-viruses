@@ -1,0 +1,19 @@
+{
+  "_id": "1434d6c6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "GU234166.1"
+    ]
+  },
+  "name": "Carnation necrotic fleck virus",
+  "schema": [
+    {
+      "length": 10557,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 551454
+}

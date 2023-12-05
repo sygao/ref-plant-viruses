@@ -1,0 +1,21 @@
+{
+  "_id": "a6d81bee",
+  "accessions": {
+    "excluded": [
+      "JQ898332"
+    ],
+    "included": [
+      "NC_023851.1"
+    ]
+  },
+  "name": "Niminivirus",
+  "schema": [
+    {
+      "length": 2383,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1229325
+}

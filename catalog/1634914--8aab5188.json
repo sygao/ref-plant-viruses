@@ -1,0 +1,25 @@
+{
+  "_id": "8aab5188",
+  "accessions": {
+    "excluded": [
+      "KP710178"
+    ],
+    "included": [
+      "KP710177.1",
+      "MG017325.1",
+      "MG017326.1",
+      "MG017327.1",
+      "NC_026819.1"
+    ]
+  },
+  "name": "Taro bacilliform CH virus",
+  "schema": [
+    {
+      "length": 7645,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1634914
+}

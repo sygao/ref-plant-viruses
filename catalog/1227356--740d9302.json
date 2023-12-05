@@ -1,0 +1,29 @@
+{
+  "_id": "740d9302",
+  "accessions": {
+    "excluded": [
+      "JN848775",
+      "JN848776"
+    ],
+    "included": [
+      "NC_018716.1",
+      "NC_018718.1"
+    ]
+  },
+  "name": "Dalechampia chlorotic mosaic virus",
+  "schema": [
+    {
+      "length": 2616,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2598,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1227356
+}

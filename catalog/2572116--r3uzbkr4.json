@@ -1,0 +1,26 @@
+{
+  "_id": "r3uzbkr4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK257731.1",
+      "MK257732.1"
+    ]
+  },
+  "name": "Grapevine virga-like virus",
+  "schema": [
+    {
+      "length": 1755,
+      "molecule": "ssRNA+",
+      "name": "R1",
+      "required": true
+    },
+    {
+      "length": 2223,
+      "molecule": "ssRNA+",
+      "name": "R2",
+      "required": true
+    }
+  ],
+  "taxid": 2572116
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "d7ec984e",
+  "accessions": {
+    "excluded": [
+      "AF012300",
+      "AF012301"
+    ],
+    "included": [
+      "NC_001828.1",
+      "NC_001917.1"
+    ]
+  },
+  "name": "Tomato mottle Taino virus",
+  "schema": [
+    {
+      "length": 2597,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2562,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223358
+}

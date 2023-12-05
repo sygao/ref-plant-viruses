@@ -1,0 +1,19 @@
+{
+  "_id": "wxeio4ps",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG660825.1"
+    ]
+  },
+  "name": "Clematis chlorotic mottle virus",
+  "schema": [
+    {
+      "length": 3880,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1950126
+}

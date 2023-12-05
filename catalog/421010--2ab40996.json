@@ -1,0 +1,21 @@
+{
+  "_id": "2ab40996",
+  "accessions": {
+    "excluded": [
+      "JQ395040"
+    ],
+    "included": [
+      "NC_017967.1"
+    ]
+  },
+  "name": "Hippeastrum mosaic virus",
+  "schema": [
+    {
+      "length": 9660,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 421010
+}

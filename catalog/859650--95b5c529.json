@@ -1,0 +1,33 @@
+{
+  "_id": "95b5c529",
+  "accessions": {
+    "excluded": [
+      "GU456685"
+    ],
+    "included": [
+      "GU456685.1",
+      "GU456687.1",
+      "GU456688.1",
+      "GU456689.1",
+      "KC108893.1",
+      "KC108894.1",
+      "KC108895.1",
+      "KT388069.1",
+      "KT388071.1",
+      "KT388072.1",
+      "KT388073.1",
+      "KT388074.1",
+      "NC_014324.1"
+    ]
+  },
+  "name": "Turnip curly top virus",
+  "schema": [
+    {
+      "length": 2979,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 859650
+}

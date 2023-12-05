@@ -1,0 +1,21 @@
+{
+  "_id": "74bc286f",
+  "accessions": {
+    "excluded": [
+      "AJ786711"
+    ],
+    "included": [
+      "NC_006631.1"
+    ]
+  },
+  "name": "Malvastrum yellow vein Yunnan virus",
+  "schema": [
+    {
+      "length": 2747,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 290030
+}

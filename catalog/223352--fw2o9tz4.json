@@ -1,0 +1,21 @@
+{
+  "_id": "fw2o9tz4",
+  "accessions": {
+    "excluded": [
+      "AF274349"
+    ],
+    "included": [
+      "NC_004647.1"
+    ]
+  },
+  "name": "Tomato leaf curl Sri Lanka virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 223352
+}

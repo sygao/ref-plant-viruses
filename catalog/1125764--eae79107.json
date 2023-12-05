@@ -1,0 +1,29 @@
+{
+  "_id": "eae79107",
+  "accessions": {
+    "excluded": [
+      "HE617299",
+      "HE617300"
+    ],
+    "included": [
+      "NC_017004.1",
+      "NC_017005.1"
+    ]
+  },
+  "name": "Cassava mosaic Madagascar virus",
+  "schema": [
+    {
+      "length": 2769,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2741,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1125764
+}

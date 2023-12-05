@@ -1,0 +1,21 @@
+{
+  "_id": "uvnkrzhc",
+  "accessions": {
+    "excluded": [
+      "KF267444"
+    ],
+    "included": [
+      "NC_038678.1"
+    ]
+  },
+  "name": "Okra leaf curl Oman betasatellite",
+  "schema": [
+    {
+      "length": 1351,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2010323
+}

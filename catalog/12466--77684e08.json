@@ -1,0 +1,29 @@
+{
+  "_id": "77684e08",
+  "accessions": {
+    "excluded": [
+      "X90904",
+      "Y10973"
+    ],
+    "included": [
+      "NC_003482.1",
+      "NC_003483.1"
+    ]
+  },
+  "name": "Barley mild mosaic virus",
+  "schema": [
+    {
+      "length": 7262,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3524,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12466
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "kqpzbw0s",
+  "accessions": {
+    "excluded": [
+      "LK028571"
+    ],
+    "included": [
+      "NC_027129.1"
+    ]
+  },
+  "name": "Hollyhock yellow vein mosaic Islamabad virus",
+  "schema": [
+    {
+      "length": 2741,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1504732
+}

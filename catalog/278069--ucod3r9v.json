@@ -1,0 +1,21 @@
+{
+  "_id": "ucod3r9v",
+  "accessions": {
+    "excluded": [
+      "AJ506791"
+    ],
+    "included": [
+      "NC_004544.1"
+    ]
+  },
+  "name": "Tomato leaf curl China betasatellite",
+  "schema": [
+    {
+      "length": 1339,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 278069
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "w87r2wkl",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY867750.1",
+      "KY867751.1",
+      "MK460243.1",
+      "MK460244.1"
+    ]
+  },
+  "name": "Peach leaf pitting-associated virus",
+  "schema": [
+    {
+      "length": 6280,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3849,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 2038685
+}

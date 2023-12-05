@@ -1,0 +1,21 @@
+{
+  "_id": "ln7v8wuk",
+  "accessions": {
+    "excluded": [
+      "JX101610"
+    ],
+    "included": [
+      "NC_040311.1"
+    ]
+  },
+  "name": "Citrus yellow vein-associated virus",
+  "schema": [
+    {
+      "length": 2692,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1297894
+}

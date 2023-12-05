@@ -1,0 +1,21 @@
+{
+  "_id": "lt34jq0k",
+  "accessions": {
+    "excluded": [
+      "AY754813"
+    ],
+    "included": [
+      "NC_008523.1"
+    ]
+  },
+  "name": "Tomato leaf curl Karnataka betasatellite",
+  "schema": [
+    {
+      "length": 1358,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1397670
+}

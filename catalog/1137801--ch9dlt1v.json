@@ -1,0 +1,77 @@
+{
+  "_id": "ch9dlt1v",
+  "accessions": {
+    "excluded": [
+      "HE654123",
+      "HE654124",
+      "HE654125",
+      "HE654126",
+      "HE654127",
+      "HE654128",
+      "HE654129",
+      "HE654130"
+    ],
+    "included": [
+      "NC_038904.1",
+      "NC_038905.1",
+      "NC_038906.1",
+      "NC_038907.1",
+      "NC_038908.1",
+      "NC_038909.1",
+      "NC_038910.1",
+      "NC_038911.1"
+    ]
+  },
+  "name": "Faba bean yellow leaf virus",
+  "schema": [
+    {
+      "length": 995,
+      "molecule": "ssDNA",
+      "name": "DNA C",
+      "required": true
+    },
+    {
+      "length": 980,
+      "molecule": "ssDNA",
+      "name": "DNA M",
+      "required": true
+    },
+    {
+      "length": 1000,
+      "molecule": "ssDNA",
+      "name": "DNA N",
+      "required": true
+    },
+    {
+      "length": 1002,
+      "molecule": "ssDNA",
+      "name": "DNA R",
+      "required": true
+    },
+    {
+      "length": 1001,
+      "molecule": "ssDNA",
+      "name": "DNA S",
+      "required": true
+    },
+    {
+      "length": 990,
+      "molecule": "ssDNA",
+      "name": "DNA U1",
+      "required": true
+    },
+    {
+      "length": 995,
+      "molecule": "ssDNA",
+      "name": "DNA U2",
+      "required": true
+    },
+    {
+      "length": 972,
+      "molecule": "",
+      "name": "DNA U4",
+      "required": true
+    }
+  ],
+  "taxid": 1137801
+}

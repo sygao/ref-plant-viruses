@@ -1,0 +1,37 @@
+{
+  "_id": "2649ee6a",
+  "accessions": {
+    "excluded": [
+      "D00355",
+      "D00356",
+      "D10538"
+    ],
+    "included": [
+      "NC_001440.1",
+      "NC_002034.1",
+      "NC_002035.1"
+    ]
+  },
+  "name": "Cucumber mosaic virus",
+  "schema": [
+    {
+      "length": 3357,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3050,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2216,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12305
+}

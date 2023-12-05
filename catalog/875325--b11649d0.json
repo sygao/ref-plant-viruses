@@ -1,0 +1,21 @@
+{
+  "_id": "b11649d0",
+  "accessions": {
+    "excluded": [
+      "KJ739691"
+    ],
+    "included": [
+      "NC_024695.1"
+    ]
+  },
+  "name": "Rose leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1349,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 875325
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "86cd1a28",
+  "accessions": {
+    "excluded": [
+      "AY072921"
+    ],
+    "included": [
+      "NC_012519.1"
+    ]
+  },
+  "name": "African oil palm ringspot virus",
+  "schema": [
+    {
+      "length": 7781,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 185218
+}

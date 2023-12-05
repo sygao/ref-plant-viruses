@@ -1,0 +1,21 @@
+{
+  "_id": "8a4e07a2",
+  "accessions": {
+    "excluded": [
+      "X83110"
+    ],
+    "included": [
+      "NC_003491.1"
+    ]
+  },
+  "name": "Beet mild yellowing virus",
+  "schema": [
+    {
+      "length": 5722,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 156690
+}

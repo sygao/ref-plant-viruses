@@ -1,0 +1,21 @@
+{
+  "_id": "bc0f0e8e",
+  "accessions": {
+    "excluded": [
+      "U62963"
+    ],
+    "included": [
+      "NC_001812.1"
+    ]
+  },
+  "name": "Cymbidium mosaic virus",
+  "schema": [
+    {
+      "length": 6227,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12178
+}

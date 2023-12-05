@@ -1,0 +1,26 @@
+{
+  "_id": "sfnakozt",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KR011032.1",
+      "KR011033.1"
+    ]
+  },
+  "name": "Lychnis mottle virus",
+  "schema": [
+    {
+      "length": 7444,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3755,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1676256
+}

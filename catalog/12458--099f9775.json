@@ -1,0 +1,21 @@
+{
+  "_id": "099f9775",
+  "accessions": {
+    "excluded": [
+      "AJ292226"
+    ],
+    "included": [
+      "NC_003557.1"
+    ]
+  },
+  "name": "Garlic latent virus",
+  "schema": [
+    {
+      "length": 8363,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12458
+}

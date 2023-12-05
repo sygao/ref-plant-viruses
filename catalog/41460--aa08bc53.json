@@ -1,0 +1,14 @@
+{
+  "_id": "aa08bc53",
+  "accessions": {
+    "excluded": [
+      "U42596"
+    ],
+    "included": [
+      "NC_004752.1"
+    ]
+  },
+  "name": "Yam mosaic virus",
+  "schema": [],
+  "taxid": 41460
+}

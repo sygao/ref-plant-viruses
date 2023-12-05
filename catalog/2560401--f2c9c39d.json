@@ -1,0 +1,21 @@
+{
+  "_id": "f2c9c39d",
+  "accessions": {
+    "excluded": [
+      "AY163842"
+    ],
+    "included": [
+      "NC_004725.1"
+    ]
+  },
+  "name": "Cucumber Bulgarian virus",
+  "schema": [
+    {
+      "length": 4576,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560401
+}

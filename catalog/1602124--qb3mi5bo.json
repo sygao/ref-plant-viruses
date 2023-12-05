@@ -1,0 +1,22 @@
+{
+  "_id": "qb3mi5bo",
+  "accessions": {
+    "excluded": [
+      "LC019764"
+    ],
+    "included": [
+      "LC381945.1",
+      "NC_027123.1"
+    ]
+  },
+  "name": "Cymbidium chlorotic mosaic virus",
+  "schema": [
+    {
+      "length": 4083,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1602124
+}

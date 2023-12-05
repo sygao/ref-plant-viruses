@@ -1,0 +1,19 @@
+{
+  "_id": "069590e4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "HQ402596.1"
+    ]
+  },
+  "name": "Groundnut yellow spot virus",
+  "schema": [
+    {
+      "length": 3006,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 345030
+}

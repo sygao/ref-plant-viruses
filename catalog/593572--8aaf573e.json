@@ -1,0 +1,28 @@
+{
+  "_id": "8aaf573e",
+  "accessions": {
+    "excluded": [
+      "KJ746622"
+    ],
+    "included": [
+      "FJ028650.1",
+      "NC_043386.1"
+    ]
+  },
+  "name": "Broad bean stain virus",
+  "schema": [
+    {
+      "length": 276,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3478,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 593572
+}

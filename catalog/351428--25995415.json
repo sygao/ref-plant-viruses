@@ -1,0 +1,21 @@
+{
+  "_id": "25995415",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KR998050.1",
+      "KR998051.1",
+      "KT893296.1"
+    ]
+  },
+  "name": "Asian prunus virus 3",
+  "schema": [
+    {
+      "length": 9624,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 351428
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "79d8c5f9",
+  "accessions": {
+    "excluded": [
+      "K02029",
+      "K02030"
+    ],
+    "included": [
+      "NC_001507.1",
+      "NC_001508.1"
+    ]
+  },
+  "name": "Tomato golden mosaic virus",
+  "schema": [
+    {
+      "length": 2588,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2508,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10831
+}

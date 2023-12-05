@@ -1,0 +1,21 @@
+{
+  "_id": "78c83f41",
+  "accessions": {
+    "excluded": [
+      "U20976"
+    ],
+    "included": [
+      "NC_003535.1"
+    ]
+  },
+  "name": "Cowpea mottle virus",
+  "schema": [
+    {
+      "length": 4029,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12627
+}

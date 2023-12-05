@@ -1,0 +1,29 @@
+{
+  "_id": "qmyl2651",
+  "accessions": {
+    "excluded": [
+      "KP760461",
+      "KP760462"
+    ],
+    "included": [
+      "NC_043398.1",
+      "NC_043399.1"
+    ]
+  },
+  "name": "Drakaea virus A",
+  "schema": [
+    {
+      "length": 4490,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2905,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1647805
+}

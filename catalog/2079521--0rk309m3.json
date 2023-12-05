@@ -1,0 +1,19 @@
+{
+  "_id": "0rk309m3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF543022.1"
+    ]
+  },
+  "name": "Black currant nucleorhabdovirus 1",
+  "schema": [
+    {
+      "length": 14432,
+      "molecule": "ssRNA-",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2079521
+}

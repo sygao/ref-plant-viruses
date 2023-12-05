@@ -1,0 +1,21 @@
+{
+  "_id": "d75c0bed",
+  "accessions": {
+    "excluded": [
+      "KC196078"
+    ],
+    "included": [
+      "NC_020475.1"
+    ]
+  },
+  "name": "Corchorus yellow vein mosaic betasatellite",
+  "schema": [
+    {
+      "length": 1390,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1297646
+}

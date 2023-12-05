@@ -1,0 +1,21 @@
+{
+  "_id": "npntuqse",
+  "accessions": {
+    "excluded": [
+      "MF425845"
+    ],
+    "included": [
+      "NC_036589.1"
+    ]
+  },
+  "name": "Maize-associated totivirus 3",
+  "schema": [
+    {
+      "length": 4990,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2057198
+}

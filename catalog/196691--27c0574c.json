@@ -1,0 +1,19 @@
+{
+  "_id": "27c0574c",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ488768.1"
+    ]
+  },
+  "name": "Tobacco leaf rugose virus",
+  "schema": [
+    {
+      "length": 2622,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 196691
+}

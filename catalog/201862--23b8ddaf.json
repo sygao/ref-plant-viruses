@@ -1,0 +1,21 @@
+{
+  "_id": "23b8ddaf",
+  "accessions": {
+    "excluded": [
+      "AY656816"
+    ],
+    "included": [
+      "NC_007216.1"
+    ]
+  },
+  "name": "Wisteria vein mosaic virus",
+  "schema": [
+    {
+      "length": 9695,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 201862
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "f0cc5c59",
+  "accessions": {
+    "excluded": [
+      "AF055887",
+      "DQ875594"
+    ],
+    "included": [
+      "AF055887.1",
+      "AF055888.1",
+      "NC_004060.1"
+    ]
+  },
+  "name": "Southern bean mosaic virus",
+  "schema": [
+    {
+      "length": 4134,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12139
+}

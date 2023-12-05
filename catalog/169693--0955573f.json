@@ -1,0 +1,21 @@
+{
+  "_id": "0955573f",
+  "accessions": {
+    "excluded": [
+      "AJ316039"
+    ],
+    "included": [
+      "NC_005051.1"
+    ]
+  },
+  "name": "Okra yellow vein disease associated sequence",
+  "schema": [
+    {
+      "length": 1307,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 169693
+}

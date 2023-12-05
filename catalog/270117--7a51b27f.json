@@ -1,0 +1,21 @@
+{
+  "_id": "7a51b27f",
+  "accessions": {
+    "excluded": [
+      "AJ558121"
+    ],
+    "included": [
+      "NC_005319.1"
+    ]
+  },
+  "name": "Euphorbia leaf curl virus",
+  "schema": [
+    {
+      "length": 2746,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 270117
+}

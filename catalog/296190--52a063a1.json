@@ -1,0 +1,26 @@
+{
+  "_id": "52a063a1",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JF803258.1",
+      "JF803265.1"
+    ]
+  },
+  "name": "Tomato golden vein virus",
+  "schema": [
+    {
+      "length": 2561,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2531,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 296190
+}

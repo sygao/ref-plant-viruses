@@ -1,0 +1,29 @@
+{
+  "_id": "rpz4bwux",
+  "accessions": {
+    "excluded": [
+      "MK558061",
+      "MK558062"
+    ],
+    "included": [
+      "NC_055521.1",
+      "NC_055522.1"
+    ]
+  },
+  "name": "Hibiscus golden mosaic virus",
+  "schema": [
+    {
+      "length": 2652,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2627,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2569569
+}

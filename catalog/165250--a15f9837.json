@@ -1,0 +1,21 @@
+{
+  "_id": "a15f9837",
+  "accessions": {
+    "excluded": [
+      "KP784454"
+    ],
+    "included": [
+      "NC_026616.1"
+    ]
+  },
+  "name": "Alfalfa latent virus",
+  "schema": [
+    {
+      "length": 8041,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 165250
+}

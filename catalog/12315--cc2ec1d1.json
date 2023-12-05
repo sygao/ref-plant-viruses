@@ -1,0 +1,37 @@
+{
+  "_id": "cc2ec1d1",
+  "accessions": {
+    "excluded": [
+      "AJ277268",
+      "D10044",
+      "D10663"
+    ],
+    "included": [
+      "NC_003836.1",
+      "NC_003837.1",
+      "NC_003838.1"
+    ]
+  },
+  "name": "Tomato aspermy virus",
+  "schema": [
+    {
+      "length": 3410,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3074,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2386,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 12315
+}

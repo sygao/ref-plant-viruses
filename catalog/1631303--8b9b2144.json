@@ -1,0 +1,25 @@
+{
+  "_id": "8b9b2144",
+  "accessions": {
+    "excluded": [
+      "KP303687"
+    ],
+    "included": [
+      "KP699128.1",
+      "KP699129.1",
+      "KP699130.1",
+      "MN240483.1",
+      "NC_026771.1"
+    ]
+  },
+  "name": "Mulberry mosaic dwarf associated virus",
+  "schema": [
+    {
+      "length": 2952,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1631303
+}

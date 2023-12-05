@@ -1,0 +1,21 @@
+{
+  "_id": "3b6ebff8",
+  "accessions": {
+    "excluded": [
+      "JX025224"
+    ],
+    "included": [
+      "NC_018935.1"
+    ]
+  },
+  "name": "Tobacco leaf chlorosis betasatellite",
+  "schema": [
+    {
+      "length": 1345,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1213187
+}

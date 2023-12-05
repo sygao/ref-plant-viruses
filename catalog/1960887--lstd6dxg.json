@@ -1,0 +1,20 @@
+{
+  "_id": "lstd6dxg",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KX897157.1",
+      "MG958506.1"
+    ]
+  },
+  "name": "Jasmine virus H",
+  "schema": [
+    {
+      "length": 3876,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1960887
+}

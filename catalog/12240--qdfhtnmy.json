@@ -1,0 +1,20 @@
+{
+  "_id": "qdfhtnmy",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "D84000.1",
+      "MW057697.1"
+    ]
+  },
+  "name": "Sunn hemp mosaic virus",
+  "schema": [
+    {
+      "length": 6482,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12240
+}

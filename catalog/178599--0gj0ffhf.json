@@ -1,0 +1,22 @@
+{
+  "_id": "0gj0ffhf",
+  "accessions": {
+    "excluded": [
+      "HE600072"
+    ],
+    "included": [
+      "MW080952.1",
+      "NC_038920.1"
+    ]
+  },
+  "name": "Tomato mild mottle virus",
+  "schema": [
+    {
+      "length": 9283,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 178599
+}

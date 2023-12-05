@@ -1,0 +1,29 @@
+{
+  "_id": "7858f59e",
+  "accessions": {
+    "excluded": [
+      "JX971976",
+      "JX971977"
+    ],
+    "included": [
+      "NC_021094.1",
+      "NC_021095.1"
+    ]
+  },
+  "name": "White clover cryptic virus 2",
+  "schema": [
+    {
+      "length": 2435,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2348,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1323525
+}

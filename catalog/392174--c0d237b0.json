@@ -1,0 +1,21 @@
+{
+  "_id": "c0d237b0",
+  "accessions": {
+    "excluded": [
+      "DQ660333"
+    ],
+    "included": [
+      "NC_008251.1"
+    ]
+  },
+  "name": "Malva mosaic virus",
+  "schema": [
+    {
+      "length": 6858,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 392174
+}

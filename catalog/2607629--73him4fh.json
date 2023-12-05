@@ -1,0 +1,21 @@
+{
+  "_id": "73him4fh",
+  "accessions": {
+    "excluded": [
+      "MK681145"
+    ],
+    "included": [
+      "NC_055577.1"
+    ]
+  },
+  "name": "Physalis rugose mosaic virus",
+  "schema": [
+    {
+      "length": 4175,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2607629
+}

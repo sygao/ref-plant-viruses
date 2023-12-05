@@ -1,0 +1,21 @@
+{
+  "_id": "b4196696",
+  "accessions": {
+    "excluded": [
+      "AJ295949"
+    ],
+    "included": [
+      "NC_003878.1"
+    ]
+  },
+  "name": "Zucchini green mottle mosaic virus",
+  "schema": [
+    {
+      "length": 6513,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 111418
+}

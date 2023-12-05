@@ -1,0 +1,20 @@
+{
+  "_id": "b0b167af",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB366021.1",
+      "AB795264.1"
+    ]
+  },
+  "name": "Apple fruit crinkle viroid",
+  "schema": [
+    {
+      "length": 372,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 190808
+}

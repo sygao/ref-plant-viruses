@@ -1,0 +1,21 @@
+{
+  "_id": "7c1ea45d",
+  "accessions": {
+    "excluded": [
+      "HQ593108"
+    ],
+    "included": [
+      "NC_015503.1"
+    ]
+  },
+  "name": "Banana streak UI virus",
+  "schema": [
+    {
+      "length": 7458,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1016855
+}

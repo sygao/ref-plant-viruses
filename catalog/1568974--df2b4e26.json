@@ -1,0 +1,21 @@
+{
+  "_id": "df2b4e26",
+  "accessions": {
+    "excluded": [
+      "KM377674"
+    ],
+    "included": [
+      "NC_025475.1"
+    ]
+  },
+  "name": "Chickpea yellow dwarf virus",
+  "schema": [
+    {
+      "length": 2547,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1568974
+}

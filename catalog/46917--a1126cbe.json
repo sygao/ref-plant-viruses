@@ -1,0 +1,21 @@
+{
+  "_id": "a1126cbe",
+  "accessions": {
+    "excluded": [
+      "BD171712"
+    ],
+    "included": [
+      "NC_005028.1"
+    ]
+  },
+  "name": "Papaya leaf distortion mosaic virus",
+  "schema": [
+    {
+      "length": 10155,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 46917
+}

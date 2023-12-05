@@ -1,0 +1,29 @@
+{
+  "_id": "e9682dd3",
+  "accessions": {
+    "excluded": [
+      "AJ243766"
+    ],
+    "included": [
+      "AJ243766.2",
+      "MK756119.1",
+      "MT737804.1",
+      "MZ286356.1",
+      "MZ286357.1",
+      "MZ286358.1",
+      "MZ286362.1",
+      "NC_004010.1",
+      "OK181762.1"
+    ]
+  },
+  "name": "Potato virus V",
+  "schema": [
+    {
+      "length": 9849,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 40640
+}

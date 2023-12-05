@@ -1,0 +1,19 @@
+{
+  "_id": "ohc0rsk4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT348707.1"
+    ]
+  },
+  "name": "Lettuce mottle virus",
+  "schema": [
+    {
+      "length": 9927,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 332934
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "7b68a0c2",
+  "accessions": {
+    "excluded": [
+      "DQ473478"
+    ],
+    "included": [
+      "NC_008034.1"
+    ]
+  },
+  "name": "Dracaena mottle virus",
+  "schema": [
+    {
+      "length": 7531,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 380669
+}

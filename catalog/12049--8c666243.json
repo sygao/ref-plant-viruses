@@ -1,0 +1,23 @@
+{
+  "_id": "8c666243",
+  "accessions": {
+    "excluded": [
+      "AB038147"
+    ],
+    "included": [
+      "JN674402.1",
+      "MT526793.1",
+      "NC_003056.1"
+    ]
+  },
+  "name": "Soybean dwarf virus",
+  "schema": [
+    {
+      "length": 6445,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12049
+}

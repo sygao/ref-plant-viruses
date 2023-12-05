@@ -1,0 +1,47 @@
+{
+  "_id": "usarbu5p",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK602177.1",
+      "MK602178.1",
+      "MK602179.1",
+      "MK602180.1",
+      "MK602181.1"
+    ]
+  },
+  "name": "Pear chlorotic leaf spot associated virus",
+  "schema": [
+    {
+      "length": 7100,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2045,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1296,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1543,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1253,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 2603627
+}

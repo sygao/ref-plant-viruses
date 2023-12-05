@@ -1,0 +1,14 @@
+{
+  "_id": "2982fc55",
+  "accessions": {
+    "excluded": [
+      "JF411989"
+    ],
+    "included": [
+      "NC_017830.1"
+    ]
+  },
+  "name": "Fig badnavirus 1",
+  "schema": [],
+  "taxid": 1034096
+}

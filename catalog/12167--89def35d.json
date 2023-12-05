@@ -1,0 +1,26 @@
+{
+  "_id": "89def35d",
+  "accessions": {
+    "excluded": [
+      "D14449"
+    ],
+    "included": [
+      "MH558035.1",
+      "MH558036.1",
+      "MH558037.1",
+      "MW307264.1",
+      "MW582794.1",
+      "NC_001361.1"
+    ]
+  },
+  "name": "Potato virus M",
+  "schema": [
+    {
+      "length": 8525,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12167
+}

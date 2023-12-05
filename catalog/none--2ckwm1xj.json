@@ -1,0 +1,21 @@
+{
+  "_id": "2ckwm1xj",
+  "accessions": {
+    "excluded": [
+      "AJ006460"
+    ],
+    "included": [
+      "NC_038877.1"
+    ]
+  },
+  "name": "East African cassava mosaic Malawi virus-Malawi[K]",
+  "schema": [
+    {
+      "length": 2804,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": -1
+}

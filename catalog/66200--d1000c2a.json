@@ -1,0 +1,21 @@
+{
+  "_id": "d1000c2a",
+  "accessions": {
+    "excluded": [
+      "AY695933"
+    ],
+    "included": [
+      "NC_006265.1"
+    ]
+  },
+  "name": "Carrot red leaf virus",
+  "schema": [
+    {
+      "length": 5723,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 66200
+}

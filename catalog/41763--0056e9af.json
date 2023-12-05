@@ -1,0 +1,21 @@
+{
+  "_id": "0056e9af",
+  "accessions": {
+    "excluded": [
+      "AY623626"
+    ],
+    "included": [
+      "NC_005903.1"
+    ]
+  },
+  "name": "Agropyron mosaic virus",
+  "schema": [
+    {
+      "length": 9540,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 41763
+}

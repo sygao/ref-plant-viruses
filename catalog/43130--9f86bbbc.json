@@ -1,0 +1,28 @@
+{
+  "_id": "9f86bbbc",
+  "accessions": {
+    "excluded": [
+      "AJ510223"
+    ],
+    "included": [
+      "AB219833.1",
+      "AB219834.1",
+      "HQ258894.1",
+      "JX429964.1",
+      "JX433019.1",
+      "JX433020.1",
+      "KJ451436.1",
+      "NC_005029.1"
+    ]
+  },
+  "name": "Onion yellow dwarf virus",
+  "schema": [
+    {
+      "length": 10464,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 43130
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "9f7a8bd3",
+  "accessions": {
+    "excluded": [
+      "AJ312437"
+    ],
+    "included": [
+      "NC_003397.1"
+    ]
+  },
+  "name": "Bean common mosaic virus",
+  "schema": [
+    {
+      "length": 9992,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12196
+}

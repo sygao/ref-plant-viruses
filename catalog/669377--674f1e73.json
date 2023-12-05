@@ -1,0 +1,26 @@
+{
+  "_id": "674f1e73",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB518485.1",
+      "AB518486.1"
+    ]
+  },
+  "name": "Melon mild mottle virus",
+  "schema": [
+    {
+      "length": 7727,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3854,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 669377
+}

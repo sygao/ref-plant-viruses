@@ -1,0 +1,29 @@
+{
+  "_id": "174219d8",
+  "accessions": {
+    "excluded": [
+      "FN691934",
+      "FN691935"
+    ],
+    "included": [
+      "NC_015492.1",
+      "NC_015493.1"
+    ]
+  },
+  "name": "Grapevine Bulgarian latent virus",
+  "schema": [
+    {
+      "length": 7452,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 5821,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 748667
+}

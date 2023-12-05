@@ -1,0 +1,27 @@
+{
+  "_id": "474w5ti2",
+  "accessions": {
+    "excluded": [
+      "MN313667"
+    ],
+    "included": [
+      "NC_055592.1"
+    ]
+  },
+  "name": "Ocimum yellow vein virus",
+  "schema": [
+    {
+      "length": 0,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2664942
+}

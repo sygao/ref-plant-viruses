@@ -1,0 +1,24 @@
+{
+  "_id": "e8be65b3",
+  "accessions": {
+    "excluded": [
+      "AB432910"
+    ],
+    "included": [
+      "GU903012.1",
+      "JX402759.1",
+      "KF588015.1",
+      "NC_011106.1"
+    ]
+  },
+  "name": "Grapevine virus E",
+  "schema": [
+    {
+      "length": 7567,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 516956
+}

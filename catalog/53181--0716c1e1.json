@@ -1,0 +1,21 @@
+{
+  "_id": "0716c1e1",
+  "accessions": {
+    "excluded": [
+      "X86448"
+    ],
+    "included": [
+      "NC_003608.1"
+    ]
+  },
+  "name": "Hibiscus chlorotic ringspot virus",
+  "schema": [
+    {
+      "length": 3911,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 53181
+}

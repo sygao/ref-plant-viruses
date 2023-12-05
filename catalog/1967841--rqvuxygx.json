@@ -1,0 +1,21 @@
+{
+  "_id": "rqvuxygx",
+  "accessions": {
+    "excluded": [
+      "KY075646"
+    ],
+    "included": [
+      "NC_034240.1"
+    ]
+  },
+  "name": "Tomato yellow mottle-associated virus",
+  "schema": [
+    {
+      "length": 13389,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1967841
+}

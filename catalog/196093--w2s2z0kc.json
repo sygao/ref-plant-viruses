@@ -1,0 +1,21 @@
+{
+  "_id": "w2s2z0kc",
+  "accessions": {
+    "excluded": [
+      "U88692"
+    ],
+    "included": [
+      "NC_003898.1"
+    ]
+  },
+  "name": "Tomato leaf curl Taiwan virus",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 196093
+}

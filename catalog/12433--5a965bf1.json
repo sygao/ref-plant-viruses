@@ -1,0 +1,21 @@
+{
+  "_id": "5a965bf1",
+  "accessions": {
+    "excluded": [
+      "AB010300"
+    ],
+    "included": [
+      "NC_003375.1"
+    ]
+  },
+  "name": "Garlic virus A",
+  "schema": [
+    {
+      "length": 8660,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12433
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "5a79a01f",
+  "accessions": {
+    "excluded": [
+      "AB287442"
+    ],
+    "included": [
+      "NC_009571.1"
+    ]
+  },
+  "name": "Honeysuckle yellow vein mosaic disease associated satellite DNA beta",
+  "schema": [
+    {
+      "length": 1346,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 417192
+}

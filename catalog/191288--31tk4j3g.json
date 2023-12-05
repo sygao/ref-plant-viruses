@@ -1,0 +1,51 @@
+{
+  "_id": "31tk4j3g",
+  "accessions": {
+    "excluded": [
+      "HF912243",
+      "HF912244",
+      "HF912245",
+      "HF912246"
+    ],
+    "included": [
+      "NC_030660.1",
+      "NC_030661.1",
+      "NC_030662.1",
+      "NC_030663.1"
+    ]
+  },
+  "name": "Pigeonpea sterility mosaic virus",
+  "schema": [
+    {
+      "length": 7009,
+      "molecule": "",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2229,
+      "molecule": "",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1335,
+      "molecule": "",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1491,
+      "molecule": "",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 191288
+}

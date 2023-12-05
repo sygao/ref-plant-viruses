@@ -1,0 +1,21 @@
+{
+  "_id": "79ealf81",
+  "accessions": {
+    "excluded": [
+      "KX618694"
+    ],
+    "included": [
+      "NC_031340.1"
+    ]
+  },
+  "name": "Grapevine geminivirus A",
+  "schema": [
+    {
+      "length": 2905,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1906317
+}

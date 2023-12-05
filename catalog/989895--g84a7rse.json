@@ -1,0 +1,33 @@
+{
+  "_id": "g84a7rse",
+  "accessions": {
+    "excluded": [
+      "MK804171",
+      "MK804172"
+    ],
+    "included": [
+      "MN746810.1",
+      "MN746811.1",
+      "MN746812.1",
+      "MN746813.1",
+      "NC_055652.1",
+      "NC_055653.1"
+    ]
+  },
+  "name": "Passion fruit green spot virus",
+  "schema": [
+    {
+      "length": 8616,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4638,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 989895
+}

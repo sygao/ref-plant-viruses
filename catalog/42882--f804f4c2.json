@@ -1,0 +1,21 @@
+{
+  "_id": "f804f4c2",
+  "accessions": {
+    "excluded": [
+      "X82547"
+    ],
+    "included": [
+      "NC_003689.1"
+    ]
+  },
+  "name": "Cherry virus A",
+  "schema": [
+    {
+      "length": 7383,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 42882
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "a2791538",
+  "accessions": {
+    "excluded": [
+      "JN039374"
+    ],
+    "included": [
+      "NC_016080.1"
+    ]
+  },
+  "name": "Mirabilis jalapa mottle virus",
+  "schema": [
+    {
+      "length": 8315,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1093773
+}

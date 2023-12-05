@@ -1,0 +1,21 @@
+{
+  "_id": "nx1ewx71",
+  "accessions": {
+    "excluded": [
+      "MH475920"
+    ],
+    "included": [
+      "NC_055238.1"
+    ]
+  },
+  "name": "Schefflera ringspot virus",
+  "schema": [
+    {
+      "length": 555,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169729
+}

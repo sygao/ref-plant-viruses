@@ -1,0 +1,32 @@
+{
+  "_id": "khns49am",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "LC632066.1",
+      "LC632067.1"
+    ]
+  },
+  "name": "Wheat virus Q",
+  "schema": [
+    {
+      "length": 8411,
+      "molecule": "ssRNA+",
+      "name": "B RNA",
+      "required": true
+    },
+    {
+      "length": 8412,
+      "molecule": "ssRNA+",
+      "name": "A RNA",
+      "required": true
+    },
+    {
+      "length": 725,
+      "molecule": "ssRNA+",
+      "name": "C RNA",
+      "required": true
+    }
+  ],
+  "taxid": 2859709
+}

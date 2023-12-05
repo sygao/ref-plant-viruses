@@ -1,0 +1,21 @@
+{
+  "_id": "8d168a1b",
+  "accessions": {
+    "excluded": [
+      "HQ180391"
+    ],
+    "included": [
+      "NC_014596.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Pusa virus",
+  "schema": [
+    {
+      "length": 2707,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 905054
+}

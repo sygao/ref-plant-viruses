@@ -1,0 +1,29 @@
+{
+  "_id": "qm06gv5h",
+  "accessions": {
+    "excluded": [
+      "U15015",
+      "U15017"
+    ],
+    "included": [
+      "NC_004611.1",
+      "NC_004612.1"
+    ]
+  },
+  "name": "Tomato leaf curl New Delhi virus",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2696,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223347
+}

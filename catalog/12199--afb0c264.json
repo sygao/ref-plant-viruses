@@ -1,0 +1,21 @@
+{
+  "_id": "afb0c264",
+  "accessions": {
+    "excluded": [
+      "AF348210"
+    ],
+    "included": [
+      "NC_004013.1"
+    ]
+  },
+  "name": "Cowpea aphid-borne mosaic virus",
+  "schema": [
+    {
+      "length": 9465,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12199
+}

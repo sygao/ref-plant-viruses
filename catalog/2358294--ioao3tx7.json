@@ -1,0 +1,20 @@
+{
+  "_id": "ioao3tx7",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH084695.1",
+      "MH084696.1"
+    ]
+  },
+  "name": "Peach chlorotic leaf spot virus",
+  "schema": [
+    {
+      "length": 7465,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2358294
+}

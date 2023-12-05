@@ -1,0 +1,29 @@
+{
+  "_id": "ef980639",
+  "accessions": {
+    "excluded": [
+      "AY291207",
+      "HE774604"
+    ],
+    "included": [
+      "NC_018383.1",
+      "NC_018384.1"
+    ]
+  },
+  "name": "Grapevine Anatolian ringspot virus",
+  "schema": [
+    {
+      "length": 7288,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4607,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 223769
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "802b3aa3",
+  "accessions": {
+    "excluded": [
+      "AB551370"
+    ],
+    "included": [
+      "NC_014536.1"
+    ]
+  },
+  "name": "Brugmansia suaveolens mottle virus",
+  "schema": [
+    {
+      "length": 9870,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 487155
+}

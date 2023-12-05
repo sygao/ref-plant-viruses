@@ -1,0 +1,21 @@
+{
+  "_id": "15mrf76u",
+  "accessions": {
+    "excluded": [
+      "KF446659"
+    ],
+    "included": [
+      "NC_055132.1"
+    ]
+  },
+  "name": "Blechum yellow vein virus",
+  "schema": [
+    {
+      "length": 2764,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560350
+}

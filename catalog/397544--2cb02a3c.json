@@ -1,0 +1,24 @@
+{
+  "_id": "2cb02a3c",
+  "accessions": {
+    "excluded": [
+      "EU259611"
+    ],
+    "included": [
+      "JF897996.1",
+      "KT721735.1",
+      "KU953950.1",
+      "NC_010521.1"
+    ]
+  },
+  "name": "Squash vein yellowing virus",
+  "schema": [
+    {
+      "length": 9834,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 397544
+}

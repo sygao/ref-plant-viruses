@@ -1,0 +1,29 @@
+{
+  "_id": "be6e0947",
+  "accessions": {
+    "excluded": [
+      "L07269",
+      "X78602"
+    ],
+    "included": [
+      "NC_003668.1",
+      "NC_003672.1"
+    ]
+  },
+  "name": "Peanut clump virus",
+  "schema": [
+    {
+      "length": 5897,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4504,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 28355
+}

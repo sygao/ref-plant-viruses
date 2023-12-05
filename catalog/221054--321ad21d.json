@@ -1,0 +1,21 @@
+{
+  "_id": "321ad21d",
+  "accessions": {
+    "excluded": [
+      "AJ438938"
+    ],
+    "included": [
+      "NC_004515.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein betasatellite",
+  "schema": [
+    {
+      "length": 1356,
+      "molecule": "dsDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 221054
+}

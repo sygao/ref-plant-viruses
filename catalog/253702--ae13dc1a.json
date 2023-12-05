@@ -1,0 +1,21 @@
+{
+  "_id": "ae13dc1a",
+  "accessions": {
+    "excluded": [
+      "AY366209"
+    ],
+    "included": [
+      "NC_006060.1"
+    ]
+  },
+  "name": "Opuntia virus X",
+  "schema": [
+    {
+      "length": 6653,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 253702
+}

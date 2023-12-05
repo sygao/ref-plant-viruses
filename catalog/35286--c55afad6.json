@@ -1,0 +1,21 @@
+{
+  "_id": "c55afad6",
+  "accessions": {
+    "excluded": [
+      "D26017"
+    ],
+    "included": [
+      "NC_001642.1"
+    ]
+  },
+  "name": "Bamboo mosaic virus",
+  "schema": [
+    {
+      "length": 6366,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35286
+}

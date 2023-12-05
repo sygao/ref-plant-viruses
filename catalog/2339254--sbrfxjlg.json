@@ -1,0 +1,19 @@
+{
+  "_id": "sbrfxjlg",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH716807.1"
+    ]
+  },
+  "name": "Arracacha virus Y",
+  "schema": [
+    {
+      "length": 9630,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2339254
+}

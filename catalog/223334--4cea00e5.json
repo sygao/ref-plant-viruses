@@ -1,0 +1,21 @@
+{
+  "_id": "4cea00e5",
+  "accessions": {
+    "excluded": [
+      "AB055009"
+    ],
+    "included": [
+      "NC_004641.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Kochi virus",
+  "schema": [
+    {
+      "length": 2760,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 223334
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "g3zvm8b1",
+  "accessions": {
+    "excluded": [
+      "MH514011",
+      "MH514012"
+    ],
+    "included": [
+      "NC_055514.1",
+      "NC_055515.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Dominican Republic virus",
+  "schema": [
+    {
+      "length": 2638,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2585,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2528965
+}

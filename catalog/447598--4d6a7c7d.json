@@ -1,0 +1,21 @@
+{
+  "_id": "4d6a7c7d",
+  "accessions": {
+    "excluded": [
+      "DQ641719"
+    ],
+    "included": [
+      "NC_009564.1"
+    ]
+  },
+  "name": "Mimosa yellow leaf curl virus-associated DNA 1",
+  "schema": [
+    {
+      "length": 1378,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 447598
+}

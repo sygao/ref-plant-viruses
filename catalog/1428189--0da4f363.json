@@ -1,0 +1,21 @@
+{
+  "_id": "0da4f363",
+  "accessions": {
+    "excluded": [
+      "KF641186"
+    ],
+    "included": [
+      "NC_023015.1"
+    ]
+  },
+  "name": "Hedyotis uncinella yellow mosaic betasatellite",
+  "schema": [
+    {
+      "length": 1348,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1428189
+}

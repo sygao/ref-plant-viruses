@@ -1,0 +1,21 @@
+{
+  "_id": "ph4g3qup",
+  "accessions": {
+    "excluded": [
+      "KX434768"
+    ],
+    "included": [
+      "NC_030887.1"
+    ]
+  },
+  "name": "Common bean-associated gemycircularvirus",
+  "schema": [
+    {
+      "length": 2220,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1897538
+}

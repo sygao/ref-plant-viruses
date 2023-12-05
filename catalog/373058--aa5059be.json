@@ -1,0 +1,21 @@
+{
+  "_id": "aa5059be",
+  "accessions": {
+    "excluded": [
+      "AF022787"
+    ],
+    "included": [
+      "NC_003826.1"
+    ]
+  },
+  "name": "Tomato bushy stunt virus satellite RNA",
+  "schema": [
+    {
+      "length": 822,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 373058
+}

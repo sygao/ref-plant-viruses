@@ -1,0 +1,21 @@
+{
+  "_id": "41e99b3b",
+  "accessions": {
+    "excluded": [
+      "HE806447"
+    ],
+    "included": [
+      "NC_019024.1"
+    ]
+  },
+  "name": "Peristrophe mosaic virus",
+  "schema": [
+    {
+      "length": 2598,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1188812
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "8c350e82",
+  "accessions": {
+    "excluded": [
+      "AF321057"
+    ],
+    "included": [
+      "JN226146.1",
+      "NC_002633.1"
+    ]
+  },
+  "name": "Cucumber fruit mottle mosaic virus",
+  "schema": [
+    {
+      "length": 6566,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 146499
+}

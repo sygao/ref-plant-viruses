@@ -1,0 +1,29 @@
+{
+  "_id": "95590122",
+  "accessions": {
+    "excluded": [
+      "GQ472985",
+      "GQ472986"
+    ],
+    "included": [
+      "NC_014141.1",
+      "NC_014142.1"
+    ]
+  },
+  "name": "Soybean chlorotic blotch virus",
+  "schema": [
+    {
+      "length": 2708,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2647,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 761702
+}

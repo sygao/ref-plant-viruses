@@ -1,0 +1,21 @@
+{
+  "_id": "9ly5xokt",
+  "accessions": {
+    "excluded": [
+      "FJ237617"
+    ],
+    "included": [
+      "NC_013413.1"
+    ]
+  },
+  "name": "Tomato leaf curl Sulawesi virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 634441
+}

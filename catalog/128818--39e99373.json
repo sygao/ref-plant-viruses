@@ -1,0 +1,21 @@
+{
+  "_id": "39e99373",
+  "accessions": {
+    "excluded": [
+      "AB710145"
+    ],
+    "included": [
+      "NC_018455.1"
+    ]
+  },
+  "name": "Chinese yam necrotic mosaic virus",
+  "schema": [
+    {
+      "length": 8224,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 128818
+}

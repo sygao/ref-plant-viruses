@@ -1,0 +1,21 @@
+{
+  "_id": "bbd4a996",
+  "accessions": {
+    "excluded": [
+      "L14546"
+    ],
+    "included": [
+      "NC_001574.1"
+    ]
+  },
+  "name": "Cacao swollen shoot virus",
+  "schema": [
+    {
+      "length": 7161,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31559
+}

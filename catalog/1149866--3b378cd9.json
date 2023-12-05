@@ -1,0 +1,21 @@
+{
+  "_id": "3b378cd9",
+  "accessions": {
+    "excluded": [
+      "JN819486"
+    ],
+    "included": [
+      "NC_016963.1"
+    ]
+  },
+  "name": "New World begomovirus associated satellite DNA",
+  "schema": [
+    {
+      "length": 689,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1149866
+}

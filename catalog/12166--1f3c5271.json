@@ -1,0 +1,22 @@
+{
+  "_id": "1f3c5271",
+  "accessions": {
+    "excluded": [
+      "AY505475"
+    ],
+    "included": [
+      "NC_005343.1",
+      "X65102.2"
+    ]
+  },
+  "name": "Poplar mosaic virus",
+  "schema": [
+    {
+      "length": 8739,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12166
+}

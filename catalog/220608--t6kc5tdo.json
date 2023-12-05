@@ -1,0 +1,21 @@
+{
+  "_id": "t6kc5tdo",
+  "accessions": {
+    "excluded": [
+      "Z48182"
+    ],
+    "included": [
+      "NC_003891.1"
+    ]
+  },
+  "name": "Tomato leaf curl Bangalore virus",
+  "schema": [
+    {
+      "length": 2749,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 220608
+}

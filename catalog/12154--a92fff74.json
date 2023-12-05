@@ -1,0 +1,26 @@
+{
+  "_id": "a92fff74",
+  "accessions": {
+    "excluded": [
+      "X07441"
+    ],
+    "included": [
+      "AF035403.1",
+      "J04373.1",
+      "KJ690173.1",
+      "KP883301.1",
+      "KP883302.1",
+      "NC_004063.1"
+    ]
+  },
+  "name": "Turnip yellow mosaic virus",
+  "schema": [
+    {
+      "length": 6319,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12154
+}

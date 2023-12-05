@@ -1,0 +1,37 @@
+{
+  "_id": "2cd2c0fc",
+  "accessions": {
+    "excluded": [
+      "FJ619507",
+      "FN436008",
+      "FJ619508"
+    ],
+    "included": [
+      "NC_012553.1",
+      "NC_012554.1",
+      "NC_014630.1"
+    ]
+  },
+  "name": "Euphorbia yellow mosaic virus",
+  "schema": [
+    {
+      "length": 1331,
+      "molecule": "ssDNA",
+      "name": "DNA 1",
+      "required": true
+    },
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2578,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 598494
+}

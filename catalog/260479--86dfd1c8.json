@@ -1,0 +1,21 @@
+{
+  "_id": "86dfd1c8",
+  "accessions": {
+    "excluded": [
+      "AJ620463"
+    ],
+    "included": [
+      "NC_007721.1"
+    ]
+  },
+  "name": "Cotton leaf curl Multan virus satellite U36-1",
+  "schema": [
+    {
+      "length": 1350,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 260479
+}

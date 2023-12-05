@@ -1,0 +1,28 @@
+{
+  "_id": "7192ff61",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY222074.1",
+      "AY365230.1",
+      "DQ061193.1",
+      "DQ923061.1",
+      "FJ394070.1",
+      "HM043817.1",
+      "JF446922.1",
+      "JF446924.1",
+      "KC143294.1",
+      "KM214220.1"
+    ]
+  },
+  "name": "Columnea latent viroid",
+  "schema": [
+    {
+      "length": 367,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12901
+}

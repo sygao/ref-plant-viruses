@@ -1,0 +1,29 @@
+{
+  "_id": "wjsuzafr",
+  "accessions": {
+    "excluded": [
+      "KF812525",
+      "KF812526"
+    ],
+    "included": [
+      "NC_038755.1",
+      "NC_038756.1"
+    ]
+  },
+  "name": "Coffee ringspot virus",
+  "schema": [
+    {
+      "length": 6552,
+      "molecule": "ssRNA-",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 5945,
+      "molecule": "ssRNA-",
+      "name": "RNA2",
+      "required": true
+    }
+  ],
+  "taxid": 745716
+}

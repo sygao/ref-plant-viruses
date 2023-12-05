@@ -1,0 +1,21 @@
+{
+  "_id": "9xl835gp",
+  "accessions": {
+    "excluded": [
+      "MH425569"
+    ],
+    "included": [
+      "NC_040838.1"
+    ]
+  },
+  "name": "Archtopus echinatus-associated virus",
+  "schema": [
+    {
+      "length": 2458,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2282642
+}

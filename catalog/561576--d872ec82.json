@@ -1,0 +1,37 @@
+{
+  "_id": "d872ec82",
+  "accessions": {
+    "excluded": [
+      "FJ157981",
+      "FJ157982",
+      "FJ157983"
+    ],
+    "included": [
+      "NC_013111.1",
+      "NC_013112.1",
+      "NC_013113.1"
+    ]
+  },
+  "name": "Cassava virus C",
+  "schema": [
+    {
+      "length": 2740,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1137,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 958,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 561576
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "35vi8cii",
+  "accessions": {
+    "excluded": [
+      "AJ278875"
+    ],
+    "included": [
+      "NC_043411.1"
+    ]
+  },
+  "name": "Apricot latent ringspot virus",
+  "schema": [
+    {
+      "length": 2218,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 136418
+}

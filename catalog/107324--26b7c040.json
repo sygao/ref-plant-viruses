@@ -1,0 +1,21 @@
+{
+  "_id": "26b7c040",
+  "accessions": {
+    "excluded": [
+      "AF190123"
+    ],
+    "included": [
+      "NC_003378.1"
+    ]
+  },
+  "name": "Tobacco vein clearing virus",
+  "schema": [
+    {
+      "length": 7767,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 107324
+}

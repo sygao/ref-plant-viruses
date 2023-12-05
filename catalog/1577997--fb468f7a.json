@@ -1,0 +1,21 @@
+{
+  "_id": "fb468f7a",
+  "accessions": {
+    "excluded": [
+      "KJ885302"
+    ],
+    "included": [
+      "NC_025837.1"
+    ]
+  },
+  "name": "Sauropus yellowing virus",
+  "schema": [
+    {
+      "length": 5820,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1577997
+}

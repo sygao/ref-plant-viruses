@@ -1,0 +1,21 @@
+{
+  "_id": "gb9m0fsf",
+  "accessions": {
+    "excluded": [
+      "JQ599284"
+    ],
+    "included": [
+      "NC_043108.1"
+    ]
+  },
+  "name": "Cordyline virus 4",
+  "schema": [
+    {
+      "length": 14619,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1177753
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "2f780952",
+  "accessions": {
+    "excluded": [
+      "JN848770",
+      "JN848771"
+    ],
+    "included": [
+      "NC_019568.1",
+      "NC_019569.1"
+    ]
+  },
+  "name": "Bean chlorosis virus",
+  "schema": [
+    {
+      "length": 2647,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2632,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1227354
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "9tm4n2dy",
+  "accessions": {
+    "excluded": [
+      "KP005454"
+    ],
+    "included": [
+      "NC_026245.1"
+    ]
+  },
+  "name": "Bromus-associated circular DNA virus 4",
+  "schema": [
+    {
+      "length": 2806,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1590172
+}

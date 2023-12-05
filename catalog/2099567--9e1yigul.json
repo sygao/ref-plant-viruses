@@ -1,0 +1,53 @@
+{
+  "_id": "9e1yigul",
+  "accessions": {
+    "excluded": [
+      "MH223635",
+      "MH223636",
+      "MH223637",
+      "MH223638",
+      "MH223639"
+    ],
+    "included": [
+      "NC_055641.1",
+      "NC_055642.1",
+      "NC_055643.1",
+      "NC_055644.1",
+      "NC_055645.1"
+    ]
+  },
+  "name": "Ti ringspot-associated emaravirus",
+  "schema": [
+    {
+      "length": 7217,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2399,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1106,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1342,
+      "molecule": "ssDNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1323,
+      "molecule": "ssRNA+",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 2099567
+}

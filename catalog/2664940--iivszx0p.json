@@ -1,0 +1,21 @@
+{
+  "_id": "iivszx0p",
+  "accessions": {
+    "excluded": [
+      "MN313661"
+    ],
+    "included": [
+      "NC_055591.1"
+    ]
+  },
+  "name": "Ocimum golden mosaic virus",
+  "schema": [
+    {
+      "length": 2752,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2664940
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "2oafytcq",
+  "accessions": {
+    "excluded": [
+      "D10454"
+    ],
+    "included": [
+      "NC_038323.1"
+    ]
+  },
+  "name": "Helenium virus S",
+  "schema": [
+    {
+      "length": 1389,
+      "molecule": "ssRNA+",
+      "name": "RNA",
+      "required": true
+    }
+  ],
+  "taxid": 12171
+}

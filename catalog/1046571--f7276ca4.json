@@ -1,0 +1,29 @@
+{
+  "_id": "f7276ca4",
+  "accessions": {
+    "excluded": [
+      "JF694471",
+      "JF694473"
+    ],
+    "included": [
+      "NC_016573.1",
+      "NC_016579.1"
+    ]
+  },
+  "name": "Sida mosaic Alagoas virus",
+  "schema": [
+    {
+      "length": 2678,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2614,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1046571
+}

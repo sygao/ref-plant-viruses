@@ -1,0 +1,24 @@
+{
+  "_id": "4ff7c77d",
+  "accessions": {
+    "excluded": [
+      "JQ824374"
+    ],
+    "included": [
+      "MK778835.1",
+      "MT270380.1",
+      "MW260504.1",
+      "NC_018093.1"
+    ]
+  },
+  "name": "Sweet potato virus G",
+  "schema": [
+    {
+      "length": 10820,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 46619
+}

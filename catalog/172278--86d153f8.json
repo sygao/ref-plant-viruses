@@ -1,0 +1,21 @@
+{
+  "_id": "86d153f8",
+  "accessions": {
+    "excluded": [
+      "AF336806"
+    ],
+    "included": [
+      "NC_004628.1"
+    ]
+  },
+  "name": "Chilli leaf curl virus",
+  "schema": [
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 172278
+}

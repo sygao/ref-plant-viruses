@@ -1,0 +1,29 @@
+{
+  "_id": "b6decbfb",
+  "accessions": {
+    "excluded": [
+      "AF039841",
+      "AF049336"
+    ],
+    "included": [
+      "NC_002046.1",
+      "NC_002047.1"
+    ]
+  },
+  "name": "Sida golden mosaic virus",
+  "schema": [
+    {
+      "length": 2642,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2585,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 51034
+}

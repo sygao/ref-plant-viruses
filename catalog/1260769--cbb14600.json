@@ -1,0 +1,21 @@
+{
+  "_id": "cbb14600",
+  "accessions": {
+    "excluded": [
+      "JX913532"
+    ],
+    "included": [
+      "NC_019547.1"
+    ]
+  },
+  "name": "Ageratum enation alphasatellite",
+  "schema": [
+    {
+      "length": 1378,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1260769
+}

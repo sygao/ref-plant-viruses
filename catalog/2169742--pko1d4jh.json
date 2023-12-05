@@ -1,0 +1,21 @@
+{
+  "_id": "pko1d4jh",
+  "accessions": {
+    "excluded": [
+      "KT099128"
+    ],
+    "included": [
+      "NC_038970.1"
+    ]
+  },
+  "name": "Whitefly-associated begomovirus 4",
+  "schema": [
+    {
+      "length": 2608,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 2169742
+}

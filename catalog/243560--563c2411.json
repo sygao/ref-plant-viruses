@@ -1,0 +1,21 @@
+{
+  "_id": "563c2411",
+  "accessions": {
+    "excluded": [
+      "EF105297"
+    ],
+    "included": [
+      "NC_021196.1"
+    ]
+  },
+  "name": "Calla lily latent virus",
+  "schema": [
+    {
+      "length": 9731,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 243560
+}

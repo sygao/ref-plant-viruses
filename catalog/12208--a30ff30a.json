@@ -1,0 +1,29 @@
+{
+  "_id": "a30ff30a",
+  "accessions": {
+    "excluded": [
+      "D10930"
+    ],
+    "included": [
+      "AJ252242.1",
+      "KU870637.1",
+      "MK116871.1",
+      "MK116872.1",
+      "MK116873.1",
+      "MN399737.1",
+      "MW961158.1",
+      "NC_001671.1",
+      "X89997.1"
+    ]
+  },
+  "name": "Pea seed-borne mosaic virus",
+  "schema": [
+    {
+      "length": 9912,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12208
+}

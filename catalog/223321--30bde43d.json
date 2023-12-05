@@ -1,0 +1,29 @@
+{
+  "_id": "30bde43d",
+  "accessions": {
+    "excluded": [
+      "Y11099",
+      "Y11100"
+    ],
+    "included": [
+      "NC_004661.1",
+      "NC_004662.1"
+    ]
+  },
+  "name": "Sida yellow vein virus",
+  "schema": [
+    {
+      "length": 2612,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2593,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223321
+}

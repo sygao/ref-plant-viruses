@@ -1,0 +1,19 @@
+{
+  "_id": "1b10bfij",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH325329.1"
+    ]
+  },
+  "name": "Red clover associated virus 1",
+  "schema": [
+    {
+      "length": 11891,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2315578
+}

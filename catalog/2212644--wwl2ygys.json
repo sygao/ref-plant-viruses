@@ -1,0 +1,33 @@
+{
+  "_id": "wwl2ygys",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF469033.1",
+      "MF469034.1",
+      "MF469035.1"
+    ]
+  },
+  "name": "Alstroemeria yellow spot virus",
+  "schema": [
+    {
+      "length": 4797,
+      "molecule": "ssRNA-",
+      "name": "Segment M",
+      "required": true
+    },
+    {
+      "length": 8865,
+      "molecule": "ssRNA-",
+      "name": "Segment L",
+      "required": true
+    },
+    {
+      "length": 2734,
+      "molecule": "ssRNA-",
+      "name": "Segment S",
+      "required": true
+    }
+  ],
+  "taxid": 2212644
+}

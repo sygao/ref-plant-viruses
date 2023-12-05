@@ -1,0 +1,33 @@
+{
+  "_id": "maf821ys",
+  "accessions": {
+    "excluded": [
+      "KX787914"
+    ],
+    "included": [
+      "KX787914.1",
+      "KX787915.1",
+      "KX787916.1",
+      "KX787917.1",
+      "KX787918.1",
+      "KX787919.1",
+      "KX787920.1",
+      "KX787921.1",
+      "KX787922.1",
+      "KX787923.1",
+      "KX787924.1",
+      "KX787925.1",
+      "NC_032004.1"
+    ]
+  },
+  "name": "Sugarcane chlorotic streak virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1919062
+}

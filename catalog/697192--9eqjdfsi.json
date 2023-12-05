@@ -1,0 +1,21 @@
+{
+  "_id": "9eqjdfsi",
+  "accessions": {
+    "excluded": [
+      "AB019508"
+    ],
+    "included": [
+      "NC_004359.1"
+    ]
+  },
+  "name": "Citrus viroid VI",
+  "schema": [
+    {
+      "length": 330,
+      "molecule": "ssRNA",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 697192
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "4d35efd8",
+  "accessions": {
+    "excluded": [
+      "KJ481204",
+      "AY271891",
+      "KJ481205"
+    ],
+    "included": [
+      "NC_005338.1",
+      "NC_024779.1"
+    ]
+  },
+  "name": "Dolichos yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2761,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2733,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 333968
+}

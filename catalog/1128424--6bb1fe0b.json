@@ -1,0 +1,22 @@
+{
+  "_id": "6bb1fe0b",
+  "accessions": {
+    "excluded": [
+      "AF451898",
+      "JN418988"
+    ],
+    "included": [
+      "NC_004156.1"
+    ]
+  },
+  "name": "Helicoverpa zea nudivirus 2",
+  "schema": [
+    {
+      "length": 231621,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1128424
+}

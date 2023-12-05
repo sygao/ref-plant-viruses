@@ -1,0 +1,29 @@
+{
+  "_id": "f8bb5280",
+  "accessions": {
+    "excluded": [
+      "AY927277",
+      "EF547938"
+    ],
+    "included": [
+      "NC_009490.1",
+      "NC_009491.1"
+    ]
+  },
+  "name": "Tomato mild yellow leaf curl Aragua virus",
+  "schema": [
+    {
+      "length": 2609,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2559,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1124577
+}

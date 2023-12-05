@@ -1,0 +1,21 @@
+{
+  "_id": "pxip877u",
+  "accessions": {
+    "excluded": [
+      "MF642724"
+    ],
+    "included": [
+      "NC_043534.1"
+    ]
+  },
+  "name": "Cacao swollen shoot Ghana M virus",
+  "schema": [
+    {
+      "length": 7009,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2056883
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "a58ae87e",
+  "accessions": {
+    "excluded": [
+      "AF291705",
+      "AF291706"
+    ],
+    "included": [
+      "NC_002555.1",
+      "NC_002556.1"
+    ]
+  },
+  "name": "Tomato rugose mosaic virus",
+  "schema": [],
+  "taxid": 134599
+}

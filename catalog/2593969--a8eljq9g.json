@@ -1,0 +1,19 @@
+{
+  "_id": "a8eljq9g",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MH898525.1"
+    ]
+  },
+  "name": "Trichosanthes tepovirus A",
+  "schema": [
+    {
+      "length": 6860,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2593969
+}

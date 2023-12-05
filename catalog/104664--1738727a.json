@@ -1,0 +1,21 @@
+{
+  "_id": "1738727a",
+  "accessions": {
+    "excluded": [
+      "AF406744"
+    ],
+    "included": [
+      "NC_003093.1"
+    ]
+  },
+  "name": "Indian citrus ringspot virus",
+  "schema": [
+    {
+      "length": 7560,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104664
+}

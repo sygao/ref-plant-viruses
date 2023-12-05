@@ -1,0 +1,19 @@
+{
+  "_id": "esfh4ruv",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MF622947.1"
+    ]
+  },
+  "name": "Cardamom mosaic virus",
+  "schema": [
+    {
+      "length": 8249,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104637
+}

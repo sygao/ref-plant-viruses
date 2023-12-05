@@ -1,0 +1,40 @@
+{
+  "_id": "u0nvmmt2",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK517477.2",
+      "MK517478.2",
+      "MK517479.2",
+      "MK517480.2"
+    ]
+  },
+  "name": "Tomato blunervirus 1",
+  "schema": [
+    {
+      "length": 5811,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3643,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2872,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 1946,
+      "molecule": "ssRNA+",
+      "name": "RNA 4",
+      "required": true
+    }
+  ],
+  "taxid": 2607480
+}

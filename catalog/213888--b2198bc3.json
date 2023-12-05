@@ -1,0 +1,21 @@
+{
+  "_id": "b2198bc3",
+  "accessions": {
+    "excluded": [
+      "JX272320"
+    ],
+    "included": [
+      "NC_018616.1"
+    ]
+  },
+  "name": "Dahlia mosaic virus",
+  "schema": [
+    {
+      "length": 7916,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 213888
+}

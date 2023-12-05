@@ -1,0 +1,29 @@
+{
+  "_id": "00561aa2",
+  "accessions": {
+    "excluded": [
+      "AJ863509"
+    ],
+    "included": [
+      "JQ647830.1",
+      "MF496659.1",
+      "MN689446.1",
+      "MN689452.1",
+      "MN689457.1",
+      "MN689460.1",
+      "MT550620.1",
+      "MT550622.1",
+      "NC_007289.1"
+    ]
+  },
+  "name": "Potato virus S",
+  "schema": [
+    {
+      "length": 8532,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12169
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "01a58a1f",
+  "accessions": {
+    "excluded": [
+      "JQ714137",
+      "JQ714138"
+    ],
+    "included": [
+      "NC_025265.1",
+      "NC_025266.1"
+    ]
+  },
+  "name": "Tomato mottle wrinkle virus",
+  "schema": [
+    {
+      "length": 2564,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2560,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1266458
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "1y9ruoem",
+  "accessions": {
+    "excluded": [
+      "AJ865341"
+    ],
+    "included": [
+      "NC_028114.1"
+    ]
+  },
+  "name": "Tomato leaf curl Comoros virus",
+  "schema": [
+    {
+      "length": 2765,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 997078
+}

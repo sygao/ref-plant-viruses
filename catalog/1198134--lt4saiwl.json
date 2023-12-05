@@ -1,0 +1,21 @@
+{
+  "_id": "lt4saiwl",
+  "accessions": {
+    "excluded": [
+      "JQ793786"
+    ],
+    "included": [
+      "NC_038454.1"
+    ]
+  },
+  "name": "Premna leaf curl virus",
+  "schema": [
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1198134
+}

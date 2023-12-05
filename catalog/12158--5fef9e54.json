@@ -1,0 +1,21 @@
+{
+  "_id": "5fef9e54",
+  "accessions": {
+    "excluded": [
+      "D00637"
+    ],
+    "included": [
+      "NC_001746.1"
+    ]
+  },
+  "name": "Kennedya yellow mosaic virus",
+  "schema": [
+    {
+      "length": 6362,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12158
+}

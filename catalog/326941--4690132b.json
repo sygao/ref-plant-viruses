@@ -1,0 +1,21 @@
+{
+  "_id": "4690132b",
+  "accessions": {
+    "excluded": [
+      "DQ357218"
+    ],
+    "included": [
+      "NC_008585.1"
+    ]
+  },
+  "name": "Raspberry leaf mottle virus",
+  "schema": [
+    {
+      "length": 17481,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 326941
+}

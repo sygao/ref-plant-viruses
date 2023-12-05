@@ -1,0 +1,21 @@
+{
+  "_id": "8zl7uufa",
+  "accessions": {
+    "excluded": [
+      "AB100304"
+    ],
+    "included": [
+      "NC_005031.1"
+    ]
+  },
+  "name": "Tomato leaf curl Java virus",
+  "schema": [
+    {
+      "length": 2752,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 263001
+}

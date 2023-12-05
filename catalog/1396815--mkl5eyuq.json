@@ -1,0 +1,29 @@
+{
+  "_id": "mkl5eyuq",
+  "accessions": {
+    "excluded": [
+      "KF358470",
+      "KF358471"
+    ],
+    "included": [
+      "NC_038794.1",
+      "NC_038795.1"
+    ]
+  },
+  "name": "Cotton chlorotic spot virus",
+  "schema": [
+    {
+      "length": 2670,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2650,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1396815
+}

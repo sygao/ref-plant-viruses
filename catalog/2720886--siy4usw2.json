@@ -1,0 +1,27 @@
+{
+  "_id": "siy4usw2",
+  "accessions": {
+    "excluded": [
+      "MN414067"
+    ],
+    "included": [
+      "NC_055594.1"
+    ]
+  },
+  "name": "Bean bushy stunt virus",
+  "schema": [
+    {
+      "length": 2572,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2720886
+}

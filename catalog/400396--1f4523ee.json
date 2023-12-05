@@ -1,0 +1,21 @@
+{
+  "_id": "1f4523ee",
+  "accessions": {
+    "excluded": [
+      "DQ851495"
+    ],
+    "included": [
+      "NC_009744.1"
+    ]
+  },
+  "name": "Wild tomato mosaic virus",
+  "schema": [
+    {
+      "length": 9659,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 400396
+}

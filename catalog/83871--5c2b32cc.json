@@ -1,0 +1,37 @@
+{
+  "_id": "5c2b32cc",
+  "accessions": {
+    "excluded": [
+      "KM114546",
+      "KM114547",
+      "KM114548"
+    ],
+    "included": [
+      "NC_027718.1",
+      "NC_027719.1",
+      "NC_027720.1"
+    ]
+  },
+  "name": "Chrysanthemum stem necrosis virus",
+  "schema": [
+    {
+      "length": 8955,
+      "molecule": "ssRNA-",
+      "name": "L",
+      "required": true
+    },
+    {
+      "length": 4830,
+      "molecule": "ssRNA-",
+      "name": "M",
+      "required": true
+    },
+    {
+      "length": 2947,
+      "molecule": "ssRNA-",
+      "name": "S",
+      "required": true
+    }
+  ],
+  "taxid": 83871
+}

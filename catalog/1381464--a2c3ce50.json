@@ -1,0 +1,21 @@
+{
+  "_id": "a2c3ce50",
+  "accessions": {
+    "excluded": [
+      "KC904540"
+    ],
+    "included": [
+      "NC_022072.1"
+    ]
+  },
+  "name": "Blackberry vein banding associated virus",
+  "schema": [
+    {
+      "length": 18643,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1381464
+}

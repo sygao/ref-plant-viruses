@@ -1,0 +1,27 @@
+{
+  "_id": "dba3a8de",
+  "accessions": {
+    "excluded": [
+      "Z21647"
+    ],
+    "included": [
+      "AB360790.1",
+      "KU697313.1",
+      "KY923700.1",
+      "LC155795.1",
+      "LC155796.1",
+      "MZ344590.1",
+      "NC_003849.1"
+    ]
+  },
+  "name": "Plantago asiatica mosaic virus",
+  "schema": [
+    {
+      "length": 6121,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 28354
+}

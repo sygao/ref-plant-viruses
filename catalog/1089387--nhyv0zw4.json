@@ -1,0 +1,21 @@
+{
+  "_id": "nhyv0zw4",
+  "accessions": {
+    "excluded": [
+      "JF803252"
+    ],
+    "included": [
+      "NC_038469.1"
+    ]
+  },
+  "name": "Tomato interveinal chlorosis virus",
+  "schema": [
+    {
+      "length": 2617,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1089387
+}

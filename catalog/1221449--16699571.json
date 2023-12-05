@@ -1,0 +1,21 @@
+{
+  "_id": "16699571",
+  "accessions": {
+    "excluded": [
+      "JQ926983"
+    ],
+    "included": [
+      "NC_018505.1"
+    ]
+  },
+  "name": "Soybean Putnam virus",
+  "schema": [
+    {
+      "length": 7757,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1221449
+}

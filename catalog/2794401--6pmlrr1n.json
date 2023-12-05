@@ -1,0 +1,19 @@
+{
+  "_id": "6pmlrr1n",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW328739.1"
+    ]
+  },
+  "name": "Avocado betaflexivirus 1",
+  "schema": [
+    {
+      "length": 8002,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2794401
+}

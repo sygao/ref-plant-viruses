@@ -1,0 +1,19 @@
+{
+  "_id": "flxu15iz",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KY110739.1"
+    ]
+  },
+  "name": "Citrus jingmen-like virus",
+  "schema": [
+    {
+      "length": 2512,
+      "molecule": "",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1983763
+}

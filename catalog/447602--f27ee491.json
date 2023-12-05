@@ -1,0 +1,21 @@
+{
+  "_id": "f27ee491",
+  "accessions": {
+    "excluded": [
+      "DQ641712"
+    ],
+    "included": [
+      "NC_009558.1"
+    ]
+  },
+  "name": "Sida yellow vein Vietnam virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1340,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 447602
+}

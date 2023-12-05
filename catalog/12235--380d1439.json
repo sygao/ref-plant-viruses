@@ -1,0 +1,31 @@
+{
+  "_id": "380d1439",
+  "accessions": {
+    "excluded": [
+      "D12505"
+    ],
+    "included": [
+      "AF417242.1",
+      "AF417243.1",
+      "HM008919.1",
+      "KC852074.1",
+      "KF155229.1",
+      "KF155230.1",
+      "KF155231.1",
+      "KF155232.1",
+      "KM873788.1",
+      "KM873789.1",
+      "NC_001801.1"
+    ]
+  },
+  "name": "Cucumber green mottle mosaic virus",
+  "schema": [
+    {
+      "length": 6424,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12235
+}

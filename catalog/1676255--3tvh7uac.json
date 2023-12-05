@@ -1,0 +1,26 @@
+{
+  "_id": "3tvh7uac",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "KR011030.1",
+      "KR011031.1"
+    ]
+  },
+  "name": "Cnidium vein yellowing virus 2",
+  "schema": [
+    {
+      "length": 7295,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3143,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1676255
+}

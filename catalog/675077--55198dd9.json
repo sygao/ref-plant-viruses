@@ -1,0 +1,28 @@
+{
+  "_id": "55198dd9",
+  "accessions": {
+    "excluded": [
+      "EF546442"
+    ],
+    "included": [
+      "KC590347.1",
+      "MN228561.1",
+      "MT271231.1",
+      "MW217574.1",
+      "MZ221024.1",
+      "MZ221025.1",
+      "MZ221026.1",
+      "NC_009992.1"
+    ]
+  },
+  "name": "Plum bark necrosis stem pitting-associated virus",
+  "schema": [
+    {
+      "length": 14207,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 675077
+}

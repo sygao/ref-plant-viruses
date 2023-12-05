@@ -1,0 +1,21 @@
+{
+  "_id": "fa13193c",
+  "accessions": {
+    "excluded": [
+      "FN298804"
+    ],
+    "included": [
+      "NC_012557.1"
+    ]
+  },
+  "name": "Ageratum leaf curl Cameroon betasatellite",
+  "schema": [
+    {
+      "length": 1389,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 635076
+}

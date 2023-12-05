@@ -1,0 +1,21 @@
+{
+  "_id": "ywhgjmkg",
+  "accessions": {
+    "excluded": [
+      "FJ685620"
+    ],
+    "included": [
+      "NC_012205.1"
+    ]
+  },
+  "name": "Tomato leaf curl Togo virus-[Togo:2006]",
+  "schema": [
+    {
+      "length": 2794,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1141722
+}

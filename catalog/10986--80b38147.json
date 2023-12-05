@@ -1,0 +1,109 @@
+{
+  "_id": "80b38147",
+  "accessions": {
+    "excluded": [
+      "AB030009",
+      "AB254451",
+      "AB254452",
+      "AB254453",
+      "AB254454",
+      "AB254455",
+      "D01047",
+      "D13410",
+      "D13411",
+      "D13774",
+      "D76429",
+      "D86439"
+    ],
+    "included": [
+      "NC_009241.1",
+      "NC_009242.1",
+      "NC_009243.1",
+      "NC_009244.1",
+      "NC_009245.1",
+      "NC_009246.1",
+      "NC_009247.1",
+      "NC_009248.1",
+      "NC_009249.1",
+      "NC_009250.1",
+      "NC_009251.1",
+      "NC_009252.1"
+    ]
+  },
+  "name": "Rice gall dwarf virus",
+  "schema": [
+    {
+      "length": 4505,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3514,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 3224,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 2622,
+      "molecule": "dsRNA",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 2542,
+      "molecule": "ssRNA",
+      "name": "RNA 5",
+      "required": true
+    },
+    {
+      "length": 1648,
+      "molecule": "dsRNA",
+      "name": "RNA 6",
+      "required": true
+    },
+    {
+      "length": 1652,
+      "molecule": "dsRNA",
+      "name": "RNA 7",
+      "required": true
+    },
+    {
+      "length": 1578,
+      "molecule": "dsRNA",
+      "name": "RNA 8",
+      "required": true
+    },
+    {
+      "length": 1202,
+      "molecule": "dsRNA",
+      "name": "RNA 9",
+      "required": true
+    },
+    {
+      "length": 1198,
+      "molecule": "dsRNA",
+      "name": "RNA 10",
+      "required": true
+    },
+    {
+      "length": 1171,
+      "molecule": "dsRNA",
+      "name": "RNA 11",
+      "required": true
+    },
+    {
+      "length": 853,
+      "molecule": "dsRNA",
+      "name": "RNA 12",
+      "required": true
+    }
+  ],
+  "taxid": 10986
+}

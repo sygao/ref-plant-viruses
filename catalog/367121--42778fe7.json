@@ -1,0 +1,21 @@
+{
+  "_id": "42778fe7",
+  "accessions": {
+    "excluded": [
+      "AM182328"
+    ],
+    "included": [
+      "NC_011702.1"
+    ]
+  },
+  "name": "Grapevine leafroll-associated virus 10",
+  "schema": [
+    {
+      "length": 13696,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 367121
+}

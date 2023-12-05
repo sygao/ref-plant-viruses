@@ -1,0 +1,24 @@
+{
+  "_id": "f5115b4a",
+  "accessions": {
+    "excluded": [
+      "HG008921"
+    ],
+    "included": [
+      "KM507061.1",
+      "KM507062.1",
+      "KY132099.1",
+      "NC_023295.1"
+    ]
+  },
+  "name": "Apricot vein clearing associated virus",
+  "schema": [
+    {
+      "length": 8072,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1343920
+}

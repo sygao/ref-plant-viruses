@@ -1,0 +1,21 @@
+{
+  "_id": "318ff0fb",
+  "accessions": {
+    "excluded": [
+      "JN419013"
+    ],
+    "included": [
+      "NC_016999.1"
+    ]
+  },
+  "name": "Macroptilium yellow spot virus",
+  "schema": [
+    {
+      "length": 2660,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1129034
+}

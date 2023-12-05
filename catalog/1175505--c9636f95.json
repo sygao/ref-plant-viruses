@@ -1,0 +1,21 @@
+{
+  "_id": "c9636f95",
+  "accessions": {
+    "excluded": [
+      "KC589700"
+    ],
+    "included": [
+      "NC_020889.1"
+    ]
+  },
+  "name": "Ageratum leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1335,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 1175505
+}

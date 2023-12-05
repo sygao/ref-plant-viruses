@@ -1,0 +1,21 @@
+{
+  "_id": "2bb6ea0c",
+  "accessions": {
+    "excluded": [
+      "KJ561219"
+    ],
+    "included": [
+      "NC_024298.1"
+    ]
+  },
+  "name": "Sclerotinia sclerotiorum debilitation-associated RNA virus 2",
+  "schema": [
+    {
+      "length": 5534,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1502101
+}

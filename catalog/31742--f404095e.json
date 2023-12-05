@@ -1,0 +1,21 @@
+{
+  "_id": "f404095e",
+  "accessions": {
+    "excluded": [
+      "Z26920"
+    ],
+    "included": [
+      "NC_003606.1"
+    ]
+  },
+  "name": "Johnsongrass mosaic virus",
+  "schema": [
+    {
+      "length": 9779,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31742
+}

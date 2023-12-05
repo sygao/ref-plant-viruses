@@ -1,0 +1,20 @@
+{
+  "_id": "h35waa30",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK600387.1",
+      "MW331541.1"
+    ]
+  },
+  "name": "Cherry virus Turkey",
+  "schema": [
+    {
+      "length": 8434,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2506409
+}

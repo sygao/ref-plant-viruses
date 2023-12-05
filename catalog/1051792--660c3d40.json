@@ -1,0 +1,33 @@
+{
+  "_id": "660c3d40",
+  "accessions": {
+    "excluded": [
+      "FR877530"
+    ],
+    "included": [
+      "KF134123.1",
+      "KF134124.1",
+      "KF134125.1",
+      "KF686810.1",
+      "KM491305.1",
+      "KR528581.1",
+      "KU194413.1",
+      "KU312039.1",
+      "KU508673.1",
+      "KX522755.1",
+      "KY706085.1",
+      "KY747493.1",
+      "NC_015782.1"
+    ]
+  },
+  "name": "Grapevine pinot gris virus",
+  "schema": [
+    {
+      "length": 7250,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1051792
+}

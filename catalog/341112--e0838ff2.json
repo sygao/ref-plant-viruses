@@ -1,0 +1,19 @@
+{
+  "_id": "e0838ff2",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "DQ152192.1"
+    ]
+  },
+  "name": "Ranunculus mosaic virus",
+  "schema": [
+    {
+      "length": 1591,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 341112
+}

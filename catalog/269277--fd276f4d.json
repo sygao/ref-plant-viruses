@@ -1,0 +1,29 @@
+{
+  "_id": "fd276f4d",
+  "accessions": {
+    "excluded": [
+      "AB085793",
+      "AB085794"
+    ],
+    "included": [
+      "NC_005845.1",
+      "NC_005846.1"
+    ]
+  },
+  "name": "Squash leaf curl Philippines virus",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2705,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 269277
+}

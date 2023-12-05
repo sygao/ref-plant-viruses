@@ -1,0 +1,21 @@
+{
+  "_id": "9ffbb8c9",
+  "accessions": {
+    "excluded": [
+      "KC202818"
+    ],
+    "included": [
+      "NC_024009.1"
+    ]
+  },
+  "name": "Allamanda leaf mottle distortion virus",
+  "schema": [
+    {
+      "length": 2772,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1317107
+}

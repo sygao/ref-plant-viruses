@@ -1,0 +1,21 @@
+{
+  "_id": "cm0coh08",
+  "accessions": {
+    "excluded": [
+      "LC379162"
+    ],
+    "included": [
+      "NC_055483.1"
+    ]
+  },
+  "name": "East Asian Passiflora distortion virus",
+  "schema": [
+    {
+      "length": 9974,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2734556
+}

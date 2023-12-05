@@ -1,0 +1,21 @@
+{
+  "_id": "32617546",
+  "accessions": {
+    "excluded": [
+      "EU684141"
+    ],
+    "included": [
+      "NC_011086.1"
+    ]
+  },
+  "name": "Diascia yellow mottle virus",
+  "schema": [
+    {
+      "length": 6290,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 547467
+}

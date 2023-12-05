@@ -1,0 +1,22 @@
+{
+  "_id": "fd481880",
+  "accessions": {
+    "excluded": [
+      "AF170028"
+    ],
+    "included": [
+      "KC207480.1",
+      "NC_002500.1"
+    ]
+  },
+  "name": "Cherry mottle leaf virus",
+  "schema": [
+    {
+      "length": 8011,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 131226
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "60c4ab61",
+  "accessions": {
+    "excluded": [
+      "AY707772",
+      "AY707771",
+      "AY682102"
+    ],
+    "included": [
+      "NC_006566.1",
+      "NC_006567.1",
+      "NC_006568.1"
+    ]
+  },
+  "name": "Fragaria chiloensis latent virus",
+  "schema": [],
+  "taxid": 255238
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "842419bd",
+  "accessions": {
+    "excluded": [
+      "MH645040",
+      "MH645042"
+    ],
+    "included": [
+      "NC_040507.1",
+      "NC_040508.1"
+    ]
+  },
+  "name": "Wheat spindle streak mosaic virus",
+  "schema": [
+    {
+      "length": 7557,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4062,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 35285
+}

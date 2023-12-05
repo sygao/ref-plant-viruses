@@ -1,0 +1,21 @@
+{
+  "_id": "60f95268",
+  "accessions": {
+    "excluded": [
+      "AM236761"
+    ],
+    "included": [
+      "NC_008560.1"
+    ]
+  },
+  "name": "Malvastrum yellow mosaic virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1357,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 377463
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "8e672fbb",
+  "accessions": {
+    "excluded": [
+      "U77964",
+      "HQ009520",
+      "HQ009519"
+    ],
+    "included": [
+      "NC_004635.1",
+      "NC_014799.1"
+    ]
+  },
+  "name": "Sida golden yellow vein virus-[Jamaica:Liguanea2:2008]",
+  "schema": [
+    {
+      "length": 2608,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2542,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223317
+}

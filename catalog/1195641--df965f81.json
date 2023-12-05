@@ -1,0 +1,21 @@
+{
+  "_id": "df965f81",
+  "accessions": {
+    "excluded": [
+      "AM048837"
+    ],
+    "included": [
+      "NC_017987.1"
+    ]
+  },
+  "name": "Sida yellow mosaic China virus - [Hainan 8]",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1195641
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "f4fd6855",
+  "accessions": {
+    "excluded": [
+      "AB066288"
+    ],
+    "included": [
+      "MH886521.1",
+      "MH886522.1",
+      "NC_004322.1"
+    ]
+  },
+  "name": "Tulip virus X",
+  "schema": [
+    {
+      "length": 6051,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 167132
+}

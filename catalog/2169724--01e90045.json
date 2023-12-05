@@ -1,0 +1,21 @@
+{
+  "_id": "01e90045",
+  "accessions": {
+    "excluded": [
+      "KF435148"
+    ],
+    "included": [
+      "NC_022919.1"
+    ]
+  },
+  "name": "Cardamom bushy dwarf virus satellite",
+  "schema": [
+    {
+      "length": 1127,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169724
+}

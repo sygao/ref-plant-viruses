@@ -1,0 +1,14 @@
+{
+  "_id": "fbadded6",
+  "accessions": {
+    "excluded": [
+      "GU256532"
+    ],
+    "included": [
+      "NC_014739.1"
+    ]
+  },
+  "name": "Chickpea redleaf virus",
+  "schema": [],
+  "taxid": 887827
+}

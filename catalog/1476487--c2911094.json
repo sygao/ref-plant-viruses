@@ -1,0 +1,21 @@
+{
+  "_id": "c2911094",
+  "accessions": {
+    "excluded": [
+      "KJ437671"
+    ],
+    "included": [
+      "NC_023864.1"
+    ]
+  },
+  "name": "Axonopus compressus streak virus",
+  "schema": [
+    {
+      "length": 2858,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1476487
+}

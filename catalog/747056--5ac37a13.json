@@ -1,0 +1,37 @@
+{
+  "_id": "5ac37a13",
+  "accessions": {
+    "excluded": [
+      "KF031037",
+      "KF031038",
+      "KF031039"
+    ],
+    "included": [
+      "NC_022250.1",
+      "NC_022251.1",
+      "NC_022252.1"
+    ]
+  },
+  "name": "Blueberry shock virus",
+  "schema": [
+    {
+      "length": 3352,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2603,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2034,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 747056
+}

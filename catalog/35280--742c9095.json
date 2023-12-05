@@ -1,0 +1,22 @@
+{
+  "_id": "742c9095",
+  "accessions": {
+    "excluded": [
+      "KU187189"
+    ],
+    "included": [
+      "MT682295.1",
+      "NC_030452.1"
+    ]
+  },
+  "name": "Pelargonium leaf curl virus",
+  "schema": [
+    {
+      "length": 4785,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35280
+}

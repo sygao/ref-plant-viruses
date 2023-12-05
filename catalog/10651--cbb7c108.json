@@ -1,0 +1,14 @@
+{
+  "_id": "cbb7c108",
+  "accessions": {
+    "excluded": [
+      "X15828"
+    ],
+    "included": [
+      "NC_001739.1"
+    ]
+  },
+  "name": "Soybean chlorotic mottle virus",
+  "schema": [],
+  "taxid": 10651
+}

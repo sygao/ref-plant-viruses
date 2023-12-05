@@ -1,0 +1,21 @@
+{
+  "_id": "7d24275a",
+  "accessions": {
+    "excluded": [
+      "DQ641698"
+    ],
+    "included": [
+      "NC_009549.1"
+    ]
+  },
+  "name": "Erectites yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 390443
+}

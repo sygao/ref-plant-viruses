@@ -1,0 +1,29 @@
+{
+  "_id": "w6k168zz",
+  "accessions": {
+    "excluded": [
+      "AB649296",
+      "AB649297"
+    ],
+    "included": [
+      "NC_038763.1",
+      "NC_038764.1"
+    ]
+  },
+  "name": "Blueberry latent spherical virus",
+  "schema": [
+    {
+      "length": 7960,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 6344,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1071488
+}

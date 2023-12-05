@@ -1,0 +1,21 @@
+{
+  "_id": "e2d3d37e",
+  "accessions": {
+    "excluded": [
+      "KC898543"
+    ],
+    "included": [
+      "NC_022073.1"
+    ]
+  },
+  "name": "Hemidesmus yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2825,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1383052
+}

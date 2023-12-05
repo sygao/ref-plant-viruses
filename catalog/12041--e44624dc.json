@@ -1,0 +1,21 @@
+{
+  "_id": "e44624dc",
+  "accessions": {
+    "excluded": [
+      "AF441393"
+    ],
+    "included": [
+      "NC_003369.1"
+    ]
+  },
+  "name": "Bean leafroll virus",
+  "schema": [
+    {
+      "length": 5964,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12041
+}

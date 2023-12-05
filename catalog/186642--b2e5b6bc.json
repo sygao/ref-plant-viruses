@@ -1,0 +1,19 @@
+{
+  "_id": "b2e5b6bc",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AB079655.1"
+    ]
+  },
+  "name": "Ornithogalum virus 2",
+  "schema": [
+    {
+      "length": 1607,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 186642
+}

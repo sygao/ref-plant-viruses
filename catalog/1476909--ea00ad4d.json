@@ -1,0 +1,21 @@
+{
+  "_id": "ea00ad4d",
+  "accessions": {
+    "excluded": [
+      "AY805074"
+    ],
+    "included": [
+      "NC_006955.1"
+    ]
+  },
+  "name": "Banana streak MY virus",
+  "schema": [
+    {
+      "length": 7650,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1476909
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "jbwp0gcd",
+  "accessions": {
+    "excluded": [
+      "KT633868"
+    ],
+    "included": [
+      "NC_030293.1"
+    ]
+  },
+  "name": "Pecan mosaic-associated virus",
+  "schema": [
+    {
+      "length": 9310,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1856031
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "3148b86b",
+  "accessions": {
+    "excluded": [
+      "JX429923"
+    ],
+    "included": [
+      "NC_018858.1"
+    ]
+  },
+  "name": "Horseradish latent virus",
+  "schema": [
+    {
+      "length": 7954,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 264076
+}

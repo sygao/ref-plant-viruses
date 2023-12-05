@@ -1,0 +1,19 @@
+{
+  "_id": "f6972fad",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ581528.1"
+    ]
+  },
+  "name": "Tuberose mild mottle virus",
+  "schema": [
+    {
+      "length": 4607,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 244050
+}

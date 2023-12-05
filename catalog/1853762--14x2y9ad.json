@@ -1,0 +1,22 @@
+{
+  "_id": "14x2y9ad",
+  "accessions": {
+    "excluded": [
+      "KX364696"
+    ],
+    "included": [
+      "MH231174.1",
+      "NC_030926.1"
+    ]
+  },
+  "name": "Jasmine virus C",
+  "schema": [
+    {
+      "length": 8496,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1853762
+}

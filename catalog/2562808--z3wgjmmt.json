@@ -1,0 +1,21 @@
+{
+  "_id": "z3wgjmmt",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK514426.1",
+      "MK514427.1",
+      "MK514428.1"
+    ]
+  },
+  "name": "Zostera virus T",
+  "schema": [
+    {
+      "length": 6963,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2562808
+}

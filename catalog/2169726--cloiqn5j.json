@@ -1,0 +1,21 @@
+{
+  "_id": "cloiqn5j",
+  "accessions": {
+    "excluded": [
+      "KX276641"
+    ],
+    "included": [
+      "NC_033739.1"
+    ]
+  },
+  "name": "Cacao yellow vein-banding virus",
+  "schema": [
+    {
+      "length": 7454,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169726
+}

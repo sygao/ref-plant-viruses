@@ -1,0 +1,47 @@
+{
+  "_id": "05a43636",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ969411.1",
+      "JN579656.1",
+      "L13446.1",
+      "S40180.1",
+      "U53224.1"
+    ]
+  },
+  "name": "Maize stripe virus",
+  "schema": [
+    {
+      "length": 1413,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3337,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2357,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    },
+    {
+      "length": 2227,
+      "molecule": "ssRNA-",
+      "name": "RNA 4",
+      "required": true
+    },
+    {
+      "length": 1317,
+      "molecule": "ssRNA-",
+      "name": "RNA 5",
+      "required": true
+    }
+  ],
+  "taxid": 12330
+}

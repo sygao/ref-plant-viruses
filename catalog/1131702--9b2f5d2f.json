@@ -1,0 +1,21 @@
+{
+  "_id": "9b2f5d2f",
+  "accessions": {
+    "excluded": [
+      "JN880414"
+    ],
+    "included": [
+      "NC_016648.1"
+    ]
+  },
+  "name": "Persea americana endornavirus",
+  "schema": [
+    {
+      "length": 13459,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1131702
+}

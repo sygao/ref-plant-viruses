@@ -1,0 +1,24 @@
+{
+  "_id": "955e3d65",
+  "accessions": {
+    "excluded": [
+      "JX197071",
+      "JX182425"
+    ],
+    "included": [
+      "JX182425.1",
+      "JX197070.1",
+      "NC_020073.1"
+    ]
+  },
+  "name": "Moroccan pepper virus",
+  "schema": [
+    {
+      "length": 4772,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 208086
+}

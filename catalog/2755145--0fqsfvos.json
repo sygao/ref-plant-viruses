@@ -1,0 +1,33 @@
+{
+  "_id": "0fqsfvos",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT353902.1",
+      "MT353903.1",
+      "MT353904.1"
+    ]
+  },
+  "name": "Grapevine associated cogu-like virus 4",
+  "schema": [
+    {
+      "length": 7396,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2250,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1665,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2755145
+}

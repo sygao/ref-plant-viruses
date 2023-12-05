@@ -1,0 +1,21 @@
+{
+  "_id": "2774bb41",
+  "accessions": {
+    "excluded": [
+      "AY751777"
+    ],
+    "included": [
+      "NC_011537.1"
+    ]
+  },
+  "name": "Scrophularia mottle virus",
+  "schema": [
+    {
+      "length": 6206,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 312273
+}

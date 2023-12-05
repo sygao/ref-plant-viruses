@@ -1,0 +1,29 @@
+{
+  "_id": "b5vn4z3s",
+  "accessions": {
+    "excluded": [
+      "KF661331",
+      "KF661332"
+    ],
+    "included": [
+      "NC_038960.1",
+      "NC_040181.1"
+    ]
+  },
+  "name": "Jacquemontia yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2611,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2578,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1490227
+}

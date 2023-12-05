@@ -1,0 +1,19 @@
+{
+  "_id": "db6e4890",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AM774001.1"
+    ]
+  },
+  "name": "Butterfly flower mosaic virus",
+  "schema": [
+    {
+      "length": 1603,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 456390
+}

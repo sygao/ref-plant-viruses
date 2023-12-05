@@ -1,0 +1,21 @@
+{
+  "_id": "30by4idu",
+  "accessions": {
+    "excluded": [
+      "KP005453"
+    ],
+    "included": [
+      "NC_026272.1"
+    ]
+  },
+  "name": "Trifolium-associated circular DNA virus 1",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1590173
+}

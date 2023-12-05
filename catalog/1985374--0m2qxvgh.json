@@ -1,0 +1,21 @@
+{
+  "_id": "0m2qxvgh",
+  "accessions": {
+    "excluded": [
+      "JQ412056"
+    ],
+    "included": [
+      "NC_023844.1"
+    ]
+  },
+  "name": "Cassava associated gemycircularvirus 1",
+  "schema": [
+    {
+      "length": 2220,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1985374
+}

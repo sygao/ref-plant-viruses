@@ -1,0 +1,23 @@
+{
+  "_id": "b9a6d886",
+  "accessions": {
+    "excluded": [
+      "KM078034"
+    ],
+    "included": [
+      "KM078034.1",
+      "MZ358192.1",
+      "NC_026238.1"
+    ]
+  },
+  "name": "Rubus yellow net virus",
+  "schema": [
+    {
+      "length": 7829,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 198310
+}

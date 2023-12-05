@@ -1,0 +1,23 @@
+{
+  "_id": "b67008d3",
+  "accessions": {
+    "excluded": [
+      "AB032469"
+    ],
+    "included": [
+      "HG793797.1",
+      "KP861891.1",
+      "NC_002552.1"
+    ]
+  },
+  "name": "Hop latent virus",
+  "schema": [
+    {
+      "length": 8612,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 104263
+}

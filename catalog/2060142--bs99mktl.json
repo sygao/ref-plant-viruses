@@ -1,0 +1,24 @@
+{
+  "_id": "bs99mktl",
+  "accessions": {
+    "excluded": [
+      "MG491196"
+    ],
+    "included": [
+      "MG491195.1",
+      "MG491197.1",
+      "MH539677.1",
+      "NC_036591.1"
+    ]
+  },
+  "name": "Tomato apical leaf curl virus",
+  "schema": [
+    {
+      "length": 2873,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2060142
+}

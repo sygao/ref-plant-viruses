@@ -1,0 +1,19 @@
+{
+  "_id": "fy2m4u15",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG995739.1"
+    ]
+  },
+  "name": "Perth betaflexivirus 1",
+  "schema": [
+    {
+      "length": 9130,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2201306
+}

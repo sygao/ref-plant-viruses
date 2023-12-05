@@ -1,0 +1,21 @@
+{
+  "_id": "78f76b67",
+  "accessions": {
+    "excluded": [
+      "AY863024"
+    ],
+    "included": [
+      "NC_007731.1"
+    ]
+  },
+  "name": "Alternanthera mosaic virus",
+  "schema": [
+    {
+      "length": 6607,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 85454
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "2s7ppwoo",
+  "accessions": {
+    "excluded": [
+      "KT222674"
+    ],
+    "included": [
+      "NC_029051.1"
+    ]
+  },
+  "name": "Jasmine ringspot virus",
+  "schema": [
+    {
+      "length": 9590,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1775963
+}

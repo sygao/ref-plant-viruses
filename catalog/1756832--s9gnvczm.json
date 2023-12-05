@@ -1,0 +1,23 @@
+{
+  "_id": "s9gnvczm",
+  "accessions": {
+    "excluded": [
+      "KT962999"
+    ],
+    "included": [
+      "KT963000.2",
+      "MT966032.1",
+      "NC_028793.1"
+    ]
+  },
+  "name": "Phasey bean mild yellows virus",
+  "schema": [
+    {
+      "length": 5859,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1756832
+}

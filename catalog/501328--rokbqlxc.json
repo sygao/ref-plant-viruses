@@ -1,0 +1,21 @@
+{
+  "_id": "rokbqlxc",
+  "accessions": {
+    "excluded": [
+      "EU350585"
+    ],
+    "included": [
+      "NC_010313.1"
+    ]
+  },
+  "name": "Tomato leaf curl Ghana virus",
+  "schema": [
+    {
+      "length": 2803,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 501328
+}

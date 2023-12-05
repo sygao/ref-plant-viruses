@@ -1,0 +1,41 @@
+{
+  "_id": "b55cd4e3",
+  "accessions": {
+    "excluded": [
+      "DQ388879",
+      "DQ388880"
+    ],
+    "included": [
+      "EF681764.1",
+      "EF681765.1",
+      "EU563947.1",
+      "EU563948.1",
+      "KJ940974.1",
+      "KJ940975.1",
+      "KM091449.1",
+      "KM114266.1",
+      "KX132808.1",
+      "KX132809.1",
+      "MH587229.1",
+      "MH587230.1",
+      "NC_009013.1",
+      "NC_009032.1"
+    ]
+  },
+  "name": "Tomato torrado virus",
+  "schema": [
+    {
+      "length": 7631,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 5329,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 370833
+}

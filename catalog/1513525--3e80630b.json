@@ -1,0 +1,29 @@
+{
+  "_id": "3e80630b",
+  "accessions": {
+    "excluded": [
+      "HQ008338",
+      "HQ009518"
+    ],
+    "included": [
+      "NC_014794.1",
+      "NC_014795.1"
+    ]
+  },
+  "name": "Sida golden mosaic Buckup virus-[Jamaica:St. Elizabeth:2004]",
+  "schema": [
+    {
+      "length": 2627,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2572,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1513525
+}

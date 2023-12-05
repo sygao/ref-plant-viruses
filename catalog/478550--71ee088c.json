@@ -1,0 +1,21 @@
+{
+  "_id": "71ee088c",
+  "accessions": {
+    "excluded": [
+      "EU074853"
+    ],
+    "included": [
+      "NC_010305.1"
+    ]
+  },
+  "name": "Ligustrum necrotic ringspot virus",
+  "schema": [
+    {
+      "length": 8412,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 478550
+}

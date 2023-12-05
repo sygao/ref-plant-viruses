@@ -1,0 +1,19 @@
+{
+  "_id": "e221c698",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "JN427014.1"
+    ]
+  },
+  "name": "Actinidia virus A",
+  "schema": [
+    {
+      "length": 7566,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1112769
+}

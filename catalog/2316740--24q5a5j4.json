@@ -1,0 +1,21 @@
+{
+  "_id": "24q5a5j4",
+  "accessions": {
+    "excluded": [
+      "MH033657"
+    ],
+    "included": [
+      "NC_040572.1"
+    ]
+  },
+  "name": "Rehmannia virus 1",
+  "schema": [
+    {
+      "length": 15322,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2316740
+}

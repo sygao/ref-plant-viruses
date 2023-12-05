@@ -1,0 +1,28 @@
+{
+  "_id": "ed2fce46",
+  "accessions": {
+    "excluded": [
+      "HM357461"
+    ],
+    "included": [
+      "HM357461.1",
+      "NC_038443.1"
+    ]
+  },
+  "name": "Chino del tomate Amazonas virus",
+  "schema": [
+    {
+      "length": 2615,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2615,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 858516
+}

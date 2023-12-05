@@ -1,0 +1,21 @@
+{
+  "_id": "nn5gt7db",
+  "accessions": {
+    "excluded": [
+      "MF440375"
+    ],
+    "included": [
+      "NC_040800.1"
+    ]
+  },
+  "name": "Actinidia seed borne latent virus",
+  "schema": [
+    {
+      "length": 8192,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2560282
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "86a1a8d0",
+  "accessions": {
+    "excluded": [
+      "AJ132268",
+      "AJ132269"
+    ],
+    "included": [
+      "NC_002990.1",
+      "NC_002991.1"
+    ]
+  },
+  "name": "Barley yellow mosaic virus",
+  "schema": [
+    {
+      "length": 7637,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3582,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 12465
+}

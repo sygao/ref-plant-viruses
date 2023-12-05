@@ -1,0 +1,19 @@
+{
+  "_id": "c1bqh7za",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK012336.1"
+    ]
+  },
+  "name": "Mexico trichovirus",
+  "schema": [
+    {
+      "length": 8009,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2597809
+}

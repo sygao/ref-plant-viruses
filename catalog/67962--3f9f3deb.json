@@ -1,0 +1,21 @@
+{
+  "_id": "3f9f3deb",
+  "accessions": {
+    "excluded": [
+      "AF020617"
+    ],
+    "included": [
+      "NC_003871.1"
+    ]
+  },
+  "name": "Carrot red leaf luteovirus associated RNA",
+  "schema": [
+    {
+      "length": 2835,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 67962
+}

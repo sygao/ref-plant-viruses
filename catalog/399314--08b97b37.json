@@ -1,0 +1,22 @@
+{
+  "_id": "08b97b37",
+  "accessions": {
+    "excluded": [
+      "DQ860839"
+    ],
+    "included": [
+      "MZ320216.1",
+      "NC_008366.1"
+    ]
+  },
+  "name": "Strawberry chlorotic fleck-associated virus",
+  "schema": [
+    {
+      "length": 17027,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 399314
+}

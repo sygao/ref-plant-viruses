@@ -1,0 +1,26 @@
+{
+  "_id": "fa5ae08e",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "DQ143874.1",
+      "DQ143875.1"
+    ]
+  },
+  "name": "Stocky prune virus",
+  "schema": [
+    {
+      "length": 2644,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1794,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 340196
+}

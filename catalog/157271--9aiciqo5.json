@@ -1,0 +1,20 @@
+{
+  "_id": "9aiciqo5",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MW080369.1",
+      "MW080370.1"
+    ]
+  },
+  "name": "Spiraea yellow leafspot virus",
+  "schema": [
+    {
+      "length": 8017,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 157271
+}

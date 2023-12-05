@@ -1,0 +1,21 @@
+{
+  "_id": "p2qb961e",
+  "accessions": {
+    "excluded": [
+      "FN396966"
+    ],
+    "included": [
+      "NC_038876.1"
+    ]
+  },
+  "name": "Clerodendrum golden mosaic Jiangsu virus",
+  "schema": [
+    {
+      "length": 2753,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 649509
+}

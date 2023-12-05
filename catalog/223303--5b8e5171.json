@@ -1,0 +1,29 @@
+{
+  "_id": "5b8e5171",
+  "accessions": {
+    "excluded": [
+      "X70418",
+      "X70419"
+    ],
+    "included": [
+      "NC_001359.1",
+      "NC_001369.1"
+    ]
+  },
+  "name": "Pepper huasteco yellow vein virus",
+  "schema": [
+    {
+      "length": 2631,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2589,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223303
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "91bb609d",
+  "accessions": {
+    "excluded": [
+      "Y10237"
+    ],
+    "included": [
+      "EU715989.1",
+      "JX669615.1",
+      "KR080325.1",
+      "KR736335.1",
+      "KX192366.1",
+      "KX192367.1",
+      "LN794218.1",
+      "MG934545.1",
+      "MH300060.1",
+      "MH300061.1",
+      "MZ291927.1",
+      "MZ291928.1",
+      "MZ291929.1",
+      "NC_001836.1"
+    ]
+  },
+  "name": "Little cherry virus 1",
+  "schema": [
+    {
+      "length": 16930,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 217686
+}

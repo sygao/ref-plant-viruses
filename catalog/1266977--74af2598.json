@@ -1,0 +1,21 @@
+{
+  "_id": "74af2598",
+  "accessions": {
+    "excluded": [
+      "JX871376"
+    ],
+    "included": [
+      "NC_020253.1"
+    ]
+  },
+  "name": "Sida yellow net virus",
+  "schema": [
+    {
+      "length": 2676,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1266977
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "vnyecyvg",
+  "accessions": {
+    "excluded": [
+      "KT099173"
+    ],
+    "included": [
+      "NC_038975.1"
+    ]
+  },
+  "name": "Whitefly associated Puerto Rico alphasatellite 1",
+  "schema": [
+    {
+      "length": 1300,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169829
+}

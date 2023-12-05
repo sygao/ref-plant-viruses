@@ -1,0 +1,27 @@
+{
+  "_id": "2458cc0b",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AJ550907.1",
+      "DQ222073.1",
+      "DQ680709.1",
+      "DQ680744.1",
+      "DQ680752.1",
+      "EF151292.1",
+      "GQ872138.1",
+      "GU825985.1",
+      "JF898807.1"
+    ]
+  },
+  "name": "Peach latent mosaic viroid",
+  "schema": [
+    {
+      "length": 341,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12894
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "72ddf82e",
+  "accessions": {
+    "excluded": [
+      "M33002"
+    ],
+    "included": [
+      "MW241161.1",
+      "NC_001777.1"
+    ]
+  },
+  "name": "Tobacco necrosis virus A",
+  "schema": [
+    {
+      "length": 3680,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12055
+}

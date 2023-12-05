@@ -1,0 +1,21 @@
+{
+  "_id": "345f17d4",
+  "accessions": {
+    "excluded": [
+      "U55002"
+    ],
+    "included": [
+      "NC_002598.1"
+    ]
+  },
+  "name": "Panicum mosaic virus",
+  "schema": [
+    {
+      "length": 4326,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 40279
+}

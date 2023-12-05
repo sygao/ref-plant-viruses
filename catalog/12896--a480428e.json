@@ -1,0 +1,24 @@
+{
+  "_id": "a480428e",
+  "accessions": {
+    "excluded": [
+      "J02020"
+    ],
+    "included": [
+      "AF404066.1",
+      "EU888589.1",
+      "EU888592.1",
+      "NC_001410.1"
+    ]
+  },
+  "name": "Avocado sunblotch viroid",
+  "schema": [
+    {
+      "length": 248,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12896
+}

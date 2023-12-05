@@ -1,0 +1,19 @@
+{
+  "_id": "6c9ec6f3",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY500881.1"
+    ]
+  },
+  "name": "Petunia asteroid mosaic virus",
+  "schema": [
+    {
+      "length": 1238,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 270255
+}

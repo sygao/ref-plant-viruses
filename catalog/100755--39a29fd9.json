@@ -1,0 +1,24 @@
+{
+  "_id": "39a29fd9",
+  "accessions": {
+    "excluded": [
+      "AF104036"
+    ],
+    "included": [
+      "KC253237.1",
+      "KC253238.1",
+      "KT202303.1",
+      "NC_004650.1"
+    ]
+  },
+  "name": "Sweet potato leaf curl virus",
+  "schema": [
+    {
+      "length": 2816,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 100755
+}

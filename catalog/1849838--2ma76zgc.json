@@ -1,0 +1,33 @@
+{
+  "_id": "2ma76zgc",
+  "accessions": {
+    "excluded": [
+      "KX241482",
+      "KX241485"
+    ],
+    "included": [
+      "KX241484.1",
+      "KX241485.1",
+      "LC424104.2",
+      "LC424105.2",
+      "NC_039072.1",
+      "NC_039073.1"
+    ]
+  },
+  "name": "Grapevine fabavirus",
+  "schema": [
+    {
+      "length": 5765,
+      "molecule": "ssRNA+",
+      "name": "RNA1",
+      "required": true
+    },
+    {
+      "length": 3134,
+      "molecule": "ssRNA+",
+      "name": "RNA2",
+      "required": true
+    }
+  ],
+  "taxid": 1849838
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "e34f1084",
+  "accessions": {
+    "excluded": [
+      "DQ399289"
+    ],
+    "included": [
+      "NC_007920.1"
+    ]
+  },
+  "name": "Gremmeniella abietina type B RNA virus XL1",
+  "schema": [
+    {
+      "length": 10375,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 374005
+}

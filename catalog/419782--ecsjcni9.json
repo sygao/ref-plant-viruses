@@ -1,0 +1,21 @@
+{
+  "_id": "ecsjcni9",
+  "accessions": {
+    "excluded": [
+      "KU168312"
+    ],
+    "included": [
+      "NC_038380.1"
+    ]
+  },
+  "name": "Canna yellow mottle virus",
+  "schema": [
+    {
+      "length": 7120,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 419782
+}

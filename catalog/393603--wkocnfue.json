@@ -1,0 +1,19 @@
+{
+  "_id": "wkocnfue",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT559283.1"
+    ]
+  },
+  "name": "Dandelion yellow mosaic virus",
+  "schema": [
+    {
+      "length": 9786,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 393603
+}

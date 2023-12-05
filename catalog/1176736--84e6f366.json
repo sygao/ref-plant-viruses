@@ -1,0 +1,24 @@
+{
+  "_id": "84e6f366",
+  "accessions": {
+    "excluded": [
+      "JF930327"
+    ],
+    "included": [
+      "MN982521.1",
+      "MN982522.1",
+      "MN982523.1",
+      "NC_024458.1"
+    ]
+  },
+  "name": "Pitaya virus X",
+  "schema": [
+    {
+      "length": 6679,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1176736
+}

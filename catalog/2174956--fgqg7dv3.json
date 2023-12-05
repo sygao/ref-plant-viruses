@@ -1,0 +1,29 @@
+{
+  "_id": "fgqg7dv3",
+  "accessions": {
+    "excluded": [
+      "MH469731",
+      "MH469732"
+    ],
+    "included": [
+      "NC_055489.1",
+      "NC_055490.1"
+    ]
+  },
+  "name": "Cowpea bright yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2632,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2593,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 2174956
+}

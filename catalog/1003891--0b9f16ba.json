@@ -1,0 +1,21 @@
+{
+  "_id": "0b9f16ba",
+  "accessions": {
+    "excluded": [
+      "HQ241409"
+    ],
+    "included": [
+      "NC_015395.1"
+    ]
+  },
+  "name": "Hardenbergia virus A",
+  "schema": [
+    {
+      "length": 6942,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1003891
+}

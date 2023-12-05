@@ -1,0 +1,21 @@
+{
+  "_id": "7b47e5cb",
+  "accessions": {
+    "excluded": [
+      "AF307861"
+    ],
+    "included": [
+      "NC_004627.1"
+    ]
+  },
+  "name": "Ageratum yellow vein Taiwan virus",
+  "schema": [
+    {
+      "length": 2734,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 222441
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "661ebae9",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EF427894.1"
+    ]
+  },
+  "name": "Gloriosa stripe mosaic virus",
+  "schema": [
+    {
+      "length": 9455,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12201
+}

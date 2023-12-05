@@ -1,0 +1,21 @@
+{
+  "_id": "4139ab13",
+  "accessions": {
+    "excluded": [
+      "HQ171986"
+    ],
+    "included": [
+      "NC_015122.1"
+    ]
+  },
+  "name": "Tomato mottle leaf curl Zulia virus",
+  "schema": [
+    {
+      "length": 2625,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 979781
+}

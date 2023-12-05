@@ -1,0 +1,21 @@
+{
+  "_id": "4mfvge8c",
+  "accessions": {
+    "excluded": [
+      "KT724961"
+    ],
+    "included": [
+      "NC_038561.1"
+    ]
+  },
+  "name": "Yam chlorotic necrotic mosaic virus",
+  "schema": [
+    {
+      "length": 8208,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 596957
+}

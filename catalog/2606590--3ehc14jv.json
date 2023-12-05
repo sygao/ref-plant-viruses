@@ -1,0 +1,19 @@
+{
+  "_id": "3ehc14jv",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK035727.1"
+    ]
+  },
+  "name": "Cherry robigovirus 5",
+  "schema": [
+    {
+      "length": 8384,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2606590
+}

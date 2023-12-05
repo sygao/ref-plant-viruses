@@ -1,0 +1,21 @@
+{
+  "_id": "880cc24e",
+  "accessions": {
+    "excluded": [
+      "KP195260"
+    ],
+    "included": [
+      "NC_026761.1"
+    ]
+  },
+  "name": "Tomato enation leaf curl virus",
+  "schema": [
+    {
+      "length": 2756,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1632184
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "183acd30",
+  "accessions": {
+    "excluded": [
+      "KF533719",
+      "KF533720"
+    ],
+    "included": [
+      "NC_025479.1",
+      "NC_025480.1"
+    ]
+  },
+  "name": "Carrot torradovirus 1",
+  "schema": [
+    {
+      "length": 6909,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 4701,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1425364
+}

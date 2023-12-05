@@ -1,0 +1,14 @@
+{
+  "_id": "9b9eb5cb",
+  "accessions": {
+    "excluded": [
+      "JX094280"
+    ],
+    "included": [
+      "NC_018453.1"
+    ]
+  },
+  "name": "French bean severe leaf curl virus",
+  "schema": [],
+  "taxid": 1218727
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "84f3a477",
+  "accessions": {
+    "excluded": [
+      "JQ948051"
+    ],
+    "included": [
+      "NC_018577.1"
+    ]
+  },
+  "name": "Sporobolus striate mosaic virus 1",
+  "schema": [
+    {
+      "length": 2789,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1302849
+}

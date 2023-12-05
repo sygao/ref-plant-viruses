@@ -1,0 +1,21 @@
+{
+  "_id": "526b5edf",
+  "accessions": {
+    "excluded": [
+      "KJ614230"
+    ],
+    "included": [
+      "NC_024373.1"
+    ]
+  },
+  "name": "Luffa puckering and leaf distortion-associated betasatellite [India:Gurdaspur:Okra:2013]",
+  "schema": [
+    {
+      "length": 1353,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1506157
+}

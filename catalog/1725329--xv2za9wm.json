@@ -1,0 +1,21 @@
+{
+  "_id": "xv2za9wm",
+  "accessions": {
+    "excluded": [
+      "KP901095"
+    ],
+    "included": [
+      "NC_029900.1"
+    ]
+  },
+  "name": "Potato necrosis virus",
+  "schema": [
+    {
+      "length": 3674,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1725329
+}

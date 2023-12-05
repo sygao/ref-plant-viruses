@@ -1,0 +1,29 @@
+{
+  "_id": "2ce85606",
+  "accessions": {
+    "excluded": [
+      "JX658684",
+      "JX658694"
+    ],
+    "included": [
+      "NC_022644.1",
+      "NC_022645.1"
+    ]
+  },
+  "name": "East African cassava mosaic Malawi virus",
+  "schema": [
+    {
+      "length": 2804,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2754,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223264
+}

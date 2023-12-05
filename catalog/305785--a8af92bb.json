@@ -1,0 +1,22 @@
+{
+  "_id": "a8af92bb",
+  "accessions": {
+    "excluded": [
+      "AJ867490"
+    ],
+    "included": [
+      "LC577770.1",
+      "NC_011543.1"
+    ]
+  },
+  "name": "Poinsettia latent virus",
+  "schema": [
+    {
+      "length": 4649,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 305785
+}

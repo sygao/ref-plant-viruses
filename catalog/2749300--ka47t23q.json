@@ -1,0 +1,19 @@
+{
+  "_id": "ka47t23q",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MT348706.1"
+    ]
+  },
+  "name": "Lettuce star mosaic virus",
+  "schema": [
+    {
+      "length": 10183,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2749300
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "ee096729",
+  "accessions": {
+    "excluded": [
+      "AB735629"
+    ],
+    "included": [
+      "NC_023983.1"
+    ]
+  },
+  "name": "Persimmon latent virus",
+  "schema": [
+    {
+      "length": 7475,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1211481
+}

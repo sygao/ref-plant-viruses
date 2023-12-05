@@ -1,0 +1,33 @@
+{
+  "_id": "buuq3wjw",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MK728657.1",
+      "MK728658.1",
+      "MK728659.1"
+    ]
+  },
+  "name": "Grapevine garan dmak virus",
+  "schema": [
+    {
+      "length": 8061,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1612,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1554,
+      "molecule": "ssRNA-",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 2601258
+}

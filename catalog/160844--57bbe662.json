@@ -1,0 +1,21 @@
+{
+  "_id": "57bbe662",
+  "accessions": {
+    "excluded": [
+      "AM158439"
+    ],
+    "included": [
+      "NC_008266.1"
+    ]
+  },
+  "name": "Narcissus common latent virus",
+  "schema": [
+    {
+      "length": 8539,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 160844
+}

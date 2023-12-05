@@ -1,0 +1,23 @@
+{
+  "_id": "dfa9c5c7",
+  "accessions": {
+    "excluded": [
+      "AJ514833"
+    ],
+    "included": [
+      "DQ256073.1",
+      "MT682302.1",
+      "NC_005286.1"
+    ]
+  },
+  "name": "Pelargonium flower break virus",
+  "schema": [
+    {
+      "length": 3923,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 35291
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "cf0a6719",
+  "accessions": {
+    "excluded": [
+      "J04374"
+    ],
+    "included": [
+      "NC_001480.1"
+    ]
+  },
+  "name": "Eggplant mosaic virus",
+  "schema": [
+    {
+      "length": 6331,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 12151
+}

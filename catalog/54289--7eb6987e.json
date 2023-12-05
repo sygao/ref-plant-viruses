@@ -1,0 +1,29 @@
+{
+  "_id": "7eb6987e",
+  "accessions": {
+    "excluded": [
+      "AY751737",
+      "AY751738"
+    ],
+    "included": [
+      "NC_007241.1",
+      "NC_007242.1"
+    ]
+  },
+  "name": "Vicia cryptic virus",
+  "schema": [
+    {
+      "length": 2012,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1779,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 54289
+}

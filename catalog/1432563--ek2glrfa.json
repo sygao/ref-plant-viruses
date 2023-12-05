@@ -1,0 +1,21 @@
+{
+  "_id": "ek2glrfa",
+  "accessions": {
+    "excluded": [
+      "KC577469"
+    ],
+    "included": [
+      "NC_027198.1"
+    ]
+  },
+  "name": "Rottboellia yellow mottle virus",
+  "schema": [
+    {
+      "length": 4194,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1432563
+}

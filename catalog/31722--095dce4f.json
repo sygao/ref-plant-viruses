@@ -1,0 +1,23 @@
+{
+  "_id": "095dce4f",
+  "accessions": {
+    "excluded": [
+      "L25658"
+    ],
+    "included": [
+      "AY941198.1",
+      "AY941199.1",
+      "NC_003499.1"
+    ]
+  },
+  "name": "Blueberry scorch virus",
+  "schema": [
+    {
+      "length": 8519,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31722
+}

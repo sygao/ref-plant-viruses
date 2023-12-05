@@ -1,0 +1,21 @@
+{
+  "_id": "dd235dd0",
+  "accessions": {
+    "excluded": [
+      "EF165536"
+    ],
+    "included": [
+      "NC_008794.1"
+    ]
+  },
+  "name": "Crassocephalum yellow vein virus - Jinghong",
+  "schema": [
+    {
+      "length": 2745,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 417288
+}

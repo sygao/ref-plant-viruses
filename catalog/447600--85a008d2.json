@@ -1,0 +1,21 @@
+{
+  "_id": "85a008d2",
+  "accessions": {
+    "excluded": [
+      "DQ641710"
+    ],
+    "included": [
+      "NC_009556.1"
+    ]
+  },
+  "name": "Mimosa yellow leaf curl virus satellite DNA beta",
+  "schema": [
+    {
+      "length": 1358,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 447600
+}

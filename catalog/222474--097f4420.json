@@ -1,0 +1,21 @@
+{
+  "_id": "097f4420",
+  "accessions": {
+    "excluded": [
+      "AJ420319"
+    ],
+    "included": [
+      "NC_004651.1"
+    ]
+  },
+  "name": "Squash leaf curl Yunnan virus",
+  "schema": [
+    {
+      "length": 2714,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 222474
+}

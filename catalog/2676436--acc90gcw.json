@@ -1,0 +1,21 @@
+{
+  "_id": "acc90gcw",
+  "accessions": {
+    "excluded": [
+      "MK211271"
+    ],
+    "included": [
+      "NC_055567.1"
+    ]
+  },
+  "name": "Strawberry cytorhabdovirus 1",
+  "schema": [
+    {
+      "length": 14028,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2676436
+}

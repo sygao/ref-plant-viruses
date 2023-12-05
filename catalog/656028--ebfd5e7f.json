@@ -1,0 +1,21 @@
+{
+  "_id": "ebfd5e7f",
+  "accessions": {
+    "excluded": [
+      "EU384655"
+    ],
+    "included": [
+      "NC_013011.1"
+    ]
+  },
+  "name": "Gossypium davidsonii symptomless alphasatellite",
+  "schema": [
+    {
+      "length": 1315,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 656028
+}

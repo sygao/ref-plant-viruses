@@ -1,0 +1,29 @@
+{
+  "_id": "de1bb275",
+  "accessions": {
+    "excluded": [
+      "LT608395",
+      "LT608396"
+    ],
+    "included": [
+      "NC_043684.1",
+      "NC_043685.1"
+    ]
+  },
+  "name": "Artichoke Italian latent virus",
+  "schema": [
+    {
+      "length": 5984,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 0,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 46075
+}

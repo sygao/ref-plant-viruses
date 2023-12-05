@@ -1,0 +1,19 @@
+{
+  "_id": "b21a5459",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FR772082.1"
+    ]
+  },
+  "name": "Hollyhock leaf curl virus",
+  "schema": [
+    {
+      "length": 2748,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 163655
+}

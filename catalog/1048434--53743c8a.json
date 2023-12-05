@@ -1,0 +1,22 @@
+{
+  "_id": "53743c8a",
+  "accessions": {
+    "excluded": [
+      "JF280796"
+    ],
+    "included": [
+      "LC466941.2",
+      "NC_019031.1"
+    ]
+  },
+  "name": "Rose yellow mosaic virus",
+  "schema": [
+    {
+      "length": 9606,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1048434
+}

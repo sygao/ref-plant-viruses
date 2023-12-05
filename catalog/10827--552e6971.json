@@ -1,0 +1,33 @@
+{
+  "_id": "552e6971",
+  "accessions": {
+    "excluded": [
+      "D00940",
+      "D00941"
+    ],
+    "included": [
+      "KU665804.1",
+      "KU665805.1",
+      "MN403041.1",
+      "MN403042.1",
+      "NC_001934.1",
+      "NC_001935.1"
+    ]
+  },
+  "name": "Potato yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2595,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2558,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10827
+}

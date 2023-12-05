@@ -1,0 +1,21 @@
+{
+  "_id": "6f2e3eda",
+  "accessions": {
+    "excluded": [
+      "AY394497"
+    ],
+    "included": [
+      "NC_006460.1"
+    ]
+  },
+  "name": "Beet black scorch virus satellite RNA",
+  "schema": [
+    {
+      "length": 615,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 298965
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "d0e5e676",
+  "accessions": {
+    "excluded": [
+      "EU162589"
+    ],
+    "included": [
+      "NC_009991.1"
+    ]
+  },
+  "name": "Phlox Virus B",
+  "schema": [
+    {
+      "length": 9058,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 475777
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "12e07550",
+  "accessions": {
+    "excluded": [
+      "AM183224"
+    ],
+    "included": [
+      "NC_008236.1"
+    ]
+  },
+  "name": "Siegesbeckia yellow vein virus",
+  "schema": [
+    {
+      "length": 2768,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 371401
+}

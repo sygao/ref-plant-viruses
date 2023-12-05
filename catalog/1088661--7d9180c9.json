@@ -1,0 +1,21 @@
+{
+  "_id": "7d9180c9",
+  "accessions": {
+    "excluded": [
+      "FJ515747"
+    ],
+    "included": [
+      "NC_011919.1"
+    ]
+  },
+  "name": "Bhendi yellow vein Delhi virus [2004:New Delhi]",
+  "schema": [
+    {
+      "length": 2751,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 1088661
+}

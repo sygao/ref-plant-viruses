@@ -1,0 +1,21 @@
+{
+  "_id": "5be41bc9",
+  "accessions": {
+    "excluded": [
+      "AY750155"
+    ],
+    "included": [
+      "NC_007003.1"
+    ]
+  },
+  "name": "Banana streak VN virus",
+  "schema": [
+    {
+      "length": 7801,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1411991
+}

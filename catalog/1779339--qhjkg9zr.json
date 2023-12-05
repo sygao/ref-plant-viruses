@@ -1,0 +1,39 @@
+{
+  "_id": "qhjkg9zr",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG924894.1",
+      "MG924895.1",
+      "MG924896.1",
+      "MG924897.1",
+      "MG924898.1",
+      "MG924899.1",
+      "MG924900.1",
+      "MG924901.1",
+      "MG924902.1"
+    ]
+  },
+  "name": "Apple necrotic mosaic virus",
+  "schema": [
+    {
+      "length": 3387,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2785,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1937,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 1779339
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "ca793379",
+  "accessions": {
+    "excluded": [
+      "KF912951"
+    ],
+    "included": [
+      "NC_023896.1"
+    ]
+  },
+  "name": "Malvastrum leaf curl Guangdong betasatellite",
+  "schema": [
+    {
+      "length": 1344,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 1461792
+}

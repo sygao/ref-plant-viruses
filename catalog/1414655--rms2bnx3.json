@@ -1,0 +1,40 @@
+{
+  "_id": "rms2bnx3",
+  "accessions": {
+    "excluded": [
+      "KX247377",
+      "KX247378",
+      "KX247379"
+    ],
+    "included": [
+      "KF383956.1",
+      "KY315809.1",
+      "KY315810.1",
+      "NC_033772.1",
+      "NC_033773.1",
+      "NC_033774.1"
+    ]
+  },
+  "name": "Pepper chlorotic spot virus",
+  "schema": [
+    {
+      "length": 8886,
+      "molecule": "",
+      "name": "Segment L",
+      "required": true
+    },
+    {
+      "length": 4753,
+      "molecule": "",
+      "name": "Segment M",
+      "required": true
+    },
+    {
+      "length": 3048,
+      "molecule": "",
+      "name": "Segment S",
+      "required": true
+    }
+  ],
+  "taxid": 1414655
+}

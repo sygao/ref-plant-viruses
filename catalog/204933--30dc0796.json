@@ -1,0 +1,36 @@
+{
+  "_id": "30dc0796",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "AY706994.1",
+      "KY513701.1",
+      "KY513702.1",
+      "MZ451077.1",
+      "MZ451078.1",
+      "MZ451079.1",
+      "MZ451080.1",
+      "MZ451081.1",
+      "MZ451082.1",
+      "MZ451087.1",
+      "MZ451088.1",
+      "MZ451089.1",
+      "MZ451090.1",
+      "MZ451093.1",
+      "MZ451095.1",
+      "MZ451096.1",
+      "MZ451097.1",
+      "MZ451107.1"
+    ]
+  },
+  "name": "Grapevine rupestris vein feathering virus",
+  "schema": [
+    {
+      "length": 6691,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 204933
+}

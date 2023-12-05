@@ -1,0 +1,37 @@
+{
+  "_id": "e86fdb75",
+  "accessions": {
+    "excluded": [
+      "EF552433",
+      "EF552434",
+      "EF552435"
+    ],
+    "included": [
+      "NC_010489.1",
+      "NC_010490.1",
+      "NC_010491.1"
+    ]
+  },
+  "name": "Tomato zonate spot virus",
+  "schema": [
+    {
+      "length": 8919,
+      "molecule": "ssRNA-",
+      "name": "RNA L",
+      "required": true
+    },
+    {
+      "length": 4945,
+      "molecule": "ssRNA-",
+      "name": "RNA M",
+      "required": true
+    },
+    {
+      "length": 3279,
+      "molecule": "ssRNA-",
+      "name": "RNA S",
+      "required": true
+    }
+  ],
+  "taxid": 460926
+}

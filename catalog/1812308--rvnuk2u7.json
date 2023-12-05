@@ -1,0 +1,29 @@
+{
+  "_id": "rvnuk2u7",
+  "accessions": {
+    "excluded": [
+      "KT878828",
+      "KT878829"
+    ],
+    "included": [
+      "NC_029803.1",
+      "NC_029804.1"
+    ]
+  },
+  "name": "Deinbollia mosaic virus",
+  "schema": [
+    {
+      "length": 2759,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2702,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1812308
+}

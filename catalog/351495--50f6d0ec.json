@@ -1,0 +1,37 @@
+{
+  "_id": "50f6d0ec",
+  "accessions": {
+    "excluded": [
+      "DQ218036",
+      "DQ218037",
+      "DQ218038"
+    ],
+    "included": [
+      "NC_010343.1",
+      "NC_010344.1",
+      "NC_010345.1"
+    ]
+  },
+  "name": "Raphanus sativus cryptic virus 2",
+  "schema": [
+    {
+      "length": 1717,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 1521,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 1485,
+      "molecule": "dsRNA",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 351495
+}

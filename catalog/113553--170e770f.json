@@ -1,0 +1,28 @@
+{
+  "_id": "170e770f",
+  "accessions": {
+    "excluded": [
+      "AJ271595"
+    ],
+    "included": [
+      "AB550789.1",
+      "AB550790.1",
+      "AB550791.1",
+      "AB550792.1",
+      "AM412237.1",
+      "LC577769.1",
+      "NC_002164.1",
+      "OK181764.1"
+    ]
+  },
+  "name": "Poinsettia mosaic virus",
+  "schema": [
+    {
+      "length": 6107,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 113553
+}

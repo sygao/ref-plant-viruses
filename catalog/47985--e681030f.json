@@ -1,0 +1,28 @@
+{
+  "_id": "e681030f",
+  "accessions": {
+    "excluded": [
+      "JQ023131"
+    ],
+    "included": [
+      "KU674796.1",
+      "KU674797.1",
+      "KY827404.1",
+      "MG925331.1",
+      "MG925332.1",
+      "MH807214.1",
+      "MH807218.1",
+      "NC_016509.1"
+    ]
+  },
+  "name": "Grapevine leafroll-associated virus 1",
+  "schema": [
+    {
+      "length": 18783,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 47985
+}

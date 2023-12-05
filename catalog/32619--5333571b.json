@@ -1,0 +1,24 @@
+{
+  "_id": "5333571b",
+  "accessions": {
+    "excluded": [
+      "AJ310197"
+    ],
+    "included": [
+      "KM025052.1",
+      "KM025053.1",
+      "KM025054.1",
+      "NC_004035.1"
+    ]
+  },
+  "name": "Sorghum mosaic virus",
+  "schema": [
+    {
+      "length": 9642,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 32619
+}

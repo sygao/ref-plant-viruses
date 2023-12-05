@@ -1,0 +1,21 @@
+{
+  "_id": "370bb717",
+  "accessions": {
+    "excluded": [
+      "L16015"
+    ],
+    "included": [
+      "NC_001600.1"
+    ]
+  },
+  "name": "Cardamine chlorotic fleck virus",
+  "schema": [
+    {
+      "length": 4041,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 31711
+}

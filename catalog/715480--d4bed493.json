@@ -1,0 +1,21 @@
+{
+  "_id": "d4bed493",
+  "accessions": {
+    "excluded": [
+      "JQ350738"
+    ],
+    "included": [
+      "NC_021065.1"
+    ]
+  },
+  "name": "Sunflower mild mosaic virus",
+  "schema": [
+    {
+      "length": 9718,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 715480
+}

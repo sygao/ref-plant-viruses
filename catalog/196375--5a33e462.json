@@ -1,0 +1,21 @@
+{
+  "_id": "5a33e462",
+  "accessions": {
+    "excluded": [
+      "AF452884"
+    ],
+    "included": [
+      "NC_004452.1"
+    ]
+  },
+  "name": "Beet black scorch virus",
+  "schema": [
+    {
+      "length": 3644,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 196375
+}

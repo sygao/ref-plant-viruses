@@ -1,0 +1,29 @@
+{
+  "_id": "081831db",
+  "accessions": {
+    "excluded": [
+      "AF499442",
+      "U57457"
+    ],
+    "included": [
+      "NC_004096.1",
+      "NC_004101.1"
+    ]
+  },
+  "name": "Pepper golden mosaic virus",
+  "schema": [
+    {
+      "length": 2613,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2595,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 223301
+}

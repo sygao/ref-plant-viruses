@@ -1,0 +1,25 @@
+{
+  "_id": "c17f395a",
+  "accessions": {
+    "excluded": [
+      "EU000534"
+    ],
+    "included": [
+      "JQ700307.1",
+      "MW023665.1",
+      "MW528313.1",
+      "NC_010809.1",
+      "OK120863.1"
+    ]
+  },
+  "name": "Melon aphid-borne yellows virus",
+  "schema": [
+    {
+      "length": 5676,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 471717
+}

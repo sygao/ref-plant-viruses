@@ -1,0 +1,21 @@
+{
+  "_id": "6583562f",
+  "accessions": {
+    "excluded": [
+      "AJ512761"
+    ],
+    "included": [
+      "NC_004356.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Yunnan virus",
+  "schema": [
+    {
+      "length": 2750,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 211866
+}

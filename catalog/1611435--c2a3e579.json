@@ -1,0 +1,29 @@
+{
+  "_id": "c2a3e579",
+  "accessions": {
+    "excluded": [
+      "KP663484",
+      "KP663485"
+    ],
+    "included": [
+      "NC_026513.1",
+      "NC_026514.1"
+    ]
+  },
+  "name": "Asystasia mosaic Madagascar virus",
+  "schema": [
+    {
+      "length": 2738,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2666,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1611435
+}

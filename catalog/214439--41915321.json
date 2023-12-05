@@ -1,0 +1,21 @@
+{
+  "_id": "41915321",
+  "accessions": {
+    "excluded": [
+      "AJ620114"
+    ],
+    "included": [
+      "NC_011544.1"
+    ]
+  },
+  "name": "Hosta virus X",
+  "schema": [
+    {
+      "length": 6528,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 214439
+}

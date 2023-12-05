@@ -1,0 +1,21 @@
+{
+  "_id": "qe8afugr",
+  "accessions": {
+    "excluded": [
+      "MG373552"
+    ],
+    "included": [
+      "NC_055499.1"
+    ]
+  },
+  "name": "Hollyhock yellow vein virus",
+  "schema": [
+    {
+      "length": 2738,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2303390
+}

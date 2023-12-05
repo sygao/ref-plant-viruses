@@ -1,0 +1,21 @@
+{
+  "_id": "ec04c218",
+  "accessions": {
+    "excluded": [
+      "JQ920490"
+    ],
+    "included": [
+      "NC_018151.1"
+    ]
+  },
+  "name": "Citrus chlorotic dwarf associated virus",
+  "schema": [
+    {
+      "length": 3640,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1202142
+}

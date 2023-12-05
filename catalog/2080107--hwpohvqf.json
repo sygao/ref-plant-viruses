@@ -1,0 +1,21 @@
+{
+  "_id": "hwpohvqf",
+  "accessions": {
+    "excluded": [
+      "AB300463"
+    ],
+    "included": [
+      "NC_043120.1"
+    ]
+  },
+  "name": "Eupatorium yellow vein virus-[Suya]",
+  "schema": [
+    {
+      "length": 2760,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2080107
+}

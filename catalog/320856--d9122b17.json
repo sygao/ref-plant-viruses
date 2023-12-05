@@ -1,0 +1,21 @@
+{
+  "_id": "d9122b17",
+  "accessions": {
+    "excluded": [
+      "KF649336"
+    ],
+    "included": [
+      "NC_023014.1"
+    ]
+  },
+  "name": "Bidens mosaic virus",
+  "schema": [
+    {
+      "length": 9557,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 320856
+}

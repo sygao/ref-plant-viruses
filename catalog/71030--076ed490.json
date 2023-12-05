@@ -1,0 +1,21 @@
+{
+  "_id": "076ed490",
+  "accessions": {
+    "excluded": [
+      "AF195000"
+    ],
+    "included": [
+      "NC_002588.1"
+    ]
+  },
+  "name": "Chayote mosaic virus",
+  "schema": [
+    {
+      "length": 6364,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 71030
+}

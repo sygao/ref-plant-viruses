@@ -1,0 +1,21 @@
+{
+  "_id": "b22fccdd",
+  "accessions": {
+    "excluded": [
+      "AJ971257"
+    ],
+    "included": [
+      "NC_007067.1"
+    ]
+  },
+  "name": "Ageratum yellow vein China betasatellite",
+  "schema": [
+    {
+      "length": 1323,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 329288
+}

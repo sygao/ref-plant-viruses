@@ -1,0 +1,21 @@
+{
+  "_id": "49ed3de1",
+  "accessions": {
+    "excluded": [
+      "X57924"
+    ],
+    "included": [
+      "NC_001914.1"
+    ]
+  },
+  "name": "Rice tungro bacilliform virus",
+  "schema": [
+    {
+      "length": 8002,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10654
+}

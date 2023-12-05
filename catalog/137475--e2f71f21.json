@@ -1,0 +1,23 @@
+{
+  "_id": "e2f71f21",
+  "accessions": {
+    "excluded": [
+      "AY578085"
+    ],
+    "included": [
+      "JF460793.1",
+      "KT276369.1",
+      "NC_006941.1"
+    ]
+  },
+  "name": "Cucumber vein yellowing virus",
+  "schema": [
+    {
+      "length": 9741,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 137475
+}

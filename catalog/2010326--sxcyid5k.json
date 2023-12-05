@@ -1,0 +1,21 @@
+{
+  "_id": "sxcyid5k",
+  "accessions": {
+    "excluded": [
+      "AB236324"
+    ],
+    "included": [
+      "NC_009450.1"
+    ]
+  },
+  "name": "Tobacco leaf curl Japan betasatellite DNA",
+  "schema": [
+    {
+      "length": 1350,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2010326
+}

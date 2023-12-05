@@ -1,0 +1,21 @@
+{
+  "_id": "9kqxt61p",
+  "accessions": {
+    "excluded": [
+      "MH844554"
+    ],
+    "included": [
+      "NC_040586.1"
+    ]
+  },
+  "name": "Brassica napus RNA virus 1",
+  "schema": [
+    {
+      "length": 12313,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2419797
+}

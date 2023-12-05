@@ -1,0 +1,21 @@
+{
+  "_id": "vbisubyv",
+  "accessions": {
+    "excluded": [
+      "KT992056"
+    ],
+    "included": [
+      "NC_043433.1"
+    ]
+  },
+  "name": "Sweet potato golden vein Korea virus",
+  "schema": [
+    {
+      "length": 2807,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2169736
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "267b2626",
+  "accessions": {
+    "excluded": [
+      "AM236755"
+    ],
+    "included": [
+      "NC_008559.1"
+    ]
+  },
+  "name": "Malvastrum yellow mosaic virus",
+  "schema": [
+    {
+      "length": 2728,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 377462
+}

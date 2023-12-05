@@ -1,0 +1,21 @@
+{
+  "_id": "08d1cf98",
+  "accessions": {
+    "excluded": [
+      "EU410442"
+    ],
+    "included": [
+      "NC_010736.1"
+    ]
+  },
+  "name": "Algerian watermelon mosaic virus",
+  "schema": [
+    {
+      "length": 9842,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 515575
+}

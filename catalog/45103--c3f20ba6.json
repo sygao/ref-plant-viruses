@@ -1,0 +1,29 @@
+{
+  "_id": "c3f20ba6",
+  "accessions": {
+    "excluded": [
+      "AJ132578",
+      "AJ132579"
+    ],
+    "included": [
+      "NC_002357.1",
+      "NC_002358.1"
+    ]
+  },
+  "name": "Oat golden stripe virus",
+  "schema": [
+    {
+      "length": 7111,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 3232,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 45103
+}

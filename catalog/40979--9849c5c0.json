@@ -1,0 +1,22 @@
+{
+  "_id": "9849c5c0",
+  "accessions": {
+    "excluded": [
+      "AB040447",
+      "Z48630"
+    ],
+    "included": [
+      "NC_002618.1"
+    ]
+  },
+  "name": "Cocksfoot mottle virus",
+  "schema": [
+    {
+      "length": 4082,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 40979
+}

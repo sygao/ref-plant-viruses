@@ -1,0 +1,21 @@
+{
+  "_id": "eb4f3d75",
+  "accessions": {
+    "excluded": [
+      "JN389521"
+    ],
+    "included": [
+      "NC_016003.1"
+    ]
+  },
+  "name": "Tamus red mosaic virus",
+  "schema": [
+    {
+      "length": 6495,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1081702
+}

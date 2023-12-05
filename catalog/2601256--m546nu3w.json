@@ -1,0 +1,21 @@
+{
+  "_id": "m546nu3w",
+  "accessions": {
+    "excluded": [
+      "MH577036"
+    ],
+    "included": [
+      "NC_055563.1"
+    ]
+  },
+  "name": "Tomato leaf curl Anand alphasatellite",
+  "schema": [
+    {
+      "length": 1336,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2601256
+}

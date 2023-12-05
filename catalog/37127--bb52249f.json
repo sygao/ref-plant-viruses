@@ -1,0 +1,37 @@
+{
+  "_id": "bb52249f",
+  "accessions": {
+    "excluded": [
+      "EF584664",
+      "U17389",
+      "EF584665"
+    ],
+    "included": [
+      "NC_009536.1",
+      "NC_009537.1",
+      "NC_009538.1"
+    ]
+  },
+  "name": "Citrus variegation virus",
+  "schema": [
+    {
+      "length": 3433,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2914,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    },
+    {
+      "length": 2309,
+      "molecule": "ssRNA+",
+      "name": "RNA 3",
+      "required": true
+    }
+  ],
+  "taxid": 37127
+}

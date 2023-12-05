@@ -1,0 +1,19 @@
+{
+  "_id": "08d65907",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "FR694185.1"
+    ]
+  },
+  "name": "Passiflora chlorosis virus",
+  "schema": [
+    {
+      "length": 1716,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 551003
+}

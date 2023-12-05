@@ -1,0 +1,25 @@
+{
+  "_id": "361df7fe",
+  "accessions": {
+    "excluded": [
+      "JQ316114"
+    ],
+    "included": [
+      "HQ852248.1",
+      "HQ852249.1",
+      "HQ852250.1",
+      "HQ852251.1",
+      "NC_018105.1"
+    ]
+  },
+  "name": "Gooseberry vein banding associated virus",
+  "schema": [
+    {
+      "length": 7656,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 157270
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "8c914e6c",
+  "accessions": {
+    "excluded": [
+      "U15440",
+      "U15441"
+    ],
+    "included": [
+      "NC_003617.1",
+      "NC_003618.1"
+    ]
+  },
+  "name": "Lettuce infectious yellows virus",
+  "schema": [
+    {
+      "length": 8118,
+      "molecule": "ssRNA+",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 7193,
+      "molecule": "ssRNA+",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 31713
+}

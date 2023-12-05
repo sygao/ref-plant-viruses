@@ -1,0 +1,21 @@
+{
+  "_id": "31cf6bf9",
+  "accessions": {
+    "excluded": [
+      "JX156425"
+    ],
+    "included": [
+      "NC_018572.1"
+    ]
+  },
+  "name": "Caladenia virus A",
+  "schema": [
+    {
+      "length": 9847,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1198147
+}

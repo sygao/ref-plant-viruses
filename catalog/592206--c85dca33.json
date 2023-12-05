@@ -1,0 +1,21 @@
+{
+  "_id": "c85dca33",
+  "accessions": {
+    "excluded": [
+      "FJ196835"
+    ],
+    "included": [
+      "NC_012038.1"
+    ]
+  },
+  "name": "Helleborus net necrosis virus",
+  "schema": [
+    {
+      "length": 8542,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 592206
+}

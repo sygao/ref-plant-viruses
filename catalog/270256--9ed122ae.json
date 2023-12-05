@@ -1,0 +1,21 @@
+{
+  "_id": "9ed122ae",
+  "accessions": {
+    "excluded": [
+      "JQ864181"
+    ],
+    "included": [
+      "NC_023339.1"
+    ]
+  },
+  "name": "Eggplant mottled crinkle virus",
+  "schema": [
+    {
+      "length": 4767,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 270256
+}

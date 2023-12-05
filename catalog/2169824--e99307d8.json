@@ -1,0 +1,21 @@
+{
+  "_id": "e99307d8",
+  "accessions": {
+    "excluded": [
+      "FN436007"
+    ],
+    "included": [
+      "NC_014646.1"
+    ]
+  },
+  "name": "Cleome leaf crumple virus associated DNA 1",
+  "schema": [
+    {
+      "length": 1351,
+      "molecule": "ssDNA",
+      "name": "Alphasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169824
+}

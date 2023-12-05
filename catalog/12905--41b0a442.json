@@ -1,0 +1,33 @@
+{
+  "_id": "41b0a442",
+  "accessions": {
+    "excluded": [
+      "J04348"
+    ],
+    "included": [
+      "DQ371472.1",
+      "DQ377124.1",
+      "DQ377127.1",
+      "EU682453.1",
+      "EU682454.1",
+      "JF746172.1",
+      "JX892931.1",
+      "KF007308.1",
+      "KF007311.1",
+      "KF007320.1",
+      "KF916043.1",
+      "KP010020.1",
+      "NC_003612.1"
+    ]
+  },
+  "name": "Grapevine yellow speckle viroid",
+  "schema": [
+    {
+      "length": 353,
+      "molecule": "ssRNA+",
+      "name": "Viroid",
+      "required": true
+    }
+  ],
+  "taxid": 12905
+}

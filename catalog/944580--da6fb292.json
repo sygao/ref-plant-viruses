@@ -1,0 +1,21 @@
+{
+  "_id": "da6fb292",
+  "accessions": {
+    "excluded": [
+      "HM640935"
+    ],
+    "included": [
+      "NC_015227.1"
+    ]
+  },
+  "name": "TGP Carmovirus 1",
+  "schema": [
+    {
+      "length": 3929,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 944580
+}

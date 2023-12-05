@@ -1,0 +1,19 @@
+{
+  "_id": "qh4r9o46",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MN386970.1"
+    ]
+  },
+  "name": "Apple virus A",
+  "schema": [
+    {
+      "length": 5751,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2709745
+}

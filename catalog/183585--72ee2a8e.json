@@ -1,0 +1,28 @@
+{
+  "_id": "72ee2a8e",
+  "accessions": {
+    "excluded": [
+      "DQ117579"
+    ],
+    "included": [
+      "KY774447.1",
+      "MZ221027.1",
+      "MZ221028.1",
+      "MZ221029.1",
+      "MZ221030.1",
+      "MZ221031.1",
+      "MZ221032.1",
+      "NC_011552.1"
+    ]
+  },
+  "name": "Peach mosaic virus",
+  "schema": [
+    {
+      "length": 7980,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 183585
+}

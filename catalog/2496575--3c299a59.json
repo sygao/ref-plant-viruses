@@ -1,0 +1,21 @@
+{
+  "_id": "3c299a59",
+  "accessions": {
+    "excluded": [
+      "MH035670"
+    ],
+    "included": [
+      "NC_055511.1"
+    ]
+  },
+  "name": "Emilia yellow vein Fujian virus",
+  "schema": [
+    {
+      "length": 2734,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2496575
+}

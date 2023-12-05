@@ -1,0 +1,21 @@
+{
+  "_id": "84e4117e",
+  "accessions": {
+    "excluded": [
+      "D88448"
+    ],
+    "included": [
+      "NC_015220.1"
+    ]
+  },
+  "name": "Grapevine berry inner necrosis virus",
+  "schema": [
+    {
+      "length": 7241,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 81877
+}

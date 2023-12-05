@@ -1,0 +1,21 @@
+{
+  "_id": "7cddf58b",
+  "accessions": {
+    "excluded": [
+      "AJ315135"
+    ],
+    "included": [
+      "NC_006458.1"
+    ]
+  },
+  "name": "Tobacco bushy top virus satellite-like RNA",
+  "schema": [
+    {
+      "length": 781,
+      "molecule": "ssRNA+",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 298974
+}

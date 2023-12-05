@@ -1,0 +1,21 @@
+{
+  "_id": "e46d0cb0",
+  "accessions": {
+    "excluded": [
+      "V00141"
+    ],
+    "included": [
+      "NC_001497.1"
+    ]
+  },
+  "name": "Cauliflower mosaic virus",
+  "schema": [
+    {
+      "length": 8024,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 10641
+}

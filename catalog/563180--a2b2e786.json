@@ -1,0 +1,21 @@
+{
+  "_id": "a2b2e786",
+  "accessions": {
+    "excluded": [
+      "FJ177030"
+    ],
+    "included": [
+      "NC_011309.1"
+    ]
+  },
+  "name": "Jatropha yellow mosaic India virus",
+  "schema": [
+    {
+      "length": 2757,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    }
+  ],
+  "taxid": 563180
+}

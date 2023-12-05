@@ -1,0 +1,19 @@
+{
+  "_id": "f0a490c6",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "EF442668.1"
+    ]
+  },
+  "name": "Alternanthera mild mosaic virus",
+  "schema": [
+    {
+      "length": 1772,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 429130
+}

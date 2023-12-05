@@ -1,0 +1,21 @@
+{
+  "_id": "h3a3doen",
+  "accessions": {
+    "excluded": [
+      "MH551471"
+    ],
+    "included": [
+      "NC_040841.1"
+    ]
+  },
+  "name": "Pinus nigra virus 1",
+  "schema": [
+    {
+      "length": 7107,
+      "molecule": "dsDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2267679
+}

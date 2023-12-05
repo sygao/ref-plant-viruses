@@ -1,0 +1,29 @@
+{
+  "_id": "0db0ac26",
+  "accessions": {
+    "excluded": [
+      "JX971978",
+      "JX971979"
+    ],
+    "included": [
+      "NC_021096.1",
+      "NC_021097.1"
+    ]
+  },
+  "name": "Red clover cryptic virus 2",
+  "schema": [
+    {
+      "length": 2430,
+      "molecule": "dsRNA",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 2353,
+      "molecule": "dsRNA",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1323524
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "ffcdc573",
+  "accessions": {
+    "excluded": [
+      "JN848772",
+      "JQ283246"
+    ],
+    "included": [
+      "NC_022003.1",
+      "NC_022005.1"
+    ]
+  },
+  "name": "Bean chlorotic mosaic virus",
+  "schema": [
+    {
+      "length": 2597,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2566,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 1227355
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "ypy87rds",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG676465.1"
+    ]
+  },
+  "name": "Alfalfa virus F",
+  "schema": [
+    {
+      "length": 6818,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 2170538
+}

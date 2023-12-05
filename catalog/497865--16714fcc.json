@@ -1,0 +1,21 @@
+{
+  "_id": "16714fcc",
+  "accessions": {
+    "excluded": [
+      "AM933578"
+    ],
+    "included": [
+      "NC_010297.1"
+    ]
+  },
+  "name": "Cardiospermum yellow leaf curl betasatellite",
+  "schema": [
+    {
+      "length": 1338,
+      "molecule": "ssDNA",
+      "name": "Betasatellite",
+      "required": true
+    }
+  ],
+  "taxid": 497865
+}

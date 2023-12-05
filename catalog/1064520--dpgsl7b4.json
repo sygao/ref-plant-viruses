@@ -1,0 +1,30 @@
+{
+  "_id": "dpgsl7b4",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "MG938506.1",
+      "MG938507.1",
+      "MG983788.1",
+      "MG983789.1",
+      "MG983790.1",
+      "MG983791.1"
+    ]
+  },
+  "name": "Clerodendrum chlorotic spot virus",
+  "schema": [
+    {
+      "length": 6381,
+      "molecule": "ssRNA-",
+      "name": "RNA 1",
+      "required": true
+    },
+    {
+      "length": 5942,
+      "molecule": "ssRNA-",
+      "name": "RNA 2",
+      "required": true
+    }
+  ],
+  "taxid": 1064520
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "feac2c93",
+  "accessions": {
+    "excluded": [],
+    "included": [
+      "HM588723.1"
+    ]
+  },
+  "name": "Cordyline virus 1",
+  "schema": [
+    {
+      "length": 16883,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 937809
+}

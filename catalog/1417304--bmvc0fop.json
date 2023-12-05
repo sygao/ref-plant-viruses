@@ -1,0 +1,21 @@
+{
+  "_id": "bmvc0fop",
+  "accessions": {
+    "excluded": [
+      "KF421905"
+    ],
+    "included": [
+      "NC_055542.1"
+    ]
+  },
+  "name": "Ambrosia asymptomatic virus 1",
+  "schema": [
+    {
+      "length": 7408,
+      "molecule": "ssRNA+",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1417304
+}

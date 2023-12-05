@@ -1,0 +1,29 @@
+{
+  "_id": "6bb0386f",
+  "accessions": {
+    "excluded": [
+      "M88179",
+      "M88180"
+    ],
+    "included": [
+      "NC_001930.1",
+      "NC_001931.1"
+    ]
+  },
+  "name": "Bean dwarf mosaic virus",
+  "schema": [
+    {
+      "length": 2615,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2576,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 10838
+}

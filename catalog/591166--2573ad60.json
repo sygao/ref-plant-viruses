@@ -1,0 +1,24 @@
+{
+  "_id": "2573ad60",
+  "accessions": {
+    "excluded": [
+      "EF442780"
+    ],
+    "included": [
+      "KT438549.1",
+      "KT634055.1",
+      "KT852573.1",
+      "NC_011591.1"
+    ]
+  },
+  "name": "Southern tomato virus",
+  "schema": [
+    {
+      "length": 3444,
+      "molecule": "dsRNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 591166
+}

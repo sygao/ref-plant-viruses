@@ -1,0 +1,21 @@
+{
+  "_id": "a0fff57c",
+  "accessions": {
+    "excluded": [
+      "EU384658"
+    ],
+    "included": [
+      "NC_013012.1"
+    ]
+  },
+  "name": "Gossypium mustilinum symptomless alphasatellite",
+  "schema": [
+    {
+      "length": 1321,
+      "molecule": "ssDNA",
+      "name": "Satellite",
+      "required": true
+    }
+  ],
+  "taxid": 2169907
+}

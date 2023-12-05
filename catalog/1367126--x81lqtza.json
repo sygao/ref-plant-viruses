@@ -1,0 +1,21 @@
+{
+  "_id": "x81lqtza",
+  "accessions": {
+    "excluded": [
+      "KF414123"
+    ],
+    "included": [
+      "NC_038453.1"
+    ]
+  },
+  "name": "Pouzolzia mosaic Guangdong virus",
+  "schema": [
+    {
+      "length": 2739,
+      "molecule": "ssDNA",
+      "name": "Genome",
+      "required": true
+    }
+  ],
+  "taxid": 1367126
+}

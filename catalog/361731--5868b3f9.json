@@ -1,0 +1,29 @@
+{
+  "_id": "5868b3f9",
+  "accessions": {
+    "excluded": [
+      "DQ875870",
+      "DQ875871"
+    ],
+    "included": [
+      "NC_008494.1",
+      "NC_008495.1"
+    ]
+  },
+  "name": "Desmodium leaf distortion virus",
+  "schema": [
+    {
+      "length": 2569,
+      "molecule": "ssDNA",
+      "name": "DNA A",
+      "required": true
+    },
+    {
+      "length": 2514,
+      "molecule": "ssDNA",
+      "name": "DNA B",
+      "required": true
+    }
+  ],
+  "taxid": 361731
+}
