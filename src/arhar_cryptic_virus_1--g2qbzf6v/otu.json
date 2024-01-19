@@ -1,6 +1,6 @@
 {
     "_id": "g2qbzf6v",
-    "name": "Arhar cryptic virus 1",
+    "name": "Arhar cryptic virus-I",
     "abbreviation": "",
     "schema": [
         {
@@ -19,5 +19,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1585924
 }

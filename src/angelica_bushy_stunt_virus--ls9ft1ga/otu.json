@@ -1,6 +1,6 @@
 {
     "_id": "ls9ft1ga",
-    "name": "Angelica bush stunt virus",
+    "name": "Angelica bushy stunt virus",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1808970
 }
