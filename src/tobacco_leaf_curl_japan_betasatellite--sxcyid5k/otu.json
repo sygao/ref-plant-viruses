@@ -1,6 +1,6 @@
 {
     "_id": "sxcyid5k",
-    "name": "Tobacco leaf curl Japan betasatellite DNA",
+    "name": "Tobacco leaf curl Japan betasatellite",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 2010326
 }
