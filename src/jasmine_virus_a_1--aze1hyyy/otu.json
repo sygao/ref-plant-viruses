@@ -1,6 +1,6 @@
 {
     "_id": "aze1hyyy",
-    "name": "Jasmin virus A-1",
+    "name": "Jasmine virus A-1",
     "abbreviation": "",
     "schema": [
         {
@@ -14,5 +14,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 2787825
 }
