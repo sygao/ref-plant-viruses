@@ -1,6 +1,6 @@
 {
     "_id": "0174083f",
-    "name": "Dicliptera yellow mottle Cuba virus",
+    "name": "Dicliptera yellow mottle virus",
     "abbreviation": "DiYMoCuV",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 94700
 }
