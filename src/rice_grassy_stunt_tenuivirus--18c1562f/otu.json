@@ -1,7 +1,7 @@
 {
     "_id": "18c1562f",
-    "name": "Rice grassy stunt virus",
-    "abbreviation": "",
+    "name": "Rice grassy stunt tenuivirus",
+    "abbreviation": "RGSV",
     "schema": [
         {
             "name": "RNA 1",
@@ -34,5 +34,5 @@
             "required": true
         }
     ],
-    "taxid": 66266
+    "taxid": 3052762
 }

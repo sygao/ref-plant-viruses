@@ -1,6 +1,6 @@
 {
     "_id": "qwasbrzq",
-    "name": "Rubber tree capillovirus",
+    "name": "Rubber tree capillovirus 1",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": 12174
+    "taxid": 3071279
 }
