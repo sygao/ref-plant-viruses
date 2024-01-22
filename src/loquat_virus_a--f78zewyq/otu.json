@@ -1,6 +1,6 @@
 {
     "_id": "f78zewyq",
-    "name": "Loquate virus A",
+    "name": "Loquat virus A",
     "abbreviation": "LoVA",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 2683823
 }

@@ -1,6 +1,6 @@
 {
     "_id": "m36tcpvl",
-    "name": "Lettuce chorovirus 1",
+    "name": "Lettuce chordovirus 1",
     "abbreviation": "LeCV1",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 2200955
 }

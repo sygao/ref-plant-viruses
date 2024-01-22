@@ -1,6 +1,6 @@
 {
     "_id": "tfhb6u3l",
-    "name": "Lisianthus enation leaf curl virus DNA",
+    "name": "Lisianthus enation leaf curl virus",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1740165
 }
