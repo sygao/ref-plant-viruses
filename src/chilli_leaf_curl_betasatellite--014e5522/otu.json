@@ -1,6 +1,6 @@
 {
     "_id": "014e5522",
-    "name": "Chilli leaf curl betasatellite virus",
+    "name": "Chilli leaf curl betasatellite",
     "abbreviation": "ChiLCBV",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 2010286
 }

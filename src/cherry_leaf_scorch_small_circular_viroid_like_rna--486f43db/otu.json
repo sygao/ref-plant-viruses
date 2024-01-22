@@ -1,6 +1,6 @@
 {
     "_id": "486f43db",
-    "name": "Cherry leaf scorch small circular viroid-like RNA",
+    "name": "Cherry leaf scorch small circular viroid-like RNA 1",
     "abbreviation": "CLSVd",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1423421
 }

@@ -1,6 +1,6 @@
 {
     "_id": "12c636ca",
-    "name": "Citrus excortis viroid",
+    "name": "Citrus exocortis viroid",
     "abbreviation": "CEVd",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 12890
 }
