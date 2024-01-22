@@ -1,6 +1,6 @@
 {
     "_id": "7a988b5f",
-    "name": "Mexicana papita viroid",
+    "name": "Mexican papita viroid",
     "abbreviation": "MPVd",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 79450
 }

@@ -1,6 +1,6 @@
 {
     "_id": "f9122075",
-    "name": "Mungbean yellow mosaic India virus associated betasatellite",
+    "name": "Mungbean yellow mosaic India virus associated betasatellite [India: Faizabad: Cow Pea:2012]",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": 190729
+    "taxid": 1238162
 }
