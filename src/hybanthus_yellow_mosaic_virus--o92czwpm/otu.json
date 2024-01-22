@@ -1,6 +1,6 @@
 {
     "_id": "o92czwpm",
-    "name": "Hybanthus yellow mosaic",
+    "name": "Hybanthus yellow mosaic virus",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1884874
 }

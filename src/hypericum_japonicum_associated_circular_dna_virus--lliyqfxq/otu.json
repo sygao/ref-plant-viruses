@@ -1,6 +1,6 @@
 {
     "_id": "lliyqfxq",
-    "name": "Hypericum japonicum associated circular DNA",
+    "name": "Hypericum japonicum associated circular DNA virus",
     "abbreviation": "",
     "schema": [
         {
@@ -9,5 +9,5 @@
             "required": true
         }
     ],
-    "taxid": null
+    "taxid": 1367218
 }
